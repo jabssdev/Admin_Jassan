@@ -4,7 +4,7 @@
 
 <!-- Mirrored from thememakker.com/templates/lucid/html/light/ by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 01 Aug 2018 14:06:30 GMT -->
 <head>
-    <title>Administrator | SUGAR LOU</title>
+    <title>Admin Web | CIRO</title>
     <meta charset="utf-8">
     <meta name="description" content="Desarrollado por www.pyrusstudio.com - www.pyrushd.com">
     <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">

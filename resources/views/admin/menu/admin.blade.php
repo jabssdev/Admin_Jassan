@@ -209,7 +209,7 @@
             </ul>
         </li>
         <li class="{{ $activoTestimonios }}">
-            <a href="#" ><i class="icon-speech"></i> <span>Testimonios</span></a>
+            <a href="{{ route('testimonio.index') }}" ><i class="icon-speech"></i> <span>Testimonios</span></a>
             
         </li>
         <li class="{{ $activoBlogs }}">
