@@ -10,6 +10,7 @@ class Testimonio extends Model
     protected $table = 'testimonios';
 
     protected $fillable = [
+        'id',
         'autor',
         'titulo',
         'testimonio',

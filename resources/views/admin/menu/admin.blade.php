@@ -213,7 +213,7 @@
             
         </li>
         <li class="{{ $activoBlogs }}">
-            <a href="#" ><i class="fa fa-book"></i> <span>Blogs</span></a>
+            <a href="{{ route('blog.index') }}" ><i class="fa fa-book"></i> <span>Blogs</span></a>
             
         </li>
         <li class="{{ $activoActivos }}">

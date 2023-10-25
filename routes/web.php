@@ -5,6 +5,7 @@ use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\admin\AuthController;
 use App\Http\Controllers\admin\HomeController;
 use App\Http\Controllers\admin\TestimonioController;
+use App\Http\Controllers\admin\BlogController;
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -35,6 +36,15 @@ Route::group(['prefix' => 'admin'], function () {
 		Route::get('testimonio/edit/{id}', [TestimonioController::class,'edit'])->name('testimonio.edit');
 		Route::put('testimonio/update/{id}',[TestimonioController::class,'update'])->name('testimonio.update');
 		Route::get('testimonio/delete/{id}', [TestimonioController::class,'delete'])->name('testimonio.delete');
+         
+		//-----------------------------------------------------------------------------------------------//
+        //---------------------------BLOGS------------------------------------------------------//
+        Route::get('blog', [BlogController::class,'index'])->name('blog.index');
+		Route::get('blog/create',[BlogController::class,'create'])->name('blog.create');
+		Route::post('blog/store',[BlogController::class,'store'])->name('blog.store');
+		Route::get('blog/edit/{id}', [BlogController::class,'edit'])->name('blog.edit');
+		Route::put('blog/update/{id}',[BlogController::class,'update'])->name('blog.update');
+		Route::get('blog/delete/{id}', [BlogController::class,'delete'])->name('blog.delete');
          
 		//-----------------------------------------------------------------------------------------------//
 
