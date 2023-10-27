@@ -29,7 +29,7 @@
         <div class="col-lg-12">
             <div class="card">
                 <div class="header">
-                    <h2 style="width: 70%;float: left;">Testimonios </h2>
+                    <h2 style="width: 70%;float: left;">Testimonios - Aquí puedes ver tus testimonios </h2>
 
                     <a href="{{ route('testimonio.create') }}" class="btn btn-verde" style="float: right;">
                         <span> <i class="fa fa-plus-square"></i> Registrar</span></a>

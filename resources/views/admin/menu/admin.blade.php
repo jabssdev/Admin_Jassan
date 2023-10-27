@@ -200,7 +200,7 @@
             <a href="#" ><i class="icon-settings"></i> <span>Configuración</span></a>
             <ul>
                 <li>
-                <li><a href="">Información general </a></li>
+                <li><a href="{{ route('configuracion.index') }}">Información general </a></li>
                 <li><a href="">Google tags / Facebook Pixel </a></li>
                 <li><a href="">Videos de youtube </a></li>
                 <li><a href="">Logo / Favicon </a></li>

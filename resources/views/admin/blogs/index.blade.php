@@ -29,7 +29,7 @@
         <div class="col-lg-12">
             <div class="card">
                 <div class="header">
-                    <h2 style="width: 70%;float: left;">Blogs </h2>
+                    <h2 style="width: 70%;float: left;">Blogs - Aquí puedes ver tus blogs </h2>
 
                     <a href="{{ route('blog.create') }}" class="btn btn-verde" style="float: right;">
                         <span> <i class="fa fa-plus-square"></i> Registrar</span></a>
