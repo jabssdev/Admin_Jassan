@@ -197,16 +197,8 @@
             </ul>
         </li>
         <li class="{{ $activoConfiguracion }}">
-            <a href="#" ><i class="icon-settings"></i> <span>Configuración</span></a>
-            <ul>
-                <li>
-                <li><a href="{{ route('configuracion.index') }}">Información general </a></li>
-                <li><a href="">Google tags / Facebook Pixel </a></li>
-                <li><a href="">Videos de youtube </a></li>
-                <li><a href="">Logo / Favicon </a></li>
-                <li><a href="">Página web </a></li>
-                </li>
-            </ul>
+            <a href="{{ route('configuracion.index') }}" ><i class="icon-settings"></i> <span>Configuración</span></a>
+            
         </li>
         <li class="{{ $activoTestimonios }}">
             <a href="{{ route('testimonio.index') }}" ><i class="icon-speech"></i> <span>Testimonios</span></a>
