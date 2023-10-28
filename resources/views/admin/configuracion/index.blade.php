@@ -170,7 +170,7 @@
                                                     <!-- Filas se agregarán aquí dinámicamente -->
                                                 </tbody>
                                             </table>
-                                            <input type="hidden" name="datosTabla" id="datosTabla" value="[]">
+                                            <input type="hidden" name="datosTabla" id="datosTabla" value="{{$detalle_google}}">
                                         </div>
                                     </div>
                                 </div>

@@ -172,17 +172,8 @@
             }
         @endphp
         <li class="{{ $activoPerfil }}">
-            <a href="#" ><i class="icon-user"></i> <span>Perfil</span></a>
-            <ul>
-                <li>
-                <li><a href="">Información personal </a></li>
-                <li><a href="">Redes sociales </a></li>
-                <li><a href="">Información adicional </a></li>
-                <li><a href="">Seguridad </a></li>
-                <li><a href="">Fotografías de perfil </a></li>
-                <li><a href="">Videos de perfil </a></li>
-                </li>
-            </ul>
+            <a href="{{ route('perfil.index') }}" ><i class="icon-user"></i> <span>Perfil</span></a>
+            
         </li>
         <li class="{{ $activoTema }}">
             <a href="#" ><i class="fa fa-tint"></i> <span>Tema</span></a>

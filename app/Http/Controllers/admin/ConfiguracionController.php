@@ -16,10 +16,11 @@ class ConfiguracionController extends Controller
     public function index(){
         $con_informacion=Con_Informacion::find(1);
         $con_google=Con_Google::find(1);
+        $detalle_google=Detalle_Con_Google::where('id_con_google',1)->get();
         $con_video=Con_Video::find(1);
         $con_logo=Con_Logo::find(1);
         $con_pagina=Con_Pagina::find(1);
-        return view('admin.configuracion.index')->with(compact('con_informacion','con_google','con_video','con_logo','con_pagina'));
+        return view('admin.configuracion.index')->with(compact('con_informacion','con_google','detalle_google','con_video','con_logo','con_pagina'));
     }
 
     public function store(Request $request){
@@ -99,13 +100,10 @@ class ConfiguracionController extends Controller
             //---------------------------------------------------------------//
             $con_logo=Con_Logo::where('id',1)->first();
             if(isset($con_logo)){
-                $pathToYourFile1 = public_path().'/img_configuracion/'.$con_logo->logo;
-                $pathToYourFile2 = public_path().'/img_configuracion/'.$con_logo->favicon;
+                
                 if ($request->file('logo')) {
 
-                    if(file_exists($pathToYourFile1)) { 
-                        unlink($pathToYourFile1);  
-                    } 
+                    
     
                     $file = $request->file('logo');
                     $name = 'configuracion_logo_' . time() . '.' . $file->getClientOriginalExtension();
@@ -116,9 +114,7 @@ class ConfiguracionController extends Controller
                 }
                 if ($request->file('favicon')) {
 
-                    if(file_exists($pathToYourFile2)) { 
-                        unlink($pathToYourFile2);  
-                    } 
+                    
     
                     $file = $request->file('favicon');
                     $name = 'configuracion_favicon_' . time() . '.' . $file->getClientOriginalExtension();
@@ -161,15 +157,10 @@ class ConfiguracionController extends Controller
                 $con_pagina->titulo_asivendo=$request->titulo_asivendo;
                 $con_pagina->beneficio=$request->beneficio;
                 $con_pagina->formulario=$request->formulario;
-                $pathToYourFileP1 = public_path().'/img_configuracion/'.$con_pagina->imagen_comparto;
-                $pathToYourFileP2 = public_path().'/img_configuracion/'.$con_pagina->imagen_quien;
-                $pathToYourFileP3 = public_path().'/img_configuracion/'.$con_pagina->imagen_formulario;
+                
 
                 if ($request->file('imagen_comparto')) {
 
-                    if(file_exists($pathToYourFileP1)) { 
-                        unlink($pathToYourFileP1);  
-                    } 
     
                     $file = $request->file('imagen_comparto');
                     $name = 'configuracion_imagen_comparto_' . time() . '.' . $file->getClientOriginalExtension();
@@ -180,9 +171,7 @@ class ConfiguracionController extends Controller
                 }
                 if ($request->file('imagen_quien')) {
 
-                    if(file_exists($pathToYourFile1)) { 
-                        unlink($pathToYourFile1);  
-                    } 
+                    
     
                     $file = $request->file('imagen_quien');
                     $name = 'configuracion_imagen_quien_' . time() . '.' . $file->getClientOriginalExtension();
@@ -193,9 +182,7 @@ class ConfiguracionController extends Controller
                 }
                 if ($request->file('imagen_formulario')) {
 
-                    if(file_exists($pathToYourFile1)) { 
-                        unlink($pathToYourFile1);  
-                    } 
+                    
     
                     $file = $request->file('imagen_formulario');
                     $name = 'configuracion_imagen_formulario_' . time() . '.' . $file->getClientOriginalExtension();

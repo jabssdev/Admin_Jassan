@@ -7,6 +7,7 @@ use App\Http\Controllers\admin\HomeController;
 use App\Http\Controllers\admin\TestimonioController;
 use App\Http\Controllers\admin\BlogController;
 use App\Http\Controllers\admin\ConfiguracionController;
+use App\Http\Controllers\admin\PerfilController;
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -51,6 +52,12 @@ Route::group(['prefix' => 'admin'], function () {
 		//---------------------------CONFIGURACIÓN------------------------------------------------------//
         Route::get('configuracion', [ConfiguracionController::class,'index'])->name('configuracion.index');
 		Route::post('configuracion/store',[ConfiguracionController::class,'store'])->name('configuracion.store');
+         
+		//-----------------------------------------------------------------------------------------------//
+		//---------------------------PERFIL------------------------------------------------------//
+        Route::get('perfil', [PerfilController::class,'index'])->name('perfil.index');
+		Route::post('perfil/store',[PerfilController::class,'store'])->name('perfil.store');
+		
          
 		//-----------------------------------------------------------------------------------------------//
 
