@@ -27,7 +27,7 @@
         <div class="col-lg-12">
             <div class="card">
                 <div class="header">
-                    <h2 style="width: 70%;float: left;">Propiedades </h2>
+                    <h2 style="width: 70%;float: left;">Propiedades Activos</h2>
 
                     <a href="{{ route('propiedades.create') }}" class="btn btn-verde" style="float: right;">
                         <span> <i class="fa fa-plus-square"></i> Registrar</span></a>
@@ -45,30 +45,68 @@
                         <table id="only-bodytable" class="table table-striped">
                             <thead>
                                 <tr>
-                                <th>Movie Title</th>
-                                <th>Genre</th>
-                                <th>Year</th>
-                                <th>Gross</th>
+                                <th>Nombre</th>
+                                <th>T.Propiedad</th>
+                                <th>T.Operación</th>
+                                <th>Acciones</th>
                                 </tr>
                             </thead>
-                            <tr>
-                                <td>Star Wars</td>
-                                <td>Adventure, Sci-fi</td>
-                                <td>1977</td>
-                                <td>$460,935,665</td>
-                            </tr>
-                            <tr>
-                                <td>Howard The Duck</td>
-                                <td>"Comedy"</td>
-                                <td>1986</td>
-                                <td>$16,295,774</td>
-                            </tr>
-                            <tr>
-                                <td>American Graffiti</td>
-                                <td>Comedy, Drama</td>
-                                <td>1973</td>
-                                <td>$115,000,000</td>
-                            </tr>
+                            @foreach ($propiedades as $item )
+                                @if ($item->destacado=='SI')
+                                    <tr style="background-color:#50d38a">
+                                        <td>{{$item->nombre}}</td>
+                                        <td>{{$item->tipo_casa}}</td>
+                                        <td>{{$item->tipo_operacion}}</td>
+                                        <td>
+                                            <a href="{{route('propiedades.edit',$item->id)}}" class="btn btn-info"
+                                            title="Editar">
+                                                <i class="fa fa-edit"></i>
+                                            </a>&nbsp;
+                                            <a href="{{route('propiedades.delete', $item->id)}}" class="btn btn-danger js-sweetalert button"
+                                            data-id="{{ $item->id }}"
+                                            title="Eliminar">
+                                                <i class="fa fa-trash-o"></i>
+                                            </a>&nbsp;
+                                            <a href="{{route('propiedades.replegar',$item->id)}}" class="btn btn-primary"
+                                            title="Replegar">
+                                                <i class="fa fa-bookmark"></i>
+                                            </a>&nbsp;
+                                            <a href="{{route('propiedades.completar',$item->id)}}" class="btn btn-success"
+                                            title="Completar">
+                                                <i class="fa fa-check"></i>
+                                            </a>
+                                        </td>
+                                    </tr>
+                                @else
+                                    <tr>
+                                        <td>{{$item->nombre}}</td>
+                                        <td>{{$item->tipo_casa}}</td>
+                                        <td>{{$item->tipo_operacion}}</td>
+                                        <td>
+                                            <a href="{{route('propiedades.edit',$item->id)}}" class="btn btn-info"
+                                            title="Editar">
+                                                <i class="fa fa-edit"></i>
+                                            </a>&nbsp;
+                                            <a href="{{route('propiedades.delete', $item->id)}}" class="btn btn-danger js-sweetalert button"
+                                            data-id="{{ $item->id }}"
+                                            title="Eliminar">
+                                                <i class="fa fa-trash-o"></i>
+                                            </a>&nbsp;
+                                            <a href="{{route('propiedades.destacar',$item->id)}}" class="btn btn-primary"
+                                            title="Destacar">
+                                                <i class="fa fa-bookmark"></i>
+                                            </a>&nbsp;
+                                            <a href="{{route('propiedades.completar',$item->id)}}" class="btn btn-success"
+                                            title="Completar">
+                                                <i class="fa fa-check"></i>
+                                            </a>
+                                        </td>
+                                    </tr>
+                                @endif
+                                
+                            @endforeach
+                            
+                            
                         </table>
                     </div>
                 </div>

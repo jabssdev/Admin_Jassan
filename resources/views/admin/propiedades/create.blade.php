@@ -77,7 +77,7 @@
             </div>
         </div>
     </div>
-    <form action="{{ route('perfil.store') }}" method="POST" enctype="multipart/form-data">
+    <form action="{{ route('propiedades.store') }}" method="POST" enctype="multipart/form-data">
         {{ csrf_field() }}
         <div class="row clearfix">
             <div class="col-lg-12">

@@ -62,12 +62,16 @@ Route::group(['prefix' => 'admin'], function () {
 		//-----------------------------------------------------------------------------------------------//
 		//---------------------------PROPIEDADES------------------------------------------------------//
         Route::get('propiedades', [PropiedadController::class,'activos'])->name('activos.index');
+		Route::get('completados', [PropiedadController::class,'completados'])->name('completados.index');
 		Route::get('propiedades/create',[PropiedadController::class,'create'])->name('propiedades.create');
 		Route::post('propiedades/store',[PropiedadController::class,'store'])->name('propiedades.store');
 		Route::get('propiedades/edit/{id}', [PropiedadController::class,'edit'])->name('propiedades.edit');
 		Route::put('propiedades/update/{id}',[PropiedadController::class,'update'])->name('propiedades.update');
 		Route::get('propiedades/delete/{id}', [PropiedadController::class,'delete'])->name('propiedades.delete');
-         
+		Route::get('propiedades/destacar/{id}', [PropiedadController::class,'destacar'])->name('propiedades.destacar');
+		Route::get('propiedades/replegar/{id}', [PropiedadController::class,'replegar'])->name('propiedades.replegar');
+		Route::get('propiedades/completar/{id}', [PropiedadController::class,'completar'])->name('propiedades.completar');
+		Route::get('propiedades/activar/{id}', [PropiedadController::class,'activar'])->name('propiedades.activar');
 		//-----------------------------------------------------------------------------------------------//
     });
 });

@@ -19,7 +19,7 @@ class Propiedad extends Model
         'habitaciones',
         'cocheras',
         'banios',
-        'banios_visista',
+        'banios_visita',
         'area_terreno',
         'area_construido',
         'area_ocupado',
@@ -42,6 +42,8 @@ class Propiedad extends Model
         'frente',
         'lat_derecho',
         'lat_izquierdo',
-        'fondo'
+        'fondo',
+        'estado',
+        'destacado'
     ];
 }

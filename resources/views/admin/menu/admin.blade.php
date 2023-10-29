@@ -12,7 +12,7 @@
             $h = stripos($x, $g);
             $i = 'blogs';
             $j = stripos($x, $i);
-            $k = 'activos';
+            $k = 'propiedades';
             $l = stripos($x, $k);
             $m = 'completados';
             $n = stripos($x, $m);  
@@ -204,7 +204,7 @@
             
         </li>
         <li class="{{ $activoCompletados }}">
-            <a href="#" ><i class="icon-home"></i> <span>Prop. Completados</span></a>
+            <a href="{{ route('completados.index') }}" ><i class="icon-home"></i> <span>Prop. Completados</span></a>
             
         </li>
         
