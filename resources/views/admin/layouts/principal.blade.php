@@ -104,6 +104,14 @@
                 }
             }
         });
+        $('#only-bodytable').DataTable({
+            language: {
+                paginate: {
+                    next: 'Siguiente',
+                    previous: 'Anterior'
+                }
+            }
+        });
         $("#botonmenu").click();
         $("#otroboton").removeClass("fa fa-arrow-right");
         $("#otroboton").addClass("fa fa-arrow-left");

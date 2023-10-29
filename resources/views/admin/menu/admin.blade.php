@@ -200,7 +200,7 @@
             
         </li>
         <li class="{{ $activoActivos }}">
-            <a href="#" ><i class="icon-home"></i> <span>Prop. Activos</span></a>
+            <a href="{{ route('activos.index') }}" ><i class="icon-home"></i> <span>Prop. Activos</span></a>
             
         </li>
         <li class="{{ $activoCompletados }}">

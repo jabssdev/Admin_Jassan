@@ -43,7 +43,7 @@
                 @if (session('error'))
                         <div class="alert alert-danger">{{ session('error') }}</div>
                 @endif
-                    <div class="table-responsive">
+                    <div class="table-responsive" style="padding-top:20px;">
                         <table id="basic-datatable" class="table table-striped  nowrap">
                             <thead>
                             <tr>

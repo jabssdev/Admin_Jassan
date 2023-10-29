@@ -8,6 +8,7 @@ use App\Http\Controllers\admin\TestimonioController;
 use App\Http\Controllers\admin\BlogController;
 use App\Http\Controllers\admin\ConfiguracionController;
 use App\Http\Controllers\admin\PerfilController;
+use App\Http\Controllers\admin\PropiedadController;
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -58,8 +59,15 @@ Route::group(['prefix' => 'admin'], function () {
         Route::get('perfil', [PerfilController::class,'index'])->name('perfil.index');
 		Route::post('perfil/store',[PerfilController::class,'store'])->name('perfil.store');
 		
+		//-----------------------------------------------------------------------------------------------//
+		//---------------------------PROPIEDADES------------------------------------------------------//
+        Route::get('propiedades', [PropiedadController::class,'activos'])->name('activos.index');
+		Route::get('propiedades/create',[PropiedadController::class,'create'])->name('propiedades.create');
+		Route::post('propiedades/store',[PropiedadController::class,'store'])->name('propiedades.store');
+		Route::get('propiedades/edit/{id}', [PropiedadController::class,'edit'])->name('propiedades.edit');
+		Route::put('propiedades/update/{id}',[PropiedadController::class,'update'])->name('propiedades.update');
+		Route::get('propiedades/delete/{id}', [PropiedadController::class,'delete'])->name('propiedades.delete');
          
 		//-----------------------------------------------------------------------------------------------//
-
     });
 });
