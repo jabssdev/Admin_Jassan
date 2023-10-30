@@ -9,6 +9,9 @@ use App\Http\Controllers\admin\BlogController;
 use App\Http\Controllers\admin\ConfiguracionController;
 use App\Http\Controllers\admin\PerfilController;
 use App\Http\Controllers\admin\PropiedadController;
+use App\Http\Controllers\admin\PrevisualizarController;
+//WEB
+use App\Http\Controllers\web\WebController;
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -19,10 +22,8 @@ use App\Http\Controllers\admin\PropiedadController;
 | contains the "web" middleware group. Now create something great!
 |
 */
+Route::get('/', [WebController::class,'index'])->name('web.index');
 
-Route::get('/', function () {
-    return view('welcome');
-});
 
 Route::get('/administrador', [AuthController::class,'showLoginForm'])->name('admin.login.get');
 Route::post('/login', [AuthController::class,'login'])->name('admin.login');
@@ -72,6 +73,10 @@ Route::group(['prefix' => 'admin'], function () {
 		Route::get('propiedades/replegar/{id}', [PropiedadController::class,'replegar'])->name('propiedades.replegar');
 		Route::get('propiedades/completar/{id}', [PropiedadController::class,'completar'])->name('propiedades.completar');
 		Route::get('propiedades/activar/{id}', [PropiedadController::class,'activar'])->name('propiedades.activar');
+		//-----------------------------------------------------------------------------------------------//
+		//---------------------------Previsualizar------------------------------------------------------//
+        Route::get('pervisualizar', [PrevisualizarController::class,'index'])->name('previsualizar.index');
+		
 		//-----------------------------------------------------------------------------------------------//
     });
 });

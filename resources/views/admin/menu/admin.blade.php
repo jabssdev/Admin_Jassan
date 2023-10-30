@@ -177,15 +177,7 @@
         </li>
         <li class="{{ $activoTema }}">
             <a href="#" ><i class="fa fa-tint"></i> <span>Tema</span></a>
-            <ul>
-                <li>
-                <li><a href="">Módulos página principal </a></li>
-                <li><a href="">Módulos detalle de propiedad </a></li>
-                <li><a href="">Configuración general </a></li>
-                <li><a href="">Color barra superior </a></li>
-                <li><a href="">Color sección derechos reservados </a></li>
-                </li>
-            </ul>
+           
         </li>
         <li class="{{ $activoConfiguracion }}">
             <a href="{{ route('configuracion.index') }}" ><i class="icon-settings"></i> <span>Configuración</span></a>
@@ -209,11 +201,11 @@
         </li>
         
         <li class="{{ $activoPrevisualizar }}">
-            <a href="#" ><i class="icon-share-alt"></i> <span>Previsualizar web</span></a>
+            <a href="{{ route('previsualizar.index') }}" ><i class="icon-share-alt"></i> <span>Previsualizar web</span></a>
             
         </li>
         <li class="{{ $activoIr }}">
-            <a href="#" ><i class="icon-share-alt"></i> <span>Ir a web</span></a>
+            <a href="{{ route('web.index') }}" ><i class="icon-share-alt"></i> <span>Ir a web</span></a>
             
         </li>
         
