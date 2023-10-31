@@ -1285,30 +1285,64 @@
                                 
                                 <div class="form-group">
                                     <div class="row clearfix" >
-                                        @for ($i = 1; $i <= 11; $i++)
-                                            <div class="col-md-6" >
-                                                <div class="input-group">
+                                        
+                                        @foreach ($fotos as $foto)
+                                        <div class="col-md-6" >
+                                            <div class="input-group">
+                                                
+                                                <input type="file" name="imagen"  class="dropify"  data-allowed-file-extensions='jpg png' data-default-file="{{ asset( 'img_perfil/'.$foto->foto ) }}" disabled>
+                                                <label class="fancy-radio custom-color-green" style="margin-top:20px;"><input id="portada_foto" onclick="Portada({{ $foto->id }})" name="portada" type="radio"  {{ $foto->portada == 'SI' ? 'checked' : '' }}><span><i></i>Imagen de portada</span></label>
+                                                
+                                                
+                                            </div>
+                                            <div class="file-info row" style="border: 2px dotted #50d38a; width:80%;margin:10px; border-radius:10px; padding:5px;">
+                                                <div class="col"><p >{{$foto->foto}}</p></div>
+                                                <div class="col-3">
+                                                    
+                                                    <p >
                                                     @php
-                                                        $nombreImagen = "imagen" . $i;
+                                                        $bytes = filesize(public_path('img_perfil/' . $foto->foto));
 
+                                                        if ($bytes >= 1073741824) {
+                                                            $bytes = number_format($bytes / 1073741824, 2) . ' GB';
+                                                        } elseif ($bytes >= 1048576) {
+                                                            $bytes = number_format($bytes / 1048576, 2) . ' MB';
+                                                        } elseif ($bytes >= 1024) {
+                                                            $bytes = number_format($bytes / 1024, 2) . ' KB';
+                                                        } elseif ($bytes > 1) {
+                                                            $bytes = $bytes . ' bytes';
+                                                        } elseif ($bytes == 1) {
+                                                            $bytes = $bytes . ' byte';
+                                                        } else {
+                                                            $bytes = '0 bytes';
+                                                        }
+
+                                                        echo $bytes;
                                                     @endphp
-                                                    <input type="file" name="imagen{{$i}}"  class="dropify"  data-allowed-file-extensions='jpg png' data-default-file="{{ asset( 'img_perfil/'.$per_foto->$nombreImagen ) }}">
-                                                    <label class="fancy-radio custom-color-green" style="margin-top:20px;"><input name="portada" value="imagen{{$i}}" type="radio" ><span><i></i>Imagen de portada</span></label>
-                                                    
-                                                    
+                                                    </p>
                                                 </div>
-                                                <div class="file-info row" style="display:none; border: 2px dotted #50d38a; width:80%;margin:10px; border-radius:10px; padding:5px;">
-                                                    <div class="col"><p class="file-name"></p></div>
-                                                    <div class="col-3"><p class="file-size"></p></div>
-                                                    <div class="col-1"><a class="file-download" href="#" download><i class="fa fa-download" style="color:#50d38a;"></i></a></div>
-                                                    
-                                                </div>
+                                                <div class="col-1"><a class="file-download" href="{{ asset('./img_perfil/' . $foto->foto) }}" download><i class="fa fa-download" style="color: #50d38a;"></i></a></div>
+                                                <div class="col-1"><a href="javascript:void(0);" onclick="EliminarFoto({{ $foto->id }})"><i class="fa fa-times-circle" style="color: #50d38a;"></i></a></div>
+                                                
+                                            </div>
+                                        </div>
+                                        @endforeach
+                                        
+                                            
+                                    </div>
+                                    <div class="row clearfix" style="margin-top:30px;" align="right">
+                                        <div class="col-md-11"></div>
+                                        <div class="col-md-1" >
+
+                                            <div class="input-group">
+                                                <input type="file" class="hidden" name="foto" id="prueba_foto" data-allowed-file-extensions='jpg png'>
+                                                <label for="prueba_foto" class="btn btn-primary" style="border-radius:50%;">
+                                                    <i class="fa fa-plus"></i> 
+                                                </label>
                                             </div>
                                             
-                                                
-                                            
-                                        @endfor    
-                                        
+                                        </div>
+                                             
                                     </div>
                                     
                                 </div>
@@ -1333,29 +1367,66 @@
                                     <br>
                                 *Dimensión recomendada es de 1280px × 720px
                                 <div class="form-group">
-                                    <div class="row clearfix" style="margin-top:20px;">
-                                        @for ($i = 1; $i <= 11; $i++)
-                                            <div class="col-md-6 " style="padding:10px;">
-                                                <div class="input-group">
+                                    <div class="row clearfix"  style="margin-top:20px;">
+                                    @foreach ($videos as $video )
+                                        <div class="col-md-6" >
+                                            <div class="input-group">
+                                                
+                                                <video src="{{asset('./img_perfil/'.$video->video)}}" width="170" height="130" ></video>
+                                                
+                                            </div>
+                                            <div class="file-info row" style="border: 2px dotted #50d38a; width:80%;margin:10px; border-radius:10px; padding:5px;">
+                                                <div class="col"><p >{{$video->video}}</p></div>
+                                                <div class="col-3">
+                                                    
+                                                    <p >
                                                     @php
-                                                        $nombreVideo = "video" . $i;
+                                                        $bytes = filesize(public_path('img_perfil/' . $video->video));
 
+                                                        if ($bytes >= 1073741824) {
+                                                            $bytes = number_format($bytes / 1073741824, 2) . ' GB';
+                                                        } elseif ($bytes >= 1048576) {
+                                                            $bytes = number_format($bytes / 1048576, 2) . ' MB';
+                                                        } elseif ($bytes >= 1024) {
+                                                            $bytes = number_format($bytes / 1024, 2) . ' KB';
+                                                        } elseif ($bytes > 1) {
+                                                            $bytes = $bytes . ' bytes';
+                                                        } elseif ($bytes == 1) {
+                                                            $bytes = $bytes . ' byte';
+                                                        } else {
+                                                            $bytes = '0 bytes';
+                                                        }
+
+                                                        echo $bytes;
                                                     @endphp
-                                                    <input type="file" name="video{{$i}}"  class="dropify"  data-allowed-file-extensions='mp4' data-default-file="{{ asset( 'img_perfil/'.$per_video->$nombreVideo ) }}">
-                                                    
+                                                    </p>
                                                 </div>
-                                                <div class="file-info row" style="display:none; border: 2px dotted #50d38a; width:80%;margin:10px; border-radius:10px; padding:5px;">
-                                                    <div class="col"><p class="file-name"></p></div>
-                                                    <div class="col-3"><p class="file-size"></p></div>
-                                                    <div class="col-1"><a class="file-download" href="#" download><i class="fa fa-download" style="color:#50d38a;"></i></a></div>
-                                                    
-                                                </div>
+                                                <div class="col-1"><a class="file-download" href="{{ asset('./img_perfil/' . $video->video) }}" download><i class="fa fa-download" style="color: #50d38a;"></i></a></div>
+                                                <div class="col-1"><a href="javascript:void(0);" onclick="EliminarVideo({{ $video->id }})"><i class="fa fa-times-circle" style="color: #50d38a;"></i></a></div>
+                                                
+                                            </div>
+                                        </div>
+                                    @endforeach
+                                        
+                                        
+                                          
+                                    </div>
+                                    <div class="row clearfix" style="margin-top:30px;" align="right">
+                                        <div class="col-md-11"></div>
+                                        <div class="col-md-1" >
+
+                                            <div class="input-group">
+                                                <input type="file" class="hidden" name="video" id="prueba_video" data-allowed-file-extensions='video/mp4'>
+                                                <label for="prueba_video" class="btn btn-primary" style="border-radius:50%;">
+                                                    <i class="fa fa-plus"></i> 
+                                                </label>
                                             </div>
                                             
-                                        @endfor    
-                                        
+                                            
+                                        </div>
+                                            
+                                             
                                     </div>
-                                    
                                 </div>
                                 
                             </div>
@@ -1375,9 +1446,13 @@
     </form>
 @endsection
 @section('scripts')
+
 <script src="{{asset('admin/vendor/dropify/js/dropify.min.js')}}"></script>
 <script src="{{asset('admin/js/pages/forms/dropify.js')}}"></script>
+<script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+
 <script>
+    
     $(document).ready(function() {
         $('.accordion-header').click(function() {
             $(this).next('.accordion-content').slideToggle();
@@ -1408,31 +1483,102 @@
             togglePasswordButton2.innerHTML = '<i class="fa fa-eye" style="color:#fff;">';
         }
     });
-    $(document).ready(function() {
-        $('input[type="file"]').change(function() {
-            var fileInput = $(this);
-            var fileInfo = fileInput.closest('.col-md-6').find('.file-info');
-            var fileName = fileInfo.find('.file-name');
-            var fileSize = fileInfo.find('.file-size');
-            var fileDownload = fileInfo.find('.file-download');
-            
-            if (this.files.length > 0) {
-                var file = this.files[0];
-                fileName.text(file.name+':');
-                fileSize.text(formatFileSize(file.size));
-                fileInfo.show();
-                fileDownload.attr('href', URL.createObjectURL(file));
-            } else {
-                fileInfo.hide();
-            }
-        });
+    
+    
+       
+        document.getElementById('prueba_foto').addEventListener('change', function () {
+            var foto = document.getElementById('prueba_foto').files[0];
+            console.log(foto);
+            if (foto) {
+                var formData = new FormData();
+                formData.append('foto', foto);
 
-        function formatFileSize(bytes) {
-            var sizes = ['Bytes', 'KB', 'MB', 'GB', 'TB'];
-            if (bytes == 0) return '0 Byte';
-            var i = parseInt(Math.floor(Math.log(bytes) / Math.log(1024)));
-            return Math.round(bytes / Math.pow(1024, i), 2) + ' ' + sizes[i];
+                axios.post('{{ route("perfil.foto") }}', formData, {
+                    headers: {
+                        'Content-Type': 'multipart/form-data',
+                        'X-CSRF-TOKEN': document.querySelector('meta[name="csrf-token"]').getAttribute('content')
+                    }
+                })
+                .then(response => {
+                    
+                    location.reload();
+                })
+                .catch(error => {
+                    console.error(error);
+                });
+            }
+            
+        });
+        function EliminarFoto(id){
+            console.log(id);
+            if (id) {
+                
+                axios.post('{{ route("perfil-foto.delete") }}', { id: id })
+                .then(response => {
+                    location.reload();
+                    
+                })
+                .catch(error => {
+                    console.error(error);
+                });
+            }
+            
         }
-    });
+        document.getElementById('prueba_video').addEventListener('change', function () {
+            var video = document.getElementById('prueba_video').files[0];
+
+            if (video) {
+                var formData = new FormData();
+                formData.append('video', video);
+
+                axios.post('{{ route("perfil.video") }}', formData, {
+                    headers: {
+                        'Content-Type': 'multipart/form-data',
+                        'X-CSRF-TOKEN': document.querySelector('meta[name="csrf-token"]').getAttribute('content')
+                    }
+                })
+                .then(response => {
+                    
+                    location.reload();
+                })
+                .catch(error => {
+                    console.error(error);
+                });
+            }
+            
+        });
+        function EliminarVideo(id){
+            console.log(id);
+            if (id) {
+                
+                axios.post('{{ route("perfil-video.delete") }}', { id: id })
+                .then(response => {
+                    location.reload();
+                    
+                })
+                .catch(error => {
+                    console.error(error);
+                });
+            }
+            
+        }
+        function Portada(id){
+            if (id) {
+                
+                axios.post('{{ route("perfil-foto.portada") }}', { id: id })
+                .then(response => {
+                    location.reload();
+                    
+                })
+                .catch(error => {
+                    console.error(error);
+                });
+            }
+            
+            
+            
+        }
+
+        
 </script>    
 @endsection

@@ -46,26 +46,26 @@ Será un placer atenderte." />
   <meta property="og:locale" content="es" />
   <meta property="og:site_name" content="undefined" />
   <link rel="preload" as="image"
-    imagesrcset="{{asset('web/plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Fweb-agent%2Ffiles%2Fjassan_mejor_agente_inmobiliario.jpg&amp;w=640&amp;q=100 640w, /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Fweb-agent%2Ffiles%2Fjassan_mejor_agente_inmobiliario.jpg&amp;w=750&amp;q=100 750w, /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Fweb-agent%2Ffiles%2Fjassan_mejor_agente_inmobiliario.jpg&amp;w=828&amp;q=100 828w, /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Fweb-agent%2Ffiles%2Fjassan_mejor_agente_inmobiliario.jpg&amp;w=1080&amp;q=100 1080w, /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Fweb-agent%2Ffiles%2Fjassan_mejor_agente_inmobiliario.jpg&amp;w=1200&amp;q=100 1200w, /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Fweb-agent%2Ffiles%2Fjassan_mejor_agente_inmobiliario.jpg&amp;w=1920&amp;q=100 1920w, /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Fweb-agent%2Ffiles%2Fjassan_mejor_agente_inmobiliario.jpg&amp;w=2048&amp;q=100 2048w, /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Fweb-agent%2Ffiles%2Fjassan_mejor_agente_inmobiliario.jpg&amp;w=3840&amp;q=100 3840w')}}"
+    imagesrcset="{{asset('web/_next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Fweb-agent%2Ffiles%2Fjassan_mejor_agente_inmobiliario.jpg&amp;w=640&amp;q=100 640w, /_next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Fweb-agent%2Ffiles%2Fjassan_mejor_agente_inmobiliario.jpg&amp;w=750&amp;q=100 750w, /_next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Fweb-agent%2Ffiles%2Fjassan_mejor_agente_inmobiliario.jpg&amp;w=828&amp;q=100 828w, /_next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Fweb-agent%2Ffiles%2Fjassan_mejor_agente_inmobiliario.jpg&amp;w=1080&amp;q=100 1080w, /_next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Fweb-agent%2Ffiles%2Fjassan_mejor_agente_inmobiliario.jpg&amp;w=1200&amp;q=100 1200w, /_next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Fweb-agent%2Ffiles%2Fjassan_mejor_agente_inmobiliario.jpg&amp;w=1920&amp;q=100 1920w, /_next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Fweb-agent%2Ffiles%2Fjassan_mejor_agente_inmobiliario.jpg&amp;w=2048&amp;q=100 2048w, /_next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Fweb-agent%2Ffiles%2Fjassan_mejor_agente_inmobiliario.jpg&amp;w=3840&amp;q=100 3840w')}}"
     imagesizes="100vw" />
   <link rel="preload" as="image"
-    imagesrcset="{{asset('web/plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Fweb-agent%2Ffiles%2Fjassan_mejor_agente_inmobiliario.jpg&amp;w=256&amp;q=100 256w, /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Fweb-agent%2Ffiles%2Fjassan_mejor_agente_inmobiliario.jpg&amp;w=384&amp;q=100 384w, /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Fweb-agent%2Ffiles%2Fjassan_mejor_agente_inmobiliario.jpg&amp;w=640&amp;q=100 640w, /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Fweb-agent%2Ffiles%2Fjassan_mejor_agente_inmobiliario.jpg&amp;w=750&amp;q=100 750w, /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Fweb-agent%2Ffiles%2Fjassan_mejor_agente_inmobiliario.jpg&amp;w=828&amp;q=100 828w, /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Fweb-agent%2Ffiles%2Fjassan_mejor_agente_inmobiliario.jpg&amp;w=1080&amp;q=100 1080w, /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Fweb-agent%2Ffiles%2Fjassan_mejor_agente_inmobiliario.jpg&amp;w=1200&amp;q=100 1200w, /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Fweb-agent%2Ffiles%2Fjassan_mejor_agente_inmobiliario.jpg&amp;w=1920&amp;q=100 1920w, /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Fweb-agent%2Ffiles%2Fjassan_mejor_agente_inmobiliario.jpg&amp;w=2048&amp;q=100 2048w, /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Fweb-agent%2Ffiles%2Fjassan_mejor_agente_inmobiliario.jpg&amp;w=3840&amp;q=100 3840w')}}"
+    imagesrcset="{{asset('web/_next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Fweb-agent%2Ffiles%2Fjassan_mejor_agente_inmobiliario.jpg&amp;w=256&amp;q=100 256w, /_next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Fweb-agent%2Ffiles%2Fjassan_mejor_agente_inmobiliario.jpg&amp;w=384&amp;q=100 384w, /_next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Fweb-agent%2Ffiles%2Fjassan_mejor_agente_inmobiliario.jpg&amp;w=640&amp;q=100 640w, /_next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Fweb-agent%2Ffiles%2Fjassan_mejor_agente_inmobiliario.jpg&amp;w=750&amp;q=100 750w, /_next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Fweb-agent%2Ffiles%2Fjassan_mejor_agente_inmobiliario.jpg&amp;w=828&amp;q=100 828w, /_next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Fweb-agent%2Ffiles%2Fjassan_mejor_agente_inmobiliario.jpg&amp;w=1080&amp;q=100 1080w, /_next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Fweb-agent%2Ffiles%2Fjassan_mejor_agente_inmobiliario.jpg&amp;w=1200&amp;q=100 1200w, /_next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Fweb-agent%2Ffiles%2Fjassan_mejor_agente_inmobiliario.jpg&amp;w=1920&amp;q=100 1920w, /_next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Fweb-agent%2Ffiles%2Fjassan_mejor_agente_inmobiliario.jpg&amp;w=2048&amp;q=100 2048w, /_next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Fweb-agent%2Ffiles%2Fjassan_mejor_agente_inmobiliario.jpg&amp;w=3840&amp;q=100 3840w')}}"
     imagesizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" />
   <meta name="next-head-count" content="18" />
   <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin />
-  <link rel="preload" href="{{asset('web/plantilla/static/media/e1c529c04de64b40.p.woff2')}}" as="font" type="font/woff2"
+  <link rel="preload" href="{{asset('web/_next/static/media/e1c529c04de64b40.p.woff2')}}" as="font" type="font/woff2"
     crossorigin="anonymous" />
-  <link rel="preload" href="{{asset('web/plantilla/static/css/27fb04a1ba2a4a13.css')}}" as="style" />
-  <link rel="stylesheet" href="{{asset('web/plantilla/static/css/27fb04a1ba2a4a13.css')}}" data-n-g="" />
+  <link rel="preload" href="{{asset('web/_next/static/css/27fb04a1ba2a4a13.css')}}" as="style" />
+  <link rel="stylesheet" href="{{asset('web/_next/static/css/27fb04a1ba2a4a13.css')}}" data-n-g="" />
   <noscript data-n-css=""></noscript>
-  <script defer="" nomodule="" src="{{asset('web/plantilla/static/chunks/polyfills-c67a75d1b6f99dc8.js')}}"></script>
-  <script src="{{asset('web/plantilla/static/chunks/webpack-59c5c889f52620d6.js')}}" defer=""></script>
-  <script src="{{asset('web/plantilla/static/chunks/framework-3b5a00d5d7e8d93b.js')}}" defer=""></script>
-  <script src="{{asset('web/plantilla/static/chunks/main-724ff4bd06555905.js')}}" defer=""></script>
-  <script src="{{asset('web/plantilla/static/chunks/pages/_app-9d066a4c0ed7eef9.js')}}" defer=""></script>
-  <script src="{{asset('web/plantilla/static/chunks/pages/index-2532d98cafa6f2d9.js')}}" defer=""></script>
-  <script src="{{asset('web/plantilla/static/kmsc3F2NHrZkRljc12J8t/_buildManifest.js')}}" defer=""></script>
-  <script src="{{asset('web/plantilla/static/kmsc3F2NHrZkRljc12J8t/_ssgManifest.js')}}" defer=""></script>
+  <script defer="" nomodule="" src="{{asset('web/_next/static/chunks/polyfills-c67a75d1b6f99dc8.js')}}"></script>
+  <script src="{{asset('web/_next/static/chunks/webpack-59c5c889f52620d6.js')}}" defer=""></script>
+  <script src="{{asset('web/_next/static/chunks/framework-3b5a00d5d7e8d93b.js')}}" defer=""></script>
+  <script src="{{asset('web/_next/static/chunks/main-724ff4bd06555905.js')}}" defer=""></script>
+  <script src="{{asset('web/_next/static/chunks/pages/_app-9d066a4c0ed7eef9.js')}}" defer=""></script>
+  <script src="{{asset('web/_next/static/chunks/pages/index-2532d98cafa6f2d9.js')}}" defer=""></script>
+  <script src="{{asset('web/_next/static/kmsc3F2NHrZkRljc12J8t/_buildManifest.js')}}" defer=""></script>
+  <script src="{{asset('web/_next/static/kmsc3F2NHrZkRljc12J8t/_ssgManifest.js')}}" defer=""></script>
   <style data-href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600;700;800&display=swap">
     @font-face {
       font-family: "Montserrat";
@@ -370,7 +370,7 @@ Será un placer atenderte." />
 </head>
 
 <body>
-  <div id="_plantilla">
+  <div id="__next">
     <div class="__className_c45c77">
       <header class="fixed top-0 left-0 z-20 w-full shadow-01 bg-bgMenu">
         <div class="h-20">
@@ -391,8 +391,7 @@ Será un placer atenderte." />
                     </ul>
                   </nav>
                   <div class="md:hidden ml-7">
-                    <svg width="28" height="26" fill="none" xmlns="http://www.w3.org/2000/svg"
-                      class="opacity-50 cursor-pointer icon-color-inherit fill-white hover:opacity-100" alt="Menu">
+                    <svg width="28" height="26" fill="none" xmlns="http://www.w3.org/2000/svg" class="opacity-50 cursor-pointer icon-color-inherit fill-white hover:opacity-100" alt="Menu">
                       <g opacity="0.5" fill="#fff">
                         <path
                           d="M0 2.5A1.75 1.75 0 0 1 1.75.75h24.5a1.75 1.75 0 1 1 0 3.5H1.75A1.75 1.75 0 0 1 0 2.5ZM0 23.5a1.75 1.75 0 0 1 1.75-1.75h24.5a1.75 1.75 0 1 1 0 3.5H1.75A1.75 1.75 0 0 1 0 23.5ZM12.25 11.25a1.75 1.75 0 0 0 0 3.5h14a1.75 1.75 0 1 0 0-3.5h-14Z">
@@ -491,8 +490,17 @@ Será un placer atenderte." />
               class="hidden md:block absolute z-[2] w-full h-40 bg-gradient-to-b md:from-others-transparency-500 md:to-others-transparency-0">
             </div>
             <div class="relative block w-full h-72 md:hidden">
-              <img alt="Jassan " sizes="100vw" 
-                src="{{asset('web/plantilla/portada.jpg')}}"
+              <img alt="Jassan " sizes="100vw" srcset="
+                    /_next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Fweb-agent%2Ffiles%2Fjassan_mejor_agente_inmobiliario.jpg&amp;w=640&amp;q=100   640w,
+                    /_next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Fweb-agent%2Ffiles%2Fjassan_mejor_agente_inmobiliario.jpg&amp;w=750&amp;q=100   750w,
+                    /_next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Fweb-agent%2Ffiles%2Fjassan_mejor_agente_inmobiliario.jpg&amp;w=828&amp;q=100   828w,
+                    /_next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Fweb-agent%2Ffiles%2Fjassan_mejor_agente_inmobiliario.jpg&amp;w=1080&amp;q=100 1080w,
+                    /_next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Fweb-agent%2Ffiles%2Fjassan_mejor_agente_inmobiliario.jpg&amp;w=1200&amp;q=100 1200w,
+                    /_next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Fweb-agent%2Ffiles%2Fjassan_mejor_agente_inmobiliario.jpg&amp;w=1920&amp;q=100 1920w,
+                    /_next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Fweb-agent%2Ffiles%2Fjassan_mejor_agente_inmobiliario.jpg&amp;w=2048&amp;q=100 2048w,
+                    /_next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Fweb-agent%2Ffiles%2Fjassan_mejor_agente_inmobiliario.jpg&amp;w=3840&amp;q=100 3840w
+                  " 
+                src="{{asset('web/_next/portada.jpg')}}"
                 decoding="async" data-nimg="fill" class="object-cover" style="
                     position: absolute;
                     height: 100%;
@@ -504,8 +512,19 @@ Será un placer atenderte." />
                     color: transparent;
                   " />
             </div>
-            <img alt="Jassan " sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" 
-              src="{{asset('web/plantilla/portada.jpg')}}"
+            <img alt="Jassan " sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"  srcset="
+                  /_next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Fweb-agent%2Ffiles%2Fjassan_mejor_agente_inmobiliario.jpg&amp;w=256&amp;q=100   256w,
+                  /_next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Fweb-agent%2Ffiles%2Fjassan_mejor_agente_inmobiliario.jpg&amp;w=384&amp;q=100   384w,
+                  /_next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Fweb-agent%2Ffiles%2Fjassan_mejor_agente_inmobiliario.jpg&amp;w=640&amp;q=100   640w,
+                  /_next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Fweb-agent%2Ffiles%2Fjassan_mejor_agente_inmobiliario.jpg&amp;w=750&amp;q=100   750w,
+                  /_next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Fweb-agent%2Ffiles%2Fjassan_mejor_agente_inmobiliario.jpg&amp;w=828&amp;q=100   828w,
+                  /_next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Fweb-agent%2Ffiles%2Fjassan_mejor_agente_inmobiliario.jpg&amp;w=1080&amp;q=100 1080w,
+                  /_next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Fweb-agent%2Ffiles%2Fjassan_mejor_agente_inmobiliario.jpg&amp;w=1200&amp;q=100 1200w,
+                  /_next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Fweb-agent%2Ffiles%2Fjassan_mejor_agente_inmobiliario.jpg&amp;w=1920&amp;q=100 1920w,
+                  /_next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Fweb-agent%2Ffiles%2Fjassan_mejor_agente_inmobiliario.jpg&amp;w=2048&amp;q=100 2048w,
+                  /_next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Fweb-agent%2Ffiles%2Fjassan_mejor_agente_inmobiliario.jpg&amp;w=3840&amp;q=100 3840w
+                "
+              src="{{asset('web/_next/portada.jpg')}}"
               decoding="async" data-nimg="fill" class="hidden object-cover md:block" style="
                   position: absolute;
                   height: 100%;
@@ -4008,18 +4027,18 @@ Será un placer atenderte." />
                               <img
                                 alt="VENDO CASA RESIDENCIAL de 04 PISOS en Urb. Miraflores TRUJILLO, Área Ocupada 445 m2 a US$ 297,500 dólares"
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1676%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(24).jpg&amp;w=256&amp;q=70   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1676%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(24).jpg&amp;w=384&amp;q=70   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1676%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(24).jpg&amp;w=640&amp;q=70   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1676%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(24).jpg&amp;w=750&amp;q=70   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1676%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(24).jpg&amp;w=828&amp;q=70   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1676%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(24).jpg&amp;w=1080&amp;q=70 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1676%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(24).jpg&amp;w=1200&amp;q=70 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1676%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(24).jpg&amp;w=1920&amp;q=70 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1676%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(24).jpg&amp;w=2048&amp;q=70 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1676%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(24).jpg&amp;w=3840&amp;q=70 3840w
+                                    /_next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1676%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(24).jpg&amp;w=256&amp;q=70   256w,
+                                    /_next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1676%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(24).jpg&amp;w=384&amp;q=70   384w,
+                                    /_next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1676%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(24).jpg&amp;w=640&amp;q=70   640w,
+                                    /_next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1676%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(24).jpg&amp;w=750&amp;q=70   750w,
+                                    /_next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1676%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(24).jpg&amp;w=828&amp;q=70   828w,
+                                    /_next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1676%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(24).jpg&amp;w=1080&amp;q=70 1080w,
+                                    /_next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1676%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(24).jpg&amp;w=1200&amp;q=70 1200w,
+                                    /_next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1676%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(24).jpg&amp;w=1920&amp;q=70 1920w,
+                                    /_next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1676%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(24).jpg&amp;w=2048&amp;q=70 2048w,
+                                    /_next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1676%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(24).jpg&amp;w=3840&amp;q=70 3840w
                                   "
-                                src="plantilla/RESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSANbe7b.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1676%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(24).jpg&amp;w=3840&amp;q=70"
+                                src="_next/RESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSANbe7b.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1676%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(24).jpg&amp;w=3840&amp;q=70"
                                 decoding="async" data-nimg="fill" class="object-cover" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -4086,18 +4105,18 @@ Será un placer atenderte." />
                               <img
                                 alt='CASA COMERCIAL 04 PISOS en Av. AMERICA NORTE N°958 cerca de "OPEN PLAZA" - Los Jardines. Área Ocupada 494 m2 a US$ 349,400 dólares.'
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1664%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(7).jpg&amp;w=256&amp;q=70   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1664%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(7).jpg&amp;w=384&amp;q=70   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1664%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(7).jpg&amp;w=640&amp;q=70   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1664%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(7).jpg&amp;w=750&amp;q=70   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1664%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(7).jpg&amp;w=828&amp;q=70   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1664%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(7).jpg&amp;w=1080&amp;q=70 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1664%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(7).jpg&amp;w=1200&amp;q=70 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1664%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(7).jpg&amp;w=1920&amp;q=70 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1664%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(7).jpg&amp;w=2048&amp;q=70 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1664%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(7).jpg&amp;w=3840&amp;q=70 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1664%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(7).jpg&amp;w=256&amp;q=70   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1664%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(7).jpg&amp;w=384&amp;q=70   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1664%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(7).jpg&amp;w=640&amp;q=70   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1664%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(7).jpg&amp;w=750&amp;q=70   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1664%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(7).jpg&amp;w=828&amp;q=70   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1664%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(7).jpg&amp;w=1080&amp;q=70 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1664%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(7).jpg&amp;w=1200&amp;q=70 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1664%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(7).jpg&amp;w=1920&amp;q=70 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1664%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(7).jpg&amp;w=2048&amp;q=70 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1664%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(7).jpg&amp;w=3840&amp;q=70 3840w
                                   "
-                                src="plantilla/RESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN53dd.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1664%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(7).jpg&amp;w=3840&amp;q=70"
+                                src="__next/RESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN53dd.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1664%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(7).jpg&amp;w=3840&amp;q=70"
                                 decoding="async" data-nimg="fill" class="object-cover" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -4164,18 +4183,18 @@ Será un placer atenderte." />
                               <img
                                 alt='TRUJILLO - CASA COMERCIAL 03 PISOS EN AV. NICOLAS DE PIEROLA N°1076 ENTRE TRANSPORTE "EL DORADO" Y UNIVERSIDAD "UTP". ÁREA OCUPADA 376 M2 A US$ 399,400 DÓLARES.'
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1663%2Fweb-agent%2FfileEstates%2FDORADO%20(0).jpg&amp;w=256&amp;q=70   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1663%2Fweb-agent%2FfileEstates%2FDORADO%20(0).jpg&amp;w=384&amp;q=70   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1663%2Fweb-agent%2FfileEstates%2FDORADO%20(0).jpg&amp;w=640&amp;q=70   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1663%2Fweb-agent%2FfileEstates%2FDORADO%20(0).jpg&amp;w=750&amp;q=70   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1663%2Fweb-agent%2FfileEstates%2FDORADO%20(0).jpg&amp;w=828&amp;q=70   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1663%2Fweb-agent%2FfileEstates%2FDORADO%20(0).jpg&amp;w=1080&amp;q=70 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1663%2Fweb-agent%2FfileEstates%2FDORADO%20(0).jpg&amp;w=1200&amp;q=70 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1663%2Fweb-agent%2FfileEstates%2FDORADO%20(0).jpg&amp;w=1920&amp;q=70 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1663%2Fweb-agent%2FfileEstates%2FDORADO%20(0).jpg&amp;w=2048&amp;q=70 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1663%2Fweb-agent%2FfileEstates%2FDORADO%20(0).jpg&amp;w=3840&amp;q=70 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1663%2Fweb-agent%2FfileEstates%2FDORADO%20(0).jpg&amp;w=256&amp;q=70   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1663%2Fweb-agent%2FfileEstates%2FDORADO%20(0).jpg&amp;w=384&amp;q=70   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1663%2Fweb-agent%2FfileEstates%2FDORADO%20(0).jpg&amp;w=640&amp;q=70   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1663%2Fweb-agent%2FfileEstates%2FDORADO%20(0).jpg&amp;w=750&amp;q=70   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1663%2Fweb-agent%2FfileEstates%2FDORADO%20(0).jpg&amp;w=828&amp;q=70   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1663%2Fweb-agent%2FfileEstates%2FDORADO%20(0).jpg&amp;w=1080&amp;q=70 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1663%2Fweb-agent%2FfileEstates%2FDORADO%20(0).jpg&amp;w=1200&amp;q=70 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1663%2Fweb-agent%2FfileEstates%2FDORADO%20(0).jpg&amp;w=1920&amp;q=70 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1663%2Fweb-agent%2FfileEstates%2FDORADO%20(0).jpg&amp;w=2048&amp;q=70 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1663%2Fweb-agent%2FfileEstates%2FDORADO%20(0).jpg&amp;w=3840&amp;q=70 3840w
                                   "
-                                src="plantilla/DORADO%20(0)d753.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1663%2Fweb-agent%2FfileEstates%2FDORADO%20(0).jpg&amp;w=3840&amp;q=70"
+                                src="__next/DORADO%20(0)d753.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1663%2Fweb-agent%2FfileEstates%2FDORADO%20(0).jpg&amp;w=3840&amp;q=70"
                                 decoding="async" data-nimg="fill" class="object-cover" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -4240,18 +4259,18 @@ Será un placer atenderte." />
                             <div class="relative block h-[276px] overflow-hidden md:h-[394px] w-full">
                               <img alt='2do PISO Cerca a Parque A 02 Cuadras "MALL de TRUJILLO",  de 97.20m2 a $ 79.900'
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1481%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(19).jpg&amp;w=256&amp;q=70   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1481%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(19).jpg&amp;w=384&amp;q=70   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1481%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(19).jpg&amp;w=640&amp;q=70   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1481%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(19).jpg&amp;w=750&amp;q=70   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1481%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(19).jpg&amp;w=828&amp;q=70   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1481%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(19).jpg&amp;w=1080&amp;q=70 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1481%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(19).jpg&amp;w=1200&amp;q=70 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1481%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(19).jpg&amp;w=1920&amp;q=70 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1481%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(19).jpg&amp;w=2048&amp;q=70 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1481%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(19).jpg&amp;w=3840&amp;q=70 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1481%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(19).jpg&amp;w=256&amp;q=70   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1481%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(19).jpg&amp;w=384&amp;q=70   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1481%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(19).jpg&amp;w=640&amp;q=70   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1481%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(19).jpg&amp;w=750&amp;q=70   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1481%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(19).jpg&amp;w=828&amp;q=70   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1481%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(19).jpg&amp;w=1080&amp;q=70 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1481%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(19).jpg&amp;w=1200&amp;q=70 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1481%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(19).jpg&amp;w=1920&amp;q=70 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1481%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(19).jpg&amp;w=2048&amp;q=70 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1481%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(19).jpg&amp;w=3840&amp;q=70 3840w
                                   "
-                                src="plantilla/RESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN2fea.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1481%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(19).jpg&amp;w=3840&amp;q=70"
+                                src="__next/RESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN2fea.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1481%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(19).jpg&amp;w=3840&amp;q=70"
                                 decoding="async" data-nimg="fill" class="object-cover" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -4318,18 +4337,18 @@ Será un placer atenderte." />
                               <img
                                 alt='A 02 cuadras del Colegio "MARIA NEGRON" TRUJILLO. VENDO Bonita "CASA 03 PISOS" con "09 CUARTOS", Área Ocupada: 411m2, Cochera. '
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1911%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE.png&amp;w=256&amp;q=70   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1911%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE.png&amp;w=384&amp;q=70   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1911%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE.png&amp;w=640&amp;q=70   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1911%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE.png&amp;w=750&amp;q=70   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1911%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE.png&amp;w=828&amp;q=70   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1911%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE.png&amp;w=1080&amp;q=70 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1911%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE.png&amp;w=1200&amp;q=70 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1911%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE.png&amp;w=1920&amp;q=70 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1911%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE.png&amp;w=2048&amp;q=70 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1911%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE.png&amp;w=3840&amp;q=70 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1911%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE.png&amp;w=256&amp;q=70   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1911%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE.png&amp;w=384&amp;q=70   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1911%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE.png&amp;w=640&amp;q=70   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1911%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE.png&amp;w=750&amp;q=70   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1911%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE.png&amp;w=828&amp;q=70   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1911%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE.png&amp;w=1080&amp;q=70 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1911%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE.png&amp;w=1200&amp;q=70 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1911%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE.png&amp;w=1920&amp;q=70 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1911%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE.png&amp;w=2048&amp;q=70 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1911%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE.png&amp;w=3840&amp;q=70 3840w
                                   "
-                                src="plantilla/RESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN129f.png?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1911%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE.png&amp;w=3840&amp;q=70"
+                                src="__next/RESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN129f.png?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1911%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE.png&amp;w=3840&amp;q=70"
                                 decoding="async" data-nimg="fill" class="object-cover" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -4395,18 +4414,18 @@ Será un placer atenderte." />
                             <div class="relative block h-[276px] overflow-hidden md:h-[394px] w-full">
                               <img alt='AL COSTADO del "GOLF &amp; COUNTRY CLUB". VENDO Hermosa VIVIENDA "03 PISOS".'
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1865%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(25).jpg&amp;w=256&amp;q=70   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1865%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(25).jpg&amp;w=384&amp;q=70   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1865%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(25).jpg&amp;w=640&amp;q=70   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1865%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(25).jpg&amp;w=750&amp;q=70   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1865%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(25).jpg&amp;w=828&amp;q=70   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1865%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(25).jpg&amp;w=1080&amp;q=70 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1865%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(25).jpg&amp;w=1200&amp;q=70 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1865%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(25).jpg&amp;w=1920&amp;q=70 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1865%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(25).jpg&amp;w=2048&amp;q=70 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1865%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(25).jpg&amp;w=3840&amp;q=70 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1865%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(25).jpg&amp;w=256&amp;q=70   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1865%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(25).jpg&amp;w=384&amp;q=70   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1865%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(25).jpg&amp;w=640&amp;q=70   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1865%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(25).jpg&amp;w=750&amp;q=70   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1865%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(25).jpg&amp;w=828&amp;q=70   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1865%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(25).jpg&amp;w=1080&amp;q=70 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1865%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(25).jpg&amp;w=1200&amp;q=70 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1865%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(25).jpg&amp;w=1920&amp;q=70 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1865%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(25).jpg&amp;w=2048&amp;q=70 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1865%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(25).jpg&amp;w=3840&amp;q=70 3840w
                                   "
-                                src="plantilla/RESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSANf7db.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1865%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(25).jpg&amp;w=3840&amp;q=70"
+                                src="__next/RESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSANf7db.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1865%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(25).jpg&amp;w=3840&amp;q=70"
                                 decoding="async" data-nimg="fill" class="object-cover" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -4472,18 +4491,18 @@ Será un placer atenderte." />
                               <img
                                 alt='TRUJILLO - VENDO LOCAL COMERCIAL de 877.45 m2, en Jr. AYACUCHO, la "MEJOR ZONA COMERCIAL". '
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1835%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(23).jpg&amp;w=256&amp;q=70   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1835%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(23).jpg&amp;w=384&amp;q=70   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1835%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(23).jpg&amp;w=640&amp;q=70   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1835%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(23).jpg&amp;w=750&amp;q=70   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1835%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(23).jpg&amp;w=828&amp;q=70   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1835%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(23).jpg&amp;w=1080&amp;q=70 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1835%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(23).jpg&amp;w=1200&amp;q=70 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1835%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(23).jpg&amp;w=1920&amp;q=70 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1835%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(23).jpg&amp;w=2048&amp;q=70 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1835%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(23).jpg&amp;w=3840&amp;q=70 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1835%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(23).jpg&amp;w=256&amp;q=70   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1835%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(23).jpg&amp;w=384&amp;q=70   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1835%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(23).jpg&amp;w=640&amp;q=70   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1835%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(23).jpg&amp;w=750&amp;q=70   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1835%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(23).jpg&amp;w=828&amp;q=70   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1835%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(23).jpg&amp;w=1080&amp;q=70 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1835%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(23).jpg&amp;w=1200&amp;q=70 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1835%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(23).jpg&amp;w=1920&amp;q=70 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1835%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(23).jpg&amp;w=2048&amp;q=70 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1835%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(23).jpg&amp;w=3840&amp;q=70 3840w
                                   "
-                                src="plantilla/RESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSANe4a8.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1835%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(23).jpg&amp;w=3840&amp;q=70"
+                                src="__next/RESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSANe4a8.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1835%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(23).jpg&amp;w=3840&amp;q=70"
                                 decoding="async" data-nimg="fill" class="object-cover" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -4549,18 +4568,18 @@ Será un placer atenderte." />
                             <div class="relative block h-[276px] overflow-hidden md:h-[394px] w-full">
                               <img alt='FRENTE a "UPAO". CASA 04 PISOS con PISCINA, Á. Ocupada:500m2, Cochera 3 autos.'
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1778%2Fweb-agent%2FfileEstates%2F16.9_casa_03_pisos_con_piscina_ingenier%C3%ADa_trujillo.jpg&amp;w=256&amp;q=70   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1778%2Fweb-agent%2FfileEstates%2F16.9_casa_03_pisos_con_piscina_ingenier%C3%ADa_trujillo.jpg&amp;w=384&amp;q=70   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1778%2Fweb-agent%2FfileEstates%2F16.9_casa_03_pisos_con_piscina_ingenier%C3%ADa_trujillo.jpg&amp;w=640&amp;q=70   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1778%2Fweb-agent%2FfileEstates%2F16.9_casa_03_pisos_con_piscina_ingenier%C3%ADa_trujillo.jpg&amp;w=750&amp;q=70   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1778%2Fweb-agent%2FfileEstates%2F16.9_casa_03_pisos_con_piscina_ingenier%C3%ADa_trujillo.jpg&amp;w=828&amp;q=70   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1778%2Fweb-agent%2FfileEstates%2F16.9_casa_03_pisos_con_piscina_ingenier%C3%ADa_trujillo.jpg&amp;w=1080&amp;q=70 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1778%2Fweb-agent%2FfileEstates%2F16.9_casa_03_pisos_con_piscina_ingenier%C3%ADa_trujillo.jpg&amp;w=1200&amp;q=70 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1778%2Fweb-agent%2FfileEstates%2F16.9_casa_03_pisos_con_piscina_ingenier%C3%ADa_trujillo.jpg&amp;w=1920&amp;q=70 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1778%2Fweb-agent%2FfileEstates%2F16.9_casa_03_pisos_con_piscina_ingenier%C3%ADa_trujillo.jpg&amp;w=2048&amp;q=70 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1778%2Fweb-agent%2FfileEstates%2F16.9_casa_03_pisos_con_piscina_ingenier%C3%ADa_trujillo.jpg&amp;w=3840&amp;q=70 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1778%2Fweb-agent%2FfileEstates%2F16.9_casa_03_pisos_con_piscina_ingenier%C3%ADa_trujillo.jpg&amp;w=256&amp;q=70   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1778%2Fweb-agent%2FfileEstates%2F16.9_casa_03_pisos_con_piscina_ingenier%C3%ADa_trujillo.jpg&amp;w=384&amp;q=70   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1778%2Fweb-agent%2FfileEstates%2F16.9_casa_03_pisos_con_piscina_ingenier%C3%ADa_trujillo.jpg&amp;w=640&amp;q=70   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1778%2Fweb-agent%2FfileEstates%2F16.9_casa_03_pisos_con_piscina_ingenier%C3%ADa_trujillo.jpg&amp;w=750&amp;q=70   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1778%2Fweb-agent%2FfileEstates%2F16.9_casa_03_pisos_con_piscina_ingenier%C3%ADa_trujillo.jpg&amp;w=828&amp;q=70   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1778%2Fweb-agent%2FfileEstates%2F16.9_casa_03_pisos_con_piscina_ingenier%C3%ADa_trujillo.jpg&amp;w=1080&amp;q=70 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1778%2Fweb-agent%2FfileEstates%2F16.9_casa_03_pisos_con_piscina_ingenier%C3%ADa_trujillo.jpg&amp;w=1200&amp;q=70 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1778%2Fweb-agent%2FfileEstates%2F16.9_casa_03_pisos_con_piscina_ingenier%C3%ADa_trujillo.jpg&amp;w=1920&amp;q=70 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1778%2Fweb-agent%2FfileEstates%2F16.9_casa_03_pisos_con_piscina_ingenier%C3%ADa_trujillo.jpg&amp;w=2048&amp;q=70 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1778%2Fweb-agent%2FfileEstates%2F16.9_casa_03_pisos_con_piscina_ingenier%C3%ADa_trujillo.jpg&amp;w=3840&amp;q=70 3840w
                                   "
-                                src="plantilla/167615.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1778%2Fweb-agent%2FfileEstates%2F16.9_casa_03_pisos_con_piscina_ingenier%C3%ADa_trujillo.jpg&amp;w=3840&amp;q=70"
+                                src="__next/167615.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1778%2Fweb-agent%2FfileEstates%2F16.9_casa_03_pisos_con_piscina_ingenier%C3%ADa_trujillo.jpg&amp;w=3840&amp;q=70"
                                 decoding="async" data-nimg="fill" class="object-cover" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -4626,18 +4645,18 @@ Será un placer atenderte." />
                               <img
                                 alt=' CASA 03 PISOS en "ESQUINA" TRUJILLO, Área Ocupada: 230.08 m2, a solo US$ 149,900 dólares.'
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1745%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(21).jpg&amp;w=256&amp;q=70   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1745%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(21).jpg&amp;w=384&amp;q=70   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1745%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(21).jpg&amp;w=640&amp;q=70   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1745%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(21).jpg&amp;w=750&amp;q=70   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1745%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(21).jpg&amp;w=828&amp;q=70   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1745%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(21).jpg&amp;w=1080&amp;q=70 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1745%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(21).jpg&amp;w=1200&amp;q=70 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1745%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(21).jpg&amp;w=1920&amp;q=70 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1745%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(21).jpg&amp;w=2048&amp;q=70 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1745%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(21).jpg&amp;w=3840&amp;q=70 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1745%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(21).jpg&amp;w=256&amp;q=70   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1745%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(21).jpg&amp;w=384&amp;q=70   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1745%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(21).jpg&amp;w=640&amp;q=70   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1745%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(21).jpg&amp;w=750&amp;q=70   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1745%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(21).jpg&amp;w=828&amp;q=70   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1745%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(21).jpg&amp;w=1080&amp;q=70 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1745%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(21).jpg&amp;w=1200&amp;q=70 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1745%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(21).jpg&amp;w=1920&amp;q=70 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1745%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(21).jpg&amp;w=2048&amp;q=70 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1745%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(21).jpg&amp;w=3840&amp;q=70 3840w
                                   "
-                                src="plantilla/RESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN8779.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1745%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(21).jpg&amp;w=3840&amp;q=70"
+                                src="__next/RESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN8779.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1745%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(21).jpg&amp;w=3840&amp;q=70"
                                 decoding="async" data-nimg="fill" class="object-cover" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -4702,18 +4721,18 @@ Será un placer atenderte." />
                             <div class="relative block h-[276px] overflow-hidden md:h-[394px] w-full">
                               <img alt="CASA COMERCIAL 05 PISOS TRUJILLO, con Área Techada: 526.04 m2"
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1731%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(13).jpg&amp;w=256&amp;q=70   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1731%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(13).jpg&amp;w=384&amp;q=70   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1731%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(13).jpg&amp;w=640&amp;q=70   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1731%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(13).jpg&amp;w=750&amp;q=70   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1731%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(13).jpg&amp;w=828&amp;q=70   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1731%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(13).jpg&amp;w=1080&amp;q=70 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1731%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(13).jpg&amp;w=1200&amp;q=70 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1731%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(13).jpg&amp;w=1920&amp;q=70 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1731%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(13).jpg&amp;w=2048&amp;q=70 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1731%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(13).jpg&amp;w=3840&amp;q=70 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1731%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(13).jpg&amp;w=256&amp;q=70   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1731%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(13).jpg&amp;w=384&amp;q=70   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1731%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(13).jpg&amp;w=640&amp;q=70   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1731%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(13).jpg&amp;w=750&amp;q=70   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1731%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(13).jpg&amp;w=828&amp;q=70   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1731%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(13).jpg&amp;w=1080&amp;q=70 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1731%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(13).jpg&amp;w=1200&amp;q=70 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1731%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(13).jpg&amp;w=1920&amp;q=70 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1731%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(13).jpg&amp;w=2048&amp;q=70 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1731%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(13).jpg&amp;w=3840&amp;q=70 3840w
                                   "
-                                src="plantilla/RESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSANc479.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1731%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(13).jpg&amp;w=3840&amp;q=70"
+                                src="__next/RESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSANc479.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1731%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(13).jpg&amp;w=3840&amp;q=70"
                                 decoding="async" data-nimg="fill" class="object-cover" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -4780,18 +4799,18 @@ Será un placer atenderte." />
                               <img
                                 alt='CASA COMERCIAL 03 PISOS TRUJILLO a US$ 139,900 dólares (A 01 cuadra UNIVERSIDAD "UPN" MOLINO) '
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1727%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(20).jpg&amp;w=256&amp;q=70   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1727%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(20).jpg&amp;w=384&amp;q=70   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1727%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(20).jpg&amp;w=640&amp;q=70   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1727%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(20).jpg&amp;w=750&amp;q=70   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1727%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(20).jpg&amp;w=828&amp;q=70   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1727%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(20).jpg&amp;w=1080&amp;q=70 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1727%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(20).jpg&amp;w=1200&amp;q=70 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1727%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(20).jpg&amp;w=1920&amp;q=70 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1727%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(20).jpg&amp;w=2048&amp;q=70 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1727%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(20).jpg&amp;w=3840&amp;q=70 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1727%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(20).jpg&amp;w=256&amp;q=70   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1727%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(20).jpg&amp;w=384&amp;q=70   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1727%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(20).jpg&amp;w=640&amp;q=70   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1727%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(20).jpg&amp;w=750&amp;q=70   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1727%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(20).jpg&amp;w=828&amp;q=70   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1727%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(20).jpg&amp;w=1080&amp;q=70 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1727%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(20).jpg&amp;w=1200&amp;q=70 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1727%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(20).jpg&amp;w=1920&amp;q=70 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1727%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(20).jpg&amp;w=2048&amp;q=70 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1727%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(20).jpg&amp;w=3840&amp;q=70 3840w
                                   "
-                                src="plantilla/RESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN0814.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1727%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(20).jpg&amp;w=3840&amp;q=70"
+                                src="__next/RESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN0814.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1727%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(20).jpg&amp;w=3840&amp;q=70"
                                 decoding="async" data-nimg="fill" class="object-cover" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -4858,18 +4877,18 @@ Será un placer atenderte." />
                               <img
                                 alt="Precioso Departamento 12vo Piso, Área: 133.09 m2, con 04 cuartos a US 129,900 dólares. ."
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1691%2Fweb-agent%2FfileEstates%2F1.jpg&amp;w=256&amp;q=70   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1691%2Fweb-agent%2FfileEstates%2F1.jpg&amp;w=384&amp;q=70   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1691%2Fweb-agent%2FfileEstates%2F1.jpg&amp;w=640&amp;q=70   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1691%2Fweb-agent%2FfileEstates%2F1.jpg&amp;w=750&amp;q=70   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1691%2Fweb-agent%2FfileEstates%2F1.jpg&amp;w=828&amp;q=70   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1691%2Fweb-agent%2FfileEstates%2F1.jpg&amp;w=1080&amp;q=70 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1691%2Fweb-agent%2FfileEstates%2F1.jpg&amp;w=1200&amp;q=70 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1691%2Fweb-agent%2FfileEstates%2F1.jpg&amp;w=1920&amp;q=70 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1691%2Fweb-agent%2FfileEstates%2F1.jpg&amp;w=2048&amp;q=70 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1691%2Fweb-agent%2FfileEstates%2F1.jpg&amp;w=3840&amp;q=70 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1691%2Fweb-agent%2FfileEstates%2F1.jpg&amp;w=256&amp;q=70   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1691%2Fweb-agent%2FfileEstates%2F1.jpg&amp;w=384&amp;q=70   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1691%2Fweb-agent%2FfileEstates%2F1.jpg&amp;w=640&amp;q=70   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1691%2Fweb-agent%2FfileEstates%2F1.jpg&amp;w=750&amp;q=70   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1691%2Fweb-agent%2FfileEstates%2F1.jpg&amp;w=828&amp;q=70   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1691%2Fweb-agent%2FfileEstates%2F1.jpg&amp;w=1080&amp;q=70 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1691%2Fweb-agent%2FfileEstates%2F1.jpg&amp;w=1200&amp;q=70 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1691%2Fweb-agent%2FfileEstates%2F1.jpg&amp;w=1920&amp;q=70 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1691%2Fweb-agent%2FfileEstates%2F1.jpg&amp;w=2048&amp;q=70 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1691%2Fweb-agent%2FfileEstates%2F1.jpg&amp;w=3840&amp;q=70 3840w
                                   "
-                                src="plantilla/1014c.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1691%2Fweb-agent%2FfileEstates%2F1.jpg&amp;w=3840&amp;q=70"
+                                src="__next/1014c.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1691%2Fweb-agent%2FfileEstates%2F1.jpg&amp;w=3840&amp;q=70"
                                 decoding="async" data-nimg="fill" class="object-cover" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -4935,18 +4954,18 @@ Será un placer atenderte." />
                               <img
                                 alt="VENDO CASA COMERCIAL de 03 PISOS en Jr. AYACUCHO TRUJILLO EN EXCELENTE ZONA COMERCIAL"
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1682%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(12).jpg&amp;w=256&amp;q=70   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1682%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(12).jpg&amp;w=384&amp;q=70   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1682%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(12).jpg&amp;w=640&amp;q=70   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1682%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(12).jpg&amp;w=750&amp;q=70   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1682%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(12).jpg&amp;w=828&amp;q=70   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1682%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(12).jpg&amp;w=1080&amp;q=70 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1682%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(12).jpg&amp;w=1200&amp;q=70 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1682%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(12).jpg&amp;w=1920&amp;q=70 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1682%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(12).jpg&amp;w=2048&amp;q=70 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1682%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(12).jpg&amp;w=3840&amp;q=70 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1682%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(12).jpg&amp;w=256&amp;q=70   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1682%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(12).jpg&amp;w=384&amp;q=70   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1682%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(12).jpg&amp;w=640&amp;q=70   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1682%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(12).jpg&amp;w=750&amp;q=70   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1682%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(12).jpg&amp;w=828&amp;q=70   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1682%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(12).jpg&amp;w=1080&amp;q=70 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1682%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(12).jpg&amp;w=1200&amp;q=70 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1682%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(12).jpg&amp;w=1920&amp;q=70 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1682%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(12).jpg&amp;w=2048&amp;q=70 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1682%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(12).jpg&amp;w=3840&amp;q=70 3840w
                                   "
-                                src="plantilla/RESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN0c67.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1682%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(12).jpg&amp;w=3840&amp;q=70"
+                                src="__next/RESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN0c67.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1682%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(12).jpg&amp;w=3840&amp;q=70"
                                 decoding="async" data-nimg="fill" class="object-cover" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -5013,18 +5032,18 @@ Será un placer atenderte." />
                               <img
                                 alt="VENDO CASA RESIDENCIAL de 04 PISOS en Urb. Miraflores TRUJILLO, Área Ocupada 445 m2 a US$ 297,500 dólares"
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1676%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(24).jpg&amp;w=256&amp;q=70   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1676%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(24).jpg&amp;w=384&amp;q=70   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1676%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(24).jpg&amp;w=640&amp;q=70   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1676%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(24).jpg&amp;w=750&amp;q=70   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1676%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(24).jpg&amp;w=828&amp;q=70   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1676%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(24).jpg&amp;w=1080&amp;q=70 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1676%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(24).jpg&amp;w=1200&amp;q=70 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1676%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(24).jpg&amp;w=1920&amp;q=70 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1676%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(24).jpg&amp;w=2048&amp;q=70 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1676%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(24).jpg&amp;w=3840&amp;q=70 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1676%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(24).jpg&amp;w=256&amp;q=70   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1676%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(24).jpg&amp;w=384&amp;q=70   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1676%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(24).jpg&amp;w=640&amp;q=70   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1676%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(24).jpg&amp;w=750&amp;q=70   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1676%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(24).jpg&amp;w=828&amp;q=70   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1676%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(24).jpg&amp;w=1080&amp;q=70 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1676%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(24).jpg&amp;w=1200&amp;q=70 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1676%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(24).jpg&amp;w=1920&amp;q=70 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1676%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(24).jpg&amp;w=2048&amp;q=70 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1676%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(24).jpg&amp;w=3840&amp;q=70 3840w
                                   "
-                                src="plantilla/RESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSANbe7b.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1676%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(24).jpg&amp;w=3840&amp;q=70"
+                                src="__next/RESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSANbe7b.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1676%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(24).jpg&amp;w=3840&amp;q=70"
                                 decoding="async" data-nimg="fill" class="object-cover" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -5090,18 +5109,18 @@ Será un placer atenderte." />
                               <img
                                 alt='CASA COMERCIAL 04 PISOS en Av. AMERICA NORTE N°958 cerca de "OPEN PLAZA" - Los Jardines. Área Ocupada 494 m2 a US$ 349,400 dólares.'
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1664%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(7).jpg&amp;w=256&amp;q=70   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1664%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(7).jpg&amp;w=384&amp;q=70   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1664%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(7).jpg&amp;w=640&amp;q=70   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1664%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(7).jpg&amp;w=750&amp;q=70   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1664%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(7).jpg&amp;w=828&amp;q=70   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1664%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(7).jpg&amp;w=1080&amp;q=70 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1664%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(7).jpg&amp;w=1200&amp;q=70 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1664%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(7).jpg&amp;w=1920&amp;q=70 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1664%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(7).jpg&amp;w=2048&amp;q=70 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1664%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(7).jpg&amp;w=3840&amp;q=70 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1664%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(7).jpg&amp;w=256&amp;q=70   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1664%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(7).jpg&amp;w=384&amp;q=70   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1664%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(7).jpg&amp;w=640&amp;q=70   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1664%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(7).jpg&amp;w=750&amp;q=70   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1664%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(7).jpg&amp;w=828&amp;q=70   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1664%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(7).jpg&amp;w=1080&amp;q=70 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1664%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(7).jpg&amp;w=1200&amp;q=70 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1664%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(7).jpg&amp;w=1920&amp;q=70 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1664%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(7).jpg&amp;w=2048&amp;q=70 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1664%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(7).jpg&amp;w=3840&amp;q=70 3840w
                                   "
-                                src="plantilla/RESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN53dd.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1664%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(7).jpg&amp;w=3840&amp;q=70"
+                                src="__next/RESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN53dd.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1664%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(7).jpg&amp;w=3840&amp;q=70"
                                 decoding="async" data-nimg="fill" class="object-cover" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -5167,18 +5186,18 @@ Será un placer atenderte." />
                               <img
                                 alt='TRUJILLO - CASA COMERCIAL 03 PISOS EN AV. NICOLAS DE PIEROLA N°1076 ENTRE TRANSPORTE "EL DORADO" Y UNIVERSIDAD "UTP". ÁREA OCUPADA 376 M2 A US$ 399,400 DÓLARES.'
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1663%2Fweb-agent%2FfileEstates%2FDORADO%20(0).jpg&amp;w=256&amp;q=70   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1663%2Fweb-agent%2FfileEstates%2FDORADO%20(0).jpg&amp;w=384&amp;q=70   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1663%2Fweb-agent%2FfileEstates%2FDORADO%20(0).jpg&amp;w=640&amp;q=70   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1663%2Fweb-agent%2FfileEstates%2FDORADO%20(0).jpg&amp;w=750&amp;q=70   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1663%2Fweb-agent%2FfileEstates%2FDORADO%20(0).jpg&amp;w=828&amp;q=70   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1663%2Fweb-agent%2FfileEstates%2FDORADO%20(0).jpg&amp;w=1080&amp;q=70 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1663%2Fweb-agent%2FfileEstates%2FDORADO%20(0).jpg&amp;w=1200&amp;q=70 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1663%2Fweb-agent%2FfileEstates%2FDORADO%20(0).jpg&amp;w=1920&amp;q=70 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1663%2Fweb-agent%2FfileEstates%2FDORADO%20(0).jpg&amp;w=2048&amp;q=70 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1663%2Fweb-agent%2FfileEstates%2FDORADO%20(0).jpg&amp;w=3840&amp;q=70 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1663%2Fweb-agent%2FfileEstates%2FDORADO%20(0).jpg&amp;w=256&amp;q=70   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1663%2Fweb-agent%2FfileEstates%2FDORADO%20(0).jpg&amp;w=384&amp;q=70   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1663%2Fweb-agent%2FfileEstates%2FDORADO%20(0).jpg&amp;w=640&amp;q=70   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1663%2Fweb-agent%2FfileEstates%2FDORADO%20(0).jpg&amp;w=750&amp;q=70   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1663%2Fweb-agent%2FfileEstates%2FDORADO%20(0).jpg&amp;w=828&amp;q=70   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1663%2Fweb-agent%2FfileEstates%2FDORADO%20(0).jpg&amp;w=1080&amp;q=70 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1663%2Fweb-agent%2FfileEstates%2FDORADO%20(0).jpg&amp;w=1200&amp;q=70 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1663%2Fweb-agent%2FfileEstates%2FDORADO%20(0).jpg&amp;w=1920&amp;q=70 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1663%2Fweb-agent%2FfileEstates%2FDORADO%20(0).jpg&amp;w=2048&amp;q=70 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1663%2Fweb-agent%2FfileEstates%2FDORADO%20(0).jpg&amp;w=3840&amp;q=70 3840w
                                   "
-                                src="plantilla/DORADO%20(0)d753.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1663%2Fweb-agent%2FfileEstates%2FDORADO%20(0).jpg&amp;w=3840&amp;q=70"
+                                src="__next/DORADO%20(0)d753.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1663%2Fweb-agent%2FfileEstates%2FDORADO%20(0).jpg&amp;w=3840&amp;q=70"
                                 decoding="async" data-nimg="fill" class="object-cover" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -5244,18 +5263,18 @@ Será un placer atenderte." />
                             <div class="relative block h-[276px] overflow-hidden md:h-[394px] w-full">
                               <img alt='2do PISO Cerca a Parque A 02 Cuadras "MALL de TRUJILLO",  de 97.20m2 a $ 79.900'
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1481%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(19).jpg&amp;w=256&amp;q=70   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1481%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(19).jpg&amp;w=384&amp;q=70   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1481%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(19).jpg&amp;w=640&amp;q=70   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1481%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(19).jpg&amp;w=750&amp;q=70   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1481%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(19).jpg&amp;w=828&amp;q=70   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1481%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(19).jpg&amp;w=1080&amp;q=70 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1481%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(19).jpg&amp;w=1200&amp;q=70 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1481%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(19).jpg&amp;w=1920&amp;q=70 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1481%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(19).jpg&amp;w=2048&amp;q=70 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1481%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(19).jpg&amp;w=3840&amp;q=70 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1481%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(19).jpg&amp;w=256&amp;q=70   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1481%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(19).jpg&amp;w=384&amp;q=70   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1481%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(19).jpg&amp;w=640&amp;q=70   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1481%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(19).jpg&amp;w=750&amp;q=70   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1481%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(19).jpg&amp;w=828&amp;q=70   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1481%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(19).jpg&amp;w=1080&amp;q=70 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1481%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(19).jpg&amp;w=1200&amp;q=70 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1481%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(19).jpg&amp;w=1920&amp;q=70 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1481%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(19).jpg&amp;w=2048&amp;q=70 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1481%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(19).jpg&amp;w=3840&amp;q=70 3840w
                                   "
-                                src="plantilla/RESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN2fea.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1481%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(19).jpg&amp;w=3840&amp;q=70"
+                                src="__next/RESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN2fea.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1481%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(19).jpg&amp;w=3840&amp;q=70"
                                 decoding="async" data-nimg="fill" class="object-cover" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -5323,18 +5342,18 @@ Será un placer atenderte." />
                               <img
                                 alt='A 02 cuadras del Colegio "MARIA NEGRON" TRUJILLO. VENDO Bonita "CASA 03 PISOS" con "09 CUARTOS", Área Ocupada: 411m2, Cochera. '
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1911%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE.png&amp;w=256&amp;q=70   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1911%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE.png&amp;w=384&amp;q=70   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1911%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE.png&amp;w=640&amp;q=70   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1911%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE.png&amp;w=750&amp;q=70   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1911%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE.png&amp;w=828&amp;q=70   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1911%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE.png&amp;w=1080&amp;q=70 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1911%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE.png&amp;w=1200&amp;q=70 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1911%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE.png&amp;w=1920&amp;q=70 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1911%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE.png&amp;w=2048&amp;q=70 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1911%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE.png&amp;w=3840&amp;q=70 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1911%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE.png&amp;w=256&amp;q=70   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1911%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE.png&amp;w=384&amp;q=70   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1911%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE.png&amp;w=640&amp;q=70   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1911%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE.png&amp;w=750&amp;q=70   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1911%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE.png&amp;w=828&amp;q=70   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1911%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE.png&amp;w=1080&amp;q=70 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1911%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE.png&amp;w=1200&amp;q=70 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1911%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE.png&amp;w=1920&amp;q=70 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1911%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE.png&amp;w=2048&amp;q=70 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1911%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE.png&amp;w=3840&amp;q=70 3840w
                                   "
-                                src="plantilla/RESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN129f.png?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1911%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE.png&amp;w=3840&amp;q=70"
+                                src="__next/RESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN129f.png?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1911%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE.png&amp;w=3840&amp;q=70"
                                 decoding="async" data-nimg="fill" class="object-cover" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -5401,18 +5420,18 @@ Será un placer atenderte." />
                             <div class="relative block h-[276px] overflow-hidden md:h-[394px] w-full">
                               <img alt='AL COSTADO del "GOLF &amp; COUNTRY CLUB". VENDO Hermosa VIVIENDA "03 PISOS".'
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1865%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(25).jpg&amp;w=256&amp;q=70   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1865%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(25).jpg&amp;w=384&amp;q=70   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1865%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(25).jpg&amp;w=640&amp;q=70   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1865%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(25).jpg&amp;w=750&amp;q=70   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1865%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(25).jpg&amp;w=828&amp;q=70   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1865%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(25).jpg&amp;w=1080&amp;q=70 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1865%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(25).jpg&amp;w=1200&amp;q=70 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1865%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(25).jpg&amp;w=1920&amp;q=70 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1865%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(25).jpg&amp;w=2048&amp;q=70 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1865%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(25).jpg&amp;w=3840&amp;q=70 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1865%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(25).jpg&amp;w=256&amp;q=70   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1865%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(25).jpg&amp;w=384&amp;q=70   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1865%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(25).jpg&amp;w=640&amp;q=70   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1865%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(25).jpg&amp;w=750&amp;q=70   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1865%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(25).jpg&amp;w=828&amp;q=70   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1865%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(25).jpg&amp;w=1080&amp;q=70 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1865%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(25).jpg&amp;w=1200&amp;q=70 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1865%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(25).jpg&amp;w=1920&amp;q=70 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1865%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(25).jpg&amp;w=2048&amp;q=70 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1865%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(25).jpg&amp;w=3840&amp;q=70 3840w
                                   "
-                                src="plantilla/RESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSANf7db.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1865%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(25).jpg&amp;w=3840&amp;q=70"
+                                src="__next/RESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSANf7db.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1865%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(25).jpg&amp;w=3840&amp;q=70"
                                 decoding="async" data-nimg="fill" class="object-cover" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -5518,18 +5537,18 @@ Será un placer atenderte." />
                               <img
                                 alt="Casa Comercial 03 Pisos, 597 m², Frente a Essalud y Clínica Alta Gracía, Trujillo"
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F973%2FfileEstates%2Fz7nm9lzbWF960kuFazW1FiDkNz4sZsCmgA9K83fI.png&amp;w=256&amp;q=75   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F973%2FfileEstates%2Fz7nm9lzbWF960kuFazW1FiDkNz4sZsCmgA9K83fI.png&amp;w=384&amp;q=75   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F973%2FfileEstates%2Fz7nm9lzbWF960kuFazW1FiDkNz4sZsCmgA9K83fI.png&amp;w=640&amp;q=75   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F973%2FfileEstates%2Fz7nm9lzbWF960kuFazW1FiDkNz4sZsCmgA9K83fI.png&amp;w=750&amp;q=75   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F973%2FfileEstates%2Fz7nm9lzbWF960kuFazW1FiDkNz4sZsCmgA9K83fI.png&amp;w=828&amp;q=75   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F973%2FfileEstates%2Fz7nm9lzbWF960kuFazW1FiDkNz4sZsCmgA9K83fI.png&amp;w=1080&amp;q=75 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F973%2FfileEstates%2Fz7nm9lzbWF960kuFazW1FiDkNz4sZsCmgA9K83fI.png&amp;w=1200&amp;q=75 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F973%2FfileEstates%2Fz7nm9lzbWF960kuFazW1FiDkNz4sZsCmgA9K83fI.png&amp;w=1920&amp;q=75 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F973%2FfileEstates%2Fz7nm9lzbWF960kuFazW1FiDkNz4sZsCmgA9K83fI.png&amp;w=2048&amp;q=75 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F973%2FfileEstates%2Fz7nm9lzbWF960kuFazW1FiDkNz4sZsCmgA9K83fI.png&amp;w=3840&amp;q=75 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F973%2FfileEstates%2Fz7nm9lzbWF960kuFazW1FiDkNz4sZsCmgA9K83fI.png&amp;w=256&amp;q=75   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F973%2FfileEstates%2Fz7nm9lzbWF960kuFazW1FiDkNz4sZsCmgA9K83fI.png&amp;w=384&amp;q=75   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F973%2FfileEstates%2Fz7nm9lzbWF960kuFazW1FiDkNz4sZsCmgA9K83fI.png&amp;w=640&amp;q=75   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F973%2FfileEstates%2Fz7nm9lzbWF960kuFazW1FiDkNz4sZsCmgA9K83fI.png&amp;w=750&amp;q=75   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F973%2FfileEstates%2Fz7nm9lzbWF960kuFazW1FiDkNz4sZsCmgA9K83fI.png&amp;w=828&amp;q=75   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F973%2FfileEstates%2Fz7nm9lzbWF960kuFazW1FiDkNz4sZsCmgA9K83fI.png&amp;w=1080&amp;q=75 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F973%2FfileEstates%2Fz7nm9lzbWF960kuFazW1FiDkNz4sZsCmgA9K83fI.png&amp;w=1200&amp;q=75 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F973%2FfileEstates%2Fz7nm9lzbWF960kuFazW1FiDkNz4sZsCmgA9K83fI.png&amp;w=1920&amp;q=75 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F973%2FfileEstates%2Fz7nm9lzbWF960kuFazW1FiDkNz4sZsCmgA9K83fI.png&amp;w=2048&amp;q=75 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F973%2FfileEstates%2Fz7nm9lzbWF960kuFazW1FiDkNz4sZsCmgA9K83fI.png&amp;w=3840&amp;q=75 3840w
                                   "
-                                src="plantilla/z7nm9lzbWF960kuFazW1FiDkNz4sZsCmgA9K83fIbb1c.png?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F973%2FfileEstates%2Fz7nm9lzbWF960kuFazW1FiDkNz4sZsCmgA9K83fI.png&amp;w=3840&amp;q=75"
+                                src="__next/z7nm9lzbWF960kuFazW1FiDkNz4sZsCmgA9K83fIbb1c.png?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F973%2FfileEstates%2Fz7nm9lzbWF960kuFazW1FiDkNz4sZsCmgA9K83fI.png&amp;w=3840&amp;q=75"
                                 decoding="async" data-nimg="fill" class="object-cover absolute" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -5572,18 +5591,18 @@ Será un placer atenderte." />
                               <img
                                 alt="!La OPORTUNIDAD que estabas buscando! Departamento 2do piso de 99.17m2 con 4 cuartos ,cerca a UNT - Trujillo"
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F978%2FfileEstates%2FZGFgWkw3ljN1GQ22nl0JVn3IMh8D2hY13oIouyS2.jpeg&amp;w=256&amp;q=75   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F978%2FfileEstates%2FZGFgWkw3ljN1GQ22nl0JVn3IMh8D2hY13oIouyS2.jpeg&amp;w=384&amp;q=75   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F978%2FfileEstates%2FZGFgWkw3ljN1GQ22nl0JVn3IMh8D2hY13oIouyS2.jpeg&amp;w=640&amp;q=75   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F978%2FfileEstates%2FZGFgWkw3ljN1GQ22nl0JVn3IMh8D2hY13oIouyS2.jpeg&amp;w=750&amp;q=75   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F978%2FfileEstates%2FZGFgWkw3ljN1GQ22nl0JVn3IMh8D2hY13oIouyS2.jpeg&amp;w=828&amp;q=75   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F978%2FfileEstates%2FZGFgWkw3ljN1GQ22nl0JVn3IMh8D2hY13oIouyS2.jpeg&amp;w=1080&amp;q=75 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F978%2FfileEstates%2FZGFgWkw3ljN1GQ22nl0JVn3IMh8D2hY13oIouyS2.jpeg&amp;w=1200&amp;q=75 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F978%2FfileEstates%2FZGFgWkw3ljN1GQ22nl0JVn3IMh8D2hY13oIouyS2.jpeg&amp;w=1920&amp;q=75 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F978%2FfileEstates%2FZGFgWkw3ljN1GQ22nl0JVn3IMh8D2hY13oIouyS2.jpeg&amp;w=2048&amp;q=75 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F978%2FfileEstates%2FZGFgWkw3ljN1GQ22nl0JVn3IMh8D2hY13oIouyS2.jpeg&amp;w=3840&amp;q=75 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F978%2FfileEstates%2FZGFgWkw3ljN1GQ22nl0JVn3IMh8D2hY13oIouyS2.jpeg&amp;w=256&amp;q=75   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F978%2FfileEstates%2FZGFgWkw3ljN1GQ22nl0JVn3IMh8D2hY13oIouyS2.jpeg&amp;w=384&amp;q=75   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F978%2FfileEstates%2FZGFgWkw3ljN1GQ22nl0JVn3IMh8D2hY13oIouyS2.jpeg&amp;w=640&amp;q=75   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F978%2FfileEstates%2FZGFgWkw3ljN1GQ22nl0JVn3IMh8D2hY13oIouyS2.jpeg&amp;w=750&amp;q=75   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F978%2FfileEstates%2FZGFgWkw3ljN1GQ22nl0JVn3IMh8D2hY13oIouyS2.jpeg&amp;w=828&amp;q=75   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F978%2FfileEstates%2FZGFgWkw3ljN1GQ22nl0JVn3IMh8D2hY13oIouyS2.jpeg&amp;w=1080&amp;q=75 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F978%2FfileEstates%2FZGFgWkw3ljN1GQ22nl0JVn3IMh8D2hY13oIouyS2.jpeg&amp;w=1200&amp;q=75 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F978%2FfileEstates%2FZGFgWkw3ljN1GQ22nl0JVn3IMh8D2hY13oIouyS2.jpeg&amp;w=1920&amp;q=75 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F978%2FfileEstates%2FZGFgWkw3ljN1GQ22nl0JVn3IMh8D2hY13oIouyS2.jpeg&amp;w=2048&amp;q=75 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F978%2FfileEstates%2FZGFgWkw3ljN1GQ22nl0JVn3IMh8D2hY13oIouyS2.jpeg&amp;w=3840&amp;q=75 3840w
                                   "
-                                src="plantilla/ZGFgWkw3ljN1GQ22nl0JVn3IMh8D2hY13oIouyS2e23e.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F978%2FfileEstates%2FZGFgWkw3ljN1GQ22nl0JVn3IMh8D2hY13oIouyS2.jpeg&amp;w=3840&amp;q=75"
+                                src="__next/ZGFgWkw3ljN1GQ22nl0JVn3IMh8D2hY13oIouyS2e23e.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F978%2FfileEstates%2FZGFgWkw3ljN1GQ22nl0JVn3IMh8D2hY13oIouyS2.jpeg&amp;w=3840&amp;q=75"
                                 decoding="async" data-nimg="fill" class="object-cover absolute" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -5626,18 +5645,18 @@ Será un placer atenderte." />
                               <img
                                 alt="Duplex 3ro y 4to Piso con 13 Habitaciones a 01 Cuadra de Av. España a Sólo $62,900 dólares"
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1004%2FfileEstates%2FPAFZkPpiqh08WWEqaT2CFFws4dO5ckfdkZVCZxWH.png&amp;w=256&amp;q=75   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1004%2FfileEstates%2FPAFZkPpiqh08WWEqaT2CFFws4dO5ckfdkZVCZxWH.png&amp;w=384&amp;q=75   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1004%2FfileEstates%2FPAFZkPpiqh08WWEqaT2CFFws4dO5ckfdkZVCZxWH.png&amp;w=640&amp;q=75   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1004%2FfileEstates%2FPAFZkPpiqh08WWEqaT2CFFws4dO5ckfdkZVCZxWH.png&amp;w=750&amp;q=75   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1004%2FfileEstates%2FPAFZkPpiqh08WWEqaT2CFFws4dO5ckfdkZVCZxWH.png&amp;w=828&amp;q=75   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1004%2FfileEstates%2FPAFZkPpiqh08WWEqaT2CFFws4dO5ckfdkZVCZxWH.png&amp;w=1080&amp;q=75 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1004%2FfileEstates%2FPAFZkPpiqh08WWEqaT2CFFws4dO5ckfdkZVCZxWH.png&amp;w=1200&amp;q=75 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1004%2FfileEstates%2FPAFZkPpiqh08WWEqaT2CFFws4dO5ckfdkZVCZxWH.png&amp;w=1920&amp;q=75 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1004%2FfileEstates%2FPAFZkPpiqh08WWEqaT2CFFws4dO5ckfdkZVCZxWH.png&amp;w=2048&amp;q=75 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1004%2FfileEstates%2FPAFZkPpiqh08WWEqaT2CFFws4dO5ckfdkZVCZxWH.png&amp;w=3840&amp;q=75 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1004%2FfileEstates%2FPAFZkPpiqh08WWEqaT2CFFws4dO5ckfdkZVCZxWH.png&amp;w=256&amp;q=75   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1004%2FfileEstates%2FPAFZkPpiqh08WWEqaT2CFFws4dO5ckfdkZVCZxWH.png&amp;w=384&amp;q=75   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1004%2FfileEstates%2FPAFZkPpiqh08WWEqaT2CFFws4dO5ckfdkZVCZxWH.png&amp;w=640&amp;q=75   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1004%2FfileEstates%2FPAFZkPpiqh08WWEqaT2CFFws4dO5ckfdkZVCZxWH.png&amp;w=750&amp;q=75   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1004%2FfileEstates%2FPAFZkPpiqh08WWEqaT2CFFws4dO5ckfdkZVCZxWH.png&amp;w=828&amp;q=75   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1004%2FfileEstates%2FPAFZkPpiqh08WWEqaT2CFFws4dO5ckfdkZVCZxWH.png&amp;w=1080&amp;q=75 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1004%2FfileEstates%2FPAFZkPpiqh08WWEqaT2CFFws4dO5ckfdkZVCZxWH.png&amp;w=1200&amp;q=75 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1004%2FfileEstates%2FPAFZkPpiqh08WWEqaT2CFFws4dO5ckfdkZVCZxWH.png&amp;w=1920&amp;q=75 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1004%2FfileEstates%2FPAFZkPpiqh08WWEqaT2CFFws4dO5ckfdkZVCZxWH.png&amp;w=2048&amp;q=75 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1004%2FfileEstates%2FPAFZkPpiqh08WWEqaT2CFFws4dO5ckfdkZVCZxWH.png&amp;w=3840&amp;q=75 3840w
                                   "
-                                src="plantilla/PAFZkPpiqh08WWEqaT2CFFws4dO5ckfdkZVCZxWHbc42.png?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1004%2FfileEstates%2FPAFZkPpiqh08WWEqaT2CFFws4dO5ckfdkZVCZxWH.png&amp;w=3840&amp;q=75"
+                                src="__next/PAFZkPpiqh08WWEqaT2CFFws4dO5ckfdkZVCZxWHbc42.png?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1004%2FfileEstates%2FPAFZkPpiqh08WWEqaT2CFFws4dO5ckfdkZVCZxWH.png&amp;w=3840&amp;q=75"
                                 decoding="async" data-nimg="fill" class="object-cover absolute" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -5680,18 +5699,18 @@ Será un placer atenderte." />
                               <img
                                 alt="Disfruta Vivir en Este Precioso Departamento Frente a Parque, con Finos Acabados"
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1005%2FfileEstates%2FnYDbnvqmmY8cqxwOP4xsAyx9OwaM8S37n4rm4kup.jpeg&amp;w=256&amp;q=75   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1005%2FfileEstates%2FnYDbnvqmmY8cqxwOP4xsAyx9OwaM8S37n4rm4kup.jpeg&amp;w=384&amp;q=75   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1005%2FfileEstates%2FnYDbnvqmmY8cqxwOP4xsAyx9OwaM8S37n4rm4kup.jpeg&amp;w=640&amp;q=75   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1005%2FfileEstates%2FnYDbnvqmmY8cqxwOP4xsAyx9OwaM8S37n4rm4kup.jpeg&amp;w=750&amp;q=75   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1005%2FfileEstates%2FnYDbnvqmmY8cqxwOP4xsAyx9OwaM8S37n4rm4kup.jpeg&amp;w=828&amp;q=75   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1005%2FfileEstates%2FnYDbnvqmmY8cqxwOP4xsAyx9OwaM8S37n4rm4kup.jpeg&amp;w=1080&amp;q=75 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1005%2FfileEstates%2FnYDbnvqmmY8cqxwOP4xsAyx9OwaM8S37n4rm4kup.jpeg&amp;w=1200&amp;q=75 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1005%2FfileEstates%2FnYDbnvqmmY8cqxwOP4xsAyx9OwaM8S37n4rm4kup.jpeg&amp;w=1920&amp;q=75 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1005%2FfileEstates%2FnYDbnvqmmY8cqxwOP4xsAyx9OwaM8S37n4rm4kup.jpeg&amp;w=2048&amp;q=75 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1005%2FfileEstates%2FnYDbnvqmmY8cqxwOP4xsAyx9OwaM8S37n4rm4kup.jpeg&amp;w=3840&amp;q=75 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1005%2FfileEstates%2FnYDbnvqmmY8cqxwOP4xsAyx9OwaM8S37n4rm4kup.jpeg&amp;w=256&amp;q=75   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1005%2FfileEstates%2FnYDbnvqmmY8cqxwOP4xsAyx9OwaM8S37n4rm4kup.jpeg&amp;w=384&amp;q=75   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1005%2FfileEstates%2FnYDbnvqmmY8cqxwOP4xsAyx9OwaM8S37n4rm4kup.jpeg&amp;w=640&amp;q=75   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1005%2FfileEstates%2FnYDbnvqmmY8cqxwOP4xsAyx9OwaM8S37n4rm4kup.jpeg&amp;w=750&amp;q=75   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1005%2FfileEstates%2FnYDbnvqmmY8cqxwOP4xsAyx9OwaM8S37n4rm4kup.jpeg&amp;w=828&amp;q=75   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1005%2FfileEstates%2FnYDbnvqmmY8cqxwOP4xsAyx9OwaM8S37n4rm4kup.jpeg&amp;w=1080&amp;q=75 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1005%2FfileEstates%2FnYDbnvqmmY8cqxwOP4xsAyx9OwaM8S37n4rm4kup.jpeg&amp;w=1200&amp;q=75 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1005%2FfileEstates%2FnYDbnvqmmY8cqxwOP4xsAyx9OwaM8S37n4rm4kup.jpeg&amp;w=1920&amp;q=75 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1005%2FfileEstates%2FnYDbnvqmmY8cqxwOP4xsAyx9OwaM8S37n4rm4kup.jpeg&amp;w=2048&amp;q=75 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1005%2FfileEstates%2FnYDbnvqmmY8cqxwOP4xsAyx9OwaM8S37n4rm4kup.jpeg&amp;w=3840&amp;q=75 3840w
                                   "
-                                src="plantilla/nYDbnvqmmY8cqxwOP4xsAyx9OwaM8S37n4rm4kupe21a.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1005%2FfileEstates%2FnYDbnvqmmY8cqxwOP4xsAyx9OwaM8S37n4rm4kup.jpeg&amp;w=3840&amp;q=75"
+                                src="__next/nYDbnvqmmY8cqxwOP4xsAyx9OwaM8S37n4rm4kupe21a.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1005%2FfileEstates%2FnYDbnvqmmY8cqxwOP4xsAyx9OwaM8S37n4rm4kup.jpeg&amp;w=3840&amp;q=75"
                                 decoding="async" data-nimg="fill" class="object-cover absolute" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -5734,18 +5753,18 @@ Será un placer atenderte." />
                               <img
                                 alt="¡Este Encantador Departamento con Vista Al Parque Espera por Ti! Es Espectacular"
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1006%2FfileEstates%2FZDdOm6JYzjqYRQ6eWQnTiibK1dIcQquUO8hj5q8N.jpeg&amp;w=256&amp;q=75   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1006%2FfileEstates%2FZDdOm6JYzjqYRQ6eWQnTiibK1dIcQquUO8hj5q8N.jpeg&amp;w=384&amp;q=75   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1006%2FfileEstates%2FZDdOm6JYzjqYRQ6eWQnTiibK1dIcQquUO8hj5q8N.jpeg&amp;w=640&amp;q=75   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1006%2FfileEstates%2FZDdOm6JYzjqYRQ6eWQnTiibK1dIcQquUO8hj5q8N.jpeg&amp;w=750&amp;q=75   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1006%2FfileEstates%2FZDdOm6JYzjqYRQ6eWQnTiibK1dIcQquUO8hj5q8N.jpeg&amp;w=828&amp;q=75   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1006%2FfileEstates%2FZDdOm6JYzjqYRQ6eWQnTiibK1dIcQquUO8hj5q8N.jpeg&amp;w=1080&amp;q=75 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1006%2FfileEstates%2FZDdOm6JYzjqYRQ6eWQnTiibK1dIcQquUO8hj5q8N.jpeg&amp;w=1200&amp;q=75 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1006%2FfileEstates%2FZDdOm6JYzjqYRQ6eWQnTiibK1dIcQquUO8hj5q8N.jpeg&amp;w=1920&amp;q=75 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1006%2FfileEstates%2FZDdOm6JYzjqYRQ6eWQnTiibK1dIcQquUO8hj5q8N.jpeg&amp;w=2048&amp;q=75 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1006%2FfileEstates%2FZDdOm6JYzjqYRQ6eWQnTiibK1dIcQquUO8hj5q8N.jpeg&amp;w=3840&amp;q=75 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1006%2FfileEstates%2FZDdOm6JYzjqYRQ6eWQnTiibK1dIcQquUO8hj5q8N.jpeg&amp;w=256&amp;q=75   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1006%2FfileEstates%2FZDdOm6JYzjqYRQ6eWQnTiibK1dIcQquUO8hj5q8N.jpeg&amp;w=384&amp;q=75   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1006%2FfileEstates%2FZDdOm6JYzjqYRQ6eWQnTiibK1dIcQquUO8hj5q8N.jpeg&amp;w=640&amp;q=75   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1006%2FfileEstates%2FZDdOm6JYzjqYRQ6eWQnTiibK1dIcQquUO8hj5q8N.jpeg&amp;w=750&amp;q=75   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1006%2FfileEstates%2FZDdOm6JYzjqYRQ6eWQnTiibK1dIcQquUO8hj5q8N.jpeg&amp;w=828&amp;q=75   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1006%2FfileEstates%2FZDdOm6JYzjqYRQ6eWQnTiibK1dIcQquUO8hj5q8N.jpeg&amp;w=1080&amp;q=75 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1006%2FfileEstates%2FZDdOm6JYzjqYRQ6eWQnTiibK1dIcQquUO8hj5q8N.jpeg&amp;w=1200&amp;q=75 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1006%2FfileEstates%2FZDdOm6JYzjqYRQ6eWQnTiibK1dIcQquUO8hj5q8N.jpeg&amp;w=1920&amp;q=75 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1006%2FfileEstates%2FZDdOm6JYzjqYRQ6eWQnTiibK1dIcQquUO8hj5q8N.jpeg&amp;w=2048&amp;q=75 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1006%2FfileEstates%2FZDdOm6JYzjqYRQ6eWQnTiibK1dIcQquUO8hj5q8N.jpeg&amp;w=3840&amp;q=75 3840w
                                   "
-                                src="plantilla/ZDdOm6JYzjqYRQ6eWQnTiibK1dIcQquUO8hj5q8N2f1f.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1006%2FfileEstates%2FZDdOm6JYzjqYRQ6eWQnTiibK1dIcQquUO8hj5q8N.jpeg&amp;w=3840&amp;q=75"
+                                src="__next/ZDdOm6JYzjqYRQ6eWQnTiibK1dIcQquUO8hj5q8N2f1f.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1006%2FfileEstates%2FZDdOm6JYzjqYRQ6eWQnTiibK1dIcQquUO8hj5q8N.jpeg&amp;w=3840&amp;q=75"
                                 decoding="async" data-nimg="fill" class="object-cover absolute" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -5787,18 +5806,18 @@ Será un placer atenderte." />
                               <img
                                 alt="1ER PISO de ÁREA: 160m2 - CERCA A PARQUE CON 03 CUARTOS A $65,000 dólares en SAN ANDRES V ETAPA"
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1306%2FfileEstates%2FYjB7qMxB8IKcMVQ794dRVIB855ty7rX1HM9KIfI1.jpeg&amp;w=256&amp;q=75   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1306%2FfileEstates%2FYjB7qMxB8IKcMVQ794dRVIB855ty7rX1HM9KIfI1.jpeg&amp;w=384&amp;q=75   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1306%2FfileEstates%2FYjB7qMxB8IKcMVQ794dRVIB855ty7rX1HM9KIfI1.jpeg&amp;w=640&amp;q=75   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1306%2FfileEstates%2FYjB7qMxB8IKcMVQ794dRVIB855ty7rX1HM9KIfI1.jpeg&amp;w=750&amp;q=75   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1306%2FfileEstates%2FYjB7qMxB8IKcMVQ794dRVIB855ty7rX1HM9KIfI1.jpeg&amp;w=828&amp;q=75   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1306%2FfileEstates%2FYjB7qMxB8IKcMVQ794dRVIB855ty7rX1HM9KIfI1.jpeg&amp;w=1080&amp;q=75 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1306%2FfileEstates%2FYjB7qMxB8IKcMVQ794dRVIB855ty7rX1HM9KIfI1.jpeg&amp;w=1200&amp;q=75 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1306%2FfileEstates%2FYjB7qMxB8IKcMVQ794dRVIB855ty7rX1HM9KIfI1.jpeg&amp;w=1920&amp;q=75 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1306%2FfileEstates%2FYjB7qMxB8IKcMVQ794dRVIB855ty7rX1HM9KIfI1.jpeg&amp;w=2048&amp;q=75 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1306%2FfileEstates%2FYjB7qMxB8IKcMVQ794dRVIB855ty7rX1HM9KIfI1.jpeg&amp;w=3840&amp;q=75 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1306%2FfileEstates%2FYjB7qMxB8IKcMVQ794dRVIB855ty7rX1HM9KIfI1.jpeg&amp;w=256&amp;q=75   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1306%2FfileEstates%2FYjB7qMxB8IKcMVQ794dRVIB855ty7rX1HM9KIfI1.jpeg&amp;w=384&amp;q=75   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1306%2FfileEstates%2FYjB7qMxB8IKcMVQ794dRVIB855ty7rX1HM9KIfI1.jpeg&amp;w=640&amp;q=75   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1306%2FfileEstates%2FYjB7qMxB8IKcMVQ794dRVIB855ty7rX1HM9KIfI1.jpeg&amp;w=750&amp;q=75   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1306%2FfileEstates%2FYjB7qMxB8IKcMVQ794dRVIB855ty7rX1HM9KIfI1.jpeg&amp;w=828&amp;q=75   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1306%2FfileEstates%2FYjB7qMxB8IKcMVQ794dRVIB855ty7rX1HM9KIfI1.jpeg&amp;w=1080&amp;q=75 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1306%2FfileEstates%2FYjB7qMxB8IKcMVQ794dRVIB855ty7rX1HM9KIfI1.jpeg&amp;w=1200&amp;q=75 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1306%2FfileEstates%2FYjB7qMxB8IKcMVQ794dRVIB855ty7rX1HM9KIfI1.jpeg&amp;w=1920&amp;q=75 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1306%2FfileEstates%2FYjB7qMxB8IKcMVQ794dRVIB855ty7rX1HM9KIfI1.jpeg&amp;w=2048&amp;q=75 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1306%2FfileEstates%2FYjB7qMxB8IKcMVQ794dRVIB855ty7rX1HM9KIfI1.jpeg&amp;w=3840&amp;q=75 3840w
                                   "
-                                src="plantilla/YjB7qMxB8IKcMVQ794dRVIB855ty7rX1HM9KIfI1cf26.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1306%2FfileEstates%2FYjB7qMxB8IKcMVQ794dRVIB855ty7rX1HM9KIfI1.jpeg&amp;w=3840&amp;q=75"
+                                src="__next/YjB7qMxB8IKcMVQ794dRVIB855ty7rX1HM9KIfI1cf26.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1306%2FfileEstates%2FYjB7qMxB8IKcMVQ794dRVIB855ty7rX1HM9KIfI1.jpeg&amp;w=3840&amp;q=75"
                                 decoding="async" data-nimg="fill" class="object-cover absolute" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -5842,18 +5861,18 @@ Será un placer atenderte." />
                               <img
                                 alt="TERRENO de 300m² en URB. EL GOLF, PALMERAS II ETAPA -ZONA MÁS EXCLUSIVA Y SEGURA DE TRUJILLO."
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1307%2FfileEstates%2FMkVOkxj6mh3mNZgIZvW8qRHIsVz35aTsqgmy9pOq.png&amp;w=256&amp;q=75   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1307%2FfileEstates%2FMkVOkxj6mh3mNZgIZvW8qRHIsVz35aTsqgmy9pOq.png&amp;w=384&amp;q=75   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1307%2FfileEstates%2FMkVOkxj6mh3mNZgIZvW8qRHIsVz35aTsqgmy9pOq.png&amp;w=640&amp;q=75   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1307%2FfileEstates%2FMkVOkxj6mh3mNZgIZvW8qRHIsVz35aTsqgmy9pOq.png&amp;w=750&amp;q=75   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1307%2FfileEstates%2FMkVOkxj6mh3mNZgIZvW8qRHIsVz35aTsqgmy9pOq.png&amp;w=828&amp;q=75   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1307%2FfileEstates%2FMkVOkxj6mh3mNZgIZvW8qRHIsVz35aTsqgmy9pOq.png&amp;w=1080&amp;q=75 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1307%2FfileEstates%2FMkVOkxj6mh3mNZgIZvW8qRHIsVz35aTsqgmy9pOq.png&amp;w=1200&amp;q=75 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1307%2FfileEstates%2FMkVOkxj6mh3mNZgIZvW8qRHIsVz35aTsqgmy9pOq.png&amp;w=1920&amp;q=75 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1307%2FfileEstates%2FMkVOkxj6mh3mNZgIZvW8qRHIsVz35aTsqgmy9pOq.png&amp;w=2048&amp;q=75 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1307%2FfileEstates%2FMkVOkxj6mh3mNZgIZvW8qRHIsVz35aTsqgmy9pOq.png&amp;w=3840&amp;q=75 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1307%2FfileEstates%2FMkVOkxj6mh3mNZgIZvW8qRHIsVz35aTsqgmy9pOq.png&amp;w=256&amp;q=75   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1307%2FfileEstates%2FMkVOkxj6mh3mNZgIZvW8qRHIsVz35aTsqgmy9pOq.png&amp;w=384&amp;q=75   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1307%2FfileEstates%2FMkVOkxj6mh3mNZgIZvW8qRHIsVz35aTsqgmy9pOq.png&amp;w=640&amp;q=75   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1307%2FfileEstates%2FMkVOkxj6mh3mNZgIZvW8qRHIsVz35aTsqgmy9pOq.png&amp;w=750&amp;q=75   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1307%2FfileEstates%2FMkVOkxj6mh3mNZgIZvW8qRHIsVz35aTsqgmy9pOq.png&amp;w=828&amp;q=75   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1307%2FfileEstates%2FMkVOkxj6mh3mNZgIZvW8qRHIsVz35aTsqgmy9pOq.png&amp;w=1080&amp;q=75 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1307%2FfileEstates%2FMkVOkxj6mh3mNZgIZvW8qRHIsVz35aTsqgmy9pOq.png&amp;w=1200&amp;q=75 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1307%2FfileEstates%2FMkVOkxj6mh3mNZgIZvW8qRHIsVz35aTsqgmy9pOq.png&amp;w=1920&amp;q=75 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1307%2FfileEstates%2FMkVOkxj6mh3mNZgIZvW8qRHIsVz35aTsqgmy9pOq.png&amp;w=2048&amp;q=75 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1307%2FfileEstates%2FMkVOkxj6mh3mNZgIZvW8qRHIsVz35aTsqgmy9pOq.png&amp;w=3840&amp;q=75 3840w
                                   "
-                                src="plantilla/MkVOkxj6mh3mNZgIZvW8qRHIsVz35aTsqgmy9pOqa088.png?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1307%2FfileEstates%2FMkVOkxj6mh3mNZgIZvW8qRHIsVz35aTsqgmy9pOq.png&amp;w=3840&amp;q=75"
+                                src="__next/MkVOkxj6mh3mNZgIZvW8qRHIsVz35aTsqgmy9pOqa088.png?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1307%2FfileEstates%2FMkVOkxj6mh3mNZgIZvW8qRHIsVz35aTsqgmy9pOq.png&amp;w=3840&amp;q=75"
                                 decoding="async" data-nimg="fill" class="object-cover absolute" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -5896,18 +5915,18 @@ Será un placer atenderte." />
                             <div class="relative block h-[270px] w-full">
                               <img alt="Hogar 1er PISO de 127m2 en Urb. Santa María a US$74,900 (Negociable) -Trujillo"
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1416%2Fweb-agent%2FfileEstates%2F1.jpeg&amp;w=256&amp;q=75   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1416%2Fweb-agent%2FfileEstates%2F1.jpeg&amp;w=384&amp;q=75   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1416%2Fweb-agent%2FfileEstates%2F1.jpeg&amp;w=640&amp;q=75   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1416%2Fweb-agent%2FfileEstates%2F1.jpeg&amp;w=750&amp;q=75   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1416%2Fweb-agent%2FfileEstates%2F1.jpeg&amp;w=828&amp;q=75   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1416%2Fweb-agent%2FfileEstates%2F1.jpeg&amp;w=1080&amp;q=75 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1416%2Fweb-agent%2FfileEstates%2F1.jpeg&amp;w=1200&amp;q=75 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1416%2Fweb-agent%2FfileEstates%2F1.jpeg&amp;w=1920&amp;q=75 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1416%2Fweb-agent%2FfileEstates%2F1.jpeg&amp;w=2048&amp;q=75 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1416%2Fweb-agent%2FfileEstates%2F1.jpeg&amp;w=3840&amp;q=75 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1416%2Fweb-agent%2FfileEstates%2F1.jpeg&amp;w=256&amp;q=75   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1416%2Fweb-agent%2FfileEstates%2F1.jpeg&amp;w=384&amp;q=75   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1416%2Fweb-agent%2FfileEstates%2F1.jpeg&amp;w=640&amp;q=75   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1416%2Fweb-agent%2FfileEstates%2F1.jpeg&amp;w=750&amp;q=75   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1416%2Fweb-agent%2FfileEstates%2F1.jpeg&amp;w=828&amp;q=75   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1416%2Fweb-agent%2FfileEstates%2F1.jpeg&amp;w=1080&amp;q=75 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1416%2Fweb-agent%2FfileEstates%2F1.jpeg&amp;w=1200&amp;q=75 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1416%2Fweb-agent%2FfileEstates%2F1.jpeg&amp;w=1920&amp;q=75 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1416%2Fweb-agent%2FfileEstates%2F1.jpeg&amp;w=2048&amp;q=75 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1416%2Fweb-agent%2FfileEstates%2F1.jpeg&amp;w=3840&amp;q=75 3840w
                                   "
-                                src="plantilla/18418.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1416%2Fweb-agent%2FfileEstates%2F1.jpeg&amp;w=3840&amp;q=75"
+                                src="__next/18418.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1416%2Fweb-agent%2FfileEstates%2F1.jpeg&amp;w=3840&amp;q=75"
                                 decoding="async" data-nimg="fill" class="object-cover absolute" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -5960,18 +5979,18 @@ Será un placer atenderte." />
                               <img
                                 alt="LUJOSA CASA de 03 PISOS, AO: 236,25 m2 en URB. OQUÍDEAS de SAN ISIDRO- TRUJILLO  "
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1617%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(9).jpg&amp;w=256&amp;q=75   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1617%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(9).jpg&amp;w=384&amp;q=75   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1617%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(9).jpg&amp;w=640&amp;q=75   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1617%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(9).jpg&amp;w=750&amp;q=75   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1617%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(9).jpg&amp;w=828&amp;q=75   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1617%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(9).jpg&amp;w=1080&amp;q=75 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1617%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(9).jpg&amp;w=1200&amp;q=75 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1617%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(9).jpg&amp;w=1920&amp;q=75 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1617%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(9).jpg&amp;w=2048&amp;q=75 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1617%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(9).jpg&amp;w=3840&amp;q=75 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1617%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(9).jpg&amp;w=256&amp;q=75   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1617%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(9).jpg&amp;w=384&amp;q=75   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1617%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(9).jpg&amp;w=640&amp;q=75   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1617%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(9).jpg&amp;w=750&amp;q=75   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1617%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(9).jpg&amp;w=828&amp;q=75   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1617%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(9).jpg&amp;w=1080&amp;q=75 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1617%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(9).jpg&amp;w=1200&amp;q=75 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1617%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(9).jpg&amp;w=1920&amp;q=75 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1617%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(9).jpg&amp;w=2048&amp;q=75 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1617%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(9).jpg&amp;w=3840&amp;q=75 3840w
                                   "
-                                src="plantilla/RESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSANedb0.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1617%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(9).jpg&amp;w=3840&amp;q=75"
+                                src="__next/RESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSANedb0.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1617%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(9).jpg&amp;w=3840&amp;q=75"
                                 decoding="async" data-nimg="fill" class="object-cover absolute" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -6042,18 +6061,18 @@ Será un placer atenderte." />
                               <img
                                 alt="TRUJILLO 3er PISO en AV. LARCO N°1270, cerca Universidad UCV y SUNARP Área: 92 m2 con 03 Hab US $ 57,900 dólares."
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1673%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(5).jpg&amp;w=256&amp;q=75   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1673%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(5).jpg&amp;w=384&amp;q=75   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1673%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(5).jpg&amp;w=640&amp;q=75   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1673%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(5).jpg&amp;w=750&amp;q=75   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1673%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(5).jpg&amp;w=828&amp;q=75   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1673%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(5).jpg&amp;w=1080&amp;q=75 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1673%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(5).jpg&amp;w=1200&amp;q=75 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1673%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(5).jpg&amp;w=1920&amp;q=75 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1673%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(5).jpg&amp;w=2048&amp;q=75 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1673%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(5).jpg&amp;w=3840&amp;q=75 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1673%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(5).jpg&amp;w=256&amp;q=75   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1673%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(5).jpg&amp;w=384&amp;q=75   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1673%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(5).jpg&amp;w=640&amp;q=75   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1673%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(5).jpg&amp;w=750&amp;q=75   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1673%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(5).jpg&amp;w=828&amp;q=75   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1673%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(5).jpg&amp;w=1080&amp;q=75 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1673%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(5).jpg&amp;w=1200&amp;q=75 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1673%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(5).jpg&amp;w=1920&amp;q=75 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1673%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(5).jpg&amp;w=2048&amp;q=75 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1673%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(5).jpg&amp;w=3840&amp;q=75 3840w
                                   "
-                                src="plantilla/RESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN061c.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1673%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(5).jpg&amp;w=3840&amp;q=75"
+                                src="__next/RESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN061c.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1673%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(5).jpg&amp;w=3840&amp;q=75"
                                 decoding="async" data-nimg="fill" class="object-cover absolute" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -6108,18 +6127,18 @@ Será un placer atenderte." />
                               <img
                                 alt='Frente PARQUE en Urb. "QUINTANAS" AMPLIA CASA de 02 PISOS TRUJILLO, a precio ocasión: US$ 294,900 dólares (Negociable).'
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1757%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(15).jpg&amp;w=256&amp;q=75   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1757%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(15).jpg&amp;w=384&amp;q=75   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1757%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(15).jpg&amp;w=640&amp;q=75   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1757%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(15).jpg&amp;w=750&amp;q=75   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1757%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(15).jpg&amp;w=828&amp;q=75   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1757%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(15).jpg&amp;w=1080&amp;q=75 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1757%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(15).jpg&amp;w=1200&amp;q=75 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1757%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(15).jpg&amp;w=1920&amp;q=75 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1757%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(15).jpg&amp;w=2048&amp;q=75 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1757%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(15).jpg&amp;w=3840&amp;q=75 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1757%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(15).jpg&amp;w=256&amp;q=75   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1757%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(15).jpg&amp;w=384&amp;q=75   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1757%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(15).jpg&amp;w=640&amp;q=75   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1757%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(15).jpg&amp;w=750&amp;q=75   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1757%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(15).jpg&amp;w=828&amp;q=75   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1757%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(15).jpg&amp;w=1080&amp;q=75 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1757%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(15).jpg&amp;w=1200&amp;q=75 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1757%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(15).jpg&amp;w=1920&amp;q=75 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1757%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(15).jpg&amp;w=2048&amp;q=75 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1757%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(15).jpg&amp;w=3840&amp;q=75 3840w
                                   "
-                                src="plantilla/RESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSANb4e9.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1757%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(15).jpg&amp;w=3840&amp;q=75"
+                                src="__next/RESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSANb4e9.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1757%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(15).jpg&amp;w=3840&amp;q=75"
                                 decoding="async" data-nimg="fill" class="object-cover absolute" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -6187,18 +6206,18 @@ Será un placer atenderte." />
                               <img
                                 alt='Dpto. 3er PISO cerca Universidad "UCV" Trujillo Área: 99.59m2 con 03 Cuartos a solo US $ 69,900 dólares.'
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1774%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(16).jpg&amp;w=256&amp;q=75   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1774%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(16).jpg&amp;w=384&amp;q=75   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1774%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(16).jpg&amp;w=640&amp;q=75   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1774%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(16).jpg&amp;w=750&amp;q=75   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1774%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(16).jpg&amp;w=828&amp;q=75   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1774%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(16).jpg&amp;w=1080&amp;q=75 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1774%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(16).jpg&amp;w=1200&amp;q=75 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1774%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(16).jpg&amp;w=1920&amp;q=75 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1774%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(16).jpg&amp;w=2048&amp;q=75 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1774%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(16).jpg&amp;w=3840&amp;q=75 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1774%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(16).jpg&amp;w=256&amp;q=75   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1774%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(16).jpg&amp;w=384&amp;q=75   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1774%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(16).jpg&amp;w=640&amp;q=75   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1774%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(16).jpg&amp;w=750&amp;q=75   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1774%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(16).jpg&amp;w=828&amp;q=75   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1774%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(16).jpg&amp;w=1080&amp;q=75 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1774%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(16).jpg&amp;w=1200&amp;q=75 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1774%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(16).jpg&amp;w=1920&amp;q=75 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1774%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(16).jpg&amp;w=2048&amp;q=75 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1774%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(16).jpg&amp;w=3840&amp;q=75 3840w
                                   "
-                                src="plantilla/RESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSANdf1d.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1774%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(16).jpg&amp;w=3840&amp;q=75"
+                                src="__next/RESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSANdf1d.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1774%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(16).jpg&amp;w=3840&amp;q=75"
                                 decoding="async" data-nimg="fill" class="object-cover absolute" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -6257,18 +6276,18 @@ Será un placer atenderte." />
                             <div class="relative block h-[270px] w-full">
                               <img alt="OPORTUNIDAD DPTO 401 VENTA DE DEPARTAMENTO LAS FLORES DE TRUPAL TRUJILLO PERÚ"
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F552%2FfileEstates%2FrvoWkvP3FqWHmGVsYfYTkYbHaWm7CLzXMO1NjAMN.jpeg&amp;w=256&amp;q=75   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F552%2FfileEstates%2FrvoWkvP3FqWHmGVsYfYTkYbHaWm7CLzXMO1NjAMN.jpeg&amp;w=384&amp;q=75   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F552%2FfileEstates%2FrvoWkvP3FqWHmGVsYfYTkYbHaWm7CLzXMO1NjAMN.jpeg&amp;w=640&amp;q=75   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F552%2FfileEstates%2FrvoWkvP3FqWHmGVsYfYTkYbHaWm7CLzXMO1NjAMN.jpeg&amp;w=750&amp;q=75   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F552%2FfileEstates%2FrvoWkvP3FqWHmGVsYfYTkYbHaWm7CLzXMO1NjAMN.jpeg&amp;w=828&amp;q=75   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F552%2FfileEstates%2FrvoWkvP3FqWHmGVsYfYTkYbHaWm7CLzXMO1NjAMN.jpeg&amp;w=1080&amp;q=75 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F552%2FfileEstates%2FrvoWkvP3FqWHmGVsYfYTkYbHaWm7CLzXMO1NjAMN.jpeg&amp;w=1200&amp;q=75 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F552%2FfileEstates%2FrvoWkvP3FqWHmGVsYfYTkYbHaWm7CLzXMO1NjAMN.jpeg&amp;w=1920&amp;q=75 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F552%2FfileEstates%2FrvoWkvP3FqWHmGVsYfYTkYbHaWm7CLzXMO1NjAMN.jpeg&amp;w=2048&amp;q=75 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F552%2FfileEstates%2FrvoWkvP3FqWHmGVsYfYTkYbHaWm7CLzXMO1NjAMN.jpeg&amp;w=3840&amp;q=75 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F552%2FfileEstates%2FrvoWkvP3FqWHmGVsYfYTkYbHaWm7CLzXMO1NjAMN.jpeg&amp;w=256&amp;q=75   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F552%2FfileEstates%2FrvoWkvP3FqWHmGVsYfYTkYbHaWm7CLzXMO1NjAMN.jpeg&amp;w=384&amp;q=75   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F552%2FfileEstates%2FrvoWkvP3FqWHmGVsYfYTkYbHaWm7CLzXMO1NjAMN.jpeg&amp;w=640&amp;q=75   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F552%2FfileEstates%2FrvoWkvP3FqWHmGVsYfYTkYbHaWm7CLzXMO1NjAMN.jpeg&amp;w=750&amp;q=75   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F552%2FfileEstates%2FrvoWkvP3FqWHmGVsYfYTkYbHaWm7CLzXMO1NjAMN.jpeg&amp;w=828&amp;q=75   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F552%2FfileEstates%2FrvoWkvP3FqWHmGVsYfYTkYbHaWm7CLzXMO1NjAMN.jpeg&amp;w=1080&amp;q=75 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F552%2FfileEstates%2FrvoWkvP3FqWHmGVsYfYTkYbHaWm7CLzXMO1NjAMN.jpeg&amp;w=1200&amp;q=75 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F552%2FfileEstates%2FrvoWkvP3FqWHmGVsYfYTkYbHaWm7CLzXMO1NjAMN.jpeg&amp;w=1920&amp;q=75 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F552%2FfileEstates%2FrvoWkvP3FqWHmGVsYfYTkYbHaWm7CLzXMO1NjAMN.jpeg&amp;w=2048&amp;q=75 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F552%2FfileEstates%2FrvoWkvP3FqWHmGVsYfYTkYbHaWm7CLzXMO1NjAMN.jpeg&amp;w=3840&amp;q=75 3840w
                                   "
-                                src="plantilla/rvoWkvP3FqWHmGVsYfYTkYbHaWm7CLzXMO1NjAMN037e.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F552%2FfileEstates%2FrvoWkvP3FqWHmGVsYfYTkYbHaWm7CLzXMO1NjAMN.jpeg&amp;w=3840&amp;q=75"
+                                src="__next/rvoWkvP3FqWHmGVsYfYTkYbHaWm7CLzXMO1NjAMN037e.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F552%2FfileEstates%2FrvoWkvP3FqWHmGVsYfYTkYbHaWm7CLzXMO1NjAMN.jpeg&amp;w=3840&amp;q=75"
                                 decoding="async" data-nimg="fill" class="object-cover absolute" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -6317,18 +6336,18 @@ Será un placer atenderte." />
                               <img
                                 alt="EXCLUSIVO DPTO 201-DEPARTAMENTO EN VENTA LAS FLORES DE TRUPAL VIVE CERCA A LA UNT"
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F550%2FfileEstates%2Fs1lVosUzFvXTR69a5BR5ARzForAxIH1nSIqyYSYc.jpeg&amp;w=256&amp;q=75   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F550%2FfileEstates%2Fs1lVosUzFvXTR69a5BR5ARzForAxIH1nSIqyYSYc.jpeg&amp;w=384&amp;q=75   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F550%2FfileEstates%2Fs1lVosUzFvXTR69a5BR5ARzForAxIH1nSIqyYSYc.jpeg&amp;w=640&amp;q=75   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F550%2FfileEstates%2Fs1lVosUzFvXTR69a5BR5ARzForAxIH1nSIqyYSYc.jpeg&amp;w=750&amp;q=75   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F550%2FfileEstates%2Fs1lVosUzFvXTR69a5BR5ARzForAxIH1nSIqyYSYc.jpeg&amp;w=828&amp;q=75   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F550%2FfileEstates%2Fs1lVosUzFvXTR69a5BR5ARzForAxIH1nSIqyYSYc.jpeg&amp;w=1080&amp;q=75 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F550%2FfileEstates%2Fs1lVosUzFvXTR69a5BR5ARzForAxIH1nSIqyYSYc.jpeg&amp;w=1200&amp;q=75 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F550%2FfileEstates%2Fs1lVosUzFvXTR69a5BR5ARzForAxIH1nSIqyYSYc.jpeg&amp;w=1920&amp;q=75 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F550%2FfileEstates%2Fs1lVosUzFvXTR69a5BR5ARzForAxIH1nSIqyYSYc.jpeg&amp;w=2048&amp;q=75 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F550%2FfileEstates%2Fs1lVosUzFvXTR69a5BR5ARzForAxIH1nSIqyYSYc.jpeg&amp;w=3840&amp;q=75 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F550%2FfileEstates%2Fs1lVosUzFvXTR69a5BR5ARzForAxIH1nSIqyYSYc.jpeg&amp;w=256&amp;q=75   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F550%2FfileEstates%2Fs1lVosUzFvXTR69a5BR5ARzForAxIH1nSIqyYSYc.jpeg&amp;w=384&amp;q=75   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F550%2FfileEstates%2Fs1lVosUzFvXTR69a5BR5ARzForAxIH1nSIqyYSYc.jpeg&amp;w=640&amp;q=75   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F550%2FfileEstates%2Fs1lVosUzFvXTR69a5BR5ARzForAxIH1nSIqyYSYc.jpeg&amp;w=750&amp;q=75   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F550%2FfileEstates%2Fs1lVosUzFvXTR69a5BR5ARzForAxIH1nSIqyYSYc.jpeg&amp;w=828&amp;q=75   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F550%2FfileEstates%2Fs1lVosUzFvXTR69a5BR5ARzForAxIH1nSIqyYSYc.jpeg&amp;w=1080&amp;q=75 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F550%2FfileEstates%2Fs1lVosUzFvXTR69a5BR5ARzForAxIH1nSIqyYSYc.jpeg&amp;w=1200&amp;q=75 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F550%2FfileEstates%2Fs1lVosUzFvXTR69a5BR5ARzForAxIH1nSIqyYSYc.jpeg&amp;w=1920&amp;q=75 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F550%2FfileEstates%2Fs1lVosUzFvXTR69a5BR5ARzForAxIH1nSIqyYSYc.jpeg&amp;w=2048&amp;q=75 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F550%2FfileEstates%2Fs1lVosUzFvXTR69a5BR5ARzForAxIH1nSIqyYSYc.jpeg&amp;w=3840&amp;q=75 3840w
                                   "
-                                src="plantilla/s1lVosUzFvXTR69a5BR5ARzForAxIH1nSIqyYSYc8304.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F550%2FfileEstates%2Fs1lVosUzFvXTR69a5BR5ARzForAxIH1nSIqyYSYc.jpeg&amp;w=3840&amp;q=75"
+                                src="__next/s1lVosUzFvXTR69a5BR5ARzForAxIH1nSIqyYSYc8304.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F550%2FfileEstates%2Fs1lVosUzFvXTR69a5BR5ARzForAxIH1nSIqyYSYc.jpeg&amp;w=3840&amp;q=75"
                                 decoding="async" data-nimg="fill" class="object-cover absolute" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -6375,18 +6394,18 @@ Será un placer atenderte." />
                             <div class="relative block h-[270px] w-full">
                               <img alt="HERMOSO HOGAR DPTO 101 DEPARTAMENTO EN VENTA LAS FLORES DE TRUPAL"
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F544%2FfileEstates%2FTiuUoH1ECGMXga4Abtj90pHmOMOf32SZMtb8RPIF.jpeg&amp;w=256&amp;q=75   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F544%2FfileEstates%2FTiuUoH1ECGMXga4Abtj90pHmOMOf32SZMtb8RPIF.jpeg&amp;w=384&amp;q=75   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F544%2FfileEstates%2FTiuUoH1ECGMXga4Abtj90pHmOMOf32SZMtb8RPIF.jpeg&amp;w=640&amp;q=75   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F544%2FfileEstates%2FTiuUoH1ECGMXga4Abtj90pHmOMOf32SZMtb8RPIF.jpeg&amp;w=750&amp;q=75   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F544%2FfileEstates%2FTiuUoH1ECGMXga4Abtj90pHmOMOf32SZMtb8RPIF.jpeg&amp;w=828&amp;q=75   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F544%2FfileEstates%2FTiuUoH1ECGMXga4Abtj90pHmOMOf32SZMtb8RPIF.jpeg&amp;w=1080&amp;q=75 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F544%2FfileEstates%2FTiuUoH1ECGMXga4Abtj90pHmOMOf32SZMtb8RPIF.jpeg&amp;w=1200&amp;q=75 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F544%2FfileEstates%2FTiuUoH1ECGMXga4Abtj90pHmOMOf32SZMtb8RPIF.jpeg&amp;w=1920&amp;q=75 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F544%2FfileEstates%2FTiuUoH1ECGMXga4Abtj90pHmOMOf32SZMtb8RPIF.jpeg&amp;w=2048&amp;q=75 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F544%2FfileEstates%2FTiuUoH1ECGMXga4Abtj90pHmOMOf32SZMtb8RPIF.jpeg&amp;w=3840&amp;q=75 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F544%2FfileEstates%2FTiuUoH1ECGMXga4Abtj90pHmOMOf32SZMtb8RPIF.jpeg&amp;w=256&amp;q=75   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F544%2FfileEstates%2FTiuUoH1ECGMXga4Abtj90pHmOMOf32SZMtb8RPIF.jpeg&amp;w=384&amp;q=75   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F544%2FfileEstates%2FTiuUoH1ECGMXga4Abtj90pHmOMOf32SZMtb8RPIF.jpeg&amp;w=640&amp;q=75   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F544%2FfileEstates%2FTiuUoH1ECGMXga4Abtj90pHmOMOf32SZMtb8RPIF.jpeg&amp;w=750&amp;q=75   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F544%2FfileEstates%2FTiuUoH1ECGMXga4Abtj90pHmOMOf32SZMtb8RPIF.jpeg&amp;w=828&amp;q=75   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F544%2FfileEstates%2FTiuUoH1ECGMXga4Abtj90pHmOMOf32SZMtb8RPIF.jpeg&amp;w=1080&amp;q=75 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F544%2FfileEstates%2FTiuUoH1ECGMXga4Abtj90pHmOMOf32SZMtb8RPIF.jpeg&amp;w=1200&amp;q=75 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F544%2FfileEstates%2FTiuUoH1ECGMXga4Abtj90pHmOMOf32SZMtb8RPIF.jpeg&amp;w=1920&amp;q=75 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F544%2FfileEstates%2FTiuUoH1ECGMXga4Abtj90pHmOMOf32SZMtb8RPIF.jpeg&amp;w=2048&amp;q=75 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F544%2FfileEstates%2FTiuUoH1ECGMXga4Abtj90pHmOMOf32SZMtb8RPIF.jpeg&amp;w=3840&amp;q=75 3840w
                                   "
-                                src="plantilla/TiuUoH1ECGMXga4Abtj90pHmOMOf32SZMtb8RPIF6364.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F544%2FfileEstates%2FTiuUoH1ECGMXga4Abtj90pHmOMOf32SZMtb8RPIF.jpeg&amp;w=3840&amp;q=75"
+                                src="__next/TiuUoH1ECGMXga4Abtj90pHmOMOf32SZMtb8RPIF6364.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F544%2FfileEstates%2FTiuUoH1ECGMXga4Abtj90pHmOMOf32SZMtb8RPIF.jpeg&amp;w=3840&amp;q=75"
                                 decoding="async" data-nimg="fill" class="object-cover absolute" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -6434,18 +6453,18 @@ Será un placer atenderte." />
                               <img
                                 alt='Increíble Oportunidad" CASA de 04 Pisos en Av. Gonzales Prada a 01 Cuadra del Mayorista - Trujillo'
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F476%2FfileEstates%2FRc6j4bgPLwy4V1QEm0BiOOhl7ClKcXtNoBz35NAp.png&amp;w=256&amp;q=75   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F476%2FfileEstates%2FRc6j4bgPLwy4V1QEm0BiOOhl7ClKcXtNoBz35NAp.png&amp;w=384&amp;q=75   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F476%2FfileEstates%2FRc6j4bgPLwy4V1QEm0BiOOhl7ClKcXtNoBz35NAp.png&amp;w=640&amp;q=75   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F476%2FfileEstates%2FRc6j4bgPLwy4V1QEm0BiOOhl7ClKcXtNoBz35NAp.png&amp;w=750&amp;q=75   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F476%2FfileEstates%2FRc6j4bgPLwy4V1QEm0BiOOhl7ClKcXtNoBz35NAp.png&amp;w=828&amp;q=75   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F476%2FfileEstates%2FRc6j4bgPLwy4V1QEm0BiOOhl7ClKcXtNoBz35NAp.png&amp;w=1080&amp;q=75 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F476%2FfileEstates%2FRc6j4bgPLwy4V1QEm0BiOOhl7ClKcXtNoBz35NAp.png&amp;w=1200&amp;q=75 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F476%2FfileEstates%2FRc6j4bgPLwy4V1QEm0BiOOhl7ClKcXtNoBz35NAp.png&amp;w=1920&amp;q=75 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F476%2FfileEstates%2FRc6j4bgPLwy4V1QEm0BiOOhl7ClKcXtNoBz35NAp.png&amp;w=2048&amp;q=75 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F476%2FfileEstates%2FRc6j4bgPLwy4V1QEm0BiOOhl7ClKcXtNoBz35NAp.png&amp;w=3840&amp;q=75 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F476%2FfileEstates%2FRc6j4bgPLwy4V1QEm0BiOOhl7ClKcXtNoBz35NAp.png&amp;w=256&amp;q=75   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F476%2FfileEstates%2FRc6j4bgPLwy4V1QEm0BiOOhl7ClKcXtNoBz35NAp.png&amp;w=384&amp;q=75   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F476%2FfileEstates%2FRc6j4bgPLwy4V1QEm0BiOOhl7ClKcXtNoBz35NAp.png&amp;w=640&amp;q=75   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F476%2FfileEstates%2FRc6j4bgPLwy4V1QEm0BiOOhl7ClKcXtNoBz35NAp.png&amp;w=750&amp;q=75   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F476%2FfileEstates%2FRc6j4bgPLwy4V1QEm0BiOOhl7ClKcXtNoBz35NAp.png&amp;w=828&amp;q=75   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F476%2FfileEstates%2FRc6j4bgPLwy4V1QEm0BiOOhl7ClKcXtNoBz35NAp.png&amp;w=1080&amp;q=75 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F476%2FfileEstates%2FRc6j4bgPLwy4V1QEm0BiOOhl7ClKcXtNoBz35NAp.png&amp;w=1200&amp;q=75 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F476%2FfileEstates%2FRc6j4bgPLwy4V1QEm0BiOOhl7ClKcXtNoBz35NAp.png&amp;w=1920&amp;q=75 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F476%2FfileEstates%2FRc6j4bgPLwy4V1QEm0BiOOhl7ClKcXtNoBz35NAp.png&amp;w=2048&amp;q=75 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F476%2FfileEstates%2FRc6j4bgPLwy4V1QEm0BiOOhl7ClKcXtNoBz35NAp.png&amp;w=3840&amp;q=75 3840w
                                   "
-                                src="plantilla/Rc6j4bgPLwy4V1QEm0BiOOhl7ClKcXtNoBz35NApc7a8.png?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F476%2FfileEstates%2FRc6j4bgPLwy4V1QEm0BiOOhl7ClKcXtNoBz35NAp.png&amp;w=3840&amp;q=75"
+                                src="__next/Rc6j4bgPLwy4V1QEm0BiOOhl7ClKcXtNoBz35NApc7a8.png?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F476%2FfileEstates%2FRc6j4bgPLwy4V1QEm0BiOOhl7ClKcXtNoBz35NAp.png&amp;w=3840&amp;q=75"
                                 decoding="async" data-nimg="fill" class="object-cover absolute" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -6493,18 +6512,18 @@ Será un placer atenderte." />
                             <div class="relative block h-[270px] w-full">
                               <img alt="Terreno en Venta 97m2 a  95,000 soles"
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F411%2FfileEstates%2FxMC4USQBKYGgVr00HPe8zRlN1fjnve3BS3yiH75u.png&amp;w=256&amp;q=75   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F411%2FfileEstates%2FxMC4USQBKYGgVr00HPe8zRlN1fjnve3BS3yiH75u.png&amp;w=384&amp;q=75   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F411%2FfileEstates%2FxMC4USQBKYGgVr00HPe8zRlN1fjnve3BS3yiH75u.png&amp;w=640&amp;q=75   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F411%2FfileEstates%2FxMC4USQBKYGgVr00HPe8zRlN1fjnve3BS3yiH75u.png&amp;w=750&amp;q=75   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F411%2FfileEstates%2FxMC4USQBKYGgVr00HPe8zRlN1fjnve3BS3yiH75u.png&amp;w=828&amp;q=75   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F411%2FfileEstates%2FxMC4USQBKYGgVr00HPe8zRlN1fjnve3BS3yiH75u.png&amp;w=1080&amp;q=75 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F411%2FfileEstates%2FxMC4USQBKYGgVr00HPe8zRlN1fjnve3BS3yiH75u.png&amp;w=1200&amp;q=75 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F411%2FfileEstates%2FxMC4USQBKYGgVr00HPe8zRlN1fjnve3BS3yiH75u.png&amp;w=1920&amp;q=75 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F411%2FfileEstates%2FxMC4USQBKYGgVr00HPe8zRlN1fjnve3BS3yiH75u.png&amp;w=2048&amp;q=75 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F411%2FfileEstates%2FxMC4USQBKYGgVr00HPe8zRlN1fjnve3BS3yiH75u.png&amp;w=3840&amp;q=75 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F411%2FfileEstates%2FxMC4USQBKYGgVr00HPe8zRlN1fjnve3BS3yiH75u.png&amp;w=256&amp;q=75   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F411%2FfileEstates%2FxMC4USQBKYGgVr00HPe8zRlN1fjnve3BS3yiH75u.png&amp;w=384&amp;q=75   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F411%2FfileEstates%2FxMC4USQBKYGgVr00HPe8zRlN1fjnve3BS3yiH75u.png&amp;w=640&amp;q=75   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F411%2FfileEstates%2FxMC4USQBKYGgVr00HPe8zRlN1fjnve3BS3yiH75u.png&amp;w=750&amp;q=75   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F411%2FfileEstates%2FxMC4USQBKYGgVr00HPe8zRlN1fjnve3BS3yiH75u.png&amp;w=828&amp;q=75   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F411%2FfileEstates%2FxMC4USQBKYGgVr00HPe8zRlN1fjnve3BS3yiH75u.png&amp;w=1080&amp;q=75 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F411%2FfileEstates%2FxMC4USQBKYGgVr00HPe8zRlN1fjnve3BS3yiH75u.png&amp;w=1200&amp;q=75 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F411%2FfileEstates%2FxMC4USQBKYGgVr00HPe8zRlN1fjnve3BS3yiH75u.png&amp;w=1920&amp;q=75 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F411%2FfileEstates%2FxMC4USQBKYGgVr00HPe8zRlN1fjnve3BS3yiH75u.png&amp;w=2048&amp;q=75 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F411%2FfileEstates%2FxMC4USQBKYGgVr00HPe8zRlN1fjnve3BS3yiH75u.png&amp;w=3840&amp;q=75 3840w
                                   "
-                                src="plantilla/xMC4USQBKYGgVr00HPe8zRlN1fjnve3BS3yiH75u421f.png?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F411%2FfileEstates%2FxMC4USQBKYGgVr00HPe8zRlN1fjnve3BS3yiH75u.png&amp;w=3840&amp;q=75"
+                                src="__next/xMC4USQBKYGgVr00HPe8zRlN1fjnve3BS3yiH75u421f.png?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F411%2FfileEstates%2FxMC4USQBKYGgVr00HPe8zRlN1fjnve3BS3yiH75u.png&amp;w=3840&amp;q=75"
                                 decoding="async" data-nimg="fill" class="object-cover absolute" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -6551,18 +6570,18 @@ Será un placer atenderte." />
                             <div class="relative block h-[270px] w-full">
                               <img alt="Terreno en Venta 120m2 a  115,000 soles"
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F410%2FfileEstates%2F4L3jwfINWCWvOsNqercem4PuOtD1mllBzHOUGKDV.png&amp;w=256&amp;q=75   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F410%2FfileEstates%2F4L3jwfINWCWvOsNqercem4PuOtD1mllBzHOUGKDV.png&amp;w=384&amp;q=75   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F410%2FfileEstates%2F4L3jwfINWCWvOsNqercem4PuOtD1mllBzHOUGKDV.png&amp;w=640&amp;q=75   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F410%2FfileEstates%2F4L3jwfINWCWvOsNqercem4PuOtD1mllBzHOUGKDV.png&amp;w=750&amp;q=75   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F410%2FfileEstates%2F4L3jwfINWCWvOsNqercem4PuOtD1mllBzHOUGKDV.png&amp;w=828&amp;q=75   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F410%2FfileEstates%2F4L3jwfINWCWvOsNqercem4PuOtD1mllBzHOUGKDV.png&amp;w=1080&amp;q=75 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F410%2FfileEstates%2F4L3jwfINWCWvOsNqercem4PuOtD1mllBzHOUGKDV.png&amp;w=1200&amp;q=75 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F410%2FfileEstates%2F4L3jwfINWCWvOsNqercem4PuOtD1mllBzHOUGKDV.png&amp;w=1920&amp;q=75 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F410%2FfileEstates%2F4L3jwfINWCWvOsNqercem4PuOtD1mllBzHOUGKDV.png&amp;w=2048&amp;q=75 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F410%2FfileEstates%2F4L3jwfINWCWvOsNqercem4PuOtD1mllBzHOUGKDV.png&amp;w=3840&amp;q=75 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F410%2FfileEstates%2F4L3jwfINWCWvOsNqercem4PuOtD1mllBzHOUGKDV.png&amp;w=256&amp;q=75   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F410%2FfileEstates%2F4L3jwfINWCWvOsNqercem4PuOtD1mllBzHOUGKDV.png&amp;w=384&amp;q=75   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F410%2FfileEstates%2F4L3jwfINWCWvOsNqercem4PuOtD1mllBzHOUGKDV.png&amp;w=640&amp;q=75   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F410%2FfileEstates%2F4L3jwfINWCWvOsNqercem4PuOtD1mllBzHOUGKDV.png&amp;w=750&amp;q=75   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F410%2FfileEstates%2F4L3jwfINWCWvOsNqercem4PuOtD1mllBzHOUGKDV.png&amp;w=828&amp;q=75   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F410%2FfileEstates%2F4L3jwfINWCWvOsNqercem4PuOtD1mllBzHOUGKDV.png&amp;w=1080&amp;q=75 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F410%2FfileEstates%2F4L3jwfINWCWvOsNqercem4PuOtD1mllBzHOUGKDV.png&amp;w=1200&amp;q=75 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F410%2FfileEstates%2F4L3jwfINWCWvOsNqercem4PuOtD1mllBzHOUGKDV.png&amp;w=1920&amp;q=75 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F410%2FfileEstates%2F4L3jwfINWCWvOsNqercem4PuOtD1mllBzHOUGKDV.png&amp;w=2048&amp;q=75 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F410%2FfileEstates%2F4L3jwfINWCWvOsNqercem4PuOtD1mllBzHOUGKDV.png&amp;w=3840&amp;q=75 3840w
                                   "
-                                src="plantilla/4L3jwfINWCWvOsNqercem4PuOtD1mllBzHOUGKDV9538.png?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F410%2FfileEstates%2F4L3jwfINWCWvOsNqercem4PuOtD1mllBzHOUGKDV.png&amp;w=3840&amp;q=75"
+                                src="__next/4L3jwfINWCWvOsNqercem4PuOtD1mllBzHOUGKDV9538.png?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F410%2FfileEstates%2F4L3jwfINWCWvOsNqercem4PuOtD1mllBzHOUGKDV.png&amp;w=3840&amp;q=75"
                                 decoding="async" data-nimg="fill" class="object-cover absolute" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -6609,18 +6628,18 @@ Será un placer atenderte." />
                             <div class="relative block h-[270px] w-full">
                               <img alt="Casa de 02 Pîsos en Urb. Palermo a $70,000"
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F342%2FfileEstates%2FiKIlSNIsbZMW71zjggz3nzU4MRPbrk4jp13C7zCF.jpeg&amp;w=256&amp;q=75   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F342%2FfileEstates%2FiKIlSNIsbZMW71zjggz3nzU4MRPbrk4jp13C7zCF.jpeg&amp;w=384&amp;q=75   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F342%2FfileEstates%2FiKIlSNIsbZMW71zjggz3nzU4MRPbrk4jp13C7zCF.jpeg&amp;w=640&amp;q=75   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F342%2FfileEstates%2FiKIlSNIsbZMW71zjggz3nzU4MRPbrk4jp13C7zCF.jpeg&amp;w=750&amp;q=75   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F342%2FfileEstates%2FiKIlSNIsbZMW71zjggz3nzU4MRPbrk4jp13C7zCF.jpeg&amp;w=828&amp;q=75   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F342%2FfileEstates%2FiKIlSNIsbZMW71zjggz3nzU4MRPbrk4jp13C7zCF.jpeg&amp;w=1080&amp;q=75 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F342%2FfileEstates%2FiKIlSNIsbZMW71zjggz3nzU4MRPbrk4jp13C7zCF.jpeg&amp;w=1200&amp;q=75 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F342%2FfileEstates%2FiKIlSNIsbZMW71zjggz3nzU4MRPbrk4jp13C7zCF.jpeg&amp;w=1920&amp;q=75 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F342%2FfileEstates%2FiKIlSNIsbZMW71zjggz3nzU4MRPbrk4jp13C7zCF.jpeg&amp;w=2048&amp;q=75 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F342%2FfileEstates%2FiKIlSNIsbZMW71zjggz3nzU4MRPbrk4jp13C7zCF.jpeg&amp;w=3840&amp;q=75 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F342%2FfileEstates%2FiKIlSNIsbZMW71zjggz3nzU4MRPbrk4jp13C7zCF.jpeg&amp;w=256&amp;q=75   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F342%2FfileEstates%2FiKIlSNIsbZMW71zjggz3nzU4MRPbrk4jp13C7zCF.jpeg&amp;w=384&amp;q=75   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F342%2FfileEstates%2FiKIlSNIsbZMW71zjggz3nzU4MRPbrk4jp13C7zCF.jpeg&amp;w=640&amp;q=75   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F342%2FfileEstates%2FiKIlSNIsbZMW71zjggz3nzU4MRPbrk4jp13C7zCF.jpeg&amp;w=750&amp;q=75   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F342%2FfileEstates%2FiKIlSNIsbZMW71zjggz3nzU4MRPbrk4jp13C7zCF.jpeg&amp;w=828&amp;q=75   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F342%2FfileEstates%2FiKIlSNIsbZMW71zjggz3nzU4MRPbrk4jp13C7zCF.jpeg&amp;w=1080&amp;q=75 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F342%2FfileEstates%2FiKIlSNIsbZMW71zjggz3nzU4MRPbrk4jp13C7zCF.jpeg&amp;w=1200&amp;q=75 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F342%2FfileEstates%2FiKIlSNIsbZMW71zjggz3nzU4MRPbrk4jp13C7zCF.jpeg&amp;w=1920&amp;q=75 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F342%2FfileEstates%2FiKIlSNIsbZMW71zjggz3nzU4MRPbrk4jp13C7zCF.jpeg&amp;w=2048&amp;q=75 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F342%2FfileEstates%2FiKIlSNIsbZMW71zjggz3nzU4MRPbrk4jp13C7zCF.jpeg&amp;w=3840&amp;q=75 3840w
                                   "
-                                src="plantilla/iKIlSNIsbZMW71zjggz3nzU4MRPbrk4jp13C7zCF4d5c.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F342%2FfileEstates%2FiKIlSNIsbZMW71zjggz3nzU4MRPbrk4jp13C7zCF.jpeg&amp;w=3840&amp;q=75"
+                                src="__next/iKIlSNIsbZMW71zjggz3nzU4MRPbrk4jp13C7zCF4d5c.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F342%2FfileEstates%2FiKIlSNIsbZMW71zjggz3nzU4MRPbrk4jp13C7zCF.jpeg&amp;w=3840&amp;q=75"
                                 decoding="async" data-nimg="fill" class="object-cover absolute" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -6666,18 +6685,18 @@ Será un placer atenderte." />
                             <div class="relative block h-[270px] w-full">
                               <img alt="Venta de Departamento Urb. Primavera Trujillo"
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F316%2FfileEstates%2FgQ3Lxg5kqZNOGedypJZxbX47GH3cArDe9VBX3t9u.jpeg&amp;w=256&amp;q=75   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F316%2FfileEstates%2FgQ3Lxg5kqZNOGedypJZxbX47GH3cArDe9VBX3t9u.jpeg&amp;w=384&amp;q=75   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F316%2FfileEstates%2FgQ3Lxg5kqZNOGedypJZxbX47GH3cArDe9VBX3t9u.jpeg&amp;w=640&amp;q=75   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F316%2FfileEstates%2FgQ3Lxg5kqZNOGedypJZxbX47GH3cArDe9VBX3t9u.jpeg&amp;w=750&amp;q=75   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F316%2FfileEstates%2FgQ3Lxg5kqZNOGedypJZxbX47GH3cArDe9VBX3t9u.jpeg&amp;w=828&amp;q=75   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F316%2FfileEstates%2FgQ3Lxg5kqZNOGedypJZxbX47GH3cArDe9VBX3t9u.jpeg&amp;w=1080&amp;q=75 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F316%2FfileEstates%2FgQ3Lxg5kqZNOGedypJZxbX47GH3cArDe9VBX3t9u.jpeg&amp;w=1200&amp;q=75 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F316%2FfileEstates%2FgQ3Lxg5kqZNOGedypJZxbX47GH3cArDe9VBX3t9u.jpeg&amp;w=1920&amp;q=75 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F316%2FfileEstates%2FgQ3Lxg5kqZNOGedypJZxbX47GH3cArDe9VBX3t9u.jpeg&amp;w=2048&amp;q=75 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F316%2FfileEstates%2FgQ3Lxg5kqZNOGedypJZxbX47GH3cArDe9VBX3t9u.jpeg&amp;w=3840&amp;q=75 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F316%2FfileEstates%2FgQ3Lxg5kqZNOGedypJZxbX47GH3cArDe9VBX3t9u.jpeg&amp;w=256&amp;q=75   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F316%2FfileEstates%2FgQ3Lxg5kqZNOGedypJZxbX47GH3cArDe9VBX3t9u.jpeg&amp;w=384&amp;q=75   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F316%2FfileEstates%2FgQ3Lxg5kqZNOGedypJZxbX47GH3cArDe9VBX3t9u.jpeg&amp;w=640&amp;q=75   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F316%2FfileEstates%2FgQ3Lxg5kqZNOGedypJZxbX47GH3cArDe9VBX3t9u.jpeg&amp;w=750&amp;q=75   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F316%2FfileEstates%2FgQ3Lxg5kqZNOGedypJZxbX47GH3cArDe9VBX3t9u.jpeg&amp;w=828&amp;q=75   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F316%2FfileEstates%2FgQ3Lxg5kqZNOGedypJZxbX47GH3cArDe9VBX3t9u.jpeg&amp;w=1080&amp;q=75 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F316%2FfileEstates%2FgQ3Lxg5kqZNOGedypJZxbX47GH3cArDe9VBX3t9u.jpeg&amp;w=1200&amp;q=75 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F316%2FfileEstates%2FgQ3Lxg5kqZNOGedypJZxbX47GH3cArDe9VBX3t9u.jpeg&amp;w=1920&amp;q=75 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F316%2FfileEstates%2FgQ3Lxg5kqZNOGedypJZxbX47GH3cArDe9VBX3t9u.jpeg&amp;w=2048&amp;q=75 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F316%2FfileEstates%2FgQ3Lxg5kqZNOGedypJZxbX47GH3cArDe9VBX3t9u.jpeg&amp;w=3840&amp;q=75 3840w
                                   "
-                                src="plantilla/gQ3Lxg5kqZNOGedypJZxbX47GH3cArDe9VBX3t9ub9c4.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F316%2FfileEstates%2FgQ3Lxg5kqZNOGedypJZxbX47GH3cArDe9VBX3t9u.jpeg&amp;w=3840&amp;q=75"
+                                src="__next/gQ3Lxg5kqZNOGedypJZxbX47GH3cArDe9VBX3t9ub9c4.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F316%2FfileEstates%2FgQ3Lxg5kqZNOGedypJZxbX47GH3cArDe9VBX3t9u.jpeg&amp;w=3840&amp;q=75"
                                 decoding="async" data-nimg="fill" class="object-cover absolute" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -6722,18 +6741,18 @@ Será un placer atenderte." />
                             <div class="relative block h-[270px] w-full">
                               <img alt="DPTO 501 Departamento en Venta en San Isidro"
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F315%2FfileEstates%2F1gXmS9wgb9ZssrqWKIKASsSwcAIe3p9QyoHOr3rq.jpeg&amp;w=256&amp;q=75   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F315%2FfileEstates%2F1gXmS9wgb9ZssrqWKIKASsSwcAIe3p9QyoHOr3rq.jpeg&amp;w=384&amp;q=75   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F315%2FfileEstates%2F1gXmS9wgb9ZssrqWKIKASsSwcAIe3p9QyoHOr3rq.jpeg&amp;w=640&amp;q=75   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F315%2FfileEstates%2F1gXmS9wgb9ZssrqWKIKASsSwcAIe3p9QyoHOr3rq.jpeg&amp;w=750&amp;q=75   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F315%2FfileEstates%2F1gXmS9wgb9ZssrqWKIKASsSwcAIe3p9QyoHOr3rq.jpeg&amp;w=828&amp;q=75   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F315%2FfileEstates%2F1gXmS9wgb9ZssrqWKIKASsSwcAIe3p9QyoHOr3rq.jpeg&amp;w=1080&amp;q=75 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F315%2FfileEstates%2F1gXmS9wgb9ZssrqWKIKASsSwcAIe3p9QyoHOr3rq.jpeg&amp;w=1200&amp;q=75 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F315%2FfileEstates%2F1gXmS9wgb9ZssrqWKIKASsSwcAIe3p9QyoHOr3rq.jpeg&amp;w=1920&amp;q=75 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F315%2FfileEstates%2F1gXmS9wgb9ZssrqWKIKASsSwcAIe3p9QyoHOr3rq.jpeg&amp;w=2048&amp;q=75 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F315%2FfileEstates%2F1gXmS9wgb9ZssrqWKIKASsSwcAIe3p9QyoHOr3rq.jpeg&amp;w=3840&amp;q=75 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F315%2FfileEstates%2F1gXmS9wgb9ZssrqWKIKASsSwcAIe3p9QyoHOr3rq.jpeg&amp;w=256&amp;q=75   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F315%2FfileEstates%2F1gXmS9wgb9ZssrqWKIKASsSwcAIe3p9QyoHOr3rq.jpeg&amp;w=384&amp;q=75   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F315%2FfileEstates%2F1gXmS9wgb9ZssrqWKIKASsSwcAIe3p9QyoHOr3rq.jpeg&amp;w=640&amp;q=75   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F315%2FfileEstates%2F1gXmS9wgb9ZssrqWKIKASsSwcAIe3p9QyoHOr3rq.jpeg&amp;w=750&amp;q=75   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F315%2FfileEstates%2F1gXmS9wgb9ZssrqWKIKASsSwcAIe3p9QyoHOr3rq.jpeg&amp;w=828&amp;q=75   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F315%2FfileEstates%2F1gXmS9wgb9ZssrqWKIKASsSwcAIe3p9QyoHOr3rq.jpeg&amp;w=1080&amp;q=75 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F315%2FfileEstates%2F1gXmS9wgb9ZssrqWKIKASsSwcAIe3p9QyoHOr3rq.jpeg&amp;w=1200&amp;q=75 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F315%2FfileEstates%2F1gXmS9wgb9ZssrqWKIKASsSwcAIe3p9QyoHOr3rq.jpeg&amp;w=1920&amp;q=75 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F315%2FfileEstates%2F1gXmS9wgb9ZssrqWKIKASsSwcAIe3p9QyoHOr3rq.jpeg&amp;w=2048&amp;q=75 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F315%2FfileEstates%2F1gXmS9wgb9ZssrqWKIKASsSwcAIe3p9QyoHOr3rq.jpeg&amp;w=3840&amp;q=75 3840w
                                   "
-                                src="plantilla/1gXmS9wgb9ZssrqWKIKASsSwcAIe3p9QyoHOr3rq0c6b.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F315%2FfileEstates%2F1gXmS9wgb9ZssrqWKIKASsSwcAIe3p9QyoHOr3rq.jpeg&amp;w=3840&amp;q=75"
+                                src="__next/1gXmS9wgb9ZssrqWKIKASsSwcAIe3p9QyoHOr3rq0c6b.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F315%2FfileEstates%2F1gXmS9wgb9ZssrqWKIKASsSwcAIe3p9QyoHOr3rq.jpeg&amp;w=3840&amp;q=75"
                                 decoding="async" data-nimg="fill" class="object-cover absolute" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -6777,18 +6796,18 @@ Será un placer atenderte." />
                             <div class="relative block h-[270px] w-full">
                               <img alt="DEPARTAMENTO EN VENTA SAN ISIDRO TRUJILLO"
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F314%2FfileEstates%2FFrMEaucZxZEUmWQZjFHcuBFQr0HO0vrknQ2Vb8jD.jpeg&amp;w=256&amp;q=75   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F314%2FfileEstates%2FFrMEaucZxZEUmWQZjFHcuBFQr0HO0vrknQ2Vb8jD.jpeg&amp;w=384&amp;q=75   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F314%2FfileEstates%2FFrMEaucZxZEUmWQZjFHcuBFQr0HO0vrknQ2Vb8jD.jpeg&amp;w=640&amp;q=75   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F314%2FfileEstates%2FFrMEaucZxZEUmWQZjFHcuBFQr0HO0vrknQ2Vb8jD.jpeg&amp;w=750&amp;q=75   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F314%2FfileEstates%2FFrMEaucZxZEUmWQZjFHcuBFQr0HO0vrknQ2Vb8jD.jpeg&amp;w=828&amp;q=75   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F314%2FfileEstates%2FFrMEaucZxZEUmWQZjFHcuBFQr0HO0vrknQ2Vb8jD.jpeg&amp;w=1080&amp;q=75 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F314%2FfileEstates%2FFrMEaucZxZEUmWQZjFHcuBFQr0HO0vrknQ2Vb8jD.jpeg&amp;w=1200&amp;q=75 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F314%2FfileEstates%2FFrMEaucZxZEUmWQZjFHcuBFQr0HO0vrknQ2Vb8jD.jpeg&amp;w=1920&amp;q=75 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F314%2FfileEstates%2FFrMEaucZxZEUmWQZjFHcuBFQr0HO0vrknQ2Vb8jD.jpeg&amp;w=2048&amp;q=75 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F314%2FfileEstates%2FFrMEaucZxZEUmWQZjFHcuBFQr0HO0vrknQ2Vb8jD.jpeg&amp;w=3840&amp;q=75 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F314%2FfileEstates%2FFrMEaucZxZEUmWQZjFHcuBFQr0HO0vrknQ2Vb8jD.jpeg&amp;w=256&amp;q=75   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F314%2FfileEstates%2FFrMEaucZxZEUmWQZjFHcuBFQr0HO0vrknQ2Vb8jD.jpeg&amp;w=384&amp;q=75   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F314%2FfileEstates%2FFrMEaucZxZEUmWQZjFHcuBFQr0HO0vrknQ2Vb8jD.jpeg&amp;w=640&amp;q=75   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F314%2FfileEstates%2FFrMEaucZxZEUmWQZjFHcuBFQr0HO0vrknQ2Vb8jD.jpeg&amp;w=750&amp;q=75   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F314%2FfileEstates%2FFrMEaucZxZEUmWQZjFHcuBFQr0HO0vrknQ2Vb8jD.jpeg&amp;w=828&amp;q=75   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F314%2FfileEstates%2FFrMEaucZxZEUmWQZjFHcuBFQr0HO0vrknQ2Vb8jD.jpeg&amp;w=1080&amp;q=75 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F314%2FfileEstates%2FFrMEaucZxZEUmWQZjFHcuBFQr0HO0vrknQ2Vb8jD.jpeg&amp;w=1200&amp;q=75 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F314%2FfileEstates%2FFrMEaucZxZEUmWQZjFHcuBFQr0HO0vrknQ2Vb8jD.jpeg&amp;w=1920&amp;q=75 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F314%2FfileEstates%2FFrMEaucZxZEUmWQZjFHcuBFQr0HO0vrknQ2Vb8jD.jpeg&amp;w=2048&amp;q=75 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F314%2FfileEstates%2FFrMEaucZxZEUmWQZjFHcuBFQr0HO0vrknQ2Vb8jD.jpeg&amp;w=3840&amp;q=75 3840w
                                   "
-                                src="plantilla/FrMEaucZxZEUmWQZjFHcuBFQr0HO0vrknQ2Vb8jDd7e8.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F314%2FfileEstates%2FFrMEaucZxZEUmWQZjFHcuBFQr0HO0vrknQ2Vb8jD.jpeg&amp;w=3840&amp;q=75"
+                                src="__next/FrMEaucZxZEUmWQZjFHcuBFQr0HO0vrknQ2Vb8jDd7e8.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F314%2FfileEstates%2FFrMEaucZxZEUmWQZjFHcuBFQr0HO0vrknQ2Vb8jD.jpeg&amp;w=3840&amp;q=75"
                                 decoding="async" data-nimg="fill" class="object-cover absolute" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -6835,18 +6854,18 @@ Será un placer atenderte." />
                             <div class="relative block h-[270px] w-full">
                               <img alt="Venta de Departamento en San Andres I Etapa."
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F285%2FfileEstates%2FwTUYJZ8VUqW6ZIclB5NSKRAMugEUJXgXhA2dUtIq.jpeg&amp;w=256&amp;q=75   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F285%2FfileEstates%2FwTUYJZ8VUqW6ZIclB5NSKRAMugEUJXgXhA2dUtIq.jpeg&amp;w=384&amp;q=75   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F285%2FfileEstates%2FwTUYJZ8VUqW6ZIclB5NSKRAMugEUJXgXhA2dUtIq.jpeg&amp;w=640&amp;q=75   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F285%2FfileEstates%2FwTUYJZ8VUqW6ZIclB5NSKRAMugEUJXgXhA2dUtIq.jpeg&amp;w=750&amp;q=75   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F285%2FfileEstates%2FwTUYJZ8VUqW6ZIclB5NSKRAMugEUJXgXhA2dUtIq.jpeg&amp;w=828&amp;q=75   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F285%2FfileEstates%2FwTUYJZ8VUqW6ZIclB5NSKRAMugEUJXgXhA2dUtIq.jpeg&amp;w=1080&amp;q=75 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F285%2FfileEstates%2FwTUYJZ8VUqW6ZIclB5NSKRAMugEUJXgXhA2dUtIq.jpeg&amp;w=1200&amp;q=75 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F285%2FfileEstates%2FwTUYJZ8VUqW6ZIclB5NSKRAMugEUJXgXhA2dUtIq.jpeg&amp;w=1920&amp;q=75 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F285%2FfileEstates%2FwTUYJZ8VUqW6ZIclB5NSKRAMugEUJXgXhA2dUtIq.jpeg&amp;w=2048&amp;q=75 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F285%2FfileEstates%2FwTUYJZ8VUqW6ZIclB5NSKRAMugEUJXgXhA2dUtIq.jpeg&amp;w=3840&amp;q=75 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F285%2FfileEstates%2FwTUYJZ8VUqW6ZIclB5NSKRAMugEUJXgXhA2dUtIq.jpeg&amp;w=256&amp;q=75   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F285%2FfileEstates%2FwTUYJZ8VUqW6ZIclB5NSKRAMugEUJXgXhA2dUtIq.jpeg&amp;w=384&amp;q=75   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F285%2FfileEstates%2FwTUYJZ8VUqW6ZIclB5NSKRAMugEUJXgXhA2dUtIq.jpeg&amp;w=640&amp;q=75   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F285%2FfileEstates%2FwTUYJZ8VUqW6ZIclB5NSKRAMugEUJXgXhA2dUtIq.jpeg&amp;w=750&amp;q=75   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F285%2FfileEstates%2FwTUYJZ8VUqW6ZIclB5NSKRAMugEUJXgXhA2dUtIq.jpeg&amp;w=828&amp;q=75   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F285%2FfileEstates%2FwTUYJZ8VUqW6ZIclB5NSKRAMugEUJXgXhA2dUtIq.jpeg&amp;w=1080&amp;q=75 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F285%2FfileEstates%2FwTUYJZ8VUqW6ZIclB5NSKRAMugEUJXgXhA2dUtIq.jpeg&amp;w=1200&amp;q=75 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F285%2FfileEstates%2FwTUYJZ8VUqW6ZIclB5NSKRAMugEUJXgXhA2dUtIq.jpeg&amp;w=1920&amp;q=75 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F285%2FfileEstates%2FwTUYJZ8VUqW6ZIclB5NSKRAMugEUJXgXhA2dUtIq.jpeg&amp;w=2048&amp;q=75 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F285%2FfileEstates%2FwTUYJZ8VUqW6ZIclB5NSKRAMugEUJXgXhA2dUtIq.jpeg&amp;w=3840&amp;q=75 3840w
                                   "
-                                src="plantilla/wTUYJZ8VUqW6ZIclB5NSKRAMugEUJXgXhA2dUtIqef7a.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F285%2FfileEstates%2FwTUYJZ8VUqW6ZIclB5NSKRAMugEUJXgXhA2dUtIq.jpeg&amp;w=3840&amp;q=75"
+                                src="__next/wTUYJZ8VUqW6ZIclB5NSKRAMugEUJXgXhA2dUtIqef7a.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F285%2FfileEstates%2FwTUYJZ8VUqW6ZIclB5NSKRAMugEUJXgXhA2dUtIq.jpeg&amp;w=3840&amp;q=75"
                                 decoding="async" data-nimg="fill" class="object-cover absolute" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -6890,18 +6909,18 @@ Será un placer atenderte." />
                             <div class="relative block h-[270px] w-full">
                               <img alt="Dpto 501-Departamento en venta en San Isidro"
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F114%2FfileEstates%2FXn4kZOozcsMCzLZ9WkKzM3VHzZHwsOoG39hbIcGn.jpeg&amp;w=256&amp;q=75   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F114%2FfileEstates%2FXn4kZOozcsMCzLZ9WkKzM3VHzZHwsOoG39hbIcGn.jpeg&amp;w=384&amp;q=75   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F114%2FfileEstates%2FXn4kZOozcsMCzLZ9WkKzM3VHzZHwsOoG39hbIcGn.jpeg&amp;w=640&amp;q=75   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F114%2FfileEstates%2FXn4kZOozcsMCzLZ9WkKzM3VHzZHwsOoG39hbIcGn.jpeg&amp;w=750&amp;q=75   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F114%2FfileEstates%2FXn4kZOozcsMCzLZ9WkKzM3VHzZHwsOoG39hbIcGn.jpeg&amp;w=828&amp;q=75   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F114%2FfileEstates%2FXn4kZOozcsMCzLZ9WkKzM3VHzZHwsOoG39hbIcGn.jpeg&amp;w=1080&amp;q=75 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F114%2FfileEstates%2FXn4kZOozcsMCzLZ9WkKzM3VHzZHwsOoG39hbIcGn.jpeg&amp;w=1200&amp;q=75 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F114%2FfileEstates%2FXn4kZOozcsMCzLZ9WkKzM3VHzZHwsOoG39hbIcGn.jpeg&amp;w=1920&amp;q=75 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F114%2FfileEstates%2FXn4kZOozcsMCzLZ9WkKzM3VHzZHwsOoG39hbIcGn.jpeg&amp;w=2048&amp;q=75 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F114%2FfileEstates%2FXn4kZOozcsMCzLZ9WkKzM3VHzZHwsOoG39hbIcGn.jpeg&amp;w=3840&amp;q=75 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F114%2FfileEstates%2FXn4kZOozcsMCzLZ9WkKzM3VHzZHwsOoG39hbIcGn.jpeg&amp;w=256&amp;q=75   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F114%2FfileEstates%2FXn4kZOozcsMCzLZ9WkKzM3VHzZHwsOoG39hbIcGn.jpeg&amp;w=384&amp;q=75   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F114%2FfileEstates%2FXn4kZOozcsMCzLZ9WkKzM3VHzZHwsOoG39hbIcGn.jpeg&amp;w=640&amp;q=75   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F114%2FfileEstates%2FXn4kZOozcsMCzLZ9WkKzM3VHzZHwsOoG39hbIcGn.jpeg&amp;w=750&amp;q=75   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F114%2FfileEstates%2FXn4kZOozcsMCzLZ9WkKzM3VHzZHwsOoG39hbIcGn.jpeg&amp;w=828&amp;q=75   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F114%2FfileEstates%2FXn4kZOozcsMCzLZ9WkKzM3VHzZHwsOoG39hbIcGn.jpeg&amp;w=1080&amp;q=75 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F114%2FfileEstates%2FXn4kZOozcsMCzLZ9WkKzM3VHzZHwsOoG39hbIcGn.jpeg&amp;w=1200&amp;q=75 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F114%2FfileEstates%2FXn4kZOozcsMCzLZ9WkKzM3VHzZHwsOoG39hbIcGn.jpeg&amp;w=1920&amp;q=75 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F114%2FfileEstates%2FXn4kZOozcsMCzLZ9WkKzM3VHzZHwsOoG39hbIcGn.jpeg&amp;w=2048&amp;q=75 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F114%2FfileEstates%2FXn4kZOozcsMCzLZ9WkKzM3VHzZHwsOoG39hbIcGn.jpeg&amp;w=3840&amp;q=75 3840w
                                   "
-                                src="plantilla/Xn4kZOozcsMCzLZ9WkKzM3VHzZHwsOoG39hbIcGna09f.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F114%2FfileEstates%2FXn4kZOozcsMCzLZ9WkKzM3VHzZHwsOoG39hbIcGn.jpeg&amp;w=3840&amp;q=75"
+                                src="__next/Xn4kZOozcsMCzLZ9WkKzM3VHzZHwsOoG39hbIcGna09f.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F114%2FfileEstates%2FXn4kZOozcsMCzLZ9WkKzM3VHzZHwsOoG39hbIcGn.jpeg&amp;w=3840&amp;q=75"
                                 decoding="async" data-nimg="fill" class="object-cover absolute" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -6949,18 +6968,18 @@ Será un placer atenderte." />
                               <img
                                 alt="EL HOGAR SOÑADO DPTO 302 VENTA DE DEPARTAMENTO LAS FLORES DE TRUPAL VIVE CERCA A LA UNT"
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F551%2FfileEstates%2FpKF13yJ3t9OQIj53MMkqgUaRrwp4EOxrfP9m6wcy.jpeg&amp;w=256&amp;q=75   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F551%2FfileEstates%2FpKF13yJ3t9OQIj53MMkqgUaRrwp4EOxrfP9m6wcy.jpeg&amp;w=384&amp;q=75   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F551%2FfileEstates%2FpKF13yJ3t9OQIj53MMkqgUaRrwp4EOxrfP9m6wcy.jpeg&amp;w=640&amp;q=75   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F551%2FfileEstates%2FpKF13yJ3t9OQIj53MMkqgUaRrwp4EOxrfP9m6wcy.jpeg&amp;w=750&amp;q=75   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F551%2FfileEstates%2FpKF13yJ3t9OQIj53MMkqgUaRrwp4EOxrfP9m6wcy.jpeg&amp;w=828&amp;q=75   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F551%2FfileEstates%2FpKF13yJ3t9OQIj53MMkqgUaRrwp4EOxrfP9m6wcy.jpeg&amp;w=1080&amp;q=75 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F551%2FfileEstates%2FpKF13yJ3t9OQIj53MMkqgUaRrwp4EOxrfP9m6wcy.jpeg&amp;w=1200&amp;q=75 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F551%2FfileEstates%2FpKF13yJ3t9OQIj53MMkqgUaRrwp4EOxrfP9m6wcy.jpeg&amp;w=1920&amp;q=75 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F551%2FfileEstates%2FpKF13yJ3t9OQIj53MMkqgUaRrwp4EOxrfP9m6wcy.jpeg&amp;w=2048&amp;q=75 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F551%2FfileEstates%2FpKF13yJ3t9OQIj53MMkqgUaRrwp4EOxrfP9m6wcy.jpeg&amp;w=3840&amp;q=75 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F551%2FfileEstates%2FpKF13yJ3t9OQIj53MMkqgUaRrwp4EOxrfP9m6wcy.jpeg&amp;w=256&amp;q=75   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F551%2FfileEstates%2FpKF13yJ3t9OQIj53MMkqgUaRrwp4EOxrfP9m6wcy.jpeg&amp;w=384&amp;q=75   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F551%2FfileEstates%2FpKF13yJ3t9OQIj53MMkqgUaRrwp4EOxrfP9m6wcy.jpeg&amp;w=640&amp;q=75   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F551%2FfileEstates%2FpKF13yJ3t9OQIj53MMkqgUaRrwp4EOxrfP9m6wcy.jpeg&amp;w=750&amp;q=75   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F551%2FfileEstates%2FpKF13yJ3t9OQIj53MMkqgUaRrwp4EOxrfP9m6wcy.jpeg&amp;w=828&amp;q=75   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F551%2FfileEstates%2FpKF13yJ3t9OQIj53MMkqgUaRrwp4EOxrfP9m6wcy.jpeg&amp;w=1080&amp;q=75 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F551%2FfileEstates%2FpKF13yJ3t9OQIj53MMkqgUaRrwp4EOxrfP9m6wcy.jpeg&amp;w=1200&amp;q=75 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F551%2FfileEstates%2FpKF13yJ3t9OQIj53MMkqgUaRrwp4EOxrfP9m6wcy.jpeg&amp;w=1920&amp;q=75 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F551%2FfileEstates%2FpKF13yJ3t9OQIj53MMkqgUaRrwp4EOxrfP9m6wcy.jpeg&amp;w=2048&amp;q=75 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F551%2FfileEstates%2FpKF13yJ3t9OQIj53MMkqgUaRrwp4EOxrfP9m6wcy.jpeg&amp;w=3840&amp;q=75 3840w
                                   "
-                                src="plantilla/pKF13yJ3t9OQIj53MMkqgUaRrwp4EOxrfP9m6wcy78a7.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F551%2FfileEstates%2FpKF13yJ3t9OQIj53MMkqgUaRrwp4EOxrfP9m6wcy.jpeg&amp;w=3840&amp;q=75"
+                                src="__next/pKF13yJ3t9OQIj53MMkqgUaRrwp4EOxrfP9m6wcy78a7.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F551%2FfileEstates%2FpKF13yJ3t9OQIj53MMkqgUaRrwp4EOxrfP9m6wcy.jpeg&amp;w=3840&amp;q=75"
                                 decoding="async" data-nimg="fill" class="object-cover absolute" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -7010,18 +7029,18 @@ Será un placer atenderte." />
                               <img
                                 alt="EL HOGAR QUE TU FAMILIA DESEA ESTRENO DPTO 501 EN VENTA EN TRUJILLO LAS FLORES DE TRUPAL"
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F554%2FfileEstates%2FwEX4ZolKg0DmEwmokaUAkcIVv9hlTtQxRnRAW83m.jpeg&amp;w=256&amp;q=75   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F554%2FfileEstates%2FwEX4ZolKg0DmEwmokaUAkcIVv9hlTtQxRnRAW83m.jpeg&amp;w=384&amp;q=75   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F554%2FfileEstates%2FwEX4ZolKg0DmEwmokaUAkcIVv9hlTtQxRnRAW83m.jpeg&amp;w=640&amp;q=75   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F554%2FfileEstates%2FwEX4ZolKg0DmEwmokaUAkcIVv9hlTtQxRnRAW83m.jpeg&amp;w=750&amp;q=75   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F554%2FfileEstates%2FwEX4ZolKg0DmEwmokaUAkcIVv9hlTtQxRnRAW83m.jpeg&amp;w=828&amp;q=75   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F554%2FfileEstates%2FwEX4ZolKg0DmEwmokaUAkcIVv9hlTtQxRnRAW83m.jpeg&amp;w=1080&amp;q=75 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F554%2FfileEstates%2FwEX4ZolKg0DmEwmokaUAkcIVv9hlTtQxRnRAW83m.jpeg&amp;w=1200&amp;q=75 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F554%2FfileEstates%2FwEX4ZolKg0DmEwmokaUAkcIVv9hlTtQxRnRAW83m.jpeg&amp;w=1920&amp;q=75 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F554%2FfileEstates%2FwEX4ZolKg0DmEwmokaUAkcIVv9hlTtQxRnRAW83m.jpeg&amp;w=2048&amp;q=75 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F554%2FfileEstates%2FwEX4ZolKg0DmEwmokaUAkcIVv9hlTtQxRnRAW83m.jpeg&amp;w=3840&amp;q=75 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F554%2FfileEstates%2FwEX4ZolKg0DmEwmokaUAkcIVv9hlTtQxRnRAW83m.jpeg&amp;w=256&amp;q=75   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F554%2FfileEstates%2FwEX4ZolKg0DmEwmokaUAkcIVv9hlTtQxRnRAW83m.jpeg&amp;w=384&amp;q=75   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F554%2FfileEstates%2FwEX4ZolKg0DmEwmokaUAkcIVv9hlTtQxRnRAW83m.jpeg&amp;w=640&amp;q=75   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F554%2FfileEstates%2FwEX4ZolKg0DmEwmokaUAkcIVv9hlTtQxRnRAW83m.jpeg&amp;w=750&amp;q=75   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F554%2FfileEstates%2FwEX4ZolKg0DmEwmokaUAkcIVv9hlTtQxRnRAW83m.jpeg&amp;w=828&amp;q=75   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F554%2FfileEstates%2FwEX4ZolKg0DmEwmokaUAkcIVv9hlTtQxRnRAW83m.jpeg&amp;w=1080&amp;q=75 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F554%2FfileEstates%2FwEX4ZolKg0DmEwmokaUAkcIVv9hlTtQxRnRAW83m.jpeg&amp;w=1200&amp;q=75 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F554%2FfileEstates%2FwEX4ZolKg0DmEwmokaUAkcIVv9hlTtQxRnRAW83m.jpeg&amp;w=1920&amp;q=75 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F554%2FfileEstates%2FwEX4ZolKg0DmEwmokaUAkcIVv9hlTtQxRnRAW83m.jpeg&amp;w=2048&amp;q=75 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F554%2FfileEstates%2FwEX4ZolKg0DmEwmokaUAkcIVv9hlTtQxRnRAW83m.jpeg&amp;w=3840&amp;q=75 3840w
                                   "
-                                src="plantilla/wEX4ZolKg0DmEwmokaUAkcIVv9hlTtQxRnRAW83m2e95.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F554%2FfileEstates%2FwEX4ZolKg0DmEwmokaUAkcIVv9hlTtQxRnRAW83m.jpeg&amp;w=3840&amp;q=75"
+                                src="__next/wEX4ZolKg0DmEwmokaUAkcIVv9hlTtQxRnRAW83m2e95.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F554%2FfileEstates%2FwEX4ZolKg0DmEwmokaUAkcIVv9hlTtQxRnRAW83m.jpeg&amp;w=3840&amp;q=75"
                                 decoding="async" data-nimg="fill" class="object-cover absolute" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -7070,18 +7089,18 @@ Será un placer atenderte." />
                             <div class="relative block h-[270px] w-full">
                               <img alt="HERMOSO DEPARTAMENTO 3ER PISO PISO, 90m2, 8m2 TENDAL, HORTENCIAS II SAN ANDRÉS"
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F612%2FfileEstates%2Fp0t1ZvkkqTs1yTw9CXSf79qNxlgS2SuRWMInSbMu.jpeg&amp;w=256&amp;q=75   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F612%2FfileEstates%2Fp0t1ZvkkqTs1yTw9CXSf79qNxlgS2SuRWMInSbMu.jpeg&amp;w=384&amp;q=75   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F612%2FfileEstates%2Fp0t1ZvkkqTs1yTw9CXSf79qNxlgS2SuRWMInSbMu.jpeg&amp;w=640&amp;q=75   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F612%2FfileEstates%2Fp0t1ZvkkqTs1yTw9CXSf79qNxlgS2SuRWMInSbMu.jpeg&amp;w=750&amp;q=75   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F612%2FfileEstates%2Fp0t1ZvkkqTs1yTw9CXSf79qNxlgS2SuRWMInSbMu.jpeg&amp;w=828&amp;q=75   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F612%2FfileEstates%2Fp0t1ZvkkqTs1yTw9CXSf79qNxlgS2SuRWMInSbMu.jpeg&amp;w=1080&amp;q=75 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F612%2FfileEstates%2Fp0t1ZvkkqTs1yTw9CXSf79qNxlgS2SuRWMInSbMu.jpeg&amp;w=1200&amp;q=75 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F612%2FfileEstates%2Fp0t1ZvkkqTs1yTw9CXSf79qNxlgS2SuRWMInSbMu.jpeg&amp;w=1920&amp;q=75 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F612%2FfileEstates%2Fp0t1ZvkkqTs1yTw9CXSf79qNxlgS2SuRWMInSbMu.jpeg&amp;w=2048&amp;q=75 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F612%2FfileEstates%2Fp0t1ZvkkqTs1yTw9CXSf79qNxlgS2SuRWMInSbMu.jpeg&amp;w=3840&amp;q=75 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F612%2FfileEstates%2Fp0t1ZvkkqTs1yTw9CXSf79qNxlgS2SuRWMInSbMu.jpeg&amp;w=256&amp;q=75   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F612%2FfileEstates%2Fp0t1ZvkkqTs1yTw9CXSf79qNxlgS2SuRWMInSbMu.jpeg&amp;w=384&amp;q=75   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F612%2FfileEstates%2Fp0t1ZvkkqTs1yTw9CXSf79qNxlgS2SuRWMInSbMu.jpeg&amp;w=640&amp;q=75   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F612%2FfileEstates%2Fp0t1ZvkkqTs1yTw9CXSf79qNxlgS2SuRWMInSbMu.jpeg&amp;w=750&amp;q=75   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F612%2FfileEstates%2Fp0t1ZvkkqTs1yTw9CXSf79qNxlgS2SuRWMInSbMu.jpeg&amp;w=828&amp;q=75   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F612%2FfileEstates%2Fp0t1ZvkkqTs1yTw9CXSf79qNxlgS2SuRWMInSbMu.jpeg&amp;w=1080&amp;q=75 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F612%2FfileEstates%2Fp0t1ZvkkqTs1yTw9CXSf79qNxlgS2SuRWMInSbMu.jpeg&amp;w=1200&amp;q=75 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F612%2FfileEstates%2Fp0t1ZvkkqTs1yTw9CXSf79qNxlgS2SuRWMInSbMu.jpeg&amp;w=1920&amp;q=75 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F612%2FfileEstates%2Fp0t1ZvkkqTs1yTw9CXSf79qNxlgS2SuRWMInSbMu.jpeg&amp;w=2048&amp;q=75 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F612%2FfileEstates%2Fp0t1ZvkkqTs1yTw9CXSf79qNxlgS2SuRWMInSbMu.jpeg&amp;w=3840&amp;q=75 3840w
                                   "
-                                src="plantilla/p0t1ZvkkqTs1yTw9CXSf79qNxlgS2SuRWMInSbMu4924.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F612%2FfileEstates%2Fp0t1ZvkkqTs1yTw9CXSf79qNxlgS2SuRWMInSbMu.jpeg&amp;w=3840&amp;q=75"
+                                src="__next/p0t1ZvkkqTs1yTw9CXSf79qNxlgS2SuRWMInSbMu4924.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F612%2FfileEstates%2Fp0t1ZvkkqTs1yTw9CXSf79qNxlgS2SuRWMInSbMu.jpeg&amp;w=3840&amp;q=75"
                                 decoding="async" data-nimg="fill" class="object-cover absolute" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -7128,18 +7147,18 @@ Será un placer atenderte." />
                             <div class="relative block h-[270px] w-full">
                               <img alt="Departamento en Venta en Víctor Larco Herrera"
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F283%2FfileEstates%2FllZhAptZklmXrwbQKdwV0v5xUBqH4EqBwLSwWSYD.jpeg&amp;w=256&amp;q=75   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F283%2FfileEstates%2FllZhAptZklmXrwbQKdwV0v5xUBqH4EqBwLSwWSYD.jpeg&amp;w=384&amp;q=75   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F283%2FfileEstates%2FllZhAptZklmXrwbQKdwV0v5xUBqH4EqBwLSwWSYD.jpeg&amp;w=640&amp;q=75   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F283%2FfileEstates%2FllZhAptZklmXrwbQKdwV0v5xUBqH4EqBwLSwWSYD.jpeg&amp;w=750&amp;q=75   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F283%2FfileEstates%2FllZhAptZklmXrwbQKdwV0v5xUBqH4EqBwLSwWSYD.jpeg&amp;w=828&amp;q=75   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F283%2FfileEstates%2FllZhAptZklmXrwbQKdwV0v5xUBqH4EqBwLSwWSYD.jpeg&amp;w=1080&amp;q=75 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F283%2FfileEstates%2FllZhAptZklmXrwbQKdwV0v5xUBqH4EqBwLSwWSYD.jpeg&amp;w=1200&amp;q=75 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F283%2FfileEstates%2FllZhAptZklmXrwbQKdwV0v5xUBqH4EqBwLSwWSYD.jpeg&amp;w=1920&amp;q=75 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F283%2FfileEstates%2FllZhAptZklmXrwbQKdwV0v5xUBqH4EqBwLSwWSYD.jpeg&amp;w=2048&amp;q=75 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F283%2FfileEstates%2FllZhAptZklmXrwbQKdwV0v5xUBqH4EqBwLSwWSYD.jpeg&amp;w=3840&amp;q=75 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F283%2FfileEstates%2FllZhAptZklmXrwbQKdwV0v5xUBqH4EqBwLSwWSYD.jpeg&amp;w=256&amp;q=75   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F283%2FfileEstates%2FllZhAptZklmXrwbQKdwV0v5xUBqH4EqBwLSwWSYD.jpeg&amp;w=384&amp;q=75   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F283%2FfileEstates%2FllZhAptZklmXrwbQKdwV0v5xUBqH4EqBwLSwWSYD.jpeg&amp;w=640&amp;q=75   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F283%2FfileEstates%2FllZhAptZklmXrwbQKdwV0v5xUBqH4EqBwLSwWSYD.jpeg&amp;w=750&amp;q=75   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F283%2FfileEstates%2FllZhAptZklmXrwbQKdwV0v5xUBqH4EqBwLSwWSYD.jpeg&amp;w=828&amp;q=75   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F283%2FfileEstates%2FllZhAptZklmXrwbQKdwV0v5xUBqH4EqBwLSwWSYD.jpeg&amp;w=1080&amp;q=75 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F283%2FfileEstates%2FllZhAptZklmXrwbQKdwV0v5xUBqH4EqBwLSwWSYD.jpeg&amp;w=1200&amp;q=75 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F283%2FfileEstates%2FllZhAptZklmXrwbQKdwV0v5xUBqH4EqBwLSwWSYD.jpeg&amp;w=1920&amp;q=75 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F283%2FfileEstates%2FllZhAptZklmXrwbQKdwV0v5xUBqH4EqBwLSwWSYD.jpeg&amp;w=2048&amp;q=75 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F283%2FfileEstates%2FllZhAptZklmXrwbQKdwV0v5xUBqH4EqBwLSwWSYD.jpeg&amp;w=3840&amp;q=75 3840w
                                   "
-                                src="plantilla/llZhAptZklmXrwbQKdwV0v5xUBqH4EqBwLSwWSYD6252.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F283%2FfileEstates%2FllZhAptZklmXrwbQKdwV0v5xUBqH4EqBwLSwWSYD.jpeg&amp;w=3840&amp;q=75"
+                                src="__next/llZhAptZklmXrwbQKdwV0v5xUBqH4EqBwLSwWSYD6252.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F283%2FfileEstates%2FllZhAptZklmXrwbQKdwV0v5xUBqH4EqBwLSwWSYD.jpeg&amp;w=3840&amp;q=75"
                                 decoding="async" data-nimg="fill" class="object-cover absolute" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -7184,18 +7203,18 @@ Será un placer atenderte." />
                               <img
                                 alt="Urb. CALIFORNIA, Colegio. San Jose Obrero, Dpto 4to PISO - Area: 120.47m2 10m2 a US$ 102,900 NEGOCIABLE"
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1415%2Fweb-agent%2FfileEstates%2F04%20PISO%20GRANADOS.png&amp;w=256&amp;q=75   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1415%2Fweb-agent%2FfileEstates%2F04%20PISO%20GRANADOS.png&amp;w=384&amp;q=75   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1415%2Fweb-agent%2FfileEstates%2F04%20PISO%20GRANADOS.png&amp;w=640&amp;q=75   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1415%2Fweb-agent%2FfileEstates%2F04%20PISO%20GRANADOS.png&amp;w=750&amp;q=75   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1415%2Fweb-agent%2FfileEstates%2F04%20PISO%20GRANADOS.png&amp;w=828&amp;q=75   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1415%2Fweb-agent%2FfileEstates%2F04%20PISO%20GRANADOS.png&amp;w=1080&amp;q=75 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1415%2Fweb-agent%2FfileEstates%2F04%20PISO%20GRANADOS.png&amp;w=1200&amp;q=75 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1415%2Fweb-agent%2FfileEstates%2F04%20PISO%20GRANADOS.png&amp;w=1920&amp;q=75 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1415%2Fweb-agent%2FfileEstates%2F04%20PISO%20GRANADOS.png&amp;w=2048&amp;q=75 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1415%2Fweb-agent%2FfileEstates%2F04%20PISO%20GRANADOS.png&amp;w=3840&amp;q=75 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1415%2Fweb-agent%2FfileEstates%2F04%20PISO%20GRANADOS.png&amp;w=256&amp;q=75   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1415%2Fweb-agent%2FfileEstates%2F04%20PISO%20GRANADOS.png&amp;w=384&amp;q=75   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1415%2Fweb-agent%2FfileEstates%2F04%20PISO%20GRANADOS.png&amp;w=640&amp;q=75   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1415%2Fweb-agent%2FfileEstates%2F04%20PISO%20GRANADOS.png&amp;w=750&amp;q=75   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1415%2Fweb-agent%2FfileEstates%2F04%20PISO%20GRANADOS.png&amp;w=828&amp;q=75   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1415%2Fweb-agent%2FfileEstates%2F04%20PISO%20GRANADOS.png&amp;w=1080&amp;q=75 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1415%2Fweb-agent%2FfileEstates%2F04%20PISO%20GRANADOS.png&amp;w=1200&amp;q=75 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1415%2Fweb-agent%2FfileEstates%2F04%20PISO%20GRANADOS.png&amp;w=1920&amp;q=75 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1415%2Fweb-agent%2FfileEstates%2F04%20PISO%20GRANADOS.png&amp;w=2048&amp;q=75 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1415%2Fweb-agent%2FfileEstates%2F04%20PISO%20GRANADOS.png&amp;w=3840&amp;q=75 3840w
                                   "
-                                src="plantilla/04%20PISO%20GRANADOS20dd.png?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1415%2Fweb-agent%2FfileEstates%2F04%20PISO%20GRANADOS.png&amp;w=3840&amp;q=75"
+                                src="__next/04%20PISO%20GRANADOS20dd.png?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1415%2Fweb-agent%2FfileEstates%2F04%20PISO%20GRANADOS.png&amp;w=3840&amp;q=75"
                                 decoding="async" data-nimg="fill" class="object-cover absolute" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -7246,18 +7265,18 @@ Será un placer atenderte." />
                             <div class="relative block h-[270px] w-full">
                               <img alt="Frente a Parque Cuzco, Venta de Departamento 03 Habitaciones"
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1427%2Fweb-agent%2FfileEstates%2FCopia%20de%20Copia%20de%20Pack%2020%20imagenes%20editables%20real%20estate.png&amp;w=256&amp;q=75   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1427%2Fweb-agent%2FfileEstates%2FCopia%20de%20Copia%20de%20Pack%2020%20imagenes%20editables%20real%20estate.png&amp;w=384&amp;q=75   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1427%2Fweb-agent%2FfileEstates%2FCopia%20de%20Copia%20de%20Pack%2020%20imagenes%20editables%20real%20estate.png&amp;w=640&amp;q=75   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1427%2Fweb-agent%2FfileEstates%2FCopia%20de%20Copia%20de%20Pack%2020%20imagenes%20editables%20real%20estate.png&amp;w=750&amp;q=75   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1427%2Fweb-agent%2FfileEstates%2FCopia%20de%20Copia%20de%20Pack%2020%20imagenes%20editables%20real%20estate.png&amp;w=828&amp;q=75   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1427%2Fweb-agent%2FfileEstates%2FCopia%20de%20Copia%20de%20Pack%2020%20imagenes%20editables%20real%20estate.png&amp;w=1080&amp;q=75 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1427%2Fweb-agent%2FfileEstates%2FCopia%20de%20Copia%20de%20Pack%2020%20imagenes%20editables%20real%20estate.png&amp;w=1200&amp;q=75 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1427%2Fweb-agent%2FfileEstates%2FCopia%20de%20Copia%20de%20Pack%2020%20imagenes%20editables%20real%20estate.png&amp;w=1920&amp;q=75 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1427%2Fweb-agent%2FfileEstates%2FCopia%20de%20Copia%20de%20Pack%2020%20imagenes%20editables%20real%20estate.png&amp;w=2048&amp;q=75 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1427%2Fweb-agent%2FfileEstates%2FCopia%20de%20Copia%20de%20Pack%2020%20imagenes%20editables%20real%20estate.png&amp;w=3840&amp;q=75 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1427%2Fweb-agent%2FfileEstates%2FCopia%20de%20Copia%20de%20Pack%2020%20imagenes%20editables%20real%20estate.png&amp;w=256&amp;q=75   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1427%2Fweb-agent%2FfileEstates%2FCopia%20de%20Copia%20de%20Pack%2020%20imagenes%20editables%20real%20estate.png&amp;w=384&amp;q=75   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1427%2Fweb-agent%2FfileEstates%2FCopia%20de%20Copia%20de%20Pack%2020%20imagenes%20editables%20real%20estate.png&amp;w=640&amp;q=75   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1427%2Fweb-agent%2FfileEstates%2FCopia%20de%20Copia%20de%20Pack%2020%20imagenes%20editables%20real%20estate.png&amp;w=750&amp;q=75   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1427%2Fweb-agent%2FfileEstates%2FCopia%20de%20Copia%20de%20Pack%2020%20imagenes%20editables%20real%20estate.png&amp;w=828&amp;q=75   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1427%2Fweb-agent%2FfileEstates%2FCopia%20de%20Copia%20de%20Pack%2020%20imagenes%20editables%20real%20estate.png&amp;w=1080&amp;q=75 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1427%2Fweb-agent%2FfileEstates%2FCopia%20de%20Copia%20de%20Pack%2020%20imagenes%20editables%20real%20estate.png&amp;w=1200&amp;q=75 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1427%2Fweb-agent%2FfileEstates%2FCopia%20de%20Copia%20de%20Pack%2020%20imagenes%20editables%20real%20estate.png&amp;w=1920&amp;q=75 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1427%2Fweb-agent%2FfileEstates%2FCopia%20de%20Copia%20de%20Pack%2020%20imagenes%20editables%20real%20estate.png&amp;w=2048&amp;q=75 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1427%2Fweb-agent%2FfileEstates%2FCopia%20de%20Copia%20de%20Pack%2020%20imagenes%20editables%20real%20estate.png&amp;w=3840&amp;q=75 3840w
                                   "
-                                src="plantilla/Copia%20de%20Copia%20de%20Pack%2020%20imagenes%20editables%20real%20estate4261.png?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1427%2Fweb-agent%2FfileEstates%2FCopia%20de%20Copia%20de%20Pack%2020%20imagenes%20editables%20real%20estate.png&amp;w=3840&amp;q=75"
+                                src="__next/Copia%20de%20Copia%20de%20Pack%2020%20imagenes%20editables%20real%20estate4261.png?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1427%2Fweb-agent%2FfileEstates%2FCopia%20de%20Copia%20de%20Pack%2020%20imagenes%20editables%20real%20estate.png&amp;w=3840&amp;q=75"
                                 decoding="async" data-nimg="fill" class="object-cover absolute" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -7310,18 +7329,18 @@ Será un placer atenderte." />
                             <div class="relative block h-[270px] w-full">
                               <img alt='3er PISO con COCHERA - Urb. CALIFORNIA Frente al colegio "San José Obrero"'
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1452%2Fweb-agent%2FfileEstates%2F20230105_112827.jpg&amp;w=256&amp;q=75   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1452%2Fweb-agent%2FfileEstates%2F20230105_112827.jpg&amp;w=384&amp;q=75   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1452%2Fweb-agent%2FfileEstates%2F20230105_112827.jpg&amp;w=640&amp;q=75   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1452%2Fweb-agent%2FfileEstates%2F20230105_112827.jpg&amp;w=750&amp;q=75   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1452%2Fweb-agent%2FfileEstates%2F20230105_112827.jpg&amp;w=828&amp;q=75   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1452%2Fweb-agent%2FfileEstates%2F20230105_112827.jpg&amp;w=1080&amp;q=75 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1452%2Fweb-agent%2FfileEstates%2F20230105_112827.jpg&amp;w=1200&amp;q=75 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1452%2Fweb-agent%2FfileEstates%2F20230105_112827.jpg&amp;w=1920&amp;q=75 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1452%2Fweb-agent%2FfileEstates%2F20230105_112827.jpg&amp;w=2048&amp;q=75 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1452%2Fweb-agent%2FfileEstates%2F20230105_112827.jpg&amp;w=3840&amp;q=75 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1452%2Fweb-agent%2FfileEstates%2F20230105_112827.jpg&amp;w=256&amp;q=75   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1452%2Fweb-agent%2FfileEstates%2F20230105_112827.jpg&amp;w=384&amp;q=75   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1452%2Fweb-agent%2FfileEstates%2F20230105_112827.jpg&amp;w=640&amp;q=75   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1452%2Fweb-agent%2FfileEstates%2F20230105_112827.jpg&amp;w=750&amp;q=75   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1452%2Fweb-agent%2FfileEstates%2F20230105_112827.jpg&amp;w=828&amp;q=75   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1452%2Fweb-agent%2FfileEstates%2F20230105_112827.jpg&amp;w=1080&amp;q=75 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1452%2Fweb-agent%2FfileEstates%2F20230105_112827.jpg&amp;w=1200&amp;q=75 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1452%2Fweb-agent%2FfileEstates%2F20230105_112827.jpg&amp;w=1920&amp;q=75 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1452%2Fweb-agent%2FfileEstates%2F20230105_112827.jpg&amp;w=2048&amp;q=75 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1452%2Fweb-agent%2FfileEstates%2F20230105_112827.jpg&amp;w=3840&amp;q=75 3840w
                                   "
-                                src="plantilla/20230105_1128272986.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1452%2Fweb-agent%2FfileEstates%2F20230105_112827.jpg&amp;w=3840&amp;q=75"
+                                src="__next/20230105_1128272986.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1452%2Fweb-agent%2FfileEstates%2F20230105_112827.jpg&amp;w=3840&amp;q=75"
                                 decoding="async" data-nimg="fill" class="object-cover absolute" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -7375,18 +7394,18 @@ Será un placer atenderte." />
                             <div class="relative block h-[270px] w-full">
                               <img alt='Vive FRENTE PARQUE "Pablo PICASSO" URB. EL BOSQUE - 4to Piso 96m2 + 04 Tendal'
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1453%2Fweb-agent%2FfileEstates%2Fdepartamento_en_trujillo_por_jassan_monica.png&amp;w=256&amp;q=75   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1453%2Fweb-agent%2FfileEstates%2Fdepartamento_en_trujillo_por_jassan_monica.png&amp;w=384&amp;q=75   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1453%2Fweb-agent%2FfileEstates%2Fdepartamento_en_trujillo_por_jassan_monica.png&amp;w=640&amp;q=75   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1453%2Fweb-agent%2FfileEstates%2Fdepartamento_en_trujillo_por_jassan_monica.png&amp;w=750&amp;q=75   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1453%2Fweb-agent%2FfileEstates%2Fdepartamento_en_trujillo_por_jassan_monica.png&amp;w=828&amp;q=75   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1453%2Fweb-agent%2FfileEstates%2Fdepartamento_en_trujillo_por_jassan_monica.png&amp;w=1080&amp;q=75 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1453%2Fweb-agent%2FfileEstates%2Fdepartamento_en_trujillo_por_jassan_monica.png&amp;w=1200&amp;q=75 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1453%2Fweb-agent%2FfileEstates%2Fdepartamento_en_trujillo_por_jassan_monica.png&amp;w=1920&amp;q=75 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1453%2Fweb-agent%2FfileEstates%2Fdepartamento_en_trujillo_por_jassan_monica.png&amp;w=2048&amp;q=75 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1453%2Fweb-agent%2FfileEstates%2Fdepartamento_en_trujillo_por_jassan_monica.png&amp;w=3840&amp;q=75 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1453%2Fweb-agent%2FfileEstates%2Fdepartamento_en_trujillo_por_jassan_monica.png&amp;w=256&amp;q=75   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1453%2Fweb-agent%2FfileEstates%2Fdepartamento_en_trujillo_por_jassan_monica.png&amp;w=384&amp;q=75   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1453%2Fweb-agent%2FfileEstates%2Fdepartamento_en_trujillo_por_jassan_monica.png&amp;w=640&amp;q=75   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1453%2Fweb-agent%2FfileEstates%2Fdepartamento_en_trujillo_por_jassan_monica.png&amp;w=750&amp;q=75   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1453%2Fweb-agent%2FfileEstates%2Fdepartamento_en_trujillo_por_jassan_monica.png&amp;w=828&amp;q=75   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1453%2Fweb-agent%2FfileEstates%2Fdepartamento_en_trujillo_por_jassan_monica.png&amp;w=1080&amp;q=75 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1453%2Fweb-agent%2FfileEstates%2Fdepartamento_en_trujillo_por_jassan_monica.png&amp;w=1200&amp;q=75 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1453%2Fweb-agent%2FfileEstates%2Fdepartamento_en_trujillo_por_jassan_monica.png&amp;w=1920&amp;q=75 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1453%2Fweb-agent%2FfileEstates%2Fdepartamento_en_trujillo_por_jassan_monica.png&amp;w=2048&amp;q=75 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1453%2Fweb-agent%2FfileEstates%2Fdepartamento_en_trujillo_por_jassan_monica.png&amp;w=3840&amp;q=75 3840w
                                   "
-                                src="plantilla/departamento_en_trujillo_por_jassan_monicaf8ad.png?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1453%2Fweb-agent%2FfileEstates%2Fdepartamento_en_trujillo_por_jassan_monica.png&amp;w=3840&amp;q=75"
+                                src="__next/departamento_en_trujillo_por_jassan_monicaf8ad.png?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1453%2Fweb-agent%2FfileEstates%2Fdepartamento_en_trujillo_por_jassan_monica.png&amp;w=3840&amp;q=75"
                                 decoding="async" data-nimg="fill" class="object-cover absolute" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -7438,18 +7457,18 @@ Será un placer atenderte." />
                             <div class="relative block h-[270px] w-full">
                               <img alt='A 02 Cuadras "MALL de TRUJILLO", 1er PISO de 02 dormitorios con 86m2 a $ 62.500'
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1479%2Fweb-agent%2FfileEstates%2F1er%20piso.png&amp;w=256&amp;q=75   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1479%2Fweb-agent%2FfileEstates%2F1er%20piso.png&amp;w=384&amp;q=75   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1479%2Fweb-agent%2FfileEstates%2F1er%20piso.png&amp;w=640&amp;q=75   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1479%2Fweb-agent%2FfileEstates%2F1er%20piso.png&amp;w=750&amp;q=75   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1479%2Fweb-agent%2FfileEstates%2F1er%20piso.png&amp;w=828&amp;q=75   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1479%2Fweb-agent%2FfileEstates%2F1er%20piso.png&amp;w=1080&amp;q=75 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1479%2Fweb-agent%2FfileEstates%2F1er%20piso.png&amp;w=1200&amp;q=75 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1479%2Fweb-agent%2FfileEstates%2F1er%20piso.png&amp;w=1920&amp;q=75 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1479%2Fweb-agent%2FfileEstates%2F1er%20piso.png&amp;w=2048&amp;q=75 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1479%2Fweb-agent%2FfileEstates%2F1er%20piso.png&amp;w=3840&amp;q=75 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1479%2Fweb-agent%2FfileEstates%2F1er%20piso.png&amp;w=256&amp;q=75   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1479%2Fweb-agent%2FfileEstates%2F1er%20piso.png&amp;w=384&amp;q=75   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1479%2Fweb-agent%2FfileEstates%2F1er%20piso.png&amp;w=640&amp;q=75   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1479%2Fweb-agent%2FfileEstates%2F1er%20piso.png&amp;w=750&amp;q=75   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1479%2Fweb-agent%2FfileEstates%2F1er%20piso.png&amp;w=828&amp;q=75   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1479%2Fweb-agent%2FfileEstates%2F1er%20piso.png&amp;w=1080&amp;q=75 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1479%2Fweb-agent%2FfileEstates%2F1er%20piso.png&amp;w=1200&amp;q=75 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1479%2Fweb-agent%2FfileEstates%2F1er%20piso.png&amp;w=1920&amp;q=75 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1479%2Fweb-agent%2FfileEstates%2F1er%20piso.png&amp;w=2048&amp;q=75 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1479%2Fweb-agent%2FfileEstates%2F1er%20piso.png&amp;w=3840&amp;q=75 3840w
                                   "
-                                src="plantilla/1er%20piso1f9d.png?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1479%2Fweb-agent%2FfileEstates%2F1er%20piso.png&amp;w=3840&amp;q=75"
+                                src="__next/1er%20piso1f9d.png?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1479%2Fweb-agent%2FfileEstates%2F1er%20piso.png&amp;w=3840&amp;q=75"
                                 decoding="async" data-nimg="fill" class="object-cover absolute" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -7505,18 +7524,18 @@ Será un placer atenderte." />
                             <div class="relative block h-[270px] w-full">
                               <img alt='Cerca a "UPN SAN ISIDRO" 5to PISO de ESTRENO con 96.50m2 a $ 64.900'
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1484%2Fweb-agent%2FfileEstates%2F5t%20piso.png&amp;w=256&amp;q=75   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1484%2Fweb-agent%2FfileEstates%2F5t%20piso.png&amp;w=384&amp;q=75   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1484%2Fweb-agent%2FfileEstates%2F5t%20piso.png&amp;w=640&amp;q=75   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1484%2Fweb-agent%2FfileEstates%2F5t%20piso.png&amp;w=750&amp;q=75   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1484%2Fweb-agent%2FfileEstates%2F5t%20piso.png&amp;w=828&amp;q=75   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1484%2Fweb-agent%2FfileEstates%2F5t%20piso.png&amp;w=1080&amp;q=75 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1484%2Fweb-agent%2FfileEstates%2F5t%20piso.png&amp;w=1200&amp;q=75 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1484%2Fweb-agent%2FfileEstates%2F5t%20piso.png&amp;w=1920&amp;q=75 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1484%2Fweb-agent%2FfileEstates%2F5t%20piso.png&amp;w=2048&amp;q=75 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1484%2Fweb-agent%2FfileEstates%2F5t%20piso.png&amp;w=3840&amp;q=75 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1484%2Fweb-agent%2FfileEstates%2F5t%20piso.png&amp;w=256&amp;q=75   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1484%2Fweb-agent%2FfileEstates%2F5t%20piso.png&amp;w=384&amp;q=75   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1484%2Fweb-agent%2FfileEstates%2F5t%20piso.png&amp;w=640&amp;q=75   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1484%2Fweb-agent%2FfileEstates%2F5t%20piso.png&amp;w=750&amp;q=75   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1484%2Fweb-agent%2FfileEstates%2F5t%20piso.png&amp;w=828&amp;q=75   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1484%2Fweb-agent%2FfileEstates%2F5t%20piso.png&amp;w=1080&amp;q=75 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1484%2Fweb-agent%2FfileEstates%2F5t%20piso.png&amp;w=1200&amp;q=75 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1484%2Fweb-agent%2FfileEstates%2F5t%20piso.png&amp;w=1920&amp;q=75 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1484%2Fweb-agent%2FfileEstates%2F5t%20piso.png&amp;w=2048&amp;q=75 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1484%2Fweb-agent%2FfileEstates%2F5t%20piso.png&amp;w=3840&amp;q=75 3840w
                                   "
-                                src="plantilla/5t%20piso5210.png?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1484%2Fweb-agent%2FfileEstates%2F5t%20piso.png&amp;w=3840&amp;q=75"
+                                src="__next/5t%20piso5210.png?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1484%2Fweb-agent%2FfileEstates%2F5t%20piso.png&amp;w=3840&amp;q=75"
                                 decoding="async" data-nimg="fill" class="object-cover absolute" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -7571,18 +7590,18 @@ Será un placer atenderte." />
                             <div class="relative block h-[270px] w-full">
                               <img alt='OCASIÓN: 3er PISO, ESTRENO Cerca a "UPN SAN ISIDRO" de 97.20m2 a $ 76.900'
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1485%2Fweb-agent%2FfileEstates%2F3er%20piso.png&amp;w=256&amp;q=75   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1485%2Fweb-agent%2FfileEstates%2F3er%20piso.png&amp;w=384&amp;q=75   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1485%2Fweb-agent%2FfileEstates%2F3er%20piso.png&amp;w=640&amp;q=75   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1485%2Fweb-agent%2FfileEstates%2F3er%20piso.png&amp;w=750&amp;q=75   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1485%2Fweb-agent%2FfileEstates%2F3er%20piso.png&amp;w=828&amp;q=75   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1485%2Fweb-agent%2FfileEstates%2F3er%20piso.png&amp;w=1080&amp;q=75 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1485%2Fweb-agent%2FfileEstates%2F3er%20piso.png&amp;w=1200&amp;q=75 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1485%2Fweb-agent%2FfileEstates%2F3er%20piso.png&amp;w=1920&amp;q=75 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1485%2Fweb-agent%2FfileEstates%2F3er%20piso.png&amp;w=2048&amp;q=75 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1485%2Fweb-agent%2FfileEstates%2F3er%20piso.png&amp;w=3840&amp;q=75 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1485%2Fweb-agent%2FfileEstates%2F3er%20piso.png&amp;w=256&amp;q=75   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1485%2Fweb-agent%2FfileEstates%2F3er%20piso.png&amp;w=384&amp;q=75   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1485%2Fweb-agent%2FfileEstates%2F3er%20piso.png&amp;w=640&amp;q=75   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1485%2Fweb-agent%2FfileEstates%2F3er%20piso.png&amp;w=750&amp;q=75   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1485%2Fweb-agent%2FfileEstates%2F3er%20piso.png&amp;w=828&amp;q=75   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1485%2Fweb-agent%2FfileEstates%2F3er%20piso.png&amp;w=1080&amp;q=75 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1485%2Fweb-agent%2FfileEstates%2F3er%20piso.png&amp;w=1200&amp;q=75 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1485%2Fweb-agent%2FfileEstates%2F3er%20piso.png&amp;w=1920&amp;q=75 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1485%2Fweb-agent%2FfileEstates%2F3er%20piso.png&amp;w=2048&amp;q=75 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1485%2Fweb-agent%2FfileEstates%2F3er%20piso.png&amp;w=3840&amp;q=75 3840w
                                   "
-                                src="plantilla/3er%20piso8c06.png?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1485%2Fweb-agent%2FfileEstates%2F3er%20piso.png&amp;w=3840&amp;q=75"
+                                src="__next/3er%20piso8c06.png?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1485%2Fweb-agent%2FfileEstates%2F3er%20piso.png&amp;w=3840&amp;q=75"
                                 decoding="async" data-nimg="fill" class="object-cover absolute" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -7634,18 +7653,18 @@ Será un placer atenderte." />
                             <div class="relative block h-[270px] w-full">
                               <img alt='ESTRENO: 4to Piso Cerca a "Mall Aventura Plaza" de 97.38m2 a $ 69.900'
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1486%2Fweb-agent%2FfileEstates%2F4t%20piso.png&amp;w=256&amp;q=75   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1486%2Fweb-agent%2FfileEstates%2F4t%20piso.png&amp;w=384&amp;q=75   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1486%2Fweb-agent%2FfileEstates%2F4t%20piso.png&amp;w=640&amp;q=75   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1486%2Fweb-agent%2FfileEstates%2F4t%20piso.png&amp;w=750&amp;q=75   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1486%2Fweb-agent%2FfileEstates%2F4t%20piso.png&amp;w=828&amp;q=75   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1486%2Fweb-agent%2FfileEstates%2F4t%20piso.png&amp;w=1080&amp;q=75 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1486%2Fweb-agent%2FfileEstates%2F4t%20piso.png&amp;w=1200&amp;q=75 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1486%2Fweb-agent%2FfileEstates%2F4t%20piso.png&amp;w=1920&amp;q=75 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1486%2Fweb-agent%2FfileEstates%2F4t%20piso.png&amp;w=2048&amp;q=75 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1486%2Fweb-agent%2FfileEstates%2F4t%20piso.png&amp;w=3840&amp;q=75 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1486%2Fweb-agent%2FfileEstates%2F4t%20piso.png&amp;w=256&amp;q=75   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1486%2Fweb-agent%2FfileEstates%2F4t%20piso.png&amp;w=384&amp;q=75   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1486%2Fweb-agent%2FfileEstates%2F4t%20piso.png&amp;w=640&amp;q=75   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1486%2Fweb-agent%2FfileEstates%2F4t%20piso.png&amp;w=750&amp;q=75   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1486%2Fweb-agent%2FfileEstates%2F4t%20piso.png&amp;w=828&amp;q=75   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1486%2Fweb-agent%2FfileEstates%2F4t%20piso.png&amp;w=1080&amp;q=75 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1486%2Fweb-agent%2FfileEstates%2F4t%20piso.png&amp;w=1200&amp;q=75 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1486%2Fweb-agent%2FfileEstates%2F4t%20piso.png&amp;w=1920&amp;q=75 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1486%2Fweb-agent%2FfileEstates%2F4t%20piso.png&amp;w=2048&amp;q=75 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1486%2Fweb-agent%2FfileEstates%2F4t%20piso.png&amp;w=3840&amp;q=75 3840w
                                   "
-                                src="plantilla/4t%20piso26c3.png?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1486%2Fweb-agent%2FfileEstates%2F4t%20piso.png&amp;w=3840&amp;q=75"
+                                src="__next/4t%20piso26c3.png?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1486%2Fweb-agent%2FfileEstates%2F4t%20piso.png&amp;w=3840&amp;q=75"
                                 decoding="async" data-nimg="fill" class="object-cover absolute" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -7696,18 +7715,18 @@ Será un placer atenderte." />
                               <img
                                 alt='A 150metros de "UCV", VENDO CASA 02PISOS + AZOTÉA + COCHERA para 02 CAMIONETAS US$ 253,900'
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1496%2Fweb-agent%2FfileEstates%2FVENTA%20CASA%20A%20150%20METROS%20DE%20UCV_JASSAN_MONICA%20(4).png&amp;w=256&amp;q=75   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1496%2Fweb-agent%2FfileEstates%2FVENTA%20CASA%20A%20150%20METROS%20DE%20UCV_JASSAN_MONICA%20(4).png&amp;w=384&amp;q=75   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1496%2Fweb-agent%2FfileEstates%2FVENTA%20CASA%20A%20150%20METROS%20DE%20UCV_JASSAN_MONICA%20(4).png&amp;w=640&amp;q=75   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1496%2Fweb-agent%2FfileEstates%2FVENTA%20CASA%20A%20150%20METROS%20DE%20UCV_JASSAN_MONICA%20(4).png&amp;w=750&amp;q=75   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1496%2Fweb-agent%2FfileEstates%2FVENTA%20CASA%20A%20150%20METROS%20DE%20UCV_JASSAN_MONICA%20(4).png&amp;w=828&amp;q=75   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1496%2Fweb-agent%2FfileEstates%2FVENTA%20CASA%20A%20150%20METROS%20DE%20UCV_JASSAN_MONICA%20(4).png&amp;w=1080&amp;q=75 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1496%2Fweb-agent%2FfileEstates%2FVENTA%20CASA%20A%20150%20METROS%20DE%20UCV_JASSAN_MONICA%20(4).png&amp;w=1200&amp;q=75 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1496%2Fweb-agent%2FfileEstates%2FVENTA%20CASA%20A%20150%20METROS%20DE%20UCV_JASSAN_MONICA%20(4).png&amp;w=1920&amp;q=75 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1496%2Fweb-agent%2FfileEstates%2FVENTA%20CASA%20A%20150%20METROS%20DE%20UCV_JASSAN_MONICA%20(4).png&amp;w=2048&amp;q=75 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1496%2Fweb-agent%2FfileEstates%2FVENTA%20CASA%20A%20150%20METROS%20DE%20UCV_JASSAN_MONICA%20(4).png&amp;w=3840&amp;q=75 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1496%2Fweb-agent%2FfileEstates%2FVENTA%20CASA%20A%20150%20METROS%20DE%20UCV_JASSAN_MONICA%20(4).png&amp;w=256&amp;q=75   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1496%2Fweb-agent%2FfileEstates%2FVENTA%20CASA%20A%20150%20METROS%20DE%20UCV_JASSAN_MONICA%20(4).png&amp;w=384&amp;q=75   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1496%2Fweb-agent%2FfileEstates%2FVENTA%20CASA%20A%20150%20METROS%20DE%20UCV_JASSAN_MONICA%20(4).png&amp;w=640&amp;q=75   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1496%2Fweb-agent%2FfileEstates%2FVENTA%20CASA%20A%20150%20METROS%20DE%20UCV_JASSAN_MONICA%20(4).png&amp;w=750&amp;q=75   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1496%2Fweb-agent%2FfileEstates%2FVENTA%20CASA%20A%20150%20METROS%20DE%20UCV_JASSAN_MONICA%20(4).png&amp;w=828&amp;q=75   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1496%2Fweb-agent%2FfileEstates%2FVENTA%20CASA%20A%20150%20METROS%20DE%20UCV_JASSAN_MONICA%20(4).png&amp;w=1080&amp;q=75 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1496%2Fweb-agent%2FfileEstates%2FVENTA%20CASA%20A%20150%20METROS%20DE%20UCV_JASSAN_MONICA%20(4).png&amp;w=1200&amp;q=75 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1496%2Fweb-agent%2FfileEstates%2FVENTA%20CASA%20A%20150%20METROS%20DE%20UCV_JASSAN_MONICA%20(4).png&amp;w=1920&amp;q=75 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1496%2Fweb-agent%2FfileEstates%2FVENTA%20CASA%20A%20150%20METROS%20DE%20UCV_JASSAN_MONICA%20(4).png&amp;w=2048&amp;q=75 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1496%2Fweb-agent%2FfileEstates%2FVENTA%20CASA%20A%20150%20METROS%20DE%20UCV_JASSAN_MONICA%20(4).png&amp;w=3840&amp;q=75 3840w
                                   "
-                                src="plantilla/VENTA%20CASA%20A%20150%20METROS%20DE%20UCV_JASSAN_MONICA%20(4)1582.png?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1496%2Fweb-agent%2FfileEstates%2FVENTA%20CASA%20A%20150%20METROS%20DE%20UCV_JASSAN_MONICA%20(4).png&amp;w=3840&amp;q=75"
+                                src="__next/VENTA%20CASA%20A%20150%20METROS%20DE%20UCV_JASSAN_MONICA%20(4)1582.png?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1496%2Fweb-agent%2FfileEstates%2FVENTA%20CASA%20A%20150%20METROS%20DE%20UCV_JASSAN_MONICA%20(4).png&amp;w=3840&amp;q=75"
                                 decoding="async" data-nimg="fill" class="object-cover absolute" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -7760,18 +7779,18 @@ Será un placer atenderte." />
                             <div class="relative block h-[270px] w-full">
                               <img alt="1er PISO FRENTE A PARQUE y Cerca a la UCV"
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1498%2Fweb-agent%2FfileEstates%2FWhatsApp%20Image%202023-02-22%20at%2016.04.06.jpeg&amp;w=256&amp;q=75   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1498%2Fweb-agent%2FfileEstates%2FWhatsApp%20Image%202023-02-22%20at%2016.04.06.jpeg&amp;w=384&amp;q=75   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1498%2Fweb-agent%2FfileEstates%2FWhatsApp%20Image%202023-02-22%20at%2016.04.06.jpeg&amp;w=640&amp;q=75   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1498%2Fweb-agent%2FfileEstates%2FWhatsApp%20Image%202023-02-22%20at%2016.04.06.jpeg&amp;w=750&amp;q=75   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1498%2Fweb-agent%2FfileEstates%2FWhatsApp%20Image%202023-02-22%20at%2016.04.06.jpeg&amp;w=828&amp;q=75   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1498%2Fweb-agent%2FfileEstates%2FWhatsApp%20Image%202023-02-22%20at%2016.04.06.jpeg&amp;w=1080&amp;q=75 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1498%2Fweb-agent%2FfileEstates%2FWhatsApp%20Image%202023-02-22%20at%2016.04.06.jpeg&amp;w=1200&amp;q=75 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1498%2Fweb-agent%2FfileEstates%2FWhatsApp%20Image%202023-02-22%20at%2016.04.06.jpeg&amp;w=1920&amp;q=75 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1498%2Fweb-agent%2FfileEstates%2FWhatsApp%20Image%202023-02-22%20at%2016.04.06.jpeg&amp;w=2048&amp;q=75 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1498%2Fweb-agent%2FfileEstates%2FWhatsApp%20Image%202023-02-22%20at%2016.04.06.jpeg&amp;w=3840&amp;q=75 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1498%2Fweb-agent%2FfileEstates%2FWhatsApp%20Image%202023-02-22%20at%2016.04.06.jpeg&amp;w=256&amp;q=75   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1498%2Fweb-agent%2FfileEstates%2FWhatsApp%20Image%202023-02-22%20at%2016.04.06.jpeg&amp;w=384&amp;q=75   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1498%2Fweb-agent%2FfileEstates%2FWhatsApp%20Image%202023-02-22%20at%2016.04.06.jpeg&amp;w=640&amp;q=75   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1498%2Fweb-agent%2FfileEstates%2FWhatsApp%20Image%202023-02-22%20at%2016.04.06.jpeg&amp;w=750&amp;q=75   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1498%2Fweb-agent%2FfileEstates%2FWhatsApp%20Image%202023-02-22%20at%2016.04.06.jpeg&amp;w=828&amp;q=75   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1498%2Fweb-agent%2FfileEstates%2FWhatsApp%20Image%202023-02-22%20at%2016.04.06.jpeg&amp;w=1080&amp;q=75 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1498%2Fweb-agent%2FfileEstates%2FWhatsApp%20Image%202023-02-22%20at%2016.04.06.jpeg&amp;w=1200&amp;q=75 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1498%2Fweb-agent%2FfileEstates%2FWhatsApp%20Image%202023-02-22%20at%2016.04.06.jpeg&amp;w=1920&amp;q=75 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1498%2Fweb-agent%2FfileEstates%2FWhatsApp%20Image%202023-02-22%20at%2016.04.06.jpeg&amp;w=2048&amp;q=75 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1498%2Fweb-agent%2FfileEstates%2FWhatsApp%20Image%202023-02-22%20at%2016.04.06.jpeg&amp;w=3840&amp;q=75 3840w
                                   "
-                                src="plantilla/WhatsApp%20Image%202023-02-22%20at%2016e5ea.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1498%2Fweb-agent%2FfileEstates%2FWhatsApp%20Image%202023-02-22%20at%2016.04.06.jpeg&amp;w=3840&amp;q=75"
+                                src="__next/WhatsApp%20Image%202023-02-22%20at%2016e5ea.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1498%2Fweb-agent%2FfileEstates%2FWhatsApp%20Image%202023-02-22%20at%2016.04.06.jpeg&amp;w=3840&amp;q=75"
                                 decoding="async" data-nimg="fill" class="object-cover absolute" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -7823,18 +7842,18 @@ Será un placer atenderte." />
                               <img
                                 alt="Casa Comercial 03 Pisos, 597 m², Frente a Essalud y Clínica Alta Gracía, Trujillo"
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F973%2FfileEstates%2Fz7nm9lzbWF960kuFazW1FiDkNz4sZsCmgA9K83fI.png&amp;w=256&amp;q=75   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F973%2FfileEstates%2Fz7nm9lzbWF960kuFazW1FiDkNz4sZsCmgA9K83fI.png&amp;w=384&amp;q=75   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F973%2FfileEstates%2Fz7nm9lzbWF960kuFazW1FiDkNz4sZsCmgA9K83fI.png&amp;w=640&amp;q=75   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F973%2FfileEstates%2Fz7nm9lzbWF960kuFazW1FiDkNz4sZsCmgA9K83fI.png&amp;w=750&amp;q=75   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F973%2FfileEstates%2Fz7nm9lzbWF960kuFazW1FiDkNz4sZsCmgA9K83fI.png&amp;w=828&amp;q=75   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F973%2FfileEstates%2Fz7nm9lzbWF960kuFazW1FiDkNz4sZsCmgA9K83fI.png&amp;w=1080&amp;q=75 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F973%2FfileEstates%2Fz7nm9lzbWF960kuFazW1FiDkNz4sZsCmgA9K83fI.png&amp;w=1200&amp;q=75 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F973%2FfileEstates%2Fz7nm9lzbWF960kuFazW1FiDkNz4sZsCmgA9K83fI.png&amp;w=1920&amp;q=75 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F973%2FfileEstates%2Fz7nm9lzbWF960kuFazW1FiDkNz4sZsCmgA9K83fI.png&amp;w=2048&amp;q=75 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F973%2FfileEstates%2Fz7nm9lzbWF960kuFazW1FiDkNz4sZsCmgA9K83fI.png&amp;w=3840&amp;q=75 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F973%2FfileEstates%2Fz7nm9lzbWF960kuFazW1FiDkNz4sZsCmgA9K83fI.png&amp;w=256&amp;q=75   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F973%2FfileEstates%2Fz7nm9lzbWF960kuFazW1FiDkNz4sZsCmgA9K83fI.png&amp;w=384&amp;q=75   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F973%2FfileEstates%2Fz7nm9lzbWF960kuFazW1FiDkNz4sZsCmgA9K83fI.png&amp;w=640&amp;q=75   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F973%2FfileEstates%2Fz7nm9lzbWF960kuFazW1FiDkNz4sZsCmgA9K83fI.png&amp;w=750&amp;q=75   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F973%2FfileEstates%2Fz7nm9lzbWF960kuFazW1FiDkNz4sZsCmgA9K83fI.png&amp;w=828&amp;q=75   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F973%2FfileEstates%2Fz7nm9lzbWF960kuFazW1FiDkNz4sZsCmgA9K83fI.png&amp;w=1080&amp;q=75 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F973%2FfileEstates%2Fz7nm9lzbWF960kuFazW1FiDkNz4sZsCmgA9K83fI.png&amp;w=1200&amp;q=75 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F973%2FfileEstates%2Fz7nm9lzbWF960kuFazW1FiDkNz4sZsCmgA9K83fI.png&amp;w=1920&amp;q=75 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F973%2FfileEstates%2Fz7nm9lzbWF960kuFazW1FiDkNz4sZsCmgA9K83fI.png&amp;w=2048&amp;q=75 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F973%2FfileEstates%2Fz7nm9lzbWF960kuFazW1FiDkNz4sZsCmgA9K83fI.png&amp;w=3840&amp;q=75 3840w
                                   "
-                                src="plantilla/z7nm9lzbWF960kuFazW1FiDkNz4sZsCmgA9K83fIbb1c.png?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F973%2FfileEstates%2Fz7nm9lzbWF960kuFazW1FiDkNz4sZsCmgA9K83fI.png&amp;w=3840&amp;q=75"
+                                src="__next/z7nm9lzbWF960kuFazW1FiDkNz4sZsCmgA9K83fIbb1c.png?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F973%2FfileEstates%2Fz7nm9lzbWF960kuFazW1FiDkNz4sZsCmgA9K83fI.png&amp;w=3840&amp;q=75"
                                 decoding="async" data-nimg="fill" class="object-cover absolute" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -7876,18 +7895,18 @@ Será un placer atenderte." />
                               <img
                                 alt="!La OPORTUNIDAD que estabas buscando! Departamento 2do piso de 99.17m2 con 4 cuartos ,cerca a UNT - Trujillo"
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F978%2FfileEstates%2FZGFgWkw3ljN1GQ22nl0JVn3IMh8D2hY13oIouyS2.jpeg&amp;w=256&amp;q=75   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F978%2FfileEstates%2FZGFgWkw3ljN1GQ22nl0JVn3IMh8D2hY13oIouyS2.jpeg&amp;w=384&amp;q=75   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F978%2FfileEstates%2FZGFgWkw3ljN1GQ22nl0JVn3IMh8D2hY13oIouyS2.jpeg&amp;w=640&amp;q=75   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F978%2FfileEstates%2FZGFgWkw3ljN1GQ22nl0JVn3IMh8D2hY13oIouyS2.jpeg&amp;w=750&amp;q=75   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F978%2FfileEstates%2FZGFgWkw3ljN1GQ22nl0JVn3IMh8D2hY13oIouyS2.jpeg&amp;w=828&amp;q=75   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F978%2FfileEstates%2FZGFgWkw3ljN1GQ22nl0JVn3IMh8D2hY13oIouyS2.jpeg&amp;w=1080&amp;q=75 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F978%2FfileEstates%2FZGFgWkw3ljN1GQ22nl0JVn3IMh8D2hY13oIouyS2.jpeg&amp;w=1200&amp;q=75 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F978%2FfileEstates%2FZGFgWkw3ljN1GQ22nl0JVn3IMh8D2hY13oIouyS2.jpeg&amp;w=1920&amp;q=75 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F978%2FfileEstates%2FZGFgWkw3ljN1GQ22nl0JVn3IMh8D2hY13oIouyS2.jpeg&amp;w=2048&amp;q=75 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F978%2FfileEstates%2FZGFgWkw3ljN1GQ22nl0JVn3IMh8D2hY13oIouyS2.jpeg&amp;w=3840&amp;q=75 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F978%2FfileEstates%2FZGFgWkw3ljN1GQ22nl0JVn3IMh8D2hY13oIouyS2.jpeg&amp;w=256&amp;q=75   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F978%2FfileEstates%2FZGFgWkw3ljN1GQ22nl0JVn3IMh8D2hY13oIouyS2.jpeg&amp;w=384&amp;q=75   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F978%2FfileEstates%2FZGFgWkw3ljN1GQ22nl0JVn3IMh8D2hY13oIouyS2.jpeg&amp;w=640&amp;q=75   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F978%2FfileEstates%2FZGFgWkw3ljN1GQ22nl0JVn3IMh8D2hY13oIouyS2.jpeg&amp;w=750&amp;q=75   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F978%2FfileEstates%2FZGFgWkw3ljN1GQ22nl0JVn3IMh8D2hY13oIouyS2.jpeg&amp;w=828&amp;q=75   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F978%2FfileEstates%2FZGFgWkw3ljN1GQ22nl0JVn3IMh8D2hY13oIouyS2.jpeg&amp;w=1080&amp;q=75 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F978%2FfileEstates%2FZGFgWkw3ljN1GQ22nl0JVn3IMh8D2hY13oIouyS2.jpeg&amp;w=1200&amp;q=75 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F978%2FfileEstates%2FZGFgWkw3ljN1GQ22nl0JVn3IMh8D2hY13oIouyS2.jpeg&amp;w=1920&amp;q=75 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F978%2FfileEstates%2FZGFgWkw3ljN1GQ22nl0JVn3IMh8D2hY13oIouyS2.jpeg&amp;w=2048&amp;q=75 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F978%2FfileEstates%2FZGFgWkw3ljN1GQ22nl0JVn3IMh8D2hY13oIouyS2.jpeg&amp;w=3840&amp;q=75 3840w
                                   "
-                                src="plantilla/ZGFgWkw3ljN1GQ22nl0JVn3IMh8D2hY13oIouyS2e23e.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F978%2FfileEstates%2FZGFgWkw3ljN1GQ22nl0JVn3IMh8D2hY13oIouyS2.jpeg&amp;w=3840&amp;q=75"
+                                src="__next/ZGFgWkw3ljN1GQ22nl0JVn3IMh8D2hY13oIouyS2e23e.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F978%2FfileEstates%2FZGFgWkw3ljN1GQ22nl0JVn3IMh8D2hY13oIouyS2.jpeg&amp;w=3840&amp;q=75"
                                 decoding="async" data-nimg="fill" class="object-cover absolute" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -7929,18 +7948,18 @@ Será un placer atenderte." />
                               <img
                                 alt="Duplex 3ro y 4to Piso con 13 Habitaciones a 01 Cuadra de Av. España a Sólo $62,900 dólares"
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1004%2FfileEstates%2FPAFZkPpiqh08WWEqaT2CFFws4dO5ckfdkZVCZxWH.png&amp;w=256&amp;q=75   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1004%2FfileEstates%2FPAFZkPpiqh08WWEqaT2CFFws4dO5ckfdkZVCZxWH.png&amp;w=384&amp;q=75   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1004%2FfileEstates%2FPAFZkPpiqh08WWEqaT2CFFws4dO5ckfdkZVCZxWH.png&amp;w=640&amp;q=75   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1004%2FfileEstates%2FPAFZkPpiqh08WWEqaT2CFFws4dO5ckfdkZVCZxWH.png&amp;w=750&amp;q=75   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1004%2FfileEstates%2FPAFZkPpiqh08WWEqaT2CFFws4dO5ckfdkZVCZxWH.png&amp;w=828&amp;q=75   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1004%2FfileEstates%2FPAFZkPpiqh08WWEqaT2CFFws4dO5ckfdkZVCZxWH.png&amp;w=1080&amp;q=75 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1004%2FfileEstates%2FPAFZkPpiqh08WWEqaT2CFFws4dO5ckfdkZVCZxWH.png&amp;w=1200&amp;q=75 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1004%2FfileEstates%2FPAFZkPpiqh08WWEqaT2CFFws4dO5ckfdkZVCZxWH.png&amp;w=1920&amp;q=75 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1004%2FfileEstates%2FPAFZkPpiqh08WWEqaT2CFFws4dO5ckfdkZVCZxWH.png&amp;w=2048&amp;q=75 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1004%2FfileEstates%2FPAFZkPpiqh08WWEqaT2CFFws4dO5ckfdkZVCZxWH.png&amp;w=3840&amp;q=75 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1004%2FfileEstates%2FPAFZkPpiqh08WWEqaT2CFFws4dO5ckfdkZVCZxWH.png&amp;w=256&amp;q=75   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1004%2FfileEstates%2FPAFZkPpiqh08WWEqaT2CFFws4dO5ckfdkZVCZxWH.png&amp;w=384&amp;q=75   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1004%2FfileEstates%2FPAFZkPpiqh08WWEqaT2CFFws4dO5ckfdkZVCZxWH.png&amp;w=640&amp;q=75   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1004%2FfileEstates%2FPAFZkPpiqh08WWEqaT2CFFws4dO5ckfdkZVCZxWH.png&amp;w=750&amp;q=75   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1004%2FfileEstates%2FPAFZkPpiqh08WWEqaT2CFFws4dO5ckfdkZVCZxWH.png&amp;w=828&amp;q=75   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1004%2FfileEstates%2FPAFZkPpiqh08WWEqaT2CFFws4dO5ckfdkZVCZxWH.png&amp;w=1080&amp;q=75 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1004%2FfileEstates%2FPAFZkPpiqh08WWEqaT2CFFws4dO5ckfdkZVCZxWH.png&amp;w=1200&amp;q=75 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1004%2FfileEstates%2FPAFZkPpiqh08WWEqaT2CFFws4dO5ckfdkZVCZxWH.png&amp;w=1920&amp;q=75 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1004%2FfileEstates%2FPAFZkPpiqh08WWEqaT2CFFws4dO5ckfdkZVCZxWH.png&amp;w=2048&amp;q=75 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1004%2FfileEstates%2FPAFZkPpiqh08WWEqaT2CFFws4dO5ckfdkZVCZxWH.png&amp;w=3840&amp;q=75 3840w
                                   "
-                                src="plantilla/PAFZkPpiqh08WWEqaT2CFFws4dO5ckfdkZVCZxWHbc42.png?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1004%2FfileEstates%2FPAFZkPpiqh08WWEqaT2CFFws4dO5ckfdkZVCZxWH.png&amp;w=3840&amp;q=75"
+                                src="__next/PAFZkPpiqh08WWEqaT2CFFws4dO5ckfdkZVCZxWHbc42.png?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1004%2FfileEstates%2FPAFZkPpiqh08WWEqaT2CFFws4dO5ckfdkZVCZxWH.png&amp;w=3840&amp;q=75"
                                 decoding="async" data-nimg="fill" class="object-cover absolute" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -7982,18 +8001,18 @@ Será un placer atenderte." />
                               <img
                                 alt="Disfruta Vivir en Este Precioso Departamento Frente a Parque, con Finos Acabados"
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1005%2FfileEstates%2FnYDbnvqmmY8cqxwOP4xsAyx9OwaM8S37n4rm4kup.jpeg&amp;w=256&amp;q=75   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1005%2FfileEstates%2FnYDbnvqmmY8cqxwOP4xsAyx9OwaM8S37n4rm4kup.jpeg&amp;w=384&amp;q=75   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1005%2FfileEstates%2FnYDbnvqmmY8cqxwOP4xsAyx9OwaM8S37n4rm4kup.jpeg&amp;w=640&amp;q=75   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1005%2FfileEstates%2FnYDbnvqmmY8cqxwOP4xsAyx9OwaM8S37n4rm4kup.jpeg&amp;w=750&amp;q=75   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1005%2FfileEstates%2FnYDbnvqmmY8cqxwOP4xsAyx9OwaM8S37n4rm4kup.jpeg&amp;w=828&amp;q=75   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1005%2FfileEstates%2FnYDbnvqmmY8cqxwOP4xsAyx9OwaM8S37n4rm4kup.jpeg&amp;w=1080&amp;q=75 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1005%2FfileEstates%2FnYDbnvqmmY8cqxwOP4xsAyx9OwaM8S37n4rm4kup.jpeg&amp;w=1200&amp;q=75 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1005%2FfileEstates%2FnYDbnvqmmY8cqxwOP4xsAyx9OwaM8S37n4rm4kup.jpeg&amp;w=1920&amp;q=75 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1005%2FfileEstates%2FnYDbnvqmmY8cqxwOP4xsAyx9OwaM8S37n4rm4kup.jpeg&amp;w=2048&amp;q=75 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1005%2FfileEstates%2FnYDbnvqmmY8cqxwOP4xsAyx9OwaM8S37n4rm4kup.jpeg&amp;w=3840&amp;q=75 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1005%2FfileEstates%2FnYDbnvqmmY8cqxwOP4xsAyx9OwaM8S37n4rm4kup.jpeg&amp;w=256&amp;q=75   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1005%2FfileEstates%2FnYDbnvqmmY8cqxwOP4xsAyx9OwaM8S37n4rm4kup.jpeg&amp;w=384&amp;q=75   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1005%2FfileEstates%2FnYDbnvqmmY8cqxwOP4xsAyx9OwaM8S37n4rm4kup.jpeg&amp;w=640&amp;q=75   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1005%2FfileEstates%2FnYDbnvqmmY8cqxwOP4xsAyx9OwaM8S37n4rm4kup.jpeg&amp;w=750&amp;q=75   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1005%2FfileEstates%2FnYDbnvqmmY8cqxwOP4xsAyx9OwaM8S37n4rm4kup.jpeg&amp;w=828&amp;q=75   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1005%2FfileEstates%2FnYDbnvqmmY8cqxwOP4xsAyx9OwaM8S37n4rm4kup.jpeg&amp;w=1080&amp;q=75 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1005%2FfileEstates%2FnYDbnvqmmY8cqxwOP4xsAyx9OwaM8S37n4rm4kup.jpeg&amp;w=1200&amp;q=75 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1005%2FfileEstates%2FnYDbnvqmmY8cqxwOP4xsAyx9OwaM8S37n4rm4kup.jpeg&amp;w=1920&amp;q=75 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1005%2FfileEstates%2FnYDbnvqmmY8cqxwOP4xsAyx9OwaM8S37n4rm4kup.jpeg&amp;w=2048&amp;q=75 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1005%2FfileEstates%2FnYDbnvqmmY8cqxwOP4xsAyx9OwaM8S37n4rm4kup.jpeg&amp;w=3840&amp;q=75 3840w
                                   "
-                                src="plantilla/nYDbnvqmmY8cqxwOP4xsAyx9OwaM8S37n4rm4kupe21a.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1005%2FfileEstates%2FnYDbnvqmmY8cqxwOP4xsAyx9OwaM8S37n4rm4kup.jpeg&amp;w=3840&amp;q=75"
+                                src="__next/nYDbnvqmmY8cqxwOP4xsAyx9OwaM8S37n4rm4kupe21a.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1005%2FfileEstates%2FnYDbnvqmmY8cqxwOP4xsAyx9OwaM8S37n4rm4kup.jpeg&amp;w=3840&amp;q=75"
                                 decoding="async" data-nimg="fill" class="object-cover absolute" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -8035,18 +8054,18 @@ Será un placer atenderte." />
                               <img
                                 alt="¡Este Encantador Departamento con Vista Al Parque Espera por Ti! Es Espectacular"
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1006%2FfileEstates%2FZDdOm6JYzjqYRQ6eWQnTiibK1dIcQquUO8hj5q8N.jpeg&amp;w=256&amp;q=75   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1006%2FfileEstates%2FZDdOm6JYzjqYRQ6eWQnTiibK1dIcQquUO8hj5q8N.jpeg&amp;w=384&amp;q=75   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1006%2FfileEstates%2FZDdOm6JYzjqYRQ6eWQnTiibK1dIcQquUO8hj5q8N.jpeg&amp;w=640&amp;q=75   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1006%2FfileEstates%2FZDdOm6JYzjqYRQ6eWQnTiibK1dIcQquUO8hj5q8N.jpeg&amp;w=750&amp;q=75   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1006%2FfileEstates%2FZDdOm6JYzjqYRQ6eWQnTiibK1dIcQquUO8hj5q8N.jpeg&amp;w=828&amp;q=75   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1006%2FfileEstates%2FZDdOm6JYzjqYRQ6eWQnTiibK1dIcQquUO8hj5q8N.jpeg&amp;w=1080&amp;q=75 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1006%2FfileEstates%2FZDdOm6JYzjqYRQ6eWQnTiibK1dIcQquUO8hj5q8N.jpeg&amp;w=1200&amp;q=75 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1006%2FfileEstates%2FZDdOm6JYzjqYRQ6eWQnTiibK1dIcQquUO8hj5q8N.jpeg&amp;w=1920&amp;q=75 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1006%2FfileEstates%2FZDdOm6JYzjqYRQ6eWQnTiibK1dIcQquUO8hj5q8N.jpeg&amp;w=2048&amp;q=75 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1006%2FfileEstates%2FZDdOm6JYzjqYRQ6eWQnTiibK1dIcQquUO8hj5q8N.jpeg&amp;w=3840&amp;q=75 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1006%2FfileEstates%2FZDdOm6JYzjqYRQ6eWQnTiibK1dIcQquUO8hj5q8N.jpeg&amp;w=256&amp;q=75   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1006%2FfileEstates%2FZDdOm6JYzjqYRQ6eWQnTiibK1dIcQquUO8hj5q8N.jpeg&amp;w=384&amp;q=75   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1006%2FfileEstates%2FZDdOm6JYzjqYRQ6eWQnTiibK1dIcQquUO8hj5q8N.jpeg&amp;w=640&amp;q=75   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1006%2FfileEstates%2FZDdOm6JYzjqYRQ6eWQnTiibK1dIcQquUO8hj5q8N.jpeg&amp;w=750&amp;q=75   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1006%2FfileEstates%2FZDdOm6JYzjqYRQ6eWQnTiibK1dIcQquUO8hj5q8N.jpeg&amp;w=828&amp;q=75   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1006%2FfileEstates%2FZDdOm6JYzjqYRQ6eWQnTiibK1dIcQquUO8hj5q8N.jpeg&amp;w=1080&amp;q=75 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1006%2FfileEstates%2FZDdOm6JYzjqYRQ6eWQnTiibK1dIcQquUO8hj5q8N.jpeg&amp;w=1200&amp;q=75 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1006%2FfileEstates%2FZDdOm6JYzjqYRQ6eWQnTiibK1dIcQquUO8hj5q8N.jpeg&amp;w=1920&amp;q=75 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1006%2FfileEstates%2FZDdOm6JYzjqYRQ6eWQnTiibK1dIcQquUO8hj5q8N.jpeg&amp;w=2048&amp;q=75 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1006%2FfileEstates%2FZDdOm6JYzjqYRQ6eWQnTiibK1dIcQquUO8hj5q8N.jpeg&amp;w=3840&amp;q=75 3840w
                                   "
-                                src="plantilla/ZDdOm6JYzjqYRQ6eWQnTiibK1dIcQquUO8hj5q8N2f1f.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1006%2FfileEstates%2FZDdOm6JYzjqYRQ6eWQnTiibK1dIcQquUO8hj5q8N.jpeg&amp;w=3840&amp;q=75"
+                                src="__next/ZDdOm6JYzjqYRQ6eWQnTiibK1dIcQquUO8hj5q8N2f1f.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1006%2FfileEstates%2FZDdOm6JYzjqYRQ6eWQnTiibK1dIcQquUO8hj5q8N.jpeg&amp;w=3840&amp;q=75"
                                 decoding="async" data-nimg="fill" class="object-cover absolute" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -8087,18 +8106,18 @@ Será un placer atenderte." />
                               <img
                                 alt="1ER PISO de ÁREA: 160m2 - CERCA A PARQUE CON 03 CUARTOS A $65,000 dólares en SAN ANDRES V ETAPA"
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1306%2FfileEstates%2FYjB7qMxB8IKcMVQ794dRVIB855ty7rX1HM9KIfI1.jpeg&amp;w=256&amp;q=75   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1306%2FfileEstates%2FYjB7qMxB8IKcMVQ794dRVIB855ty7rX1HM9KIfI1.jpeg&amp;w=384&amp;q=75   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1306%2FfileEstates%2FYjB7qMxB8IKcMVQ794dRVIB855ty7rX1HM9KIfI1.jpeg&amp;w=640&amp;q=75   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1306%2FfileEstates%2FYjB7qMxB8IKcMVQ794dRVIB855ty7rX1HM9KIfI1.jpeg&amp;w=750&amp;q=75   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1306%2FfileEstates%2FYjB7qMxB8IKcMVQ794dRVIB855ty7rX1HM9KIfI1.jpeg&amp;w=828&amp;q=75   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1306%2FfileEstates%2FYjB7qMxB8IKcMVQ794dRVIB855ty7rX1HM9KIfI1.jpeg&amp;w=1080&amp;q=75 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1306%2FfileEstates%2FYjB7qMxB8IKcMVQ794dRVIB855ty7rX1HM9KIfI1.jpeg&amp;w=1200&amp;q=75 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1306%2FfileEstates%2FYjB7qMxB8IKcMVQ794dRVIB855ty7rX1HM9KIfI1.jpeg&amp;w=1920&amp;q=75 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1306%2FfileEstates%2FYjB7qMxB8IKcMVQ794dRVIB855ty7rX1HM9KIfI1.jpeg&amp;w=2048&amp;q=75 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1306%2FfileEstates%2FYjB7qMxB8IKcMVQ794dRVIB855ty7rX1HM9KIfI1.jpeg&amp;w=3840&amp;q=75 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1306%2FfileEstates%2FYjB7qMxB8IKcMVQ794dRVIB855ty7rX1HM9KIfI1.jpeg&amp;w=256&amp;q=75   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1306%2FfileEstates%2FYjB7qMxB8IKcMVQ794dRVIB855ty7rX1HM9KIfI1.jpeg&amp;w=384&amp;q=75   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1306%2FfileEstates%2FYjB7qMxB8IKcMVQ794dRVIB855ty7rX1HM9KIfI1.jpeg&amp;w=640&amp;q=75   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1306%2FfileEstates%2FYjB7qMxB8IKcMVQ794dRVIB855ty7rX1HM9KIfI1.jpeg&amp;w=750&amp;q=75   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1306%2FfileEstates%2FYjB7qMxB8IKcMVQ794dRVIB855ty7rX1HM9KIfI1.jpeg&amp;w=828&amp;q=75   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1306%2FfileEstates%2FYjB7qMxB8IKcMVQ794dRVIB855ty7rX1HM9KIfI1.jpeg&amp;w=1080&amp;q=75 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1306%2FfileEstates%2FYjB7qMxB8IKcMVQ794dRVIB855ty7rX1HM9KIfI1.jpeg&amp;w=1200&amp;q=75 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1306%2FfileEstates%2FYjB7qMxB8IKcMVQ794dRVIB855ty7rX1HM9KIfI1.jpeg&amp;w=1920&amp;q=75 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1306%2FfileEstates%2FYjB7qMxB8IKcMVQ794dRVIB855ty7rX1HM9KIfI1.jpeg&amp;w=2048&amp;q=75 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1306%2FfileEstates%2FYjB7qMxB8IKcMVQ794dRVIB855ty7rX1HM9KIfI1.jpeg&amp;w=3840&amp;q=75 3840w
                                   "
-                                src="plantilla/YjB7qMxB8IKcMVQ794dRVIB855ty7rX1HM9KIfI1cf26.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1306%2FfileEstates%2FYjB7qMxB8IKcMVQ794dRVIB855ty7rX1HM9KIfI1.jpeg&amp;w=3840&amp;q=75"
+                                src="__next/YjB7qMxB8IKcMVQ794dRVIB855ty7rX1HM9KIfI1cf26.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1306%2FfileEstates%2FYjB7qMxB8IKcMVQ794dRVIB855ty7rX1HM9KIfI1.jpeg&amp;w=3840&amp;q=75"
                                 decoding="async" data-nimg="fill" class="object-cover absolute" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -8141,18 +8160,18 @@ Será un placer atenderte." />
                               <img
                                 alt="TERRENO de 300m² en URB. EL GOLF, PALMERAS II ETAPA -ZONA MÁS EXCLUSIVA Y SEGURA DE TRUJILLO."
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1307%2FfileEstates%2FMkVOkxj6mh3mNZgIZvW8qRHIsVz35aTsqgmy9pOq.png&amp;w=256&amp;q=75   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1307%2FfileEstates%2FMkVOkxj6mh3mNZgIZvW8qRHIsVz35aTsqgmy9pOq.png&amp;w=384&amp;q=75   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1307%2FfileEstates%2FMkVOkxj6mh3mNZgIZvW8qRHIsVz35aTsqgmy9pOq.png&amp;w=640&amp;q=75   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1307%2FfileEstates%2FMkVOkxj6mh3mNZgIZvW8qRHIsVz35aTsqgmy9pOq.png&amp;w=750&amp;q=75   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1307%2FfileEstates%2FMkVOkxj6mh3mNZgIZvW8qRHIsVz35aTsqgmy9pOq.png&amp;w=828&amp;q=75   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1307%2FfileEstates%2FMkVOkxj6mh3mNZgIZvW8qRHIsVz35aTsqgmy9pOq.png&amp;w=1080&amp;q=75 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1307%2FfileEstates%2FMkVOkxj6mh3mNZgIZvW8qRHIsVz35aTsqgmy9pOq.png&amp;w=1200&amp;q=75 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1307%2FfileEstates%2FMkVOkxj6mh3mNZgIZvW8qRHIsVz35aTsqgmy9pOq.png&amp;w=1920&amp;q=75 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1307%2FfileEstates%2FMkVOkxj6mh3mNZgIZvW8qRHIsVz35aTsqgmy9pOq.png&amp;w=2048&amp;q=75 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1307%2FfileEstates%2FMkVOkxj6mh3mNZgIZvW8qRHIsVz35aTsqgmy9pOq.png&amp;w=3840&amp;q=75 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1307%2FfileEstates%2FMkVOkxj6mh3mNZgIZvW8qRHIsVz35aTsqgmy9pOq.png&amp;w=256&amp;q=75   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1307%2FfileEstates%2FMkVOkxj6mh3mNZgIZvW8qRHIsVz35aTsqgmy9pOq.png&amp;w=384&amp;q=75   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1307%2FfileEstates%2FMkVOkxj6mh3mNZgIZvW8qRHIsVz35aTsqgmy9pOq.png&amp;w=640&amp;q=75   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1307%2FfileEstates%2FMkVOkxj6mh3mNZgIZvW8qRHIsVz35aTsqgmy9pOq.png&amp;w=750&amp;q=75   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1307%2FfileEstates%2FMkVOkxj6mh3mNZgIZvW8qRHIsVz35aTsqgmy9pOq.png&amp;w=828&amp;q=75   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1307%2FfileEstates%2FMkVOkxj6mh3mNZgIZvW8qRHIsVz35aTsqgmy9pOq.png&amp;w=1080&amp;q=75 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1307%2FfileEstates%2FMkVOkxj6mh3mNZgIZvW8qRHIsVz35aTsqgmy9pOq.png&amp;w=1200&amp;q=75 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1307%2FfileEstates%2FMkVOkxj6mh3mNZgIZvW8qRHIsVz35aTsqgmy9pOq.png&amp;w=1920&amp;q=75 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1307%2FfileEstates%2FMkVOkxj6mh3mNZgIZvW8qRHIsVz35aTsqgmy9pOq.png&amp;w=2048&amp;q=75 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1307%2FfileEstates%2FMkVOkxj6mh3mNZgIZvW8qRHIsVz35aTsqgmy9pOq.png&amp;w=3840&amp;q=75 3840w
                                   "
-                                src="plantilla/MkVOkxj6mh3mNZgIZvW8qRHIsVz35aTsqgmy9pOqa088.png?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1307%2FfileEstates%2FMkVOkxj6mh3mNZgIZvW8qRHIsVz35aTsqgmy9pOq.png&amp;w=3840&amp;q=75"
+                                src="__next/MkVOkxj6mh3mNZgIZvW8qRHIsVz35aTsqgmy9pOqa088.png?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1307%2FfileEstates%2FMkVOkxj6mh3mNZgIZvW8qRHIsVz35aTsqgmy9pOq.png&amp;w=3840&amp;q=75"
                                 decoding="async" data-nimg="fill" class="object-cover absolute" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -8194,18 +8213,18 @@ Será un placer atenderte." />
                             <div class="relative block h-[270px] w-full">
                               <img alt="Hogar 1er PISO de 127m2 en Urb. Santa María a US$74,900 (Negociable) -Trujillo"
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1416%2Fweb-agent%2FfileEstates%2F1.jpeg&amp;w=256&amp;q=75   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1416%2Fweb-agent%2FfileEstates%2F1.jpeg&amp;w=384&amp;q=75   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1416%2Fweb-agent%2FfileEstates%2F1.jpeg&amp;w=640&amp;q=75   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1416%2Fweb-agent%2FfileEstates%2F1.jpeg&amp;w=750&amp;q=75   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1416%2Fweb-agent%2FfileEstates%2F1.jpeg&amp;w=828&amp;q=75   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1416%2Fweb-agent%2FfileEstates%2F1.jpeg&amp;w=1080&amp;q=75 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1416%2Fweb-agent%2FfileEstates%2F1.jpeg&amp;w=1200&amp;q=75 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1416%2Fweb-agent%2FfileEstates%2F1.jpeg&amp;w=1920&amp;q=75 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1416%2Fweb-agent%2FfileEstates%2F1.jpeg&amp;w=2048&amp;q=75 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1416%2Fweb-agent%2FfileEstates%2F1.jpeg&amp;w=3840&amp;q=75 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1416%2Fweb-agent%2FfileEstates%2F1.jpeg&amp;w=256&amp;q=75   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1416%2Fweb-agent%2FfileEstates%2F1.jpeg&amp;w=384&amp;q=75   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1416%2Fweb-agent%2FfileEstates%2F1.jpeg&amp;w=640&amp;q=75   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1416%2Fweb-agent%2FfileEstates%2F1.jpeg&amp;w=750&amp;q=75   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1416%2Fweb-agent%2FfileEstates%2F1.jpeg&amp;w=828&amp;q=75   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1416%2Fweb-agent%2FfileEstates%2F1.jpeg&amp;w=1080&amp;q=75 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1416%2Fweb-agent%2FfileEstates%2F1.jpeg&amp;w=1200&amp;q=75 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1416%2Fweb-agent%2FfileEstates%2F1.jpeg&amp;w=1920&amp;q=75 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1416%2Fweb-agent%2FfileEstates%2F1.jpeg&amp;w=2048&amp;q=75 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1416%2Fweb-agent%2FfileEstates%2F1.jpeg&amp;w=3840&amp;q=75 3840w
                                   "
-                                src="plantilla/18418.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1416%2Fweb-agent%2FfileEstates%2F1.jpeg&amp;w=3840&amp;q=75"
+                                src="__next/18418.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1416%2Fweb-agent%2FfileEstates%2F1.jpeg&amp;w=3840&amp;q=75"
                                 decoding="async" data-nimg="fill" class="object-cover absolute" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -8257,18 +8276,18 @@ Será un placer atenderte." />
                               <img
                                 alt="LUJOSA CASA de 03 PISOS, AO: 236,25 m2 en URB. OQUÍDEAS de SAN ISIDRO- TRUJILLO  "
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1617%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(9).jpg&amp;w=256&amp;q=75   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1617%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(9).jpg&amp;w=384&amp;q=75   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1617%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(9).jpg&amp;w=640&amp;q=75   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1617%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(9).jpg&amp;w=750&amp;q=75   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1617%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(9).jpg&amp;w=828&amp;q=75   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1617%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(9).jpg&amp;w=1080&amp;q=75 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1617%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(9).jpg&amp;w=1200&amp;q=75 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1617%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(9).jpg&amp;w=1920&amp;q=75 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1617%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(9).jpg&amp;w=2048&amp;q=75 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1617%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(9).jpg&amp;w=3840&amp;q=75 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1617%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(9).jpg&amp;w=256&amp;q=75   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1617%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(9).jpg&amp;w=384&amp;q=75   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1617%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(9).jpg&amp;w=640&amp;q=75   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1617%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(9).jpg&amp;w=750&amp;q=75   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1617%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(9).jpg&amp;w=828&amp;q=75   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1617%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(9).jpg&amp;w=1080&amp;q=75 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1617%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(9).jpg&amp;w=1200&amp;q=75 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1617%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(9).jpg&amp;w=1920&amp;q=75 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1617%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(9).jpg&amp;w=2048&amp;q=75 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1617%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(9).jpg&amp;w=3840&amp;q=75 3840w
                                   "
-                                src="plantilla/RESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSANedb0.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1617%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(9).jpg&amp;w=3840&amp;q=75"
+                                src="__next/RESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSANedb0.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1617%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(9).jpg&amp;w=3840&amp;q=75"
                                 decoding="async" data-nimg="fill" class="object-cover absolute" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -8338,18 +8357,18 @@ Será un placer atenderte." />
                               <img
                                 alt="TRUJILLO 3er PISO en AV. LARCO N°1270, cerca Universidad UCV y SUNARP Área: 92 m2 con 03 Hab US $ 57,900 dólares."
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1673%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(5).jpg&amp;w=256&amp;q=75   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1673%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(5).jpg&amp;w=384&amp;q=75   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1673%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(5).jpg&amp;w=640&amp;q=75   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1673%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(5).jpg&amp;w=750&amp;q=75   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1673%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(5).jpg&amp;w=828&amp;q=75   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1673%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(5).jpg&amp;w=1080&amp;q=75 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1673%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(5).jpg&amp;w=1200&amp;q=75 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1673%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(5).jpg&amp;w=1920&amp;q=75 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1673%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(5).jpg&amp;w=2048&amp;q=75 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1673%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(5).jpg&amp;w=3840&amp;q=75 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1673%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(5).jpg&amp;w=256&amp;q=75   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1673%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(5).jpg&amp;w=384&amp;q=75   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1673%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(5).jpg&amp;w=640&amp;q=75   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1673%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(5).jpg&amp;w=750&amp;q=75   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1673%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(5).jpg&amp;w=828&amp;q=75   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1673%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(5).jpg&amp;w=1080&amp;q=75 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1673%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(5).jpg&amp;w=1200&amp;q=75 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1673%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(5).jpg&amp;w=1920&amp;q=75 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1673%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(5).jpg&amp;w=2048&amp;q=75 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1673%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(5).jpg&amp;w=3840&amp;q=75 3840w
                                   "
-                                src="plantilla/RESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN061c.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1673%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(5).jpg&amp;w=3840&amp;q=75"
+                                src="__next/RESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN061c.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1673%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(5).jpg&amp;w=3840&amp;q=75"
                                 decoding="async" data-nimg="fill" class="object-cover absolute" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -8403,18 +8422,18 @@ Será un placer atenderte." />
                               <img
                                 alt='Frente PARQUE en Urb. "QUINTANAS" AMPLIA CASA de 02 PISOS TRUJILLO, a precio ocasión: US$ 294,900 dólares (Negociable).'
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1757%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(15).jpg&amp;w=256&amp;q=75   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1757%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(15).jpg&amp;w=384&amp;q=75   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1757%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(15).jpg&amp;w=640&amp;q=75   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1757%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(15).jpg&amp;w=750&amp;q=75   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1757%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(15).jpg&amp;w=828&amp;q=75   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1757%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(15).jpg&amp;w=1080&amp;q=75 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1757%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(15).jpg&amp;w=1200&amp;q=75 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1757%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(15).jpg&amp;w=1920&amp;q=75 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1757%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(15).jpg&amp;w=2048&amp;q=75 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1757%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(15).jpg&amp;w=3840&amp;q=75 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1757%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(15).jpg&amp;w=256&amp;q=75   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1757%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(15).jpg&amp;w=384&amp;q=75   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1757%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(15).jpg&amp;w=640&amp;q=75   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1757%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(15).jpg&amp;w=750&amp;q=75   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1757%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(15).jpg&amp;w=828&amp;q=75   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1757%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(15).jpg&amp;w=1080&amp;q=75 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1757%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(15).jpg&amp;w=1200&amp;q=75 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1757%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(15).jpg&amp;w=1920&amp;q=75 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1757%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(15).jpg&amp;w=2048&amp;q=75 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1757%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(15).jpg&amp;w=3840&amp;q=75 3840w
                                   "
-                                src="plantilla/RESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSANb4e9.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1757%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(15).jpg&amp;w=3840&amp;q=75"
+                                src="__next/RESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSANb4e9.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1757%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(15).jpg&amp;w=3840&amp;q=75"
                                 decoding="async" data-nimg="fill" class="object-cover absolute" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -8481,18 +8500,18 @@ Será un placer atenderte." />
                               <img
                                 alt='Dpto. 3er PISO cerca Universidad "UCV" Trujillo Área: 99.59m2 con 03 Cuartos a solo US $ 69,900 dólares.'
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1774%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(16).jpg&amp;w=256&amp;q=75   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1774%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(16).jpg&amp;w=384&amp;q=75   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1774%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(16).jpg&amp;w=640&amp;q=75   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1774%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(16).jpg&amp;w=750&amp;q=75   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1774%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(16).jpg&amp;w=828&amp;q=75   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1774%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(16).jpg&amp;w=1080&amp;q=75 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1774%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(16).jpg&amp;w=1200&amp;q=75 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1774%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(16).jpg&amp;w=1920&amp;q=75 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1774%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(16).jpg&amp;w=2048&amp;q=75 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1774%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(16).jpg&amp;w=3840&amp;q=75 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1774%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(16).jpg&amp;w=256&amp;q=75   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1774%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(16).jpg&amp;w=384&amp;q=75   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1774%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(16).jpg&amp;w=640&amp;q=75   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1774%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(16).jpg&amp;w=750&amp;q=75   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1774%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(16).jpg&amp;w=828&amp;q=75   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1774%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(16).jpg&amp;w=1080&amp;q=75 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1774%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(16).jpg&amp;w=1200&amp;q=75 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1774%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(16).jpg&amp;w=1920&amp;q=75 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1774%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(16).jpg&amp;w=2048&amp;q=75 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1774%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(16).jpg&amp;w=3840&amp;q=75 3840w
                                   "
-                                src="plantilla/RESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSANdf1d.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1774%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(16).jpg&amp;w=3840&amp;q=75"
+                                src="__next/RESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSANdf1d.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1774%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(16).jpg&amp;w=3840&amp;q=75"
                                 decoding="async" data-nimg="fill" class="object-cover absolute" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -8550,18 +8569,18 @@ Será un placer atenderte." />
                             <div class="relative block h-[270px] w-full">
                               <img alt="OPORTUNIDAD DPTO 401 VENTA DE DEPARTAMENTO LAS FLORES DE TRUPAL TRUJILLO PERÚ"
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F552%2FfileEstates%2FrvoWkvP3FqWHmGVsYfYTkYbHaWm7CLzXMO1NjAMN.jpeg&amp;w=256&amp;q=75   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F552%2FfileEstates%2FrvoWkvP3FqWHmGVsYfYTkYbHaWm7CLzXMO1NjAMN.jpeg&amp;w=384&amp;q=75   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F552%2FfileEstates%2FrvoWkvP3FqWHmGVsYfYTkYbHaWm7CLzXMO1NjAMN.jpeg&amp;w=640&amp;q=75   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F552%2FfileEstates%2FrvoWkvP3FqWHmGVsYfYTkYbHaWm7CLzXMO1NjAMN.jpeg&amp;w=750&amp;q=75   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F552%2FfileEstates%2FrvoWkvP3FqWHmGVsYfYTkYbHaWm7CLzXMO1NjAMN.jpeg&amp;w=828&amp;q=75   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F552%2FfileEstates%2FrvoWkvP3FqWHmGVsYfYTkYbHaWm7CLzXMO1NjAMN.jpeg&amp;w=1080&amp;q=75 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F552%2FfileEstates%2FrvoWkvP3FqWHmGVsYfYTkYbHaWm7CLzXMO1NjAMN.jpeg&amp;w=1200&amp;q=75 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F552%2FfileEstates%2FrvoWkvP3FqWHmGVsYfYTkYbHaWm7CLzXMO1NjAMN.jpeg&amp;w=1920&amp;q=75 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F552%2FfileEstates%2FrvoWkvP3FqWHmGVsYfYTkYbHaWm7CLzXMO1NjAMN.jpeg&amp;w=2048&amp;q=75 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F552%2FfileEstates%2FrvoWkvP3FqWHmGVsYfYTkYbHaWm7CLzXMO1NjAMN.jpeg&amp;w=3840&amp;q=75 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F552%2FfileEstates%2FrvoWkvP3FqWHmGVsYfYTkYbHaWm7CLzXMO1NjAMN.jpeg&amp;w=256&amp;q=75   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F552%2FfileEstates%2FrvoWkvP3FqWHmGVsYfYTkYbHaWm7CLzXMO1NjAMN.jpeg&amp;w=384&amp;q=75   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F552%2FfileEstates%2FrvoWkvP3FqWHmGVsYfYTkYbHaWm7CLzXMO1NjAMN.jpeg&amp;w=640&amp;q=75   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F552%2FfileEstates%2FrvoWkvP3FqWHmGVsYfYTkYbHaWm7CLzXMO1NjAMN.jpeg&amp;w=750&amp;q=75   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F552%2FfileEstates%2FrvoWkvP3FqWHmGVsYfYTkYbHaWm7CLzXMO1NjAMN.jpeg&amp;w=828&amp;q=75   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F552%2FfileEstates%2FrvoWkvP3FqWHmGVsYfYTkYbHaWm7CLzXMO1NjAMN.jpeg&amp;w=1080&amp;q=75 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F552%2FfileEstates%2FrvoWkvP3FqWHmGVsYfYTkYbHaWm7CLzXMO1NjAMN.jpeg&amp;w=1200&amp;q=75 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F552%2FfileEstates%2FrvoWkvP3FqWHmGVsYfYTkYbHaWm7CLzXMO1NjAMN.jpeg&amp;w=1920&amp;q=75 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F552%2FfileEstates%2FrvoWkvP3FqWHmGVsYfYTkYbHaWm7CLzXMO1NjAMN.jpeg&amp;w=2048&amp;q=75 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F552%2FfileEstates%2FrvoWkvP3FqWHmGVsYfYTkYbHaWm7CLzXMO1NjAMN.jpeg&amp;w=3840&amp;q=75 3840w
                                   "
-                                src="plantilla/rvoWkvP3FqWHmGVsYfYTkYbHaWm7CLzXMO1NjAMN037e.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F552%2FfileEstates%2FrvoWkvP3FqWHmGVsYfYTkYbHaWm7CLzXMO1NjAMN.jpeg&amp;w=3840&amp;q=75"
+                                src="__next/rvoWkvP3FqWHmGVsYfYTkYbHaWm7CLzXMO1NjAMN037e.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F552%2FfileEstates%2FrvoWkvP3FqWHmGVsYfYTkYbHaWm7CLzXMO1NjAMN.jpeg&amp;w=3840&amp;q=75"
                                 decoding="async" data-nimg="fill" class="object-cover absolute" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -8609,18 +8628,18 @@ Será un placer atenderte." />
                               <img
                                 alt="EXCLUSIVO DPTO 201-DEPARTAMENTO EN VENTA LAS FLORES DE TRUPAL VIVE CERCA A LA UNT"
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F550%2FfileEstates%2Fs1lVosUzFvXTR69a5BR5ARzForAxIH1nSIqyYSYc.jpeg&amp;w=256&amp;q=75   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F550%2FfileEstates%2Fs1lVosUzFvXTR69a5BR5ARzForAxIH1nSIqyYSYc.jpeg&amp;w=384&amp;q=75   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F550%2FfileEstates%2Fs1lVosUzFvXTR69a5BR5ARzForAxIH1nSIqyYSYc.jpeg&amp;w=640&amp;q=75   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F550%2FfileEstates%2Fs1lVosUzFvXTR69a5BR5ARzForAxIH1nSIqyYSYc.jpeg&amp;w=750&amp;q=75   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F550%2FfileEstates%2Fs1lVosUzFvXTR69a5BR5ARzForAxIH1nSIqyYSYc.jpeg&amp;w=828&amp;q=75   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F550%2FfileEstates%2Fs1lVosUzFvXTR69a5BR5ARzForAxIH1nSIqyYSYc.jpeg&amp;w=1080&amp;q=75 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F550%2FfileEstates%2Fs1lVosUzFvXTR69a5BR5ARzForAxIH1nSIqyYSYc.jpeg&amp;w=1200&amp;q=75 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F550%2FfileEstates%2Fs1lVosUzFvXTR69a5BR5ARzForAxIH1nSIqyYSYc.jpeg&amp;w=1920&amp;q=75 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F550%2FfileEstates%2Fs1lVosUzFvXTR69a5BR5ARzForAxIH1nSIqyYSYc.jpeg&amp;w=2048&amp;q=75 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F550%2FfileEstates%2Fs1lVosUzFvXTR69a5BR5ARzForAxIH1nSIqyYSYc.jpeg&amp;w=3840&amp;q=75 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F550%2FfileEstates%2Fs1lVosUzFvXTR69a5BR5ARzForAxIH1nSIqyYSYc.jpeg&amp;w=256&amp;q=75   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F550%2FfileEstates%2Fs1lVosUzFvXTR69a5BR5ARzForAxIH1nSIqyYSYc.jpeg&amp;w=384&amp;q=75   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F550%2FfileEstates%2Fs1lVosUzFvXTR69a5BR5ARzForAxIH1nSIqyYSYc.jpeg&amp;w=640&amp;q=75   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F550%2FfileEstates%2Fs1lVosUzFvXTR69a5BR5ARzForAxIH1nSIqyYSYc.jpeg&amp;w=750&amp;q=75   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F550%2FfileEstates%2Fs1lVosUzFvXTR69a5BR5ARzForAxIH1nSIqyYSYc.jpeg&amp;w=828&amp;q=75   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F550%2FfileEstates%2Fs1lVosUzFvXTR69a5BR5ARzForAxIH1nSIqyYSYc.jpeg&amp;w=1080&amp;q=75 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F550%2FfileEstates%2Fs1lVosUzFvXTR69a5BR5ARzForAxIH1nSIqyYSYc.jpeg&amp;w=1200&amp;q=75 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F550%2FfileEstates%2Fs1lVosUzFvXTR69a5BR5ARzForAxIH1nSIqyYSYc.jpeg&amp;w=1920&amp;q=75 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F550%2FfileEstates%2Fs1lVosUzFvXTR69a5BR5ARzForAxIH1nSIqyYSYc.jpeg&amp;w=2048&amp;q=75 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F550%2FfileEstates%2Fs1lVosUzFvXTR69a5BR5ARzForAxIH1nSIqyYSYc.jpeg&amp;w=3840&amp;q=75 3840w
                                   "
-                                src="plantilla/s1lVosUzFvXTR69a5BR5ARzForAxIH1nSIqyYSYc8304.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F550%2FfileEstates%2Fs1lVosUzFvXTR69a5BR5ARzForAxIH1nSIqyYSYc.jpeg&amp;w=3840&amp;q=75"
+                                src="__next/s1lVosUzFvXTR69a5BR5ARzForAxIH1nSIqyYSYc8304.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F550%2FfileEstates%2Fs1lVosUzFvXTR69a5BR5ARzForAxIH1nSIqyYSYc.jpeg&amp;w=3840&amp;q=75"
                                 decoding="async" data-nimg="fill" class="object-cover absolute" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -8666,18 +8685,18 @@ Será un placer atenderte." />
                             <div class="relative block h-[270px] w-full">
                               <img alt="HERMOSO HOGAR DPTO 101 DEPARTAMENTO EN VENTA LAS FLORES DE TRUPAL"
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F544%2FfileEstates%2FTiuUoH1ECGMXga4Abtj90pHmOMOf32SZMtb8RPIF.jpeg&amp;w=256&amp;q=75   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F544%2FfileEstates%2FTiuUoH1ECGMXga4Abtj90pHmOMOf32SZMtb8RPIF.jpeg&amp;w=384&amp;q=75   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F544%2FfileEstates%2FTiuUoH1ECGMXga4Abtj90pHmOMOf32SZMtb8RPIF.jpeg&amp;w=640&amp;q=75   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F544%2FfileEstates%2FTiuUoH1ECGMXga4Abtj90pHmOMOf32SZMtb8RPIF.jpeg&amp;w=750&amp;q=75   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F544%2FfileEstates%2FTiuUoH1ECGMXga4Abtj90pHmOMOf32SZMtb8RPIF.jpeg&amp;w=828&amp;q=75   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F544%2FfileEstates%2FTiuUoH1ECGMXga4Abtj90pHmOMOf32SZMtb8RPIF.jpeg&amp;w=1080&amp;q=75 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F544%2FfileEstates%2FTiuUoH1ECGMXga4Abtj90pHmOMOf32SZMtb8RPIF.jpeg&amp;w=1200&amp;q=75 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F544%2FfileEstates%2FTiuUoH1ECGMXga4Abtj90pHmOMOf32SZMtb8RPIF.jpeg&amp;w=1920&amp;q=75 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F544%2FfileEstates%2FTiuUoH1ECGMXga4Abtj90pHmOMOf32SZMtb8RPIF.jpeg&amp;w=2048&amp;q=75 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F544%2FfileEstates%2FTiuUoH1ECGMXga4Abtj90pHmOMOf32SZMtb8RPIF.jpeg&amp;w=3840&amp;q=75 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F544%2FfileEstates%2FTiuUoH1ECGMXga4Abtj90pHmOMOf32SZMtb8RPIF.jpeg&amp;w=256&amp;q=75   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F544%2FfileEstates%2FTiuUoH1ECGMXga4Abtj90pHmOMOf32SZMtb8RPIF.jpeg&amp;w=384&amp;q=75   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F544%2FfileEstates%2FTiuUoH1ECGMXga4Abtj90pHmOMOf32SZMtb8RPIF.jpeg&amp;w=640&amp;q=75   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F544%2FfileEstates%2FTiuUoH1ECGMXga4Abtj90pHmOMOf32SZMtb8RPIF.jpeg&amp;w=750&amp;q=75   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F544%2FfileEstates%2FTiuUoH1ECGMXga4Abtj90pHmOMOf32SZMtb8RPIF.jpeg&amp;w=828&amp;q=75   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F544%2FfileEstates%2FTiuUoH1ECGMXga4Abtj90pHmOMOf32SZMtb8RPIF.jpeg&amp;w=1080&amp;q=75 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F544%2FfileEstates%2FTiuUoH1ECGMXga4Abtj90pHmOMOf32SZMtb8RPIF.jpeg&amp;w=1200&amp;q=75 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F544%2FfileEstates%2FTiuUoH1ECGMXga4Abtj90pHmOMOf32SZMtb8RPIF.jpeg&amp;w=1920&amp;q=75 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F544%2FfileEstates%2FTiuUoH1ECGMXga4Abtj90pHmOMOf32SZMtb8RPIF.jpeg&amp;w=2048&amp;q=75 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F544%2FfileEstates%2FTiuUoH1ECGMXga4Abtj90pHmOMOf32SZMtb8RPIF.jpeg&amp;w=3840&amp;q=75 3840w
                                   "
-                                src="plantilla/TiuUoH1ECGMXga4Abtj90pHmOMOf32SZMtb8RPIF6364.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F544%2FfileEstates%2FTiuUoH1ECGMXga4Abtj90pHmOMOf32SZMtb8RPIF.jpeg&amp;w=3840&amp;q=75"
+                                src="__next/TiuUoH1ECGMXga4Abtj90pHmOMOf32SZMtb8RPIF6364.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F544%2FfileEstates%2FTiuUoH1ECGMXga4Abtj90pHmOMOf32SZMtb8RPIF.jpeg&amp;w=3840&amp;q=75"
                                 decoding="async" data-nimg="fill" class="object-cover absolute" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -8724,18 +8743,18 @@ Será un placer atenderte." />
                               <img
                                 alt='Increíble Oportunidad" CASA de 04 Pisos en Av. Gonzales Prada a 01 Cuadra del Mayorista - Trujillo'
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F476%2FfileEstates%2FRc6j4bgPLwy4V1QEm0BiOOhl7ClKcXtNoBz35NAp.png&amp;w=256&amp;q=75   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F476%2FfileEstates%2FRc6j4bgPLwy4V1QEm0BiOOhl7ClKcXtNoBz35NAp.png&amp;w=384&amp;q=75   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F476%2FfileEstates%2FRc6j4bgPLwy4V1QEm0BiOOhl7ClKcXtNoBz35NAp.png&amp;w=640&amp;q=75   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F476%2FfileEstates%2FRc6j4bgPLwy4V1QEm0BiOOhl7ClKcXtNoBz35NAp.png&amp;w=750&amp;q=75   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F476%2FfileEstates%2FRc6j4bgPLwy4V1QEm0BiOOhl7ClKcXtNoBz35NAp.png&amp;w=828&amp;q=75   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F476%2FfileEstates%2FRc6j4bgPLwy4V1QEm0BiOOhl7ClKcXtNoBz35NAp.png&amp;w=1080&amp;q=75 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F476%2FfileEstates%2FRc6j4bgPLwy4V1QEm0BiOOhl7ClKcXtNoBz35NAp.png&amp;w=1200&amp;q=75 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F476%2FfileEstates%2FRc6j4bgPLwy4V1QEm0BiOOhl7ClKcXtNoBz35NAp.png&amp;w=1920&amp;q=75 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F476%2FfileEstates%2FRc6j4bgPLwy4V1QEm0BiOOhl7ClKcXtNoBz35NAp.png&amp;w=2048&amp;q=75 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F476%2FfileEstates%2FRc6j4bgPLwy4V1QEm0BiOOhl7ClKcXtNoBz35NAp.png&amp;w=3840&amp;q=75 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F476%2FfileEstates%2FRc6j4bgPLwy4V1QEm0BiOOhl7ClKcXtNoBz35NAp.png&amp;w=256&amp;q=75   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F476%2FfileEstates%2FRc6j4bgPLwy4V1QEm0BiOOhl7ClKcXtNoBz35NAp.png&amp;w=384&amp;q=75   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F476%2FfileEstates%2FRc6j4bgPLwy4V1QEm0BiOOhl7ClKcXtNoBz35NAp.png&amp;w=640&amp;q=75   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F476%2FfileEstates%2FRc6j4bgPLwy4V1QEm0BiOOhl7ClKcXtNoBz35NAp.png&amp;w=750&amp;q=75   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F476%2FfileEstates%2FRc6j4bgPLwy4V1QEm0BiOOhl7ClKcXtNoBz35NAp.png&amp;w=828&amp;q=75   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F476%2FfileEstates%2FRc6j4bgPLwy4V1QEm0BiOOhl7ClKcXtNoBz35NAp.png&amp;w=1080&amp;q=75 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F476%2FfileEstates%2FRc6j4bgPLwy4V1QEm0BiOOhl7ClKcXtNoBz35NAp.png&amp;w=1200&amp;q=75 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F476%2FfileEstates%2FRc6j4bgPLwy4V1QEm0BiOOhl7ClKcXtNoBz35NAp.png&amp;w=1920&amp;q=75 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F476%2FfileEstates%2FRc6j4bgPLwy4V1QEm0BiOOhl7ClKcXtNoBz35NAp.png&amp;w=2048&amp;q=75 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F476%2FfileEstates%2FRc6j4bgPLwy4V1QEm0BiOOhl7ClKcXtNoBz35NAp.png&amp;w=3840&amp;q=75 3840w
                                   "
-                                src="plantilla/Rc6j4bgPLwy4V1QEm0BiOOhl7ClKcXtNoBz35NApc7a8.png?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F476%2FfileEstates%2FRc6j4bgPLwy4V1QEm0BiOOhl7ClKcXtNoBz35NAp.png&amp;w=3840&amp;q=75"
+                                src="__next/Rc6j4bgPLwy4V1QEm0BiOOhl7ClKcXtNoBz35NApc7a8.png?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F476%2FfileEstates%2FRc6j4bgPLwy4V1QEm0BiOOhl7ClKcXtNoBz35NAp.png&amp;w=3840&amp;q=75"
                                 decoding="async" data-nimg="fill" class="object-cover absolute" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -8782,18 +8801,18 @@ Será un placer atenderte." />
                             <div class="relative block h-[270px] w-full">
                               <img alt="Terreno en Venta 97m2 a  95,000 soles"
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F411%2FfileEstates%2FxMC4USQBKYGgVr00HPe8zRlN1fjnve3BS3yiH75u.png&amp;w=256&amp;q=75   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F411%2FfileEstates%2FxMC4USQBKYGgVr00HPe8zRlN1fjnve3BS3yiH75u.png&amp;w=384&amp;q=75   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F411%2FfileEstates%2FxMC4USQBKYGgVr00HPe8zRlN1fjnve3BS3yiH75u.png&amp;w=640&amp;q=75   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F411%2FfileEstates%2FxMC4USQBKYGgVr00HPe8zRlN1fjnve3BS3yiH75u.png&amp;w=750&amp;q=75   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F411%2FfileEstates%2FxMC4USQBKYGgVr00HPe8zRlN1fjnve3BS3yiH75u.png&amp;w=828&amp;q=75   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F411%2FfileEstates%2FxMC4USQBKYGgVr00HPe8zRlN1fjnve3BS3yiH75u.png&amp;w=1080&amp;q=75 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F411%2FfileEstates%2FxMC4USQBKYGgVr00HPe8zRlN1fjnve3BS3yiH75u.png&amp;w=1200&amp;q=75 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F411%2FfileEstates%2FxMC4USQBKYGgVr00HPe8zRlN1fjnve3BS3yiH75u.png&amp;w=1920&amp;q=75 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F411%2FfileEstates%2FxMC4USQBKYGgVr00HPe8zRlN1fjnve3BS3yiH75u.png&amp;w=2048&amp;q=75 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F411%2FfileEstates%2FxMC4USQBKYGgVr00HPe8zRlN1fjnve3BS3yiH75u.png&amp;w=3840&amp;q=75 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F411%2FfileEstates%2FxMC4USQBKYGgVr00HPe8zRlN1fjnve3BS3yiH75u.png&amp;w=256&amp;q=75   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F411%2FfileEstates%2FxMC4USQBKYGgVr00HPe8zRlN1fjnve3BS3yiH75u.png&amp;w=384&amp;q=75   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F411%2FfileEstates%2FxMC4USQBKYGgVr00HPe8zRlN1fjnve3BS3yiH75u.png&amp;w=640&amp;q=75   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F411%2FfileEstates%2FxMC4USQBKYGgVr00HPe8zRlN1fjnve3BS3yiH75u.png&amp;w=750&amp;q=75   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F411%2FfileEstates%2FxMC4USQBKYGgVr00HPe8zRlN1fjnve3BS3yiH75u.png&amp;w=828&amp;q=75   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F411%2FfileEstates%2FxMC4USQBKYGgVr00HPe8zRlN1fjnve3BS3yiH75u.png&amp;w=1080&amp;q=75 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F411%2FfileEstates%2FxMC4USQBKYGgVr00HPe8zRlN1fjnve3BS3yiH75u.png&amp;w=1200&amp;q=75 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F411%2FfileEstates%2FxMC4USQBKYGgVr00HPe8zRlN1fjnve3BS3yiH75u.png&amp;w=1920&amp;q=75 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F411%2FfileEstates%2FxMC4USQBKYGgVr00HPe8zRlN1fjnve3BS3yiH75u.png&amp;w=2048&amp;q=75 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F411%2FfileEstates%2FxMC4USQBKYGgVr00HPe8zRlN1fjnve3BS3yiH75u.png&amp;w=3840&amp;q=75 3840w
                                   "
-                                src="plantilla/xMC4USQBKYGgVr00HPe8zRlN1fjnve3BS3yiH75u421f.png?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F411%2FfileEstates%2FxMC4USQBKYGgVr00HPe8zRlN1fjnve3BS3yiH75u.png&amp;w=3840&amp;q=75"
+                                src="__next/xMC4USQBKYGgVr00HPe8zRlN1fjnve3BS3yiH75u421f.png?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F411%2FfileEstates%2FxMC4USQBKYGgVr00HPe8zRlN1fjnve3BS3yiH75u.png&amp;w=3840&amp;q=75"
                                 decoding="async" data-nimg="fill" class="object-cover absolute" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -8839,18 +8858,18 @@ Será un placer atenderte." />
                             <div class="relative block h-[270px] w-full">
                               <img alt="Terreno en Venta 120m2 a  115,000 soles"
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F410%2FfileEstates%2F4L3jwfINWCWvOsNqercem4PuOtD1mllBzHOUGKDV.png&amp;w=256&amp;q=75   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F410%2FfileEstates%2F4L3jwfINWCWvOsNqercem4PuOtD1mllBzHOUGKDV.png&amp;w=384&amp;q=75   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F410%2FfileEstates%2F4L3jwfINWCWvOsNqercem4PuOtD1mllBzHOUGKDV.png&amp;w=640&amp;q=75   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F410%2FfileEstates%2F4L3jwfINWCWvOsNqercem4PuOtD1mllBzHOUGKDV.png&amp;w=750&amp;q=75   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F410%2FfileEstates%2F4L3jwfINWCWvOsNqercem4PuOtD1mllBzHOUGKDV.png&amp;w=828&amp;q=75   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F410%2FfileEstates%2F4L3jwfINWCWvOsNqercem4PuOtD1mllBzHOUGKDV.png&amp;w=1080&amp;q=75 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F410%2FfileEstates%2F4L3jwfINWCWvOsNqercem4PuOtD1mllBzHOUGKDV.png&amp;w=1200&amp;q=75 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F410%2FfileEstates%2F4L3jwfINWCWvOsNqercem4PuOtD1mllBzHOUGKDV.png&amp;w=1920&amp;q=75 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F410%2FfileEstates%2F4L3jwfINWCWvOsNqercem4PuOtD1mllBzHOUGKDV.png&amp;w=2048&amp;q=75 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F410%2FfileEstates%2F4L3jwfINWCWvOsNqercem4PuOtD1mllBzHOUGKDV.png&amp;w=3840&amp;q=75 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F410%2FfileEstates%2F4L3jwfINWCWvOsNqercem4PuOtD1mllBzHOUGKDV.png&amp;w=256&amp;q=75   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F410%2FfileEstates%2F4L3jwfINWCWvOsNqercem4PuOtD1mllBzHOUGKDV.png&amp;w=384&amp;q=75   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F410%2FfileEstates%2F4L3jwfINWCWvOsNqercem4PuOtD1mllBzHOUGKDV.png&amp;w=640&amp;q=75   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F410%2FfileEstates%2F4L3jwfINWCWvOsNqercem4PuOtD1mllBzHOUGKDV.png&amp;w=750&amp;q=75   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F410%2FfileEstates%2F4L3jwfINWCWvOsNqercem4PuOtD1mllBzHOUGKDV.png&amp;w=828&amp;q=75   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F410%2FfileEstates%2F4L3jwfINWCWvOsNqercem4PuOtD1mllBzHOUGKDV.png&amp;w=1080&amp;q=75 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F410%2FfileEstates%2F4L3jwfINWCWvOsNqercem4PuOtD1mllBzHOUGKDV.png&amp;w=1200&amp;q=75 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F410%2FfileEstates%2F4L3jwfINWCWvOsNqercem4PuOtD1mllBzHOUGKDV.png&amp;w=1920&amp;q=75 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F410%2FfileEstates%2F4L3jwfINWCWvOsNqercem4PuOtD1mllBzHOUGKDV.png&amp;w=2048&amp;q=75 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F410%2FfileEstates%2F4L3jwfINWCWvOsNqercem4PuOtD1mllBzHOUGKDV.png&amp;w=3840&amp;q=75 3840w
                                   "
-                                src="plantilla/4L3jwfINWCWvOsNqercem4PuOtD1mllBzHOUGKDV9538.png?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F410%2FfileEstates%2F4L3jwfINWCWvOsNqercem4PuOtD1mllBzHOUGKDV.png&amp;w=3840&amp;q=75"
+                                src="__next/4L3jwfINWCWvOsNqercem4PuOtD1mllBzHOUGKDV9538.png?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F410%2FfileEstates%2F4L3jwfINWCWvOsNqercem4PuOtD1mllBzHOUGKDV.png&amp;w=3840&amp;q=75"
                                 decoding="async" data-nimg="fill" class="object-cover absolute" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -8896,18 +8915,18 @@ Será un placer atenderte." />
                             <div class="relative block h-[270px] w-full">
                               <img alt="Casa de 02 Pîsos en Urb. Palermo a $70,000"
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F342%2FfileEstates%2FiKIlSNIsbZMW71zjggz3nzU4MRPbrk4jp13C7zCF.jpeg&amp;w=256&amp;q=75   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F342%2FfileEstates%2FiKIlSNIsbZMW71zjggz3nzU4MRPbrk4jp13C7zCF.jpeg&amp;w=384&amp;q=75   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F342%2FfileEstates%2FiKIlSNIsbZMW71zjggz3nzU4MRPbrk4jp13C7zCF.jpeg&amp;w=640&amp;q=75   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F342%2FfileEstates%2FiKIlSNIsbZMW71zjggz3nzU4MRPbrk4jp13C7zCF.jpeg&amp;w=750&amp;q=75   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F342%2FfileEstates%2FiKIlSNIsbZMW71zjggz3nzU4MRPbrk4jp13C7zCF.jpeg&amp;w=828&amp;q=75   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F342%2FfileEstates%2FiKIlSNIsbZMW71zjggz3nzU4MRPbrk4jp13C7zCF.jpeg&amp;w=1080&amp;q=75 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F342%2FfileEstates%2FiKIlSNIsbZMW71zjggz3nzU4MRPbrk4jp13C7zCF.jpeg&amp;w=1200&amp;q=75 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F342%2FfileEstates%2FiKIlSNIsbZMW71zjggz3nzU4MRPbrk4jp13C7zCF.jpeg&amp;w=1920&amp;q=75 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F342%2FfileEstates%2FiKIlSNIsbZMW71zjggz3nzU4MRPbrk4jp13C7zCF.jpeg&amp;w=2048&amp;q=75 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F342%2FfileEstates%2FiKIlSNIsbZMW71zjggz3nzU4MRPbrk4jp13C7zCF.jpeg&amp;w=3840&amp;q=75 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F342%2FfileEstates%2FiKIlSNIsbZMW71zjggz3nzU4MRPbrk4jp13C7zCF.jpeg&amp;w=256&amp;q=75   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F342%2FfileEstates%2FiKIlSNIsbZMW71zjggz3nzU4MRPbrk4jp13C7zCF.jpeg&amp;w=384&amp;q=75   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F342%2FfileEstates%2FiKIlSNIsbZMW71zjggz3nzU4MRPbrk4jp13C7zCF.jpeg&amp;w=640&amp;q=75   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F342%2FfileEstates%2FiKIlSNIsbZMW71zjggz3nzU4MRPbrk4jp13C7zCF.jpeg&amp;w=750&amp;q=75   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F342%2FfileEstates%2FiKIlSNIsbZMW71zjggz3nzU4MRPbrk4jp13C7zCF.jpeg&amp;w=828&amp;q=75   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F342%2FfileEstates%2FiKIlSNIsbZMW71zjggz3nzU4MRPbrk4jp13C7zCF.jpeg&amp;w=1080&amp;q=75 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F342%2FfileEstates%2FiKIlSNIsbZMW71zjggz3nzU4MRPbrk4jp13C7zCF.jpeg&amp;w=1200&amp;q=75 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F342%2FfileEstates%2FiKIlSNIsbZMW71zjggz3nzU4MRPbrk4jp13C7zCF.jpeg&amp;w=1920&amp;q=75 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F342%2FfileEstates%2FiKIlSNIsbZMW71zjggz3nzU4MRPbrk4jp13C7zCF.jpeg&amp;w=2048&amp;q=75 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F342%2FfileEstates%2FiKIlSNIsbZMW71zjggz3nzU4MRPbrk4jp13C7zCF.jpeg&amp;w=3840&amp;q=75 3840w
                                   "
-                                src="plantilla/iKIlSNIsbZMW71zjggz3nzU4MRPbrk4jp13C7zCF4d5c.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F342%2FfileEstates%2FiKIlSNIsbZMW71zjggz3nzU4MRPbrk4jp13C7zCF.jpeg&amp;w=3840&amp;q=75"
+                                src="__next/iKIlSNIsbZMW71zjggz3nzU4MRPbrk4jp13C7zCF4d5c.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F342%2FfileEstates%2FiKIlSNIsbZMW71zjggz3nzU4MRPbrk4jp13C7zCF.jpeg&amp;w=3840&amp;q=75"
                                 decoding="async" data-nimg="fill" class="object-cover absolute" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -8952,18 +8971,18 @@ Será un placer atenderte." />
                             <div class="relative block h-[270px] w-full">
                               <img alt="Venta de Departamento Urb. Primavera Trujillo"
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F316%2FfileEstates%2FgQ3Lxg5kqZNOGedypJZxbX47GH3cArDe9VBX3t9u.jpeg&amp;w=256&amp;q=75   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F316%2FfileEstates%2FgQ3Lxg5kqZNOGedypJZxbX47GH3cArDe9VBX3t9u.jpeg&amp;w=384&amp;q=75   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F316%2FfileEstates%2FgQ3Lxg5kqZNOGedypJZxbX47GH3cArDe9VBX3t9u.jpeg&amp;w=640&amp;q=75   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F316%2FfileEstates%2FgQ3Lxg5kqZNOGedypJZxbX47GH3cArDe9VBX3t9u.jpeg&amp;w=750&amp;q=75   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F316%2FfileEstates%2FgQ3Lxg5kqZNOGedypJZxbX47GH3cArDe9VBX3t9u.jpeg&amp;w=828&amp;q=75   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F316%2FfileEstates%2FgQ3Lxg5kqZNOGedypJZxbX47GH3cArDe9VBX3t9u.jpeg&amp;w=1080&amp;q=75 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F316%2FfileEstates%2FgQ3Lxg5kqZNOGedypJZxbX47GH3cArDe9VBX3t9u.jpeg&amp;w=1200&amp;q=75 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F316%2FfileEstates%2FgQ3Lxg5kqZNOGedypJZxbX47GH3cArDe9VBX3t9u.jpeg&amp;w=1920&amp;q=75 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F316%2FfileEstates%2FgQ3Lxg5kqZNOGedypJZxbX47GH3cArDe9VBX3t9u.jpeg&amp;w=2048&amp;q=75 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F316%2FfileEstates%2FgQ3Lxg5kqZNOGedypJZxbX47GH3cArDe9VBX3t9u.jpeg&amp;w=3840&amp;q=75 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F316%2FfileEstates%2FgQ3Lxg5kqZNOGedypJZxbX47GH3cArDe9VBX3t9u.jpeg&amp;w=256&amp;q=75   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F316%2FfileEstates%2FgQ3Lxg5kqZNOGedypJZxbX47GH3cArDe9VBX3t9u.jpeg&amp;w=384&amp;q=75   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F316%2FfileEstates%2FgQ3Lxg5kqZNOGedypJZxbX47GH3cArDe9VBX3t9u.jpeg&amp;w=640&amp;q=75   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F316%2FfileEstates%2FgQ3Lxg5kqZNOGedypJZxbX47GH3cArDe9VBX3t9u.jpeg&amp;w=750&amp;q=75   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F316%2FfileEstates%2FgQ3Lxg5kqZNOGedypJZxbX47GH3cArDe9VBX3t9u.jpeg&amp;w=828&amp;q=75   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F316%2FfileEstates%2FgQ3Lxg5kqZNOGedypJZxbX47GH3cArDe9VBX3t9u.jpeg&amp;w=1080&amp;q=75 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F316%2FfileEstates%2FgQ3Lxg5kqZNOGedypJZxbX47GH3cArDe9VBX3t9u.jpeg&amp;w=1200&amp;q=75 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F316%2FfileEstates%2FgQ3Lxg5kqZNOGedypJZxbX47GH3cArDe9VBX3t9u.jpeg&amp;w=1920&amp;q=75 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F316%2FfileEstates%2FgQ3Lxg5kqZNOGedypJZxbX47GH3cArDe9VBX3t9u.jpeg&amp;w=2048&amp;q=75 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F316%2FfileEstates%2FgQ3Lxg5kqZNOGedypJZxbX47GH3cArDe9VBX3t9u.jpeg&amp;w=3840&amp;q=75 3840w
                                   "
-                                src="plantilla/gQ3Lxg5kqZNOGedypJZxbX47GH3cArDe9VBX3t9ub9c4.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F316%2FfileEstates%2FgQ3Lxg5kqZNOGedypJZxbX47GH3cArDe9VBX3t9u.jpeg&amp;w=3840&amp;q=75"
+                                src="__next/gQ3Lxg5kqZNOGedypJZxbX47GH3cArDe9VBX3t9ub9c4.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F316%2FfileEstates%2FgQ3Lxg5kqZNOGedypJZxbX47GH3cArDe9VBX3t9u.jpeg&amp;w=3840&amp;q=75"
                                 decoding="async" data-nimg="fill" class="object-cover absolute" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -9007,18 +9026,18 @@ Será un placer atenderte." />
                             <div class="relative block h-[270px] w-full">
                               <img alt="DPTO 501 Departamento en Venta en San Isidro"
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F315%2FfileEstates%2F1gXmS9wgb9ZssrqWKIKASsSwcAIe3p9QyoHOr3rq.jpeg&amp;w=256&amp;q=75   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F315%2FfileEstates%2F1gXmS9wgb9ZssrqWKIKASsSwcAIe3p9QyoHOr3rq.jpeg&amp;w=384&amp;q=75   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F315%2FfileEstates%2F1gXmS9wgb9ZssrqWKIKASsSwcAIe3p9QyoHOr3rq.jpeg&amp;w=640&amp;q=75   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F315%2FfileEstates%2F1gXmS9wgb9ZssrqWKIKASsSwcAIe3p9QyoHOr3rq.jpeg&amp;w=750&amp;q=75   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F315%2FfileEstates%2F1gXmS9wgb9ZssrqWKIKASsSwcAIe3p9QyoHOr3rq.jpeg&amp;w=828&amp;q=75   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F315%2FfileEstates%2F1gXmS9wgb9ZssrqWKIKASsSwcAIe3p9QyoHOr3rq.jpeg&amp;w=1080&amp;q=75 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F315%2FfileEstates%2F1gXmS9wgb9ZssrqWKIKASsSwcAIe3p9QyoHOr3rq.jpeg&amp;w=1200&amp;q=75 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F315%2FfileEstates%2F1gXmS9wgb9ZssrqWKIKASsSwcAIe3p9QyoHOr3rq.jpeg&amp;w=1920&amp;q=75 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F315%2FfileEstates%2F1gXmS9wgb9ZssrqWKIKASsSwcAIe3p9QyoHOr3rq.jpeg&amp;w=2048&amp;q=75 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F315%2FfileEstates%2F1gXmS9wgb9ZssrqWKIKASsSwcAIe3p9QyoHOr3rq.jpeg&amp;w=3840&amp;q=75 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F315%2FfileEstates%2F1gXmS9wgb9ZssrqWKIKASsSwcAIe3p9QyoHOr3rq.jpeg&amp;w=256&amp;q=75   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F315%2FfileEstates%2F1gXmS9wgb9ZssrqWKIKASsSwcAIe3p9QyoHOr3rq.jpeg&amp;w=384&amp;q=75   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F315%2FfileEstates%2F1gXmS9wgb9ZssrqWKIKASsSwcAIe3p9QyoHOr3rq.jpeg&amp;w=640&amp;q=75   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F315%2FfileEstates%2F1gXmS9wgb9ZssrqWKIKASsSwcAIe3p9QyoHOr3rq.jpeg&amp;w=750&amp;q=75   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F315%2FfileEstates%2F1gXmS9wgb9ZssrqWKIKASsSwcAIe3p9QyoHOr3rq.jpeg&amp;w=828&amp;q=75   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F315%2FfileEstates%2F1gXmS9wgb9ZssrqWKIKASsSwcAIe3p9QyoHOr3rq.jpeg&amp;w=1080&amp;q=75 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F315%2FfileEstates%2F1gXmS9wgb9ZssrqWKIKASsSwcAIe3p9QyoHOr3rq.jpeg&amp;w=1200&amp;q=75 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F315%2FfileEstates%2F1gXmS9wgb9ZssrqWKIKASsSwcAIe3p9QyoHOr3rq.jpeg&amp;w=1920&amp;q=75 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F315%2FfileEstates%2F1gXmS9wgb9ZssrqWKIKASsSwcAIe3p9QyoHOr3rq.jpeg&amp;w=2048&amp;q=75 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F315%2FfileEstates%2F1gXmS9wgb9ZssrqWKIKASsSwcAIe3p9QyoHOr3rq.jpeg&amp;w=3840&amp;q=75 3840w
                                   "
-                                src="plantilla/1gXmS9wgb9ZssrqWKIKASsSwcAIe3p9QyoHOr3rq0c6b.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F315%2FfileEstates%2F1gXmS9wgb9ZssrqWKIKASsSwcAIe3p9QyoHOr3rq.jpeg&amp;w=3840&amp;q=75"
+                                src="__next/1gXmS9wgb9ZssrqWKIKASsSwcAIe3p9QyoHOr3rq0c6b.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F315%2FfileEstates%2F1gXmS9wgb9ZssrqWKIKASsSwcAIe3p9QyoHOr3rq.jpeg&amp;w=3840&amp;q=75"
                                 decoding="async" data-nimg="fill" class="object-cover absolute" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -9061,18 +9080,18 @@ Será un placer atenderte." />
                             <div class="relative block h-[270px] w-full">
                               <img alt="DEPARTAMENTO EN VENTA SAN ISIDRO TRUJILLO"
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F314%2FfileEstates%2FFrMEaucZxZEUmWQZjFHcuBFQr0HO0vrknQ2Vb8jD.jpeg&amp;w=256&amp;q=75   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F314%2FfileEstates%2FFrMEaucZxZEUmWQZjFHcuBFQr0HO0vrknQ2Vb8jD.jpeg&amp;w=384&amp;q=75   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F314%2FfileEstates%2FFrMEaucZxZEUmWQZjFHcuBFQr0HO0vrknQ2Vb8jD.jpeg&amp;w=640&amp;q=75   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F314%2FfileEstates%2FFrMEaucZxZEUmWQZjFHcuBFQr0HO0vrknQ2Vb8jD.jpeg&amp;w=750&amp;q=75   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F314%2FfileEstates%2FFrMEaucZxZEUmWQZjFHcuBFQr0HO0vrknQ2Vb8jD.jpeg&amp;w=828&amp;q=75   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F314%2FfileEstates%2FFrMEaucZxZEUmWQZjFHcuBFQr0HO0vrknQ2Vb8jD.jpeg&amp;w=1080&amp;q=75 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F314%2FfileEstates%2FFrMEaucZxZEUmWQZjFHcuBFQr0HO0vrknQ2Vb8jD.jpeg&amp;w=1200&amp;q=75 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F314%2FfileEstates%2FFrMEaucZxZEUmWQZjFHcuBFQr0HO0vrknQ2Vb8jD.jpeg&amp;w=1920&amp;q=75 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F314%2FfileEstates%2FFrMEaucZxZEUmWQZjFHcuBFQr0HO0vrknQ2Vb8jD.jpeg&amp;w=2048&amp;q=75 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F314%2FfileEstates%2FFrMEaucZxZEUmWQZjFHcuBFQr0HO0vrknQ2Vb8jD.jpeg&amp;w=3840&amp;q=75 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F314%2FfileEstates%2FFrMEaucZxZEUmWQZjFHcuBFQr0HO0vrknQ2Vb8jD.jpeg&amp;w=256&amp;q=75   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F314%2FfileEstates%2FFrMEaucZxZEUmWQZjFHcuBFQr0HO0vrknQ2Vb8jD.jpeg&amp;w=384&amp;q=75   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F314%2FfileEstates%2FFrMEaucZxZEUmWQZjFHcuBFQr0HO0vrknQ2Vb8jD.jpeg&amp;w=640&amp;q=75   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F314%2FfileEstates%2FFrMEaucZxZEUmWQZjFHcuBFQr0HO0vrknQ2Vb8jD.jpeg&amp;w=750&amp;q=75   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F314%2FfileEstates%2FFrMEaucZxZEUmWQZjFHcuBFQr0HO0vrknQ2Vb8jD.jpeg&amp;w=828&amp;q=75   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F314%2FfileEstates%2FFrMEaucZxZEUmWQZjFHcuBFQr0HO0vrknQ2Vb8jD.jpeg&amp;w=1080&amp;q=75 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F314%2FfileEstates%2FFrMEaucZxZEUmWQZjFHcuBFQr0HO0vrknQ2Vb8jD.jpeg&amp;w=1200&amp;q=75 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F314%2FfileEstates%2FFrMEaucZxZEUmWQZjFHcuBFQr0HO0vrknQ2Vb8jD.jpeg&amp;w=1920&amp;q=75 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F314%2FfileEstates%2FFrMEaucZxZEUmWQZjFHcuBFQr0HO0vrknQ2Vb8jD.jpeg&amp;w=2048&amp;q=75 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F314%2FfileEstates%2FFrMEaucZxZEUmWQZjFHcuBFQr0HO0vrknQ2Vb8jD.jpeg&amp;w=3840&amp;q=75 3840w
                                   "
-                                src="plantilla/FrMEaucZxZEUmWQZjFHcuBFQr0HO0vrknQ2Vb8jDd7e8.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F314%2FfileEstates%2FFrMEaucZxZEUmWQZjFHcuBFQr0HO0vrknQ2Vb8jD.jpeg&amp;w=3840&amp;q=75"
+                                src="__next/FrMEaucZxZEUmWQZjFHcuBFQr0HO0vrknQ2Vb8jDd7e8.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F314%2FfileEstates%2FFrMEaucZxZEUmWQZjFHcuBFQr0HO0vrknQ2Vb8jD.jpeg&amp;w=3840&amp;q=75"
                                 decoding="async" data-nimg="fill" class="object-cover absolute" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -9118,18 +9137,18 @@ Será un placer atenderte." />
                             <div class="relative block h-[270px] w-full">
                               <img alt="Venta de Departamento en San Andres I Etapa."
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F285%2FfileEstates%2FwTUYJZ8VUqW6ZIclB5NSKRAMugEUJXgXhA2dUtIq.jpeg&amp;w=256&amp;q=75   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F285%2FfileEstates%2FwTUYJZ8VUqW6ZIclB5NSKRAMugEUJXgXhA2dUtIq.jpeg&amp;w=384&amp;q=75   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F285%2FfileEstates%2FwTUYJZ8VUqW6ZIclB5NSKRAMugEUJXgXhA2dUtIq.jpeg&amp;w=640&amp;q=75   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F285%2FfileEstates%2FwTUYJZ8VUqW6ZIclB5NSKRAMugEUJXgXhA2dUtIq.jpeg&amp;w=750&amp;q=75   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F285%2FfileEstates%2FwTUYJZ8VUqW6ZIclB5NSKRAMugEUJXgXhA2dUtIq.jpeg&amp;w=828&amp;q=75   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F285%2FfileEstates%2FwTUYJZ8VUqW6ZIclB5NSKRAMugEUJXgXhA2dUtIq.jpeg&amp;w=1080&amp;q=75 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F285%2FfileEstates%2FwTUYJZ8VUqW6ZIclB5NSKRAMugEUJXgXhA2dUtIq.jpeg&amp;w=1200&amp;q=75 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F285%2FfileEstates%2FwTUYJZ8VUqW6ZIclB5NSKRAMugEUJXgXhA2dUtIq.jpeg&amp;w=1920&amp;q=75 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F285%2FfileEstates%2FwTUYJZ8VUqW6ZIclB5NSKRAMugEUJXgXhA2dUtIq.jpeg&amp;w=2048&amp;q=75 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F285%2FfileEstates%2FwTUYJZ8VUqW6ZIclB5NSKRAMugEUJXgXhA2dUtIq.jpeg&amp;w=3840&amp;q=75 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F285%2FfileEstates%2FwTUYJZ8VUqW6ZIclB5NSKRAMugEUJXgXhA2dUtIq.jpeg&amp;w=256&amp;q=75   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F285%2FfileEstates%2FwTUYJZ8VUqW6ZIclB5NSKRAMugEUJXgXhA2dUtIq.jpeg&amp;w=384&amp;q=75   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F285%2FfileEstates%2FwTUYJZ8VUqW6ZIclB5NSKRAMugEUJXgXhA2dUtIq.jpeg&amp;w=640&amp;q=75   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F285%2FfileEstates%2FwTUYJZ8VUqW6ZIclB5NSKRAMugEUJXgXhA2dUtIq.jpeg&amp;w=750&amp;q=75   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F285%2FfileEstates%2FwTUYJZ8VUqW6ZIclB5NSKRAMugEUJXgXhA2dUtIq.jpeg&amp;w=828&amp;q=75   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F285%2FfileEstates%2FwTUYJZ8VUqW6ZIclB5NSKRAMugEUJXgXhA2dUtIq.jpeg&amp;w=1080&amp;q=75 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F285%2FfileEstates%2FwTUYJZ8VUqW6ZIclB5NSKRAMugEUJXgXhA2dUtIq.jpeg&amp;w=1200&amp;q=75 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F285%2FfileEstates%2FwTUYJZ8VUqW6ZIclB5NSKRAMugEUJXgXhA2dUtIq.jpeg&amp;w=1920&amp;q=75 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F285%2FfileEstates%2FwTUYJZ8VUqW6ZIclB5NSKRAMugEUJXgXhA2dUtIq.jpeg&amp;w=2048&amp;q=75 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F285%2FfileEstates%2FwTUYJZ8VUqW6ZIclB5NSKRAMugEUJXgXhA2dUtIq.jpeg&amp;w=3840&amp;q=75 3840w
                                   "
-                                src="plantilla/wTUYJZ8VUqW6ZIclB5NSKRAMugEUJXgXhA2dUtIqef7a.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F285%2FfileEstates%2FwTUYJZ8VUqW6ZIclB5NSKRAMugEUJXgXhA2dUtIq.jpeg&amp;w=3840&amp;q=75"
+                                src="__next/wTUYJZ8VUqW6ZIclB5NSKRAMugEUJXgXhA2dUtIqef7a.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F285%2FfileEstates%2FwTUYJZ8VUqW6ZIclB5NSKRAMugEUJXgXhA2dUtIq.jpeg&amp;w=3840&amp;q=75"
                                 decoding="async" data-nimg="fill" class="object-cover absolute" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -9172,18 +9191,18 @@ Será un placer atenderte." />
                             <div class="relative block h-[270px] w-full">
                               <img alt="Dpto 501-Departamento en venta en San Isidro"
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F114%2FfileEstates%2FXn4kZOozcsMCzLZ9WkKzM3VHzZHwsOoG39hbIcGn.jpeg&amp;w=256&amp;q=75   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F114%2FfileEstates%2FXn4kZOozcsMCzLZ9WkKzM3VHzZHwsOoG39hbIcGn.jpeg&amp;w=384&amp;q=75   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F114%2FfileEstates%2FXn4kZOozcsMCzLZ9WkKzM3VHzZHwsOoG39hbIcGn.jpeg&amp;w=640&amp;q=75   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F114%2FfileEstates%2FXn4kZOozcsMCzLZ9WkKzM3VHzZHwsOoG39hbIcGn.jpeg&amp;w=750&amp;q=75   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F114%2FfileEstates%2FXn4kZOozcsMCzLZ9WkKzM3VHzZHwsOoG39hbIcGn.jpeg&amp;w=828&amp;q=75   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F114%2FfileEstates%2FXn4kZOozcsMCzLZ9WkKzM3VHzZHwsOoG39hbIcGn.jpeg&amp;w=1080&amp;q=75 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F114%2FfileEstates%2FXn4kZOozcsMCzLZ9WkKzM3VHzZHwsOoG39hbIcGn.jpeg&amp;w=1200&amp;q=75 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F114%2FfileEstates%2FXn4kZOozcsMCzLZ9WkKzM3VHzZHwsOoG39hbIcGn.jpeg&amp;w=1920&amp;q=75 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F114%2FfileEstates%2FXn4kZOozcsMCzLZ9WkKzM3VHzZHwsOoG39hbIcGn.jpeg&amp;w=2048&amp;q=75 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F114%2FfileEstates%2FXn4kZOozcsMCzLZ9WkKzM3VHzZHwsOoG39hbIcGn.jpeg&amp;w=3840&amp;q=75 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F114%2FfileEstates%2FXn4kZOozcsMCzLZ9WkKzM3VHzZHwsOoG39hbIcGn.jpeg&amp;w=256&amp;q=75   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F114%2FfileEstates%2FXn4kZOozcsMCzLZ9WkKzM3VHzZHwsOoG39hbIcGn.jpeg&amp;w=384&amp;q=75   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F114%2FfileEstates%2FXn4kZOozcsMCzLZ9WkKzM3VHzZHwsOoG39hbIcGn.jpeg&amp;w=640&amp;q=75   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F114%2FfileEstates%2FXn4kZOozcsMCzLZ9WkKzM3VHzZHwsOoG39hbIcGn.jpeg&amp;w=750&amp;q=75   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F114%2FfileEstates%2FXn4kZOozcsMCzLZ9WkKzM3VHzZHwsOoG39hbIcGn.jpeg&amp;w=828&amp;q=75   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F114%2FfileEstates%2FXn4kZOozcsMCzLZ9WkKzM3VHzZHwsOoG39hbIcGn.jpeg&amp;w=1080&amp;q=75 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F114%2FfileEstates%2FXn4kZOozcsMCzLZ9WkKzM3VHzZHwsOoG39hbIcGn.jpeg&amp;w=1200&amp;q=75 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F114%2FfileEstates%2FXn4kZOozcsMCzLZ9WkKzM3VHzZHwsOoG39hbIcGn.jpeg&amp;w=1920&amp;q=75 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F114%2FfileEstates%2FXn4kZOozcsMCzLZ9WkKzM3VHzZHwsOoG39hbIcGn.jpeg&amp;w=2048&amp;q=75 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F114%2FfileEstates%2FXn4kZOozcsMCzLZ9WkKzM3VHzZHwsOoG39hbIcGn.jpeg&amp;w=3840&amp;q=75 3840w
                                   "
-                                src="plantilla/Xn4kZOozcsMCzLZ9WkKzM3VHzZHwsOoG39hbIcGna09f.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F114%2FfileEstates%2FXn4kZOozcsMCzLZ9WkKzM3VHzZHwsOoG39hbIcGn.jpeg&amp;w=3840&amp;q=75"
+                                src="__next/Xn4kZOozcsMCzLZ9WkKzM3VHzZHwsOoG39hbIcGna09f.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F114%2FfileEstates%2FXn4kZOozcsMCzLZ9WkKzM3VHzZHwsOoG39hbIcGn.jpeg&amp;w=3840&amp;q=75"
                                 decoding="async" data-nimg="fill" class="object-cover absolute" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -9230,18 +9249,18 @@ Será un placer atenderte." />
                               <img
                                 alt="EL HOGAR SOÑADO DPTO 302 VENTA DE DEPARTAMENTO LAS FLORES DE TRUPAL VIVE CERCA A LA UNT"
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F551%2FfileEstates%2FpKF13yJ3t9OQIj53MMkqgUaRrwp4EOxrfP9m6wcy.jpeg&amp;w=256&amp;q=75   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F551%2FfileEstates%2FpKF13yJ3t9OQIj53MMkqgUaRrwp4EOxrfP9m6wcy.jpeg&amp;w=384&amp;q=75   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F551%2FfileEstates%2FpKF13yJ3t9OQIj53MMkqgUaRrwp4EOxrfP9m6wcy.jpeg&amp;w=640&amp;q=75   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F551%2FfileEstates%2FpKF13yJ3t9OQIj53MMkqgUaRrwp4EOxrfP9m6wcy.jpeg&amp;w=750&amp;q=75   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F551%2FfileEstates%2FpKF13yJ3t9OQIj53MMkqgUaRrwp4EOxrfP9m6wcy.jpeg&amp;w=828&amp;q=75   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F551%2FfileEstates%2FpKF13yJ3t9OQIj53MMkqgUaRrwp4EOxrfP9m6wcy.jpeg&amp;w=1080&amp;q=75 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F551%2FfileEstates%2FpKF13yJ3t9OQIj53MMkqgUaRrwp4EOxrfP9m6wcy.jpeg&amp;w=1200&amp;q=75 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F551%2FfileEstates%2FpKF13yJ3t9OQIj53MMkqgUaRrwp4EOxrfP9m6wcy.jpeg&amp;w=1920&amp;q=75 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F551%2FfileEstates%2FpKF13yJ3t9OQIj53MMkqgUaRrwp4EOxrfP9m6wcy.jpeg&amp;w=2048&amp;q=75 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F551%2FfileEstates%2FpKF13yJ3t9OQIj53MMkqgUaRrwp4EOxrfP9m6wcy.jpeg&amp;w=3840&amp;q=75 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F551%2FfileEstates%2FpKF13yJ3t9OQIj53MMkqgUaRrwp4EOxrfP9m6wcy.jpeg&amp;w=256&amp;q=75   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F551%2FfileEstates%2FpKF13yJ3t9OQIj53MMkqgUaRrwp4EOxrfP9m6wcy.jpeg&amp;w=384&amp;q=75   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F551%2FfileEstates%2FpKF13yJ3t9OQIj53MMkqgUaRrwp4EOxrfP9m6wcy.jpeg&amp;w=640&amp;q=75   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F551%2FfileEstates%2FpKF13yJ3t9OQIj53MMkqgUaRrwp4EOxrfP9m6wcy.jpeg&amp;w=750&amp;q=75   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F551%2FfileEstates%2FpKF13yJ3t9OQIj53MMkqgUaRrwp4EOxrfP9m6wcy.jpeg&amp;w=828&amp;q=75   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F551%2FfileEstates%2FpKF13yJ3t9OQIj53MMkqgUaRrwp4EOxrfP9m6wcy.jpeg&amp;w=1080&amp;q=75 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F551%2FfileEstates%2FpKF13yJ3t9OQIj53MMkqgUaRrwp4EOxrfP9m6wcy.jpeg&amp;w=1200&amp;q=75 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F551%2FfileEstates%2FpKF13yJ3t9OQIj53MMkqgUaRrwp4EOxrfP9m6wcy.jpeg&amp;w=1920&amp;q=75 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F551%2FfileEstates%2FpKF13yJ3t9OQIj53MMkqgUaRrwp4EOxrfP9m6wcy.jpeg&amp;w=2048&amp;q=75 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F551%2FfileEstates%2FpKF13yJ3t9OQIj53MMkqgUaRrwp4EOxrfP9m6wcy.jpeg&amp;w=3840&amp;q=75 3840w
                                   "
-                                src="plantilla/pKF13yJ3t9OQIj53MMkqgUaRrwp4EOxrfP9m6wcy78a7.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F551%2FfileEstates%2FpKF13yJ3t9OQIj53MMkqgUaRrwp4EOxrfP9m6wcy.jpeg&amp;w=3840&amp;q=75"
+                                src="__next/pKF13yJ3t9OQIj53MMkqgUaRrwp4EOxrfP9m6wcy78a7.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F551%2FfileEstates%2FpKF13yJ3t9OQIj53MMkqgUaRrwp4EOxrfP9m6wcy.jpeg&amp;w=3840&amp;q=75"
                                 decoding="async" data-nimg="fill" class="object-cover absolute" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -9290,18 +9309,18 @@ Será un placer atenderte." />
                               <img
                                 alt="EL HOGAR QUE TU FAMILIA DESEA ESTRENO DPTO 501 EN VENTA EN TRUJILLO LAS FLORES DE TRUPAL"
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F554%2FfileEstates%2FwEX4ZolKg0DmEwmokaUAkcIVv9hlTtQxRnRAW83m.jpeg&amp;w=256&amp;q=75   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F554%2FfileEstates%2FwEX4ZolKg0DmEwmokaUAkcIVv9hlTtQxRnRAW83m.jpeg&amp;w=384&amp;q=75   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F554%2FfileEstates%2FwEX4ZolKg0DmEwmokaUAkcIVv9hlTtQxRnRAW83m.jpeg&amp;w=640&amp;q=75   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F554%2FfileEstates%2FwEX4ZolKg0DmEwmokaUAkcIVv9hlTtQxRnRAW83m.jpeg&amp;w=750&amp;q=75   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F554%2FfileEstates%2FwEX4ZolKg0DmEwmokaUAkcIVv9hlTtQxRnRAW83m.jpeg&amp;w=828&amp;q=75   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F554%2FfileEstates%2FwEX4ZolKg0DmEwmokaUAkcIVv9hlTtQxRnRAW83m.jpeg&amp;w=1080&amp;q=75 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F554%2FfileEstates%2FwEX4ZolKg0DmEwmokaUAkcIVv9hlTtQxRnRAW83m.jpeg&amp;w=1200&amp;q=75 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F554%2FfileEstates%2FwEX4ZolKg0DmEwmokaUAkcIVv9hlTtQxRnRAW83m.jpeg&amp;w=1920&amp;q=75 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F554%2FfileEstates%2FwEX4ZolKg0DmEwmokaUAkcIVv9hlTtQxRnRAW83m.jpeg&amp;w=2048&amp;q=75 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F554%2FfileEstates%2FwEX4ZolKg0DmEwmokaUAkcIVv9hlTtQxRnRAW83m.jpeg&amp;w=3840&amp;q=75 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F554%2FfileEstates%2FwEX4ZolKg0DmEwmokaUAkcIVv9hlTtQxRnRAW83m.jpeg&amp;w=256&amp;q=75   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F554%2FfileEstates%2FwEX4ZolKg0DmEwmokaUAkcIVv9hlTtQxRnRAW83m.jpeg&amp;w=384&amp;q=75   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F554%2FfileEstates%2FwEX4ZolKg0DmEwmokaUAkcIVv9hlTtQxRnRAW83m.jpeg&amp;w=640&amp;q=75   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F554%2FfileEstates%2FwEX4ZolKg0DmEwmokaUAkcIVv9hlTtQxRnRAW83m.jpeg&amp;w=750&amp;q=75   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F554%2FfileEstates%2FwEX4ZolKg0DmEwmokaUAkcIVv9hlTtQxRnRAW83m.jpeg&amp;w=828&amp;q=75   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F554%2FfileEstates%2FwEX4ZolKg0DmEwmokaUAkcIVv9hlTtQxRnRAW83m.jpeg&amp;w=1080&amp;q=75 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F554%2FfileEstates%2FwEX4ZolKg0DmEwmokaUAkcIVv9hlTtQxRnRAW83m.jpeg&amp;w=1200&amp;q=75 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F554%2FfileEstates%2FwEX4ZolKg0DmEwmokaUAkcIVv9hlTtQxRnRAW83m.jpeg&amp;w=1920&amp;q=75 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F554%2FfileEstates%2FwEX4ZolKg0DmEwmokaUAkcIVv9hlTtQxRnRAW83m.jpeg&amp;w=2048&amp;q=75 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F554%2FfileEstates%2FwEX4ZolKg0DmEwmokaUAkcIVv9hlTtQxRnRAW83m.jpeg&amp;w=3840&amp;q=75 3840w
                                   "
-                                src="plantilla/wEX4ZolKg0DmEwmokaUAkcIVv9hlTtQxRnRAW83m2e95.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F554%2FfileEstates%2FwEX4ZolKg0DmEwmokaUAkcIVv9hlTtQxRnRAW83m.jpeg&amp;w=3840&amp;q=75"
+                                src="__next/wEX4ZolKg0DmEwmokaUAkcIVv9hlTtQxRnRAW83m2e95.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F554%2FfileEstates%2FwEX4ZolKg0DmEwmokaUAkcIVv9hlTtQxRnRAW83m.jpeg&amp;w=3840&amp;q=75"
                                 decoding="async" data-nimg="fill" class="object-cover absolute" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -9349,18 +9368,18 @@ Será un placer atenderte." />
                             <div class="relative block h-[270px] w-full">
                               <img alt="HERMOSO DEPARTAMENTO 3ER PISO PISO, 90m2, 8m2 TENDAL, HORTENCIAS II SAN ANDRÉS"
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F612%2FfileEstates%2Fp0t1ZvkkqTs1yTw9CXSf79qNxlgS2SuRWMInSbMu.jpeg&amp;w=256&amp;q=75   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F612%2FfileEstates%2Fp0t1ZvkkqTs1yTw9CXSf79qNxlgS2SuRWMInSbMu.jpeg&amp;w=384&amp;q=75   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F612%2FfileEstates%2Fp0t1ZvkkqTs1yTw9CXSf79qNxlgS2SuRWMInSbMu.jpeg&amp;w=640&amp;q=75   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F612%2FfileEstates%2Fp0t1ZvkkqTs1yTw9CXSf79qNxlgS2SuRWMInSbMu.jpeg&amp;w=750&amp;q=75   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F612%2FfileEstates%2Fp0t1ZvkkqTs1yTw9CXSf79qNxlgS2SuRWMInSbMu.jpeg&amp;w=828&amp;q=75   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F612%2FfileEstates%2Fp0t1ZvkkqTs1yTw9CXSf79qNxlgS2SuRWMInSbMu.jpeg&amp;w=1080&amp;q=75 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F612%2FfileEstates%2Fp0t1ZvkkqTs1yTw9CXSf79qNxlgS2SuRWMInSbMu.jpeg&amp;w=1200&amp;q=75 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F612%2FfileEstates%2Fp0t1ZvkkqTs1yTw9CXSf79qNxlgS2SuRWMInSbMu.jpeg&amp;w=1920&amp;q=75 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F612%2FfileEstates%2Fp0t1ZvkkqTs1yTw9CXSf79qNxlgS2SuRWMInSbMu.jpeg&amp;w=2048&amp;q=75 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F612%2FfileEstates%2Fp0t1ZvkkqTs1yTw9CXSf79qNxlgS2SuRWMInSbMu.jpeg&amp;w=3840&amp;q=75 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F612%2FfileEstates%2Fp0t1ZvkkqTs1yTw9CXSf79qNxlgS2SuRWMInSbMu.jpeg&amp;w=256&amp;q=75   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F612%2FfileEstates%2Fp0t1ZvkkqTs1yTw9CXSf79qNxlgS2SuRWMInSbMu.jpeg&amp;w=384&amp;q=75   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F612%2FfileEstates%2Fp0t1ZvkkqTs1yTw9CXSf79qNxlgS2SuRWMInSbMu.jpeg&amp;w=640&amp;q=75   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F612%2FfileEstates%2Fp0t1ZvkkqTs1yTw9CXSf79qNxlgS2SuRWMInSbMu.jpeg&amp;w=750&amp;q=75   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F612%2FfileEstates%2Fp0t1ZvkkqTs1yTw9CXSf79qNxlgS2SuRWMInSbMu.jpeg&amp;w=828&amp;q=75   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F612%2FfileEstates%2Fp0t1ZvkkqTs1yTw9CXSf79qNxlgS2SuRWMInSbMu.jpeg&amp;w=1080&amp;q=75 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F612%2FfileEstates%2Fp0t1ZvkkqTs1yTw9CXSf79qNxlgS2SuRWMInSbMu.jpeg&amp;w=1200&amp;q=75 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F612%2FfileEstates%2Fp0t1ZvkkqTs1yTw9CXSf79qNxlgS2SuRWMInSbMu.jpeg&amp;w=1920&amp;q=75 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F612%2FfileEstates%2Fp0t1ZvkkqTs1yTw9CXSf79qNxlgS2SuRWMInSbMu.jpeg&amp;w=2048&amp;q=75 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F612%2FfileEstates%2Fp0t1ZvkkqTs1yTw9CXSf79qNxlgS2SuRWMInSbMu.jpeg&amp;w=3840&amp;q=75 3840w
                                   "
-                                src="plantilla/p0t1ZvkkqTs1yTw9CXSf79qNxlgS2SuRWMInSbMu4924.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F612%2FfileEstates%2Fp0t1ZvkkqTs1yTw9CXSf79qNxlgS2SuRWMInSbMu.jpeg&amp;w=3840&amp;q=75"
+                                src="__next/p0t1ZvkkqTs1yTw9CXSf79qNxlgS2SuRWMInSbMu4924.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F612%2FfileEstates%2Fp0t1ZvkkqTs1yTw9CXSf79qNxlgS2SuRWMInSbMu.jpeg&amp;w=3840&amp;q=75"
                                 decoding="async" data-nimg="fill" class="object-cover absolute" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -9406,18 +9425,18 @@ Será un placer atenderte." />
                             <div class="relative block h-[270px] w-full">
                               <img alt="Departamento en Venta en Víctor Larco Herrera"
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F283%2FfileEstates%2FllZhAptZklmXrwbQKdwV0v5xUBqH4EqBwLSwWSYD.jpeg&amp;w=256&amp;q=75   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F283%2FfileEstates%2FllZhAptZklmXrwbQKdwV0v5xUBqH4EqBwLSwWSYD.jpeg&amp;w=384&amp;q=75   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F283%2FfileEstates%2FllZhAptZklmXrwbQKdwV0v5xUBqH4EqBwLSwWSYD.jpeg&amp;w=640&amp;q=75   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F283%2FfileEstates%2FllZhAptZklmXrwbQKdwV0v5xUBqH4EqBwLSwWSYD.jpeg&amp;w=750&amp;q=75   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F283%2FfileEstates%2FllZhAptZklmXrwbQKdwV0v5xUBqH4EqBwLSwWSYD.jpeg&amp;w=828&amp;q=75   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F283%2FfileEstates%2FllZhAptZklmXrwbQKdwV0v5xUBqH4EqBwLSwWSYD.jpeg&amp;w=1080&amp;q=75 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F283%2FfileEstates%2FllZhAptZklmXrwbQKdwV0v5xUBqH4EqBwLSwWSYD.jpeg&amp;w=1200&amp;q=75 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F283%2FfileEstates%2FllZhAptZklmXrwbQKdwV0v5xUBqH4EqBwLSwWSYD.jpeg&amp;w=1920&amp;q=75 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F283%2FfileEstates%2FllZhAptZklmXrwbQKdwV0v5xUBqH4EqBwLSwWSYD.jpeg&amp;w=2048&amp;q=75 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F283%2FfileEstates%2FllZhAptZklmXrwbQKdwV0v5xUBqH4EqBwLSwWSYD.jpeg&amp;w=3840&amp;q=75 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F283%2FfileEstates%2FllZhAptZklmXrwbQKdwV0v5xUBqH4EqBwLSwWSYD.jpeg&amp;w=256&amp;q=75   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F283%2FfileEstates%2FllZhAptZklmXrwbQKdwV0v5xUBqH4EqBwLSwWSYD.jpeg&amp;w=384&amp;q=75   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F283%2FfileEstates%2FllZhAptZklmXrwbQKdwV0v5xUBqH4EqBwLSwWSYD.jpeg&amp;w=640&amp;q=75   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F283%2FfileEstates%2FllZhAptZklmXrwbQKdwV0v5xUBqH4EqBwLSwWSYD.jpeg&amp;w=750&amp;q=75   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F283%2FfileEstates%2FllZhAptZklmXrwbQKdwV0v5xUBqH4EqBwLSwWSYD.jpeg&amp;w=828&amp;q=75   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F283%2FfileEstates%2FllZhAptZklmXrwbQKdwV0v5xUBqH4EqBwLSwWSYD.jpeg&amp;w=1080&amp;q=75 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F283%2FfileEstates%2FllZhAptZklmXrwbQKdwV0v5xUBqH4EqBwLSwWSYD.jpeg&amp;w=1200&amp;q=75 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F283%2FfileEstates%2FllZhAptZklmXrwbQKdwV0v5xUBqH4EqBwLSwWSYD.jpeg&amp;w=1920&amp;q=75 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F283%2FfileEstates%2FllZhAptZklmXrwbQKdwV0v5xUBqH4EqBwLSwWSYD.jpeg&amp;w=2048&amp;q=75 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F283%2FfileEstates%2FllZhAptZklmXrwbQKdwV0v5xUBqH4EqBwLSwWSYD.jpeg&amp;w=3840&amp;q=75 3840w
                                   "
-                                src="plantilla/llZhAptZklmXrwbQKdwV0v5xUBqH4EqBwLSwWSYD6252.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F283%2FfileEstates%2FllZhAptZklmXrwbQKdwV0v5xUBqH4EqBwLSwWSYD.jpeg&amp;w=3840&amp;q=75"
+                                src="__next/llZhAptZklmXrwbQKdwV0v5xUBqH4EqBwLSwWSYD6252.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F283%2FfileEstates%2FllZhAptZklmXrwbQKdwV0v5xUBqH4EqBwLSwWSYD.jpeg&amp;w=3840&amp;q=75"
                                 decoding="async" data-nimg="fill" class="object-cover absolute" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -9461,18 +9480,18 @@ Será un placer atenderte." />
                               <img
                                 alt="Urb. CALIFORNIA, Colegio. San Jose Obrero, Dpto 4to PISO - Area: 120.47m2 10m2 a US$ 102,900 NEGOCIABLE"
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1415%2Fweb-agent%2FfileEstates%2F04%20PISO%20GRANADOS.png&amp;w=256&amp;q=75   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1415%2Fweb-agent%2FfileEstates%2F04%20PISO%20GRANADOS.png&amp;w=384&amp;q=75   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1415%2Fweb-agent%2FfileEstates%2F04%20PISO%20GRANADOS.png&amp;w=640&amp;q=75   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1415%2Fweb-agent%2FfileEstates%2F04%20PISO%20GRANADOS.png&amp;w=750&amp;q=75   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1415%2Fweb-agent%2FfileEstates%2F04%20PISO%20GRANADOS.png&amp;w=828&amp;q=75   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1415%2Fweb-agent%2FfileEstates%2F04%20PISO%20GRANADOS.png&amp;w=1080&amp;q=75 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1415%2Fweb-agent%2FfileEstates%2F04%20PISO%20GRANADOS.png&amp;w=1200&amp;q=75 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1415%2Fweb-agent%2FfileEstates%2F04%20PISO%20GRANADOS.png&amp;w=1920&amp;q=75 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1415%2Fweb-agent%2FfileEstates%2F04%20PISO%20GRANADOS.png&amp;w=2048&amp;q=75 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1415%2Fweb-agent%2FfileEstates%2F04%20PISO%20GRANADOS.png&amp;w=3840&amp;q=75 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1415%2Fweb-agent%2FfileEstates%2F04%20PISO%20GRANADOS.png&amp;w=256&amp;q=75   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1415%2Fweb-agent%2FfileEstates%2F04%20PISO%20GRANADOS.png&amp;w=384&amp;q=75   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1415%2Fweb-agent%2FfileEstates%2F04%20PISO%20GRANADOS.png&amp;w=640&amp;q=75   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1415%2Fweb-agent%2FfileEstates%2F04%20PISO%20GRANADOS.png&amp;w=750&amp;q=75   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1415%2Fweb-agent%2FfileEstates%2F04%20PISO%20GRANADOS.png&amp;w=828&amp;q=75   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1415%2Fweb-agent%2FfileEstates%2F04%20PISO%20GRANADOS.png&amp;w=1080&amp;q=75 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1415%2Fweb-agent%2FfileEstates%2F04%20PISO%20GRANADOS.png&amp;w=1200&amp;q=75 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1415%2Fweb-agent%2FfileEstates%2F04%20PISO%20GRANADOS.png&amp;w=1920&amp;q=75 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1415%2Fweb-agent%2FfileEstates%2F04%20PISO%20GRANADOS.png&amp;w=2048&amp;q=75 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1415%2Fweb-agent%2FfileEstates%2F04%20PISO%20GRANADOS.png&amp;w=3840&amp;q=75 3840w
                                   "
-                                src="plantilla/04%20PISO%20GRANADOS20dd.png?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1415%2Fweb-agent%2FfileEstates%2F04%20PISO%20GRANADOS.png&amp;w=3840&amp;q=75"
+                                src="__next/04%20PISO%20GRANADOS20dd.png?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1415%2Fweb-agent%2FfileEstates%2F04%20PISO%20GRANADOS.png&amp;w=3840&amp;q=75"
                                 decoding="async" data-nimg="fill" class="object-cover absolute" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -9522,18 +9541,18 @@ Será un placer atenderte." />
                             <div class="relative block h-[270px] w-full">
                               <img alt="Frente a Parque Cuzco, Venta de Departamento 03 Habitaciones"
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1427%2Fweb-agent%2FfileEstates%2FCopia%20de%20Copia%20de%20Pack%2020%20imagenes%20editables%20real%20estate.png&amp;w=256&amp;q=75   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1427%2Fweb-agent%2FfileEstates%2FCopia%20de%20Copia%20de%20Pack%2020%20imagenes%20editables%20real%20estate.png&amp;w=384&amp;q=75   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1427%2Fweb-agent%2FfileEstates%2FCopia%20de%20Copia%20de%20Pack%2020%20imagenes%20editables%20real%20estate.png&amp;w=640&amp;q=75   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1427%2Fweb-agent%2FfileEstates%2FCopia%20de%20Copia%20de%20Pack%2020%20imagenes%20editables%20real%20estate.png&amp;w=750&amp;q=75   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1427%2Fweb-agent%2FfileEstates%2FCopia%20de%20Copia%20de%20Pack%2020%20imagenes%20editables%20real%20estate.png&amp;w=828&amp;q=75   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1427%2Fweb-agent%2FfileEstates%2FCopia%20de%20Copia%20de%20Pack%2020%20imagenes%20editables%20real%20estate.png&amp;w=1080&amp;q=75 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1427%2Fweb-agent%2FfileEstates%2FCopia%20de%20Copia%20de%20Pack%2020%20imagenes%20editables%20real%20estate.png&amp;w=1200&amp;q=75 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1427%2Fweb-agent%2FfileEstates%2FCopia%20de%20Copia%20de%20Pack%2020%20imagenes%20editables%20real%20estate.png&amp;w=1920&amp;q=75 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1427%2Fweb-agent%2FfileEstates%2FCopia%20de%20Copia%20de%20Pack%2020%20imagenes%20editables%20real%20estate.png&amp;w=2048&amp;q=75 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1427%2Fweb-agent%2FfileEstates%2FCopia%20de%20Copia%20de%20Pack%2020%20imagenes%20editables%20real%20estate.png&amp;w=3840&amp;q=75 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1427%2Fweb-agent%2FfileEstates%2FCopia%20de%20Copia%20de%20Pack%2020%20imagenes%20editables%20real%20estate.png&amp;w=256&amp;q=75   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1427%2Fweb-agent%2FfileEstates%2FCopia%20de%20Copia%20de%20Pack%2020%20imagenes%20editables%20real%20estate.png&amp;w=384&amp;q=75   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1427%2Fweb-agent%2FfileEstates%2FCopia%20de%20Copia%20de%20Pack%2020%20imagenes%20editables%20real%20estate.png&amp;w=640&amp;q=75   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1427%2Fweb-agent%2FfileEstates%2FCopia%20de%20Copia%20de%20Pack%2020%20imagenes%20editables%20real%20estate.png&amp;w=750&amp;q=75   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1427%2Fweb-agent%2FfileEstates%2FCopia%20de%20Copia%20de%20Pack%2020%20imagenes%20editables%20real%20estate.png&amp;w=828&amp;q=75   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1427%2Fweb-agent%2FfileEstates%2FCopia%20de%20Copia%20de%20Pack%2020%20imagenes%20editables%20real%20estate.png&amp;w=1080&amp;q=75 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1427%2Fweb-agent%2FfileEstates%2FCopia%20de%20Copia%20de%20Pack%2020%20imagenes%20editables%20real%20estate.png&amp;w=1200&amp;q=75 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1427%2Fweb-agent%2FfileEstates%2FCopia%20de%20Copia%20de%20Pack%2020%20imagenes%20editables%20real%20estate.png&amp;w=1920&amp;q=75 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1427%2Fweb-agent%2FfileEstates%2FCopia%20de%20Copia%20de%20Pack%2020%20imagenes%20editables%20real%20estate.png&amp;w=2048&amp;q=75 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1427%2Fweb-agent%2FfileEstates%2FCopia%20de%20Copia%20de%20Pack%2020%20imagenes%20editables%20real%20estate.png&amp;w=3840&amp;q=75 3840w
                                   "
-                                src="plantilla/Copia%20de%20Copia%20de%20Pack%2020%20imagenes%20editables%20real%20estate4261.png?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1427%2Fweb-agent%2FfileEstates%2FCopia%20de%20Copia%20de%20Pack%2020%20imagenes%20editables%20real%20estate.png&amp;w=3840&amp;q=75"
+                                src="__next/Copia%20de%20Copia%20de%20Pack%2020%20imagenes%20editables%20real%20estate4261.png?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1427%2Fweb-agent%2FfileEstates%2FCopia%20de%20Copia%20de%20Pack%2020%20imagenes%20editables%20real%20estate.png&amp;w=3840&amp;q=75"
                                 decoding="async" data-nimg="fill" class="object-cover absolute" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -9585,18 +9604,18 @@ Será un placer atenderte." />
                             <div class="relative block h-[270px] w-full">
                               <img alt='3er PISO con COCHERA - Urb. CALIFORNIA Frente al colegio "San José Obrero"'
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1452%2Fweb-agent%2FfileEstates%2F20230105_112827.jpg&amp;w=256&amp;q=75   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1452%2Fweb-agent%2FfileEstates%2F20230105_112827.jpg&amp;w=384&amp;q=75   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1452%2Fweb-agent%2FfileEstates%2F20230105_112827.jpg&amp;w=640&amp;q=75   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1452%2Fweb-agent%2FfileEstates%2F20230105_112827.jpg&amp;w=750&amp;q=75   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1452%2Fweb-agent%2FfileEstates%2F20230105_112827.jpg&amp;w=828&amp;q=75   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1452%2Fweb-agent%2FfileEstates%2F20230105_112827.jpg&amp;w=1080&amp;q=75 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1452%2Fweb-agent%2FfileEstates%2F20230105_112827.jpg&amp;w=1200&amp;q=75 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1452%2Fweb-agent%2FfileEstates%2F20230105_112827.jpg&amp;w=1920&amp;q=75 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1452%2Fweb-agent%2FfileEstates%2F20230105_112827.jpg&amp;w=2048&amp;q=75 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1452%2Fweb-agent%2FfileEstates%2F20230105_112827.jpg&amp;w=3840&amp;q=75 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1452%2Fweb-agent%2FfileEstates%2F20230105_112827.jpg&amp;w=256&amp;q=75   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1452%2Fweb-agent%2FfileEstates%2F20230105_112827.jpg&amp;w=384&amp;q=75   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1452%2Fweb-agent%2FfileEstates%2F20230105_112827.jpg&amp;w=640&amp;q=75   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1452%2Fweb-agent%2FfileEstates%2F20230105_112827.jpg&amp;w=750&amp;q=75   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1452%2Fweb-agent%2FfileEstates%2F20230105_112827.jpg&amp;w=828&amp;q=75   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1452%2Fweb-agent%2FfileEstates%2F20230105_112827.jpg&amp;w=1080&amp;q=75 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1452%2Fweb-agent%2FfileEstates%2F20230105_112827.jpg&amp;w=1200&amp;q=75 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1452%2Fweb-agent%2FfileEstates%2F20230105_112827.jpg&amp;w=1920&amp;q=75 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1452%2Fweb-agent%2FfileEstates%2F20230105_112827.jpg&amp;w=2048&amp;q=75 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1452%2Fweb-agent%2FfileEstates%2F20230105_112827.jpg&amp;w=3840&amp;q=75 3840w
                                   "
-                                src="plantilla/20230105_1128272986.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1452%2Fweb-agent%2FfileEstates%2F20230105_112827.jpg&amp;w=3840&amp;q=75"
+                                src="__next/20230105_1128272986.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1452%2Fweb-agent%2FfileEstates%2F20230105_112827.jpg&amp;w=3840&amp;q=75"
                                 decoding="async" data-nimg="fill" class="object-cover absolute" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -9649,18 +9668,18 @@ Será un placer atenderte." />
                             <div class="relative block h-[270px] w-full">
                               <img alt='Vive FRENTE PARQUE "Pablo PICASSO" URB. EL BOSQUE - 4to Piso 96m2 + 04 Tendal'
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1453%2Fweb-agent%2FfileEstates%2Fdepartamento_en_trujillo_por_jassan_monica.png&amp;w=256&amp;q=75   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1453%2Fweb-agent%2FfileEstates%2Fdepartamento_en_trujillo_por_jassan_monica.png&amp;w=384&amp;q=75   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1453%2Fweb-agent%2FfileEstates%2Fdepartamento_en_trujillo_por_jassan_monica.png&amp;w=640&amp;q=75   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1453%2Fweb-agent%2FfileEstates%2Fdepartamento_en_trujillo_por_jassan_monica.png&amp;w=750&amp;q=75   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1453%2Fweb-agent%2FfileEstates%2Fdepartamento_en_trujillo_por_jassan_monica.png&amp;w=828&amp;q=75   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1453%2Fweb-agent%2FfileEstates%2Fdepartamento_en_trujillo_por_jassan_monica.png&amp;w=1080&amp;q=75 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1453%2Fweb-agent%2FfileEstates%2Fdepartamento_en_trujillo_por_jassan_monica.png&amp;w=1200&amp;q=75 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1453%2Fweb-agent%2FfileEstates%2Fdepartamento_en_trujillo_por_jassan_monica.png&amp;w=1920&amp;q=75 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1453%2Fweb-agent%2FfileEstates%2Fdepartamento_en_trujillo_por_jassan_monica.png&amp;w=2048&amp;q=75 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1453%2Fweb-agent%2FfileEstates%2Fdepartamento_en_trujillo_por_jassan_monica.png&amp;w=3840&amp;q=75 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1453%2Fweb-agent%2FfileEstates%2Fdepartamento_en_trujillo_por_jassan_monica.png&amp;w=256&amp;q=75   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1453%2Fweb-agent%2FfileEstates%2Fdepartamento_en_trujillo_por_jassan_monica.png&amp;w=384&amp;q=75   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1453%2Fweb-agent%2FfileEstates%2Fdepartamento_en_trujillo_por_jassan_monica.png&amp;w=640&amp;q=75   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1453%2Fweb-agent%2FfileEstates%2Fdepartamento_en_trujillo_por_jassan_monica.png&amp;w=750&amp;q=75   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1453%2Fweb-agent%2FfileEstates%2Fdepartamento_en_trujillo_por_jassan_monica.png&amp;w=828&amp;q=75   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1453%2Fweb-agent%2FfileEstates%2Fdepartamento_en_trujillo_por_jassan_monica.png&amp;w=1080&amp;q=75 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1453%2Fweb-agent%2FfileEstates%2Fdepartamento_en_trujillo_por_jassan_monica.png&amp;w=1200&amp;q=75 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1453%2Fweb-agent%2FfileEstates%2Fdepartamento_en_trujillo_por_jassan_monica.png&amp;w=1920&amp;q=75 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1453%2Fweb-agent%2FfileEstates%2Fdepartamento_en_trujillo_por_jassan_monica.png&amp;w=2048&amp;q=75 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1453%2Fweb-agent%2FfileEstates%2Fdepartamento_en_trujillo_por_jassan_monica.png&amp;w=3840&amp;q=75 3840w
                                   "
-                                src="plantilla/departamento_en_trujillo_por_jassan_monicaf8ad.png?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1453%2Fweb-agent%2FfileEstates%2Fdepartamento_en_trujillo_por_jassan_monica.png&amp;w=3840&amp;q=75"
+                                src="__next/departamento_en_trujillo_por_jassan_monicaf8ad.png?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1453%2Fweb-agent%2FfileEstates%2Fdepartamento_en_trujillo_por_jassan_monica.png&amp;w=3840&amp;q=75"
                                 decoding="async" data-nimg="fill" class="object-cover absolute" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -9711,18 +9730,18 @@ Será un placer atenderte." />
                             <div class="relative block h-[270px] w-full">
                               <img alt='A 02 Cuadras "MALL de TRUJILLO", 1er PISO de 02 dormitorios con 86m2 a $ 62.500'
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1479%2Fweb-agent%2FfileEstates%2F1er%20piso.png&amp;w=256&amp;q=75   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1479%2Fweb-agent%2FfileEstates%2F1er%20piso.png&amp;w=384&amp;q=75   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1479%2Fweb-agent%2FfileEstates%2F1er%20piso.png&amp;w=640&amp;q=75   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1479%2Fweb-agent%2FfileEstates%2F1er%20piso.png&amp;w=750&amp;q=75   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1479%2Fweb-agent%2FfileEstates%2F1er%20piso.png&amp;w=828&amp;q=75   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1479%2Fweb-agent%2FfileEstates%2F1er%20piso.png&amp;w=1080&amp;q=75 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1479%2Fweb-agent%2FfileEstates%2F1er%20piso.png&amp;w=1200&amp;q=75 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1479%2Fweb-agent%2FfileEstates%2F1er%20piso.png&amp;w=1920&amp;q=75 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1479%2Fweb-agent%2FfileEstates%2F1er%20piso.png&amp;w=2048&amp;q=75 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1479%2Fweb-agent%2FfileEstates%2F1er%20piso.png&amp;w=3840&amp;q=75 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1479%2Fweb-agent%2FfileEstates%2F1er%20piso.png&amp;w=256&amp;q=75   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1479%2Fweb-agent%2FfileEstates%2F1er%20piso.png&amp;w=384&amp;q=75   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1479%2Fweb-agent%2FfileEstates%2F1er%20piso.png&amp;w=640&amp;q=75   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1479%2Fweb-agent%2FfileEstates%2F1er%20piso.png&amp;w=750&amp;q=75   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1479%2Fweb-agent%2FfileEstates%2F1er%20piso.png&amp;w=828&amp;q=75   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1479%2Fweb-agent%2FfileEstates%2F1er%20piso.png&amp;w=1080&amp;q=75 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1479%2Fweb-agent%2FfileEstates%2F1er%20piso.png&amp;w=1200&amp;q=75 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1479%2Fweb-agent%2FfileEstates%2F1er%20piso.png&amp;w=1920&amp;q=75 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1479%2Fweb-agent%2FfileEstates%2F1er%20piso.png&amp;w=2048&amp;q=75 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1479%2Fweb-agent%2FfileEstates%2F1er%20piso.png&amp;w=3840&amp;q=75 3840w
                                   "
-                                src="plantilla/1er%20piso1f9d.png?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1479%2Fweb-agent%2FfileEstates%2F1er%20piso.png&amp;w=3840&amp;q=75"
+                                src="__next/1er%20piso1f9d.png?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1479%2Fweb-agent%2FfileEstates%2F1er%20piso.png&amp;w=3840&amp;q=75"
                                 decoding="async" data-nimg="fill" class="object-cover absolute" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -9777,18 +9796,18 @@ Será un placer atenderte." />
                             <div class="relative block h-[270px] w-full">
                               <img alt='Cerca a "UPN SAN ISIDRO" 5to PISO de ESTRENO con 96.50m2 a $ 64.900'
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1484%2Fweb-agent%2FfileEstates%2F5t%20piso.png&amp;w=256&amp;q=75   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1484%2Fweb-agent%2FfileEstates%2F5t%20piso.png&amp;w=384&amp;q=75   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1484%2Fweb-agent%2FfileEstates%2F5t%20piso.png&amp;w=640&amp;q=75   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1484%2Fweb-agent%2FfileEstates%2F5t%20piso.png&amp;w=750&amp;q=75   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1484%2Fweb-agent%2FfileEstates%2F5t%20piso.png&amp;w=828&amp;q=75   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1484%2Fweb-agent%2FfileEstates%2F5t%20piso.png&amp;w=1080&amp;q=75 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1484%2Fweb-agent%2FfileEstates%2F5t%20piso.png&amp;w=1200&amp;q=75 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1484%2Fweb-agent%2FfileEstates%2F5t%20piso.png&amp;w=1920&amp;q=75 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1484%2Fweb-agent%2FfileEstates%2F5t%20piso.png&amp;w=2048&amp;q=75 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1484%2Fweb-agent%2FfileEstates%2F5t%20piso.png&amp;w=3840&amp;q=75 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1484%2Fweb-agent%2FfileEstates%2F5t%20piso.png&amp;w=256&amp;q=75   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1484%2Fweb-agent%2FfileEstates%2F5t%20piso.png&amp;w=384&amp;q=75   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1484%2Fweb-agent%2FfileEstates%2F5t%20piso.png&amp;w=640&amp;q=75   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1484%2Fweb-agent%2FfileEstates%2F5t%20piso.png&amp;w=750&amp;q=75   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1484%2Fweb-agent%2FfileEstates%2F5t%20piso.png&amp;w=828&amp;q=75   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1484%2Fweb-agent%2FfileEstates%2F5t%20piso.png&amp;w=1080&amp;q=75 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1484%2Fweb-agent%2FfileEstates%2F5t%20piso.png&amp;w=1200&amp;q=75 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1484%2Fweb-agent%2FfileEstates%2F5t%20piso.png&amp;w=1920&amp;q=75 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1484%2Fweb-agent%2FfileEstates%2F5t%20piso.png&amp;w=2048&amp;q=75 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1484%2Fweb-agent%2FfileEstates%2F5t%20piso.png&amp;w=3840&amp;q=75 3840w
                                   "
-                                src="plantilla/5t%20piso5210.png?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1484%2Fweb-agent%2FfileEstates%2F5t%20piso.png&amp;w=3840&amp;q=75"
+                                src="__next/5t%20piso5210.png?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1484%2Fweb-agent%2FfileEstates%2F5t%20piso.png&amp;w=3840&amp;q=75"
                                 decoding="async" data-nimg="fill" class="object-cover absolute" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -9842,18 +9861,18 @@ Será un placer atenderte." />
                             <div class="relative block h-[270px] w-full">
                               <img alt='OCASIÓN: 3er PISO, ESTRENO Cerca a "UPN SAN ISIDRO" de 97.20m2 a $ 76.900'
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1485%2Fweb-agent%2FfileEstates%2F3er%20piso.png&amp;w=256&amp;q=75   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1485%2Fweb-agent%2FfileEstates%2F3er%20piso.png&amp;w=384&amp;q=75   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1485%2Fweb-agent%2FfileEstates%2F3er%20piso.png&amp;w=640&amp;q=75   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1485%2Fweb-agent%2FfileEstates%2F3er%20piso.png&amp;w=750&amp;q=75   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1485%2Fweb-agent%2FfileEstates%2F3er%20piso.png&amp;w=828&amp;q=75   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1485%2Fweb-agent%2FfileEstates%2F3er%20piso.png&amp;w=1080&amp;q=75 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1485%2Fweb-agent%2FfileEstates%2F3er%20piso.png&amp;w=1200&amp;q=75 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1485%2Fweb-agent%2FfileEstates%2F3er%20piso.png&amp;w=1920&amp;q=75 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1485%2Fweb-agent%2FfileEstates%2F3er%20piso.png&amp;w=2048&amp;q=75 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1485%2Fweb-agent%2FfileEstates%2F3er%20piso.png&amp;w=3840&amp;q=75 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1485%2Fweb-agent%2FfileEstates%2F3er%20piso.png&amp;w=256&amp;q=75   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1485%2Fweb-agent%2FfileEstates%2F3er%20piso.png&amp;w=384&amp;q=75   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1485%2Fweb-agent%2FfileEstates%2F3er%20piso.png&amp;w=640&amp;q=75   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1485%2Fweb-agent%2FfileEstates%2F3er%20piso.png&amp;w=750&amp;q=75   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1485%2Fweb-agent%2FfileEstates%2F3er%20piso.png&amp;w=828&amp;q=75   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1485%2Fweb-agent%2FfileEstates%2F3er%20piso.png&amp;w=1080&amp;q=75 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1485%2Fweb-agent%2FfileEstates%2F3er%20piso.png&amp;w=1200&amp;q=75 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1485%2Fweb-agent%2FfileEstates%2F3er%20piso.png&amp;w=1920&amp;q=75 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1485%2Fweb-agent%2FfileEstates%2F3er%20piso.png&amp;w=2048&amp;q=75 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1485%2Fweb-agent%2FfileEstates%2F3er%20piso.png&amp;w=3840&amp;q=75 3840w
                                   "
-                                src="plantilla/3er%20piso8c06.png?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1485%2Fweb-agent%2FfileEstates%2F3er%20piso.png&amp;w=3840&amp;q=75"
+                                src="__next/3er%20piso8c06.png?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1485%2Fweb-agent%2FfileEstates%2F3er%20piso.png&amp;w=3840&amp;q=75"
                                 decoding="async" data-nimg="fill" class="object-cover absolute" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -9904,18 +9923,18 @@ Será un placer atenderte." />
                             <div class="relative block h-[270px] w-full">
                               <img alt='ESTRENO: 4to Piso Cerca a "Mall Aventura Plaza" de 97.38m2 a $ 69.900'
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1486%2Fweb-agent%2FfileEstates%2F4t%20piso.png&amp;w=256&amp;q=75   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1486%2Fweb-agent%2FfileEstates%2F4t%20piso.png&amp;w=384&amp;q=75   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1486%2Fweb-agent%2FfileEstates%2F4t%20piso.png&amp;w=640&amp;q=75   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1486%2Fweb-agent%2FfileEstates%2F4t%20piso.png&amp;w=750&amp;q=75   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1486%2Fweb-agent%2FfileEstates%2F4t%20piso.png&amp;w=828&amp;q=75   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1486%2Fweb-agent%2FfileEstates%2F4t%20piso.png&amp;w=1080&amp;q=75 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1486%2Fweb-agent%2FfileEstates%2F4t%20piso.png&amp;w=1200&amp;q=75 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1486%2Fweb-agent%2FfileEstates%2F4t%20piso.png&amp;w=1920&amp;q=75 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1486%2Fweb-agent%2FfileEstates%2F4t%20piso.png&amp;w=2048&amp;q=75 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1486%2Fweb-agent%2FfileEstates%2F4t%20piso.png&amp;w=3840&amp;q=75 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1486%2Fweb-agent%2FfileEstates%2F4t%20piso.png&amp;w=256&amp;q=75   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1486%2Fweb-agent%2FfileEstates%2F4t%20piso.png&amp;w=384&amp;q=75   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1486%2Fweb-agent%2FfileEstates%2F4t%20piso.png&amp;w=640&amp;q=75   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1486%2Fweb-agent%2FfileEstates%2F4t%20piso.png&amp;w=750&amp;q=75   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1486%2Fweb-agent%2FfileEstates%2F4t%20piso.png&amp;w=828&amp;q=75   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1486%2Fweb-agent%2FfileEstates%2F4t%20piso.png&amp;w=1080&amp;q=75 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1486%2Fweb-agent%2FfileEstates%2F4t%20piso.png&amp;w=1200&amp;q=75 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1486%2Fweb-agent%2FfileEstates%2F4t%20piso.png&amp;w=1920&amp;q=75 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1486%2Fweb-agent%2FfileEstates%2F4t%20piso.png&amp;w=2048&amp;q=75 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1486%2Fweb-agent%2FfileEstates%2F4t%20piso.png&amp;w=3840&amp;q=75 3840w
                                   "
-                                src="plantilla/4t%20piso26c3.png?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1486%2Fweb-agent%2FfileEstates%2F4t%20piso.png&amp;w=3840&amp;q=75"
+                                src="__next/4t%20piso26c3.png?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1486%2Fweb-agent%2FfileEstates%2F4t%20piso.png&amp;w=3840&amp;q=75"
                                 decoding="async" data-nimg="fill" class="object-cover absolute" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -9965,18 +9984,18 @@ Será un placer atenderte." />
                               <img
                                 alt='A 150metros de "UCV", VENDO CASA 02PISOS + AZOTÉA + COCHERA para 02 CAMIONETAS US$ 253,900'
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1496%2Fweb-agent%2FfileEstates%2FVENTA%20CASA%20A%20150%20METROS%20DE%20UCV_JASSAN_MONICA%20(4).png&amp;w=256&amp;q=75   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1496%2Fweb-agent%2FfileEstates%2FVENTA%20CASA%20A%20150%20METROS%20DE%20UCV_JASSAN_MONICA%20(4).png&amp;w=384&amp;q=75   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1496%2Fweb-agent%2FfileEstates%2FVENTA%20CASA%20A%20150%20METROS%20DE%20UCV_JASSAN_MONICA%20(4).png&amp;w=640&amp;q=75   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1496%2Fweb-agent%2FfileEstates%2FVENTA%20CASA%20A%20150%20METROS%20DE%20UCV_JASSAN_MONICA%20(4).png&amp;w=750&amp;q=75   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1496%2Fweb-agent%2FfileEstates%2FVENTA%20CASA%20A%20150%20METROS%20DE%20UCV_JASSAN_MONICA%20(4).png&amp;w=828&amp;q=75   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1496%2Fweb-agent%2FfileEstates%2FVENTA%20CASA%20A%20150%20METROS%20DE%20UCV_JASSAN_MONICA%20(4).png&amp;w=1080&amp;q=75 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1496%2Fweb-agent%2FfileEstates%2FVENTA%20CASA%20A%20150%20METROS%20DE%20UCV_JASSAN_MONICA%20(4).png&amp;w=1200&amp;q=75 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1496%2Fweb-agent%2FfileEstates%2FVENTA%20CASA%20A%20150%20METROS%20DE%20UCV_JASSAN_MONICA%20(4).png&amp;w=1920&amp;q=75 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1496%2Fweb-agent%2FfileEstates%2FVENTA%20CASA%20A%20150%20METROS%20DE%20UCV_JASSAN_MONICA%20(4).png&amp;w=2048&amp;q=75 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1496%2Fweb-agent%2FfileEstates%2FVENTA%20CASA%20A%20150%20METROS%20DE%20UCV_JASSAN_MONICA%20(4).png&amp;w=3840&amp;q=75 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1496%2Fweb-agent%2FfileEstates%2FVENTA%20CASA%20A%20150%20METROS%20DE%20UCV_JASSAN_MONICA%20(4).png&amp;w=256&amp;q=75   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1496%2Fweb-agent%2FfileEstates%2FVENTA%20CASA%20A%20150%20METROS%20DE%20UCV_JASSAN_MONICA%20(4).png&amp;w=384&amp;q=75   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1496%2Fweb-agent%2FfileEstates%2FVENTA%20CASA%20A%20150%20METROS%20DE%20UCV_JASSAN_MONICA%20(4).png&amp;w=640&amp;q=75   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1496%2Fweb-agent%2FfileEstates%2FVENTA%20CASA%20A%20150%20METROS%20DE%20UCV_JASSAN_MONICA%20(4).png&amp;w=750&amp;q=75   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1496%2Fweb-agent%2FfileEstates%2FVENTA%20CASA%20A%20150%20METROS%20DE%20UCV_JASSAN_MONICA%20(4).png&amp;w=828&amp;q=75   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1496%2Fweb-agent%2FfileEstates%2FVENTA%20CASA%20A%20150%20METROS%20DE%20UCV_JASSAN_MONICA%20(4).png&amp;w=1080&amp;q=75 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1496%2Fweb-agent%2FfileEstates%2FVENTA%20CASA%20A%20150%20METROS%20DE%20UCV_JASSAN_MONICA%20(4).png&amp;w=1200&amp;q=75 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1496%2Fweb-agent%2FfileEstates%2FVENTA%20CASA%20A%20150%20METROS%20DE%20UCV_JASSAN_MONICA%20(4).png&amp;w=1920&amp;q=75 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1496%2Fweb-agent%2FfileEstates%2FVENTA%20CASA%20A%20150%20METROS%20DE%20UCV_JASSAN_MONICA%20(4).png&amp;w=2048&amp;q=75 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1496%2Fweb-agent%2FfileEstates%2FVENTA%20CASA%20A%20150%20METROS%20DE%20UCV_JASSAN_MONICA%20(4).png&amp;w=3840&amp;q=75 3840w
                                   "
-                                src="plantilla/VENTA%20CASA%20A%20150%20METROS%20DE%20UCV_JASSAN_MONICA%20(4)1582.png?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1496%2Fweb-agent%2FfileEstates%2FVENTA%20CASA%20A%20150%20METROS%20DE%20UCV_JASSAN_MONICA%20(4).png&amp;w=3840&amp;q=75"
+                                src="__next/VENTA%20CASA%20A%20150%20METROS%20DE%20UCV_JASSAN_MONICA%20(4)1582.png?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1496%2Fweb-agent%2FfileEstates%2FVENTA%20CASA%20A%20150%20METROS%20DE%20UCV_JASSAN_MONICA%20(4).png&amp;w=3840&amp;q=75"
                                 decoding="async" data-nimg="fill" class="object-cover absolute" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -10028,18 +10047,18 @@ Será un placer atenderte." />
                             <div class="relative block h-[270px] w-full">
                               <img alt="1er PISO FRENTE A PARQUE y Cerca a la UCV"
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1498%2Fweb-agent%2FfileEstates%2FWhatsApp%20Image%202023-02-22%20at%2016.04.06.jpeg&amp;w=256&amp;q=75   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1498%2Fweb-agent%2FfileEstates%2FWhatsApp%20Image%202023-02-22%20at%2016.04.06.jpeg&amp;w=384&amp;q=75   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1498%2Fweb-agent%2FfileEstates%2FWhatsApp%20Image%202023-02-22%20at%2016.04.06.jpeg&amp;w=640&amp;q=75   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1498%2Fweb-agent%2FfileEstates%2FWhatsApp%20Image%202023-02-22%20at%2016.04.06.jpeg&amp;w=750&amp;q=75   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1498%2Fweb-agent%2FfileEstates%2FWhatsApp%20Image%202023-02-22%20at%2016.04.06.jpeg&amp;w=828&amp;q=75   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1498%2Fweb-agent%2FfileEstates%2FWhatsApp%20Image%202023-02-22%20at%2016.04.06.jpeg&amp;w=1080&amp;q=75 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1498%2Fweb-agent%2FfileEstates%2FWhatsApp%20Image%202023-02-22%20at%2016.04.06.jpeg&amp;w=1200&amp;q=75 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1498%2Fweb-agent%2FfileEstates%2FWhatsApp%20Image%202023-02-22%20at%2016.04.06.jpeg&amp;w=1920&amp;q=75 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1498%2Fweb-agent%2FfileEstates%2FWhatsApp%20Image%202023-02-22%20at%2016.04.06.jpeg&amp;w=2048&amp;q=75 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1498%2Fweb-agent%2FfileEstates%2FWhatsApp%20Image%202023-02-22%20at%2016.04.06.jpeg&amp;w=3840&amp;q=75 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1498%2Fweb-agent%2FfileEstates%2FWhatsApp%20Image%202023-02-22%20at%2016.04.06.jpeg&amp;w=256&amp;q=75   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1498%2Fweb-agent%2FfileEstates%2FWhatsApp%20Image%202023-02-22%20at%2016.04.06.jpeg&amp;w=384&amp;q=75   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1498%2Fweb-agent%2FfileEstates%2FWhatsApp%20Image%202023-02-22%20at%2016.04.06.jpeg&amp;w=640&amp;q=75   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1498%2Fweb-agent%2FfileEstates%2FWhatsApp%20Image%202023-02-22%20at%2016.04.06.jpeg&amp;w=750&amp;q=75   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1498%2Fweb-agent%2FfileEstates%2FWhatsApp%20Image%202023-02-22%20at%2016.04.06.jpeg&amp;w=828&amp;q=75   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1498%2Fweb-agent%2FfileEstates%2FWhatsApp%20Image%202023-02-22%20at%2016.04.06.jpeg&amp;w=1080&amp;q=75 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1498%2Fweb-agent%2FfileEstates%2FWhatsApp%20Image%202023-02-22%20at%2016.04.06.jpeg&amp;w=1200&amp;q=75 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1498%2Fweb-agent%2FfileEstates%2FWhatsApp%20Image%202023-02-22%20at%2016.04.06.jpeg&amp;w=1920&amp;q=75 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1498%2Fweb-agent%2FfileEstates%2FWhatsApp%20Image%202023-02-22%20at%2016.04.06.jpeg&amp;w=2048&amp;q=75 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1498%2Fweb-agent%2FfileEstates%2FWhatsApp%20Image%202023-02-22%20at%2016.04.06.jpeg&amp;w=3840&amp;q=75 3840w
                                   "
-                                src="plantilla/WhatsApp%20Image%202023-02-22%20at%2016e5ea.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1498%2Fweb-agent%2FfileEstates%2FWhatsApp%20Image%202023-02-22%20at%2016.04.06.jpeg&amp;w=3840&amp;q=75"
+                                src="__next/WhatsApp%20Image%202023-02-22%20at%2016e5ea.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1498%2Fweb-agent%2FfileEstates%2FWhatsApp%20Image%202023-02-22%20at%2016.04.06.jpeg&amp;w=3840&amp;q=75"
                                 decoding="async" data-nimg="fill" class="object-cover absolute" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -10092,18 +10111,18 @@ Será un placer atenderte." />
                               <img
                                 alt="Casa Comercial 03 Pisos, 597 m², Frente a Essalud y Clínica Alta Gracía, Trujillo"
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F973%2FfileEstates%2Fz7nm9lzbWF960kuFazW1FiDkNz4sZsCmgA9K83fI.png&amp;w=256&amp;q=75   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F973%2FfileEstates%2Fz7nm9lzbWF960kuFazW1FiDkNz4sZsCmgA9K83fI.png&amp;w=384&amp;q=75   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F973%2FfileEstates%2Fz7nm9lzbWF960kuFazW1FiDkNz4sZsCmgA9K83fI.png&amp;w=640&amp;q=75   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F973%2FfileEstates%2Fz7nm9lzbWF960kuFazW1FiDkNz4sZsCmgA9K83fI.png&amp;w=750&amp;q=75   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F973%2FfileEstates%2Fz7nm9lzbWF960kuFazW1FiDkNz4sZsCmgA9K83fI.png&amp;w=828&amp;q=75   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F973%2FfileEstates%2Fz7nm9lzbWF960kuFazW1FiDkNz4sZsCmgA9K83fI.png&amp;w=1080&amp;q=75 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F973%2FfileEstates%2Fz7nm9lzbWF960kuFazW1FiDkNz4sZsCmgA9K83fI.png&amp;w=1200&amp;q=75 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F973%2FfileEstates%2Fz7nm9lzbWF960kuFazW1FiDkNz4sZsCmgA9K83fI.png&amp;w=1920&amp;q=75 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F973%2FfileEstates%2Fz7nm9lzbWF960kuFazW1FiDkNz4sZsCmgA9K83fI.png&amp;w=2048&amp;q=75 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F973%2FfileEstates%2Fz7nm9lzbWF960kuFazW1FiDkNz4sZsCmgA9K83fI.png&amp;w=3840&amp;q=75 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F973%2FfileEstates%2Fz7nm9lzbWF960kuFazW1FiDkNz4sZsCmgA9K83fI.png&amp;w=256&amp;q=75   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F973%2FfileEstates%2Fz7nm9lzbWF960kuFazW1FiDkNz4sZsCmgA9K83fI.png&amp;w=384&amp;q=75   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F973%2FfileEstates%2Fz7nm9lzbWF960kuFazW1FiDkNz4sZsCmgA9K83fI.png&amp;w=640&amp;q=75   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F973%2FfileEstates%2Fz7nm9lzbWF960kuFazW1FiDkNz4sZsCmgA9K83fI.png&amp;w=750&amp;q=75   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F973%2FfileEstates%2Fz7nm9lzbWF960kuFazW1FiDkNz4sZsCmgA9K83fI.png&amp;w=828&amp;q=75   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F973%2FfileEstates%2Fz7nm9lzbWF960kuFazW1FiDkNz4sZsCmgA9K83fI.png&amp;w=1080&amp;q=75 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F973%2FfileEstates%2Fz7nm9lzbWF960kuFazW1FiDkNz4sZsCmgA9K83fI.png&amp;w=1200&amp;q=75 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F973%2FfileEstates%2Fz7nm9lzbWF960kuFazW1FiDkNz4sZsCmgA9K83fI.png&amp;w=1920&amp;q=75 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F973%2FfileEstates%2Fz7nm9lzbWF960kuFazW1FiDkNz4sZsCmgA9K83fI.png&amp;w=2048&amp;q=75 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F973%2FfileEstates%2Fz7nm9lzbWF960kuFazW1FiDkNz4sZsCmgA9K83fI.png&amp;w=3840&amp;q=75 3840w
                                   "
-                                src="plantilla/z7nm9lzbWF960kuFazW1FiDkNz4sZsCmgA9K83fIbb1c.png?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F973%2FfileEstates%2Fz7nm9lzbWF960kuFazW1FiDkNz4sZsCmgA9K83fI.png&amp;w=3840&amp;q=75"
+                                src="__next/z7nm9lzbWF960kuFazW1FiDkNz4sZsCmgA9K83fIbb1c.png?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F973%2FfileEstates%2Fz7nm9lzbWF960kuFazW1FiDkNz4sZsCmgA9K83fI.png&amp;w=3840&amp;q=75"
                                 decoding="async" data-nimg="fill" class="object-cover absolute" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -10146,18 +10165,18 @@ Será un placer atenderte." />
                               <img
                                 alt="!La OPORTUNIDAD que estabas buscando! Departamento 2do piso de 99.17m2 con 4 cuartos ,cerca a UNT - Trujillo"
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F978%2FfileEstates%2FZGFgWkw3ljN1GQ22nl0JVn3IMh8D2hY13oIouyS2.jpeg&amp;w=256&amp;q=75   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F978%2FfileEstates%2FZGFgWkw3ljN1GQ22nl0JVn3IMh8D2hY13oIouyS2.jpeg&amp;w=384&amp;q=75   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F978%2FfileEstates%2FZGFgWkw3ljN1GQ22nl0JVn3IMh8D2hY13oIouyS2.jpeg&amp;w=640&amp;q=75   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F978%2FfileEstates%2FZGFgWkw3ljN1GQ22nl0JVn3IMh8D2hY13oIouyS2.jpeg&amp;w=750&amp;q=75   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F978%2FfileEstates%2FZGFgWkw3ljN1GQ22nl0JVn3IMh8D2hY13oIouyS2.jpeg&amp;w=828&amp;q=75   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F978%2FfileEstates%2FZGFgWkw3ljN1GQ22nl0JVn3IMh8D2hY13oIouyS2.jpeg&amp;w=1080&amp;q=75 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F978%2FfileEstates%2FZGFgWkw3ljN1GQ22nl0JVn3IMh8D2hY13oIouyS2.jpeg&amp;w=1200&amp;q=75 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F978%2FfileEstates%2FZGFgWkw3ljN1GQ22nl0JVn3IMh8D2hY13oIouyS2.jpeg&amp;w=1920&amp;q=75 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F978%2FfileEstates%2FZGFgWkw3ljN1GQ22nl0JVn3IMh8D2hY13oIouyS2.jpeg&amp;w=2048&amp;q=75 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F978%2FfileEstates%2FZGFgWkw3ljN1GQ22nl0JVn3IMh8D2hY13oIouyS2.jpeg&amp;w=3840&amp;q=75 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F978%2FfileEstates%2FZGFgWkw3ljN1GQ22nl0JVn3IMh8D2hY13oIouyS2.jpeg&amp;w=256&amp;q=75   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F978%2FfileEstates%2FZGFgWkw3ljN1GQ22nl0JVn3IMh8D2hY13oIouyS2.jpeg&amp;w=384&amp;q=75   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F978%2FfileEstates%2FZGFgWkw3ljN1GQ22nl0JVn3IMh8D2hY13oIouyS2.jpeg&amp;w=640&amp;q=75   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F978%2FfileEstates%2FZGFgWkw3ljN1GQ22nl0JVn3IMh8D2hY13oIouyS2.jpeg&amp;w=750&amp;q=75   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F978%2FfileEstates%2FZGFgWkw3ljN1GQ22nl0JVn3IMh8D2hY13oIouyS2.jpeg&amp;w=828&amp;q=75   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F978%2FfileEstates%2FZGFgWkw3ljN1GQ22nl0JVn3IMh8D2hY13oIouyS2.jpeg&amp;w=1080&amp;q=75 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F978%2FfileEstates%2FZGFgWkw3ljN1GQ22nl0JVn3IMh8D2hY13oIouyS2.jpeg&amp;w=1200&amp;q=75 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F978%2FfileEstates%2FZGFgWkw3ljN1GQ22nl0JVn3IMh8D2hY13oIouyS2.jpeg&amp;w=1920&amp;q=75 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F978%2FfileEstates%2FZGFgWkw3ljN1GQ22nl0JVn3IMh8D2hY13oIouyS2.jpeg&amp;w=2048&amp;q=75 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F978%2FfileEstates%2FZGFgWkw3ljN1GQ22nl0JVn3IMh8D2hY13oIouyS2.jpeg&amp;w=3840&amp;q=75 3840w
                                   "
-                                src="plantilla/ZGFgWkw3ljN1GQ22nl0JVn3IMh8D2hY13oIouyS2e23e.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F978%2FfileEstates%2FZGFgWkw3ljN1GQ22nl0JVn3IMh8D2hY13oIouyS2.jpeg&amp;w=3840&amp;q=75"
+                                src="__next/ZGFgWkw3ljN1GQ22nl0JVn3IMh8D2hY13oIouyS2e23e.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F978%2FfileEstates%2FZGFgWkw3ljN1GQ22nl0JVn3IMh8D2hY13oIouyS2.jpeg&amp;w=3840&amp;q=75"
                                 decoding="async" data-nimg="fill" class="object-cover absolute" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -10200,18 +10219,18 @@ Será un placer atenderte." />
                               <img
                                 alt="Duplex 3ro y 4to Piso con 13 Habitaciones a 01 Cuadra de Av. España a Sólo $62,900 dólares"
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1004%2FfileEstates%2FPAFZkPpiqh08WWEqaT2CFFws4dO5ckfdkZVCZxWH.png&amp;w=256&amp;q=75   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1004%2FfileEstates%2FPAFZkPpiqh08WWEqaT2CFFws4dO5ckfdkZVCZxWH.png&amp;w=384&amp;q=75   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1004%2FfileEstates%2FPAFZkPpiqh08WWEqaT2CFFws4dO5ckfdkZVCZxWH.png&amp;w=640&amp;q=75   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1004%2FfileEstates%2FPAFZkPpiqh08WWEqaT2CFFws4dO5ckfdkZVCZxWH.png&amp;w=750&amp;q=75   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1004%2FfileEstates%2FPAFZkPpiqh08WWEqaT2CFFws4dO5ckfdkZVCZxWH.png&amp;w=828&amp;q=75   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1004%2FfileEstates%2FPAFZkPpiqh08WWEqaT2CFFws4dO5ckfdkZVCZxWH.png&amp;w=1080&amp;q=75 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1004%2FfileEstates%2FPAFZkPpiqh08WWEqaT2CFFws4dO5ckfdkZVCZxWH.png&amp;w=1200&amp;q=75 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1004%2FfileEstates%2FPAFZkPpiqh08WWEqaT2CFFws4dO5ckfdkZVCZxWH.png&amp;w=1920&amp;q=75 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1004%2FfileEstates%2FPAFZkPpiqh08WWEqaT2CFFws4dO5ckfdkZVCZxWH.png&amp;w=2048&amp;q=75 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1004%2FfileEstates%2FPAFZkPpiqh08WWEqaT2CFFws4dO5ckfdkZVCZxWH.png&amp;w=3840&amp;q=75 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1004%2FfileEstates%2FPAFZkPpiqh08WWEqaT2CFFws4dO5ckfdkZVCZxWH.png&amp;w=256&amp;q=75   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1004%2FfileEstates%2FPAFZkPpiqh08WWEqaT2CFFws4dO5ckfdkZVCZxWH.png&amp;w=384&amp;q=75   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1004%2FfileEstates%2FPAFZkPpiqh08WWEqaT2CFFws4dO5ckfdkZVCZxWH.png&amp;w=640&amp;q=75   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1004%2FfileEstates%2FPAFZkPpiqh08WWEqaT2CFFws4dO5ckfdkZVCZxWH.png&amp;w=750&amp;q=75   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1004%2FfileEstates%2FPAFZkPpiqh08WWEqaT2CFFws4dO5ckfdkZVCZxWH.png&amp;w=828&amp;q=75   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1004%2FfileEstates%2FPAFZkPpiqh08WWEqaT2CFFws4dO5ckfdkZVCZxWH.png&amp;w=1080&amp;q=75 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1004%2FfileEstates%2FPAFZkPpiqh08WWEqaT2CFFws4dO5ckfdkZVCZxWH.png&amp;w=1200&amp;q=75 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1004%2FfileEstates%2FPAFZkPpiqh08WWEqaT2CFFws4dO5ckfdkZVCZxWH.png&amp;w=1920&amp;q=75 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1004%2FfileEstates%2FPAFZkPpiqh08WWEqaT2CFFws4dO5ckfdkZVCZxWH.png&amp;w=2048&amp;q=75 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1004%2FfileEstates%2FPAFZkPpiqh08WWEqaT2CFFws4dO5ckfdkZVCZxWH.png&amp;w=3840&amp;q=75 3840w
                                   "
-                                src="plantilla/PAFZkPpiqh08WWEqaT2CFFws4dO5ckfdkZVCZxWHbc42.png?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1004%2FfileEstates%2FPAFZkPpiqh08WWEqaT2CFFws4dO5ckfdkZVCZxWH.png&amp;w=3840&amp;q=75"
+                                src="__next/PAFZkPpiqh08WWEqaT2CFFws4dO5ckfdkZVCZxWHbc42.png?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1004%2FfileEstates%2FPAFZkPpiqh08WWEqaT2CFFws4dO5ckfdkZVCZxWH.png&amp;w=3840&amp;q=75"
                                 decoding="async" data-nimg="fill" class="object-cover absolute" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -10254,18 +10273,18 @@ Será un placer atenderte." />
                               <img
                                 alt="Disfruta Vivir en Este Precioso Departamento Frente a Parque, con Finos Acabados"
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1005%2FfileEstates%2FnYDbnvqmmY8cqxwOP4xsAyx9OwaM8S37n4rm4kup.jpeg&amp;w=256&amp;q=75   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1005%2FfileEstates%2FnYDbnvqmmY8cqxwOP4xsAyx9OwaM8S37n4rm4kup.jpeg&amp;w=384&amp;q=75   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1005%2FfileEstates%2FnYDbnvqmmY8cqxwOP4xsAyx9OwaM8S37n4rm4kup.jpeg&amp;w=640&amp;q=75   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1005%2FfileEstates%2FnYDbnvqmmY8cqxwOP4xsAyx9OwaM8S37n4rm4kup.jpeg&amp;w=750&amp;q=75   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1005%2FfileEstates%2FnYDbnvqmmY8cqxwOP4xsAyx9OwaM8S37n4rm4kup.jpeg&amp;w=828&amp;q=75   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1005%2FfileEstates%2FnYDbnvqmmY8cqxwOP4xsAyx9OwaM8S37n4rm4kup.jpeg&amp;w=1080&amp;q=75 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1005%2FfileEstates%2FnYDbnvqmmY8cqxwOP4xsAyx9OwaM8S37n4rm4kup.jpeg&amp;w=1200&amp;q=75 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1005%2FfileEstates%2FnYDbnvqmmY8cqxwOP4xsAyx9OwaM8S37n4rm4kup.jpeg&amp;w=1920&amp;q=75 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1005%2FfileEstates%2FnYDbnvqmmY8cqxwOP4xsAyx9OwaM8S37n4rm4kup.jpeg&amp;w=2048&amp;q=75 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1005%2FfileEstates%2FnYDbnvqmmY8cqxwOP4xsAyx9OwaM8S37n4rm4kup.jpeg&amp;w=3840&amp;q=75 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1005%2FfileEstates%2FnYDbnvqmmY8cqxwOP4xsAyx9OwaM8S37n4rm4kup.jpeg&amp;w=256&amp;q=75   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1005%2FfileEstates%2FnYDbnvqmmY8cqxwOP4xsAyx9OwaM8S37n4rm4kup.jpeg&amp;w=384&amp;q=75   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1005%2FfileEstates%2FnYDbnvqmmY8cqxwOP4xsAyx9OwaM8S37n4rm4kup.jpeg&amp;w=640&amp;q=75   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1005%2FfileEstates%2FnYDbnvqmmY8cqxwOP4xsAyx9OwaM8S37n4rm4kup.jpeg&amp;w=750&amp;q=75   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1005%2FfileEstates%2FnYDbnvqmmY8cqxwOP4xsAyx9OwaM8S37n4rm4kup.jpeg&amp;w=828&amp;q=75   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1005%2FfileEstates%2FnYDbnvqmmY8cqxwOP4xsAyx9OwaM8S37n4rm4kup.jpeg&amp;w=1080&amp;q=75 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1005%2FfileEstates%2FnYDbnvqmmY8cqxwOP4xsAyx9OwaM8S37n4rm4kup.jpeg&amp;w=1200&amp;q=75 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1005%2FfileEstates%2FnYDbnvqmmY8cqxwOP4xsAyx9OwaM8S37n4rm4kup.jpeg&amp;w=1920&amp;q=75 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1005%2FfileEstates%2FnYDbnvqmmY8cqxwOP4xsAyx9OwaM8S37n4rm4kup.jpeg&amp;w=2048&amp;q=75 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1005%2FfileEstates%2FnYDbnvqmmY8cqxwOP4xsAyx9OwaM8S37n4rm4kup.jpeg&amp;w=3840&amp;q=75 3840w
                                   "
-                                src="plantilla/nYDbnvqmmY8cqxwOP4xsAyx9OwaM8S37n4rm4kupe21a.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1005%2FfileEstates%2FnYDbnvqmmY8cqxwOP4xsAyx9OwaM8S37n4rm4kup.jpeg&amp;w=3840&amp;q=75"
+                                src="__next/nYDbnvqmmY8cqxwOP4xsAyx9OwaM8S37n4rm4kupe21a.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1005%2FfileEstates%2FnYDbnvqmmY8cqxwOP4xsAyx9OwaM8S37n4rm4kup.jpeg&amp;w=3840&amp;q=75"
                                 decoding="async" data-nimg="fill" class="object-cover absolute" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -10308,18 +10327,18 @@ Será un placer atenderte." />
                               <img
                                 alt="¡Este Encantador Departamento con Vista Al Parque Espera por Ti! Es Espectacular"
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1006%2FfileEstates%2FZDdOm6JYzjqYRQ6eWQnTiibK1dIcQquUO8hj5q8N.jpeg&amp;w=256&amp;q=75   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1006%2FfileEstates%2FZDdOm6JYzjqYRQ6eWQnTiibK1dIcQquUO8hj5q8N.jpeg&amp;w=384&amp;q=75   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1006%2FfileEstates%2FZDdOm6JYzjqYRQ6eWQnTiibK1dIcQquUO8hj5q8N.jpeg&amp;w=640&amp;q=75   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1006%2FfileEstates%2FZDdOm6JYzjqYRQ6eWQnTiibK1dIcQquUO8hj5q8N.jpeg&amp;w=750&amp;q=75   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1006%2FfileEstates%2FZDdOm6JYzjqYRQ6eWQnTiibK1dIcQquUO8hj5q8N.jpeg&amp;w=828&amp;q=75   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1006%2FfileEstates%2FZDdOm6JYzjqYRQ6eWQnTiibK1dIcQquUO8hj5q8N.jpeg&amp;w=1080&amp;q=75 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1006%2FfileEstates%2FZDdOm6JYzjqYRQ6eWQnTiibK1dIcQquUO8hj5q8N.jpeg&amp;w=1200&amp;q=75 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1006%2FfileEstates%2FZDdOm6JYzjqYRQ6eWQnTiibK1dIcQquUO8hj5q8N.jpeg&amp;w=1920&amp;q=75 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1006%2FfileEstates%2FZDdOm6JYzjqYRQ6eWQnTiibK1dIcQquUO8hj5q8N.jpeg&amp;w=2048&amp;q=75 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1006%2FfileEstates%2FZDdOm6JYzjqYRQ6eWQnTiibK1dIcQquUO8hj5q8N.jpeg&amp;w=3840&amp;q=75 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1006%2FfileEstates%2FZDdOm6JYzjqYRQ6eWQnTiibK1dIcQquUO8hj5q8N.jpeg&amp;w=256&amp;q=75   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1006%2FfileEstates%2FZDdOm6JYzjqYRQ6eWQnTiibK1dIcQquUO8hj5q8N.jpeg&amp;w=384&amp;q=75   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1006%2FfileEstates%2FZDdOm6JYzjqYRQ6eWQnTiibK1dIcQquUO8hj5q8N.jpeg&amp;w=640&amp;q=75   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1006%2FfileEstates%2FZDdOm6JYzjqYRQ6eWQnTiibK1dIcQquUO8hj5q8N.jpeg&amp;w=750&amp;q=75   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1006%2FfileEstates%2FZDdOm6JYzjqYRQ6eWQnTiibK1dIcQquUO8hj5q8N.jpeg&amp;w=828&amp;q=75   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1006%2FfileEstates%2FZDdOm6JYzjqYRQ6eWQnTiibK1dIcQquUO8hj5q8N.jpeg&amp;w=1080&amp;q=75 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1006%2FfileEstates%2FZDdOm6JYzjqYRQ6eWQnTiibK1dIcQquUO8hj5q8N.jpeg&amp;w=1200&amp;q=75 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1006%2FfileEstates%2FZDdOm6JYzjqYRQ6eWQnTiibK1dIcQquUO8hj5q8N.jpeg&amp;w=1920&amp;q=75 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1006%2FfileEstates%2FZDdOm6JYzjqYRQ6eWQnTiibK1dIcQquUO8hj5q8N.jpeg&amp;w=2048&amp;q=75 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1006%2FfileEstates%2FZDdOm6JYzjqYRQ6eWQnTiibK1dIcQquUO8hj5q8N.jpeg&amp;w=3840&amp;q=75 3840w
                                   "
-                                src="plantilla/ZDdOm6JYzjqYRQ6eWQnTiibK1dIcQquUO8hj5q8N2f1f.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1006%2FfileEstates%2FZDdOm6JYzjqYRQ6eWQnTiibK1dIcQquUO8hj5q8N.jpeg&amp;w=3840&amp;q=75"
+                                src="__next/ZDdOm6JYzjqYRQ6eWQnTiibK1dIcQquUO8hj5q8N2f1f.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F1006%2FfileEstates%2FZDdOm6JYzjqYRQ6eWQnTiibK1dIcQquUO8hj5q8N.jpeg&amp;w=3840&amp;q=75"
                                 decoding="async" data-nimg="fill" class="object-cover absolute" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -10361,18 +10380,18 @@ Será un placer atenderte." />
                               <img
                                 alt="1ER PISO de ÁREA: 160m2 - CERCA A PARQUE CON 03 CUARTOS A $65,000 dólares en SAN ANDRES V ETAPA"
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1306%2FfileEstates%2FYjB7qMxB8IKcMVQ794dRVIB855ty7rX1HM9KIfI1.jpeg&amp;w=256&amp;q=75   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1306%2FfileEstates%2FYjB7qMxB8IKcMVQ794dRVIB855ty7rX1HM9KIfI1.jpeg&amp;w=384&amp;q=75   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1306%2FfileEstates%2FYjB7qMxB8IKcMVQ794dRVIB855ty7rX1HM9KIfI1.jpeg&amp;w=640&amp;q=75   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1306%2FfileEstates%2FYjB7qMxB8IKcMVQ794dRVIB855ty7rX1HM9KIfI1.jpeg&amp;w=750&amp;q=75   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1306%2FfileEstates%2FYjB7qMxB8IKcMVQ794dRVIB855ty7rX1HM9KIfI1.jpeg&amp;w=828&amp;q=75   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1306%2FfileEstates%2FYjB7qMxB8IKcMVQ794dRVIB855ty7rX1HM9KIfI1.jpeg&amp;w=1080&amp;q=75 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1306%2FfileEstates%2FYjB7qMxB8IKcMVQ794dRVIB855ty7rX1HM9KIfI1.jpeg&amp;w=1200&amp;q=75 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1306%2FfileEstates%2FYjB7qMxB8IKcMVQ794dRVIB855ty7rX1HM9KIfI1.jpeg&amp;w=1920&amp;q=75 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1306%2FfileEstates%2FYjB7qMxB8IKcMVQ794dRVIB855ty7rX1HM9KIfI1.jpeg&amp;w=2048&amp;q=75 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1306%2FfileEstates%2FYjB7qMxB8IKcMVQ794dRVIB855ty7rX1HM9KIfI1.jpeg&amp;w=3840&amp;q=75 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1306%2FfileEstates%2FYjB7qMxB8IKcMVQ794dRVIB855ty7rX1HM9KIfI1.jpeg&amp;w=256&amp;q=75   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1306%2FfileEstates%2FYjB7qMxB8IKcMVQ794dRVIB855ty7rX1HM9KIfI1.jpeg&amp;w=384&amp;q=75   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1306%2FfileEstates%2FYjB7qMxB8IKcMVQ794dRVIB855ty7rX1HM9KIfI1.jpeg&amp;w=640&amp;q=75   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1306%2FfileEstates%2FYjB7qMxB8IKcMVQ794dRVIB855ty7rX1HM9KIfI1.jpeg&amp;w=750&amp;q=75   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1306%2FfileEstates%2FYjB7qMxB8IKcMVQ794dRVIB855ty7rX1HM9KIfI1.jpeg&amp;w=828&amp;q=75   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1306%2FfileEstates%2FYjB7qMxB8IKcMVQ794dRVIB855ty7rX1HM9KIfI1.jpeg&amp;w=1080&amp;q=75 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1306%2FfileEstates%2FYjB7qMxB8IKcMVQ794dRVIB855ty7rX1HM9KIfI1.jpeg&amp;w=1200&amp;q=75 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1306%2FfileEstates%2FYjB7qMxB8IKcMVQ794dRVIB855ty7rX1HM9KIfI1.jpeg&amp;w=1920&amp;q=75 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1306%2FfileEstates%2FYjB7qMxB8IKcMVQ794dRVIB855ty7rX1HM9KIfI1.jpeg&amp;w=2048&amp;q=75 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1306%2FfileEstates%2FYjB7qMxB8IKcMVQ794dRVIB855ty7rX1HM9KIfI1.jpeg&amp;w=3840&amp;q=75 3840w
                                   "
-                                src="plantilla/YjB7qMxB8IKcMVQ794dRVIB855ty7rX1HM9KIfI1cf26.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1306%2FfileEstates%2FYjB7qMxB8IKcMVQ794dRVIB855ty7rX1HM9KIfI1.jpeg&amp;w=3840&amp;q=75"
+                                src="__next/YjB7qMxB8IKcMVQ794dRVIB855ty7rX1HM9KIfI1cf26.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1306%2FfileEstates%2FYjB7qMxB8IKcMVQ794dRVIB855ty7rX1HM9KIfI1.jpeg&amp;w=3840&amp;q=75"
                                 decoding="async" data-nimg="fill" class="object-cover absolute" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -10416,18 +10435,18 @@ Será un placer atenderte." />
                               <img
                                 alt="TERRENO de 300m² en URB. EL GOLF, PALMERAS II ETAPA -ZONA MÁS EXCLUSIVA Y SEGURA DE TRUJILLO."
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1307%2FfileEstates%2FMkVOkxj6mh3mNZgIZvW8qRHIsVz35aTsqgmy9pOq.png&amp;w=256&amp;q=75   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1307%2FfileEstates%2FMkVOkxj6mh3mNZgIZvW8qRHIsVz35aTsqgmy9pOq.png&amp;w=384&amp;q=75   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1307%2FfileEstates%2FMkVOkxj6mh3mNZgIZvW8qRHIsVz35aTsqgmy9pOq.png&amp;w=640&amp;q=75   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1307%2FfileEstates%2FMkVOkxj6mh3mNZgIZvW8qRHIsVz35aTsqgmy9pOq.png&amp;w=750&amp;q=75   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1307%2FfileEstates%2FMkVOkxj6mh3mNZgIZvW8qRHIsVz35aTsqgmy9pOq.png&amp;w=828&amp;q=75   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1307%2FfileEstates%2FMkVOkxj6mh3mNZgIZvW8qRHIsVz35aTsqgmy9pOq.png&amp;w=1080&amp;q=75 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1307%2FfileEstates%2FMkVOkxj6mh3mNZgIZvW8qRHIsVz35aTsqgmy9pOq.png&amp;w=1200&amp;q=75 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1307%2FfileEstates%2FMkVOkxj6mh3mNZgIZvW8qRHIsVz35aTsqgmy9pOq.png&amp;w=1920&amp;q=75 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1307%2FfileEstates%2FMkVOkxj6mh3mNZgIZvW8qRHIsVz35aTsqgmy9pOq.png&amp;w=2048&amp;q=75 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1307%2FfileEstates%2FMkVOkxj6mh3mNZgIZvW8qRHIsVz35aTsqgmy9pOq.png&amp;w=3840&amp;q=75 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1307%2FfileEstates%2FMkVOkxj6mh3mNZgIZvW8qRHIsVz35aTsqgmy9pOq.png&amp;w=256&amp;q=75   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1307%2FfileEstates%2FMkVOkxj6mh3mNZgIZvW8qRHIsVz35aTsqgmy9pOq.png&amp;w=384&amp;q=75   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1307%2FfileEstates%2FMkVOkxj6mh3mNZgIZvW8qRHIsVz35aTsqgmy9pOq.png&amp;w=640&amp;q=75   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1307%2FfileEstates%2FMkVOkxj6mh3mNZgIZvW8qRHIsVz35aTsqgmy9pOq.png&amp;w=750&amp;q=75   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1307%2FfileEstates%2FMkVOkxj6mh3mNZgIZvW8qRHIsVz35aTsqgmy9pOq.png&amp;w=828&amp;q=75   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1307%2FfileEstates%2FMkVOkxj6mh3mNZgIZvW8qRHIsVz35aTsqgmy9pOq.png&amp;w=1080&amp;q=75 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1307%2FfileEstates%2FMkVOkxj6mh3mNZgIZvW8qRHIsVz35aTsqgmy9pOq.png&amp;w=1200&amp;q=75 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1307%2FfileEstates%2FMkVOkxj6mh3mNZgIZvW8qRHIsVz35aTsqgmy9pOq.png&amp;w=1920&amp;q=75 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1307%2FfileEstates%2FMkVOkxj6mh3mNZgIZvW8qRHIsVz35aTsqgmy9pOq.png&amp;w=2048&amp;q=75 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1307%2FfileEstates%2FMkVOkxj6mh3mNZgIZvW8qRHIsVz35aTsqgmy9pOq.png&amp;w=3840&amp;q=75 3840w
                                   "
-                                src="plantilla/MkVOkxj6mh3mNZgIZvW8qRHIsVz35aTsqgmy9pOqa088.png?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1307%2FfileEstates%2FMkVOkxj6mh3mNZgIZvW8qRHIsVz35aTsqgmy9pOq.png&amp;w=3840&amp;q=75"
+                                src="__next/MkVOkxj6mh3mNZgIZvW8qRHIsVz35aTsqgmy9pOqa088.png?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1307%2FfileEstates%2FMkVOkxj6mh3mNZgIZvW8qRHIsVz35aTsqgmy9pOq.png&amp;w=3840&amp;q=75"
                                 decoding="async" data-nimg="fill" class="object-cover absolute" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -10470,18 +10489,18 @@ Será un placer atenderte." />
                             <div class="relative block h-[270px] w-full">
                               <img alt="Hogar 1er PISO de 127m2 en Urb. Santa María a US$74,900 (Negociable) -Trujillo"
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1416%2Fweb-agent%2FfileEstates%2F1.jpeg&amp;w=256&amp;q=75   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1416%2Fweb-agent%2FfileEstates%2F1.jpeg&amp;w=384&amp;q=75   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1416%2Fweb-agent%2FfileEstates%2F1.jpeg&amp;w=640&amp;q=75   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1416%2Fweb-agent%2FfileEstates%2F1.jpeg&amp;w=750&amp;q=75   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1416%2Fweb-agent%2FfileEstates%2F1.jpeg&amp;w=828&amp;q=75   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1416%2Fweb-agent%2FfileEstates%2F1.jpeg&amp;w=1080&amp;q=75 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1416%2Fweb-agent%2FfileEstates%2F1.jpeg&amp;w=1200&amp;q=75 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1416%2Fweb-agent%2FfileEstates%2F1.jpeg&amp;w=1920&amp;q=75 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1416%2Fweb-agent%2FfileEstates%2F1.jpeg&amp;w=2048&amp;q=75 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1416%2Fweb-agent%2FfileEstates%2F1.jpeg&amp;w=3840&amp;q=75 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1416%2Fweb-agent%2FfileEstates%2F1.jpeg&amp;w=256&amp;q=75   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1416%2Fweb-agent%2FfileEstates%2F1.jpeg&amp;w=384&amp;q=75   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1416%2Fweb-agent%2FfileEstates%2F1.jpeg&amp;w=640&amp;q=75   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1416%2Fweb-agent%2FfileEstates%2F1.jpeg&amp;w=750&amp;q=75   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1416%2Fweb-agent%2FfileEstates%2F1.jpeg&amp;w=828&amp;q=75   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1416%2Fweb-agent%2FfileEstates%2F1.jpeg&amp;w=1080&amp;q=75 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1416%2Fweb-agent%2FfileEstates%2F1.jpeg&amp;w=1200&amp;q=75 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1416%2Fweb-agent%2FfileEstates%2F1.jpeg&amp;w=1920&amp;q=75 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1416%2Fweb-agent%2FfileEstates%2F1.jpeg&amp;w=2048&amp;q=75 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1416%2Fweb-agent%2FfileEstates%2F1.jpeg&amp;w=3840&amp;q=75 3840w
                                   "
-                                src="plantilla/18418.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1416%2Fweb-agent%2FfileEstates%2F1.jpeg&amp;w=3840&amp;q=75"
+                                src="__next/18418.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1416%2Fweb-agent%2FfileEstates%2F1.jpeg&amp;w=3840&amp;q=75"
                                 decoding="async" data-nimg="fill" class="object-cover absolute" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -10534,18 +10553,18 @@ Será un placer atenderte." />
                               <img
                                 alt="LUJOSA CASA de 03 PISOS, AO: 236,25 m2 en URB. OQUÍDEAS de SAN ISIDRO- TRUJILLO  "
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1617%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(9).jpg&amp;w=256&amp;q=75   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1617%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(9).jpg&amp;w=384&amp;q=75   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1617%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(9).jpg&amp;w=640&amp;q=75   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1617%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(9).jpg&amp;w=750&amp;q=75   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1617%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(9).jpg&amp;w=828&amp;q=75   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1617%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(9).jpg&amp;w=1080&amp;q=75 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1617%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(9).jpg&amp;w=1200&amp;q=75 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1617%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(9).jpg&amp;w=1920&amp;q=75 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1617%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(9).jpg&amp;w=2048&amp;q=75 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1617%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(9).jpg&amp;w=3840&amp;q=75 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1617%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(9).jpg&amp;w=256&amp;q=75   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1617%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(9).jpg&amp;w=384&amp;q=75   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1617%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(9).jpg&amp;w=640&amp;q=75   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1617%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(9).jpg&amp;w=750&amp;q=75   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1617%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(9).jpg&amp;w=828&amp;q=75   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1617%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(9).jpg&amp;w=1080&amp;q=75 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1617%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(9).jpg&amp;w=1200&amp;q=75 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1617%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(9).jpg&amp;w=1920&amp;q=75 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1617%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(9).jpg&amp;w=2048&amp;q=75 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1617%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(9).jpg&amp;w=3840&amp;q=75 3840w
                                   "
-                                src="plantilla/RESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSANedb0.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1617%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(9).jpg&amp;w=3840&amp;q=75"
+                                src="__next/RESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSANedb0.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1617%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(9).jpg&amp;w=3840&amp;q=75"
                                 decoding="async" data-nimg="fill" class="object-cover absolute" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -10616,18 +10635,18 @@ Será un placer atenderte." />
                               <img
                                 alt="TRUJILLO 3er PISO en AV. LARCO N°1270, cerca Universidad UCV y SUNARP Área: 92 m2 con 03 Hab US $ 57,900 dólares."
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1673%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(5).jpg&amp;w=256&amp;q=75   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1673%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(5).jpg&amp;w=384&amp;q=75   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1673%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(5).jpg&amp;w=640&amp;q=75   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1673%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(5).jpg&amp;w=750&amp;q=75   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1673%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(5).jpg&amp;w=828&amp;q=75   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1673%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(5).jpg&amp;w=1080&amp;q=75 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1673%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(5).jpg&amp;w=1200&amp;q=75 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1673%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(5).jpg&amp;w=1920&amp;q=75 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1673%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(5).jpg&amp;w=2048&amp;q=75 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1673%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(5).jpg&amp;w=3840&amp;q=75 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1673%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(5).jpg&amp;w=256&amp;q=75   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1673%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(5).jpg&amp;w=384&amp;q=75   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1673%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(5).jpg&amp;w=640&amp;q=75   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1673%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(5).jpg&amp;w=750&amp;q=75   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1673%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(5).jpg&amp;w=828&amp;q=75   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1673%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(5).jpg&amp;w=1080&amp;q=75 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1673%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(5).jpg&amp;w=1200&amp;q=75 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1673%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(5).jpg&amp;w=1920&amp;q=75 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1673%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(5).jpg&amp;w=2048&amp;q=75 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1673%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(5).jpg&amp;w=3840&amp;q=75 3840w
                                   "
-                                src="plantilla/RESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN061c.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1673%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(5).jpg&amp;w=3840&amp;q=75"
+                                src="__next/RESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN061c.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1673%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(5).jpg&amp;w=3840&amp;q=75"
                                 decoding="async" data-nimg="fill" class="object-cover absolute" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -10682,18 +10701,18 @@ Será un placer atenderte." />
                               <img
                                 alt='Frente PARQUE en Urb. "QUINTANAS" AMPLIA CASA de 02 PISOS TRUJILLO, a precio ocasión: US$ 294,900 dólares (Negociable).'
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1757%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(15).jpg&amp;w=256&amp;q=75   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1757%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(15).jpg&amp;w=384&amp;q=75   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1757%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(15).jpg&amp;w=640&amp;q=75   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1757%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(15).jpg&amp;w=750&amp;q=75   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1757%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(15).jpg&amp;w=828&amp;q=75   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1757%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(15).jpg&amp;w=1080&amp;q=75 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1757%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(15).jpg&amp;w=1200&amp;q=75 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1757%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(15).jpg&amp;w=1920&amp;q=75 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1757%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(15).jpg&amp;w=2048&amp;q=75 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1757%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(15).jpg&amp;w=3840&amp;q=75 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1757%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(15).jpg&amp;w=256&amp;q=75   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1757%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(15).jpg&amp;w=384&amp;q=75   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1757%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(15).jpg&amp;w=640&amp;q=75   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1757%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(15).jpg&amp;w=750&amp;q=75   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1757%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(15).jpg&amp;w=828&amp;q=75   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1757%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(15).jpg&amp;w=1080&amp;q=75 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1757%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(15).jpg&amp;w=1200&amp;q=75 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1757%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(15).jpg&amp;w=1920&amp;q=75 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1757%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(15).jpg&amp;w=2048&amp;q=75 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1757%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(15).jpg&amp;w=3840&amp;q=75 3840w
                                   "
-                                src="plantilla/RESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSANb4e9.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1757%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(15).jpg&amp;w=3840&amp;q=75"
+                                src="__next/RESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSANb4e9.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1757%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(15).jpg&amp;w=3840&amp;q=75"
                                 decoding="async" data-nimg="fill" class="object-cover absolute" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -10761,18 +10780,18 @@ Será un placer atenderte." />
                               <img
                                 alt='Dpto. 3er PISO cerca Universidad "UCV" Trujillo Área: 99.59m2 con 03 Cuartos a solo US $ 69,900 dólares.'
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1774%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(16).jpg&amp;w=256&amp;q=75   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1774%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(16).jpg&amp;w=384&amp;q=75   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1774%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(16).jpg&amp;w=640&amp;q=75   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1774%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(16).jpg&amp;w=750&amp;q=75   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1774%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(16).jpg&amp;w=828&amp;q=75   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1774%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(16).jpg&amp;w=1080&amp;q=75 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1774%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(16).jpg&amp;w=1200&amp;q=75 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1774%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(16).jpg&amp;w=1920&amp;q=75 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1774%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(16).jpg&amp;w=2048&amp;q=75 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1774%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(16).jpg&amp;w=3840&amp;q=75 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1774%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(16).jpg&amp;w=256&amp;q=75   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1774%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(16).jpg&amp;w=384&amp;q=75   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1774%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(16).jpg&amp;w=640&amp;q=75   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1774%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(16).jpg&amp;w=750&amp;q=75   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1774%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(16).jpg&amp;w=828&amp;q=75   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1774%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(16).jpg&amp;w=1080&amp;q=75 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1774%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(16).jpg&amp;w=1200&amp;q=75 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1774%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(16).jpg&amp;w=1920&amp;q=75 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1774%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(16).jpg&amp;w=2048&amp;q=75 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1774%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(16).jpg&amp;w=3840&amp;q=75 3840w
                                   "
-                                src="plantilla/RESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSANdf1d.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1774%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(16).jpg&amp;w=3840&amp;q=75"
+                                src="__next/RESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSANdf1d.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1774%2Fweb-agent%2FfileEstates%2FRESPONSIVE%20-%20A%20DONDE%20VIVIR%20%20JASSAN.PE%20(16).jpg&amp;w=3840&amp;q=75"
                                 decoding="async" data-nimg="fill" class="object-cover absolute" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -10831,18 +10850,18 @@ Será un placer atenderte." />
                             <div class="relative block h-[270px] w-full">
                               <img alt="OPORTUNIDAD DPTO 401 VENTA DE DEPARTAMENTO LAS FLORES DE TRUPAL TRUJILLO PERÚ"
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F552%2FfileEstates%2FrvoWkvP3FqWHmGVsYfYTkYbHaWm7CLzXMO1NjAMN.jpeg&amp;w=256&amp;q=75   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F552%2FfileEstates%2FrvoWkvP3FqWHmGVsYfYTkYbHaWm7CLzXMO1NjAMN.jpeg&amp;w=384&amp;q=75   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F552%2FfileEstates%2FrvoWkvP3FqWHmGVsYfYTkYbHaWm7CLzXMO1NjAMN.jpeg&amp;w=640&amp;q=75   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F552%2FfileEstates%2FrvoWkvP3FqWHmGVsYfYTkYbHaWm7CLzXMO1NjAMN.jpeg&amp;w=750&amp;q=75   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F552%2FfileEstates%2FrvoWkvP3FqWHmGVsYfYTkYbHaWm7CLzXMO1NjAMN.jpeg&amp;w=828&amp;q=75   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F552%2FfileEstates%2FrvoWkvP3FqWHmGVsYfYTkYbHaWm7CLzXMO1NjAMN.jpeg&amp;w=1080&amp;q=75 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F552%2FfileEstates%2FrvoWkvP3FqWHmGVsYfYTkYbHaWm7CLzXMO1NjAMN.jpeg&amp;w=1200&amp;q=75 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F552%2FfileEstates%2FrvoWkvP3FqWHmGVsYfYTkYbHaWm7CLzXMO1NjAMN.jpeg&amp;w=1920&amp;q=75 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F552%2FfileEstates%2FrvoWkvP3FqWHmGVsYfYTkYbHaWm7CLzXMO1NjAMN.jpeg&amp;w=2048&amp;q=75 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F552%2FfileEstates%2FrvoWkvP3FqWHmGVsYfYTkYbHaWm7CLzXMO1NjAMN.jpeg&amp;w=3840&amp;q=75 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F552%2FfileEstates%2FrvoWkvP3FqWHmGVsYfYTkYbHaWm7CLzXMO1NjAMN.jpeg&amp;w=256&amp;q=75   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F552%2FfileEstates%2FrvoWkvP3FqWHmGVsYfYTkYbHaWm7CLzXMO1NjAMN.jpeg&amp;w=384&amp;q=75   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F552%2FfileEstates%2FrvoWkvP3FqWHmGVsYfYTkYbHaWm7CLzXMO1NjAMN.jpeg&amp;w=640&amp;q=75   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F552%2FfileEstates%2FrvoWkvP3FqWHmGVsYfYTkYbHaWm7CLzXMO1NjAMN.jpeg&amp;w=750&amp;q=75   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F552%2FfileEstates%2FrvoWkvP3FqWHmGVsYfYTkYbHaWm7CLzXMO1NjAMN.jpeg&amp;w=828&amp;q=75   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F552%2FfileEstates%2FrvoWkvP3FqWHmGVsYfYTkYbHaWm7CLzXMO1NjAMN.jpeg&amp;w=1080&amp;q=75 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F552%2FfileEstates%2FrvoWkvP3FqWHmGVsYfYTkYbHaWm7CLzXMO1NjAMN.jpeg&amp;w=1200&amp;q=75 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F552%2FfileEstates%2FrvoWkvP3FqWHmGVsYfYTkYbHaWm7CLzXMO1NjAMN.jpeg&amp;w=1920&amp;q=75 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F552%2FfileEstates%2FrvoWkvP3FqWHmGVsYfYTkYbHaWm7CLzXMO1NjAMN.jpeg&amp;w=2048&amp;q=75 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F552%2FfileEstates%2FrvoWkvP3FqWHmGVsYfYTkYbHaWm7CLzXMO1NjAMN.jpeg&amp;w=3840&amp;q=75 3840w
                                   "
-                                src="plantilla/rvoWkvP3FqWHmGVsYfYTkYbHaWm7CLzXMO1NjAMN037e.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F552%2FfileEstates%2FrvoWkvP3FqWHmGVsYfYTkYbHaWm7CLzXMO1NjAMN.jpeg&amp;w=3840&amp;q=75"
+                                src="__next/rvoWkvP3FqWHmGVsYfYTkYbHaWm7CLzXMO1NjAMN037e.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F552%2FfileEstates%2FrvoWkvP3FqWHmGVsYfYTkYbHaWm7CLzXMO1NjAMN.jpeg&amp;w=3840&amp;q=75"
                                 decoding="async" data-nimg="fill" class="object-cover absolute" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -10891,18 +10910,18 @@ Será un placer atenderte." />
                               <img
                                 alt="EXCLUSIVO DPTO 201-DEPARTAMENTO EN VENTA LAS FLORES DE TRUPAL VIVE CERCA A LA UNT"
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F550%2FfileEstates%2Fs1lVosUzFvXTR69a5BR5ARzForAxIH1nSIqyYSYc.jpeg&amp;w=256&amp;q=75   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F550%2FfileEstates%2Fs1lVosUzFvXTR69a5BR5ARzForAxIH1nSIqyYSYc.jpeg&amp;w=384&amp;q=75   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F550%2FfileEstates%2Fs1lVosUzFvXTR69a5BR5ARzForAxIH1nSIqyYSYc.jpeg&amp;w=640&amp;q=75   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F550%2FfileEstates%2Fs1lVosUzFvXTR69a5BR5ARzForAxIH1nSIqyYSYc.jpeg&amp;w=750&amp;q=75   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F550%2FfileEstates%2Fs1lVosUzFvXTR69a5BR5ARzForAxIH1nSIqyYSYc.jpeg&amp;w=828&amp;q=75   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F550%2FfileEstates%2Fs1lVosUzFvXTR69a5BR5ARzForAxIH1nSIqyYSYc.jpeg&amp;w=1080&amp;q=75 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F550%2FfileEstates%2Fs1lVosUzFvXTR69a5BR5ARzForAxIH1nSIqyYSYc.jpeg&amp;w=1200&amp;q=75 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F550%2FfileEstates%2Fs1lVosUzFvXTR69a5BR5ARzForAxIH1nSIqyYSYc.jpeg&amp;w=1920&amp;q=75 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F550%2FfileEstates%2Fs1lVosUzFvXTR69a5BR5ARzForAxIH1nSIqyYSYc.jpeg&amp;w=2048&amp;q=75 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F550%2FfileEstates%2Fs1lVosUzFvXTR69a5BR5ARzForAxIH1nSIqyYSYc.jpeg&amp;w=3840&amp;q=75 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F550%2FfileEstates%2Fs1lVosUzFvXTR69a5BR5ARzForAxIH1nSIqyYSYc.jpeg&amp;w=256&amp;q=75   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F550%2FfileEstates%2Fs1lVosUzFvXTR69a5BR5ARzForAxIH1nSIqyYSYc.jpeg&amp;w=384&amp;q=75   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F550%2FfileEstates%2Fs1lVosUzFvXTR69a5BR5ARzForAxIH1nSIqyYSYc.jpeg&amp;w=640&amp;q=75   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F550%2FfileEstates%2Fs1lVosUzFvXTR69a5BR5ARzForAxIH1nSIqyYSYc.jpeg&amp;w=750&amp;q=75   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F550%2FfileEstates%2Fs1lVosUzFvXTR69a5BR5ARzForAxIH1nSIqyYSYc.jpeg&amp;w=828&amp;q=75   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F550%2FfileEstates%2Fs1lVosUzFvXTR69a5BR5ARzForAxIH1nSIqyYSYc.jpeg&amp;w=1080&amp;q=75 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F550%2FfileEstates%2Fs1lVosUzFvXTR69a5BR5ARzForAxIH1nSIqyYSYc.jpeg&amp;w=1200&amp;q=75 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F550%2FfileEstates%2Fs1lVosUzFvXTR69a5BR5ARzForAxIH1nSIqyYSYc.jpeg&amp;w=1920&amp;q=75 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F550%2FfileEstates%2Fs1lVosUzFvXTR69a5BR5ARzForAxIH1nSIqyYSYc.jpeg&amp;w=2048&amp;q=75 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F550%2FfileEstates%2Fs1lVosUzFvXTR69a5BR5ARzForAxIH1nSIqyYSYc.jpeg&amp;w=3840&amp;q=75 3840w
                                   "
-                                src="plantilla/s1lVosUzFvXTR69a5BR5ARzForAxIH1nSIqyYSYc8304.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F550%2FfileEstates%2Fs1lVosUzFvXTR69a5BR5ARzForAxIH1nSIqyYSYc.jpeg&amp;w=3840&amp;q=75"
+                                src="__next/s1lVosUzFvXTR69a5BR5ARzForAxIH1nSIqyYSYc8304.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F550%2FfileEstates%2Fs1lVosUzFvXTR69a5BR5ARzForAxIH1nSIqyYSYc.jpeg&amp;w=3840&amp;q=75"
                                 decoding="async" data-nimg="fill" class="object-cover absolute" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -10949,18 +10968,18 @@ Será un placer atenderte." />
                             <div class="relative block h-[270px] w-full">
                               <img alt="HERMOSO HOGAR DPTO 101 DEPARTAMENTO EN VENTA LAS FLORES DE TRUPAL"
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F544%2FfileEstates%2FTiuUoH1ECGMXga4Abtj90pHmOMOf32SZMtb8RPIF.jpeg&amp;w=256&amp;q=75   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F544%2FfileEstates%2FTiuUoH1ECGMXga4Abtj90pHmOMOf32SZMtb8RPIF.jpeg&amp;w=384&amp;q=75   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F544%2FfileEstates%2FTiuUoH1ECGMXga4Abtj90pHmOMOf32SZMtb8RPIF.jpeg&amp;w=640&amp;q=75   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F544%2FfileEstates%2FTiuUoH1ECGMXga4Abtj90pHmOMOf32SZMtb8RPIF.jpeg&amp;w=750&amp;q=75   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F544%2FfileEstates%2FTiuUoH1ECGMXga4Abtj90pHmOMOf32SZMtb8RPIF.jpeg&amp;w=828&amp;q=75   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F544%2FfileEstates%2FTiuUoH1ECGMXga4Abtj90pHmOMOf32SZMtb8RPIF.jpeg&amp;w=1080&amp;q=75 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F544%2FfileEstates%2FTiuUoH1ECGMXga4Abtj90pHmOMOf32SZMtb8RPIF.jpeg&amp;w=1200&amp;q=75 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F544%2FfileEstates%2FTiuUoH1ECGMXga4Abtj90pHmOMOf32SZMtb8RPIF.jpeg&amp;w=1920&amp;q=75 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F544%2FfileEstates%2FTiuUoH1ECGMXga4Abtj90pHmOMOf32SZMtb8RPIF.jpeg&amp;w=2048&amp;q=75 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F544%2FfileEstates%2FTiuUoH1ECGMXga4Abtj90pHmOMOf32SZMtb8RPIF.jpeg&amp;w=3840&amp;q=75 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F544%2FfileEstates%2FTiuUoH1ECGMXga4Abtj90pHmOMOf32SZMtb8RPIF.jpeg&amp;w=256&amp;q=75   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F544%2FfileEstates%2FTiuUoH1ECGMXga4Abtj90pHmOMOf32SZMtb8RPIF.jpeg&amp;w=384&amp;q=75   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F544%2FfileEstates%2FTiuUoH1ECGMXga4Abtj90pHmOMOf32SZMtb8RPIF.jpeg&amp;w=640&amp;q=75   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F544%2FfileEstates%2FTiuUoH1ECGMXga4Abtj90pHmOMOf32SZMtb8RPIF.jpeg&amp;w=750&amp;q=75   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F544%2FfileEstates%2FTiuUoH1ECGMXga4Abtj90pHmOMOf32SZMtb8RPIF.jpeg&amp;w=828&amp;q=75   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F544%2FfileEstates%2FTiuUoH1ECGMXga4Abtj90pHmOMOf32SZMtb8RPIF.jpeg&amp;w=1080&amp;q=75 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F544%2FfileEstates%2FTiuUoH1ECGMXga4Abtj90pHmOMOf32SZMtb8RPIF.jpeg&amp;w=1200&amp;q=75 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F544%2FfileEstates%2FTiuUoH1ECGMXga4Abtj90pHmOMOf32SZMtb8RPIF.jpeg&amp;w=1920&amp;q=75 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F544%2FfileEstates%2FTiuUoH1ECGMXga4Abtj90pHmOMOf32SZMtb8RPIF.jpeg&amp;w=2048&amp;q=75 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F544%2FfileEstates%2FTiuUoH1ECGMXga4Abtj90pHmOMOf32SZMtb8RPIF.jpeg&amp;w=3840&amp;q=75 3840w
                                   "
-                                src="plantilla/TiuUoH1ECGMXga4Abtj90pHmOMOf32SZMtb8RPIF6364.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F544%2FfileEstates%2FTiuUoH1ECGMXga4Abtj90pHmOMOf32SZMtb8RPIF.jpeg&amp;w=3840&amp;q=75"
+                                src="__next/TiuUoH1ECGMXga4Abtj90pHmOMOf32SZMtb8RPIF6364.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F544%2FfileEstates%2FTiuUoH1ECGMXga4Abtj90pHmOMOf32SZMtb8RPIF.jpeg&amp;w=3840&amp;q=75"
                                 decoding="async" data-nimg="fill" class="object-cover absolute" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -11008,18 +11027,18 @@ Será un placer atenderte." />
                               <img
                                 alt='Increíble Oportunidad" CASA de 04 Pisos en Av. Gonzales Prada a 01 Cuadra del Mayorista - Trujillo'
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F476%2FfileEstates%2FRc6j4bgPLwy4V1QEm0BiOOhl7ClKcXtNoBz35NAp.png&amp;w=256&amp;q=75   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F476%2FfileEstates%2FRc6j4bgPLwy4V1QEm0BiOOhl7ClKcXtNoBz35NAp.png&amp;w=384&amp;q=75   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F476%2FfileEstates%2FRc6j4bgPLwy4V1QEm0BiOOhl7ClKcXtNoBz35NAp.png&amp;w=640&amp;q=75   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F476%2FfileEstates%2FRc6j4bgPLwy4V1QEm0BiOOhl7ClKcXtNoBz35NAp.png&amp;w=750&amp;q=75   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F476%2FfileEstates%2FRc6j4bgPLwy4V1QEm0BiOOhl7ClKcXtNoBz35NAp.png&amp;w=828&amp;q=75   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F476%2FfileEstates%2FRc6j4bgPLwy4V1QEm0BiOOhl7ClKcXtNoBz35NAp.png&amp;w=1080&amp;q=75 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F476%2FfileEstates%2FRc6j4bgPLwy4V1QEm0BiOOhl7ClKcXtNoBz35NAp.png&amp;w=1200&amp;q=75 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F476%2FfileEstates%2FRc6j4bgPLwy4V1QEm0BiOOhl7ClKcXtNoBz35NAp.png&amp;w=1920&amp;q=75 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F476%2FfileEstates%2FRc6j4bgPLwy4V1QEm0BiOOhl7ClKcXtNoBz35NAp.png&amp;w=2048&amp;q=75 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F476%2FfileEstates%2FRc6j4bgPLwy4V1QEm0BiOOhl7ClKcXtNoBz35NAp.png&amp;w=3840&amp;q=75 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F476%2FfileEstates%2FRc6j4bgPLwy4V1QEm0BiOOhl7ClKcXtNoBz35NAp.png&amp;w=256&amp;q=75   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F476%2FfileEstates%2FRc6j4bgPLwy4V1QEm0BiOOhl7ClKcXtNoBz35NAp.png&amp;w=384&amp;q=75   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F476%2FfileEstates%2FRc6j4bgPLwy4V1QEm0BiOOhl7ClKcXtNoBz35NAp.png&amp;w=640&amp;q=75   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F476%2FfileEstates%2FRc6j4bgPLwy4V1QEm0BiOOhl7ClKcXtNoBz35NAp.png&amp;w=750&amp;q=75   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F476%2FfileEstates%2FRc6j4bgPLwy4V1QEm0BiOOhl7ClKcXtNoBz35NAp.png&amp;w=828&amp;q=75   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F476%2FfileEstates%2FRc6j4bgPLwy4V1QEm0BiOOhl7ClKcXtNoBz35NAp.png&amp;w=1080&amp;q=75 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F476%2FfileEstates%2FRc6j4bgPLwy4V1QEm0BiOOhl7ClKcXtNoBz35NAp.png&amp;w=1200&amp;q=75 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F476%2FfileEstates%2FRc6j4bgPLwy4V1QEm0BiOOhl7ClKcXtNoBz35NAp.png&amp;w=1920&amp;q=75 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F476%2FfileEstates%2FRc6j4bgPLwy4V1QEm0BiOOhl7ClKcXtNoBz35NAp.png&amp;w=2048&amp;q=75 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F476%2FfileEstates%2FRc6j4bgPLwy4V1QEm0BiOOhl7ClKcXtNoBz35NAp.png&amp;w=3840&amp;q=75 3840w
                                   "
-                                src="plantilla/Rc6j4bgPLwy4V1QEm0BiOOhl7ClKcXtNoBz35NApc7a8.png?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F476%2FfileEstates%2FRc6j4bgPLwy4V1QEm0BiOOhl7ClKcXtNoBz35NAp.png&amp;w=3840&amp;q=75"
+                                src="__next/Rc6j4bgPLwy4V1QEm0BiOOhl7ClKcXtNoBz35NApc7a8.png?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F476%2FfileEstates%2FRc6j4bgPLwy4V1QEm0BiOOhl7ClKcXtNoBz35NAp.png&amp;w=3840&amp;q=75"
                                 decoding="async" data-nimg="fill" class="object-cover absolute" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -11067,18 +11086,18 @@ Será un placer atenderte." />
                             <div class="relative block h-[270px] w-full">
                               <img alt="Terreno en Venta 97m2 a  95,000 soles"
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F411%2FfileEstates%2FxMC4USQBKYGgVr00HPe8zRlN1fjnve3BS3yiH75u.png&amp;w=256&amp;q=75   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F411%2FfileEstates%2FxMC4USQBKYGgVr00HPe8zRlN1fjnve3BS3yiH75u.png&amp;w=384&amp;q=75   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F411%2FfileEstates%2FxMC4USQBKYGgVr00HPe8zRlN1fjnve3BS3yiH75u.png&amp;w=640&amp;q=75   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F411%2FfileEstates%2FxMC4USQBKYGgVr00HPe8zRlN1fjnve3BS3yiH75u.png&amp;w=750&amp;q=75   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F411%2FfileEstates%2FxMC4USQBKYGgVr00HPe8zRlN1fjnve3BS3yiH75u.png&amp;w=828&amp;q=75   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F411%2FfileEstates%2FxMC4USQBKYGgVr00HPe8zRlN1fjnve3BS3yiH75u.png&amp;w=1080&amp;q=75 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F411%2FfileEstates%2FxMC4USQBKYGgVr00HPe8zRlN1fjnve3BS3yiH75u.png&amp;w=1200&amp;q=75 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F411%2FfileEstates%2FxMC4USQBKYGgVr00HPe8zRlN1fjnve3BS3yiH75u.png&amp;w=1920&amp;q=75 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F411%2FfileEstates%2FxMC4USQBKYGgVr00HPe8zRlN1fjnve3BS3yiH75u.png&amp;w=2048&amp;q=75 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F411%2FfileEstates%2FxMC4USQBKYGgVr00HPe8zRlN1fjnve3BS3yiH75u.png&amp;w=3840&amp;q=75 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F411%2FfileEstates%2FxMC4USQBKYGgVr00HPe8zRlN1fjnve3BS3yiH75u.png&amp;w=256&amp;q=75   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F411%2FfileEstates%2FxMC4USQBKYGgVr00HPe8zRlN1fjnve3BS3yiH75u.png&amp;w=384&amp;q=75   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F411%2FfileEstates%2FxMC4USQBKYGgVr00HPe8zRlN1fjnve3BS3yiH75u.png&amp;w=640&amp;q=75   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F411%2FfileEstates%2FxMC4USQBKYGgVr00HPe8zRlN1fjnve3BS3yiH75u.png&amp;w=750&amp;q=75   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F411%2FfileEstates%2FxMC4USQBKYGgVr00HPe8zRlN1fjnve3BS3yiH75u.png&amp;w=828&amp;q=75   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F411%2FfileEstates%2FxMC4USQBKYGgVr00HPe8zRlN1fjnve3BS3yiH75u.png&amp;w=1080&amp;q=75 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F411%2FfileEstates%2FxMC4USQBKYGgVr00HPe8zRlN1fjnve3BS3yiH75u.png&amp;w=1200&amp;q=75 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F411%2FfileEstates%2FxMC4USQBKYGgVr00HPe8zRlN1fjnve3BS3yiH75u.png&amp;w=1920&amp;q=75 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F411%2FfileEstates%2FxMC4USQBKYGgVr00HPe8zRlN1fjnve3BS3yiH75u.png&amp;w=2048&amp;q=75 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F411%2FfileEstates%2FxMC4USQBKYGgVr00HPe8zRlN1fjnve3BS3yiH75u.png&amp;w=3840&amp;q=75 3840w
                                   "
-                                src="plantilla/xMC4USQBKYGgVr00HPe8zRlN1fjnve3BS3yiH75u421f.png?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F411%2FfileEstates%2FxMC4USQBKYGgVr00HPe8zRlN1fjnve3BS3yiH75u.png&amp;w=3840&amp;q=75"
+                                src="__next/xMC4USQBKYGgVr00HPe8zRlN1fjnve3BS3yiH75u421f.png?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F411%2FfileEstates%2FxMC4USQBKYGgVr00HPe8zRlN1fjnve3BS3yiH75u.png&amp;w=3840&amp;q=75"
                                 decoding="async" data-nimg="fill" class="object-cover absolute" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -11125,18 +11144,18 @@ Será un placer atenderte." />
                             <div class="relative block h-[270px] w-full">
                               <img alt="Terreno en Venta 120m2 a  115,000 soles"
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F410%2FfileEstates%2F4L3jwfINWCWvOsNqercem4PuOtD1mllBzHOUGKDV.png&amp;w=256&amp;q=75   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F410%2FfileEstates%2F4L3jwfINWCWvOsNqercem4PuOtD1mllBzHOUGKDV.png&amp;w=384&amp;q=75   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F410%2FfileEstates%2F4L3jwfINWCWvOsNqercem4PuOtD1mllBzHOUGKDV.png&amp;w=640&amp;q=75   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F410%2FfileEstates%2F4L3jwfINWCWvOsNqercem4PuOtD1mllBzHOUGKDV.png&amp;w=750&amp;q=75   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F410%2FfileEstates%2F4L3jwfINWCWvOsNqercem4PuOtD1mllBzHOUGKDV.png&amp;w=828&amp;q=75   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F410%2FfileEstates%2F4L3jwfINWCWvOsNqercem4PuOtD1mllBzHOUGKDV.png&amp;w=1080&amp;q=75 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F410%2FfileEstates%2F4L3jwfINWCWvOsNqercem4PuOtD1mllBzHOUGKDV.png&amp;w=1200&amp;q=75 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F410%2FfileEstates%2F4L3jwfINWCWvOsNqercem4PuOtD1mllBzHOUGKDV.png&amp;w=1920&amp;q=75 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F410%2FfileEstates%2F4L3jwfINWCWvOsNqercem4PuOtD1mllBzHOUGKDV.png&amp;w=2048&amp;q=75 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F410%2FfileEstates%2F4L3jwfINWCWvOsNqercem4PuOtD1mllBzHOUGKDV.png&amp;w=3840&amp;q=75 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F410%2FfileEstates%2F4L3jwfINWCWvOsNqercem4PuOtD1mllBzHOUGKDV.png&amp;w=256&amp;q=75   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F410%2FfileEstates%2F4L3jwfINWCWvOsNqercem4PuOtD1mllBzHOUGKDV.png&amp;w=384&amp;q=75   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F410%2FfileEstates%2F4L3jwfINWCWvOsNqercem4PuOtD1mllBzHOUGKDV.png&amp;w=640&amp;q=75   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F410%2FfileEstates%2F4L3jwfINWCWvOsNqercem4PuOtD1mllBzHOUGKDV.png&amp;w=750&amp;q=75   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F410%2FfileEstates%2F4L3jwfINWCWvOsNqercem4PuOtD1mllBzHOUGKDV.png&amp;w=828&amp;q=75   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F410%2FfileEstates%2F4L3jwfINWCWvOsNqercem4PuOtD1mllBzHOUGKDV.png&amp;w=1080&amp;q=75 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F410%2FfileEstates%2F4L3jwfINWCWvOsNqercem4PuOtD1mllBzHOUGKDV.png&amp;w=1200&amp;q=75 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F410%2FfileEstates%2F4L3jwfINWCWvOsNqercem4PuOtD1mllBzHOUGKDV.png&amp;w=1920&amp;q=75 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F410%2FfileEstates%2F4L3jwfINWCWvOsNqercem4PuOtD1mllBzHOUGKDV.png&amp;w=2048&amp;q=75 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F410%2FfileEstates%2F4L3jwfINWCWvOsNqercem4PuOtD1mllBzHOUGKDV.png&amp;w=3840&amp;q=75 3840w
                                   "
-                                src="plantilla/4L3jwfINWCWvOsNqercem4PuOtD1mllBzHOUGKDV9538.png?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F410%2FfileEstates%2F4L3jwfINWCWvOsNqercem4PuOtD1mllBzHOUGKDV.png&amp;w=3840&amp;q=75"
+                                src="__next/4L3jwfINWCWvOsNqercem4PuOtD1mllBzHOUGKDV9538.png?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F410%2FfileEstates%2F4L3jwfINWCWvOsNqercem4PuOtD1mllBzHOUGKDV.png&amp;w=3840&amp;q=75"
                                 decoding="async" data-nimg="fill" class="object-cover absolute" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -11183,18 +11202,18 @@ Será un placer atenderte." />
                             <div class="relative block h-[270px] w-full">
                               <img alt="Casa de 02 Pîsos en Urb. Palermo a $70,000"
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F342%2FfileEstates%2FiKIlSNIsbZMW71zjggz3nzU4MRPbrk4jp13C7zCF.jpeg&amp;w=256&amp;q=75   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F342%2FfileEstates%2FiKIlSNIsbZMW71zjggz3nzU4MRPbrk4jp13C7zCF.jpeg&amp;w=384&amp;q=75   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F342%2FfileEstates%2FiKIlSNIsbZMW71zjggz3nzU4MRPbrk4jp13C7zCF.jpeg&amp;w=640&amp;q=75   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F342%2FfileEstates%2FiKIlSNIsbZMW71zjggz3nzU4MRPbrk4jp13C7zCF.jpeg&amp;w=750&amp;q=75   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F342%2FfileEstates%2FiKIlSNIsbZMW71zjggz3nzU4MRPbrk4jp13C7zCF.jpeg&amp;w=828&amp;q=75   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F342%2FfileEstates%2FiKIlSNIsbZMW71zjggz3nzU4MRPbrk4jp13C7zCF.jpeg&amp;w=1080&amp;q=75 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F342%2FfileEstates%2FiKIlSNIsbZMW71zjggz3nzU4MRPbrk4jp13C7zCF.jpeg&amp;w=1200&amp;q=75 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F342%2FfileEstates%2FiKIlSNIsbZMW71zjggz3nzU4MRPbrk4jp13C7zCF.jpeg&amp;w=1920&amp;q=75 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F342%2FfileEstates%2FiKIlSNIsbZMW71zjggz3nzU4MRPbrk4jp13C7zCF.jpeg&amp;w=2048&amp;q=75 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F342%2FfileEstates%2FiKIlSNIsbZMW71zjggz3nzU4MRPbrk4jp13C7zCF.jpeg&amp;w=3840&amp;q=75 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F342%2FfileEstates%2FiKIlSNIsbZMW71zjggz3nzU4MRPbrk4jp13C7zCF.jpeg&amp;w=256&amp;q=75   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F342%2FfileEstates%2FiKIlSNIsbZMW71zjggz3nzU4MRPbrk4jp13C7zCF.jpeg&amp;w=384&amp;q=75   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F342%2FfileEstates%2FiKIlSNIsbZMW71zjggz3nzU4MRPbrk4jp13C7zCF.jpeg&amp;w=640&amp;q=75   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F342%2FfileEstates%2FiKIlSNIsbZMW71zjggz3nzU4MRPbrk4jp13C7zCF.jpeg&amp;w=750&amp;q=75   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F342%2FfileEstates%2FiKIlSNIsbZMW71zjggz3nzU4MRPbrk4jp13C7zCF.jpeg&amp;w=828&amp;q=75   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F342%2FfileEstates%2FiKIlSNIsbZMW71zjggz3nzU4MRPbrk4jp13C7zCF.jpeg&amp;w=1080&amp;q=75 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F342%2FfileEstates%2FiKIlSNIsbZMW71zjggz3nzU4MRPbrk4jp13C7zCF.jpeg&amp;w=1200&amp;q=75 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F342%2FfileEstates%2FiKIlSNIsbZMW71zjggz3nzU4MRPbrk4jp13C7zCF.jpeg&amp;w=1920&amp;q=75 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F342%2FfileEstates%2FiKIlSNIsbZMW71zjggz3nzU4MRPbrk4jp13C7zCF.jpeg&amp;w=2048&amp;q=75 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F342%2FfileEstates%2FiKIlSNIsbZMW71zjggz3nzU4MRPbrk4jp13C7zCF.jpeg&amp;w=3840&amp;q=75 3840w
                                   "
-                                src="plantilla/iKIlSNIsbZMW71zjggz3nzU4MRPbrk4jp13C7zCF4d5c.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F342%2FfileEstates%2FiKIlSNIsbZMW71zjggz3nzU4MRPbrk4jp13C7zCF.jpeg&amp;w=3840&amp;q=75"
+                                src="__next/iKIlSNIsbZMW71zjggz3nzU4MRPbrk4jp13C7zCF4d5c.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F342%2FfileEstates%2FiKIlSNIsbZMW71zjggz3nzU4MRPbrk4jp13C7zCF.jpeg&amp;w=3840&amp;q=75"
                                 decoding="async" data-nimg="fill" class="object-cover absolute" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -11240,18 +11259,18 @@ Será un placer atenderte." />
                             <div class="relative block h-[270px] w-full">
                               <img alt="Venta de Departamento Urb. Primavera Trujillo"
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F316%2FfileEstates%2FgQ3Lxg5kqZNOGedypJZxbX47GH3cArDe9VBX3t9u.jpeg&amp;w=256&amp;q=75   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F316%2FfileEstates%2FgQ3Lxg5kqZNOGedypJZxbX47GH3cArDe9VBX3t9u.jpeg&amp;w=384&amp;q=75   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F316%2FfileEstates%2FgQ3Lxg5kqZNOGedypJZxbX47GH3cArDe9VBX3t9u.jpeg&amp;w=640&amp;q=75   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F316%2FfileEstates%2FgQ3Lxg5kqZNOGedypJZxbX47GH3cArDe9VBX3t9u.jpeg&amp;w=750&amp;q=75   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F316%2FfileEstates%2FgQ3Lxg5kqZNOGedypJZxbX47GH3cArDe9VBX3t9u.jpeg&amp;w=828&amp;q=75   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F316%2FfileEstates%2FgQ3Lxg5kqZNOGedypJZxbX47GH3cArDe9VBX3t9u.jpeg&amp;w=1080&amp;q=75 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F316%2FfileEstates%2FgQ3Lxg5kqZNOGedypJZxbX47GH3cArDe9VBX3t9u.jpeg&amp;w=1200&amp;q=75 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F316%2FfileEstates%2FgQ3Lxg5kqZNOGedypJZxbX47GH3cArDe9VBX3t9u.jpeg&amp;w=1920&amp;q=75 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F316%2FfileEstates%2FgQ3Lxg5kqZNOGedypJZxbX47GH3cArDe9VBX3t9u.jpeg&amp;w=2048&amp;q=75 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F316%2FfileEstates%2FgQ3Lxg5kqZNOGedypJZxbX47GH3cArDe9VBX3t9u.jpeg&amp;w=3840&amp;q=75 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F316%2FfileEstates%2FgQ3Lxg5kqZNOGedypJZxbX47GH3cArDe9VBX3t9u.jpeg&amp;w=256&amp;q=75   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F316%2FfileEstates%2FgQ3Lxg5kqZNOGedypJZxbX47GH3cArDe9VBX3t9u.jpeg&amp;w=384&amp;q=75   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F316%2FfileEstates%2FgQ3Lxg5kqZNOGedypJZxbX47GH3cArDe9VBX3t9u.jpeg&amp;w=640&amp;q=75   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F316%2FfileEstates%2FgQ3Lxg5kqZNOGedypJZxbX47GH3cArDe9VBX3t9u.jpeg&amp;w=750&amp;q=75   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F316%2FfileEstates%2FgQ3Lxg5kqZNOGedypJZxbX47GH3cArDe9VBX3t9u.jpeg&amp;w=828&amp;q=75   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F316%2FfileEstates%2FgQ3Lxg5kqZNOGedypJZxbX47GH3cArDe9VBX3t9u.jpeg&amp;w=1080&amp;q=75 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F316%2FfileEstates%2FgQ3Lxg5kqZNOGedypJZxbX47GH3cArDe9VBX3t9u.jpeg&amp;w=1200&amp;q=75 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F316%2FfileEstates%2FgQ3Lxg5kqZNOGedypJZxbX47GH3cArDe9VBX3t9u.jpeg&amp;w=1920&amp;q=75 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F316%2FfileEstates%2FgQ3Lxg5kqZNOGedypJZxbX47GH3cArDe9VBX3t9u.jpeg&amp;w=2048&amp;q=75 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F316%2FfileEstates%2FgQ3Lxg5kqZNOGedypJZxbX47GH3cArDe9VBX3t9u.jpeg&amp;w=3840&amp;q=75 3840w
                                   "
-                                src="plantilla/gQ3Lxg5kqZNOGedypJZxbX47GH3cArDe9VBX3t9ub9c4.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F316%2FfileEstates%2FgQ3Lxg5kqZNOGedypJZxbX47GH3cArDe9VBX3t9u.jpeg&amp;w=3840&amp;q=75"
+                                src="__next/gQ3Lxg5kqZNOGedypJZxbX47GH3cArDe9VBX3t9ub9c4.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F316%2FfileEstates%2FgQ3Lxg5kqZNOGedypJZxbX47GH3cArDe9VBX3t9u.jpeg&amp;w=3840&amp;q=75"
                                 decoding="async" data-nimg="fill" class="object-cover absolute" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -11296,18 +11315,18 @@ Será un placer atenderte." />
                             <div class="relative block h-[270px] w-full">
                               <img alt="DPTO 501 Departamento en Venta en San Isidro"
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F315%2FfileEstates%2F1gXmS9wgb9ZssrqWKIKASsSwcAIe3p9QyoHOr3rq.jpeg&amp;w=256&amp;q=75   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F315%2FfileEstates%2F1gXmS9wgb9ZssrqWKIKASsSwcAIe3p9QyoHOr3rq.jpeg&amp;w=384&amp;q=75   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F315%2FfileEstates%2F1gXmS9wgb9ZssrqWKIKASsSwcAIe3p9QyoHOr3rq.jpeg&amp;w=640&amp;q=75   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F315%2FfileEstates%2F1gXmS9wgb9ZssrqWKIKASsSwcAIe3p9QyoHOr3rq.jpeg&amp;w=750&amp;q=75   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F315%2FfileEstates%2F1gXmS9wgb9ZssrqWKIKASsSwcAIe3p9QyoHOr3rq.jpeg&amp;w=828&amp;q=75   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F315%2FfileEstates%2F1gXmS9wgb9ZssrqWKIKASsSwcAIe3p9QyoHOr3rq.jpeg&amp;w=1080&amp;q=75 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F315%2FfileEstates%2F1gXmS9wgb9ZssrqWKIKASsSwcAIe3p9QyoHOr3rq.jpeg&amp;w=1200&amp;q=75 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F315%2FfileEstates%2F1gXmS9wgb9ZssrqWKIKASsSwcAIe3p9QyoHOr3rq.jpeg&amp;w=1920&amp;q=75 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F315%2FfileEstates%2F1gXmS9wgb9ZssrqWKIKASsSwcAIe3p9QyoHOr3rq.jpeg&amp;w=2048&amp;q=75 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F315%2FfileEstates%2F1gXmS9wgb9ZssrqWKIKASsSwcAIe3p9QyoHOr3rq.jpeg&amp;w=3840&amp;q=75 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F315%2FfileEstates%2F1gXmS9wgb9ZssrqWKIKASsSwcAIe3p9QyoHOr3rq.jpeg&amp;w=256&amp;q=75   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F315%2FfileEstates%2F1gXmS9wgb9ZssrqWKIKASsSwcAIe3p9QyoHOr3rq.jpeg&amp;w=384&amp;q=75   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F315%2FfileEstates%2F1gXmS9wgb9ZssrqWKIKASsSwcAIe3p9QyoHOr3rq.jpeg&amp;w=640&amp;q=75   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F315%2FfileEstates%2F1gXmS9wgb9ZssrqWKIKASsSwcAIe3p9QyoHOr3rq.jpeg&amp;w=750&amp;q=75   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F315%2FfileEstates%2F1gXmS9wgb9ZssrqWKIKASsSwcAIe3p9QyoHOr3rq.jpeg&amp;w=828&amp;q=75   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F315%2FfileEstates%2F1gXmS9wgb9ZssrqWKIKASsSwcAIe3p9QyoHOr3rq.jpeg&amp;w=1080&amp;q=75 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F315%2FfileEstates%2F1gXmS9wgb9ZssrqWKIKASsSwcAIe3p9QyoHOr3rq.jpeg&amp;w=1200&amp;q=75 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F315%2FfileEstates%2F1gXmS9wgb9ZssrqWKIKASsSwcAIe3p9QyoHOr3rq.jpeg&amp;w=1920&amp;q=75 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F315%2FfileEstates%2F1gXmS9wgb9ZssrqWKIKASsSwcAIe3p9QyoHOr3rq.jpeg&amp;w=2048&amp;q=75 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F315%2FfileEstates%2F1gXmS9wgb9ZssrqWKIKASsSwcAIe3p9QyoHOr3rq.jpeg&amp;w=3840&amp;q=75 3840w
                                   "
-                                src="plantilla/1gXmS9wgb9ZssrqWKIKASsSwcAIe3p9QyoHOr3rq0c6b.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F315%2FfileEstates%2F1gXmS9wgb9ZssrqWKIKASsSwcAIe3p9QyoHOr3rq.jpeg&amp;w=3840&amp;q=75"
+                                src="__next/1gXmS9wgb9ZssrqWKIKASsSwcAIe3p9QyoHOr3rq0c6b.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F315%2FfileEstates%2F1gXmS9wgb9ZssrqWKIKASsSwcAIe3p9QyoHOr3rq.jpeg&amp;w=3840&amp;q=75"
                                 decoding="async" data-nimg="fill" class="object-cover absolute" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -11351,18 +11370,18 @@ Será un placer atenderte." />
                             <div class="relative block h-[270px] w-full">
                               <img alt="DEPARTAMENTO EN VENTA SAN ISIDRO TRUJILLO"
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F314%2FfileEstates%2FFrMEaucZxZEUmWQZjFHcuBFQr0HO0vrknQ2Vb8jD.jpeg&amp;w=256&amp;q=75   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F314%2FfileEstates%2FFrMEaucZxZEUmWQZjFHcuBFQr0HO0vrknQ2Vb8jD.jpeg&amp;w=384&amp;q=75   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F314%2FfileEstates%2FFrMEaucZxZEUmWQZjFHcuBFQr0HO0vrknQ2Vb8jD.jpeg&amp;w=640&amp;q=75   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F314%2FfileEstates%2FFrMEaucZxZEUmWQZjFHcuBFQr0HO0vrknQ2Vb8jD.jpeg&amp;w=750&amp;q=75   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F314%2FfileEstates%2FFrMEaucZxZEUmWQZjFHcuBFQr0HO0vrknQ2Vb8jD.jpeg&amp;w=828&amp;q=75   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F314%2FfileEstates%2FFrMEaucZxZEUmWQZjFHcuBFQr0HO0vrknQ2Vb8jD.jpeg&amp;w=1080&amp;q=75 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F314%2FfileEstates%2FFrMEaucZxZEUmWQZjFHcuBFQr0HO0vrknQ2Vb8jD.jpeg&amp;w=1200&amp;q=75 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F314%2FfileEstates%2FFrMEaucZxZEUmWQZjFHcuBFQr0HO0vrknQ2Vb8jD.jpeg&amp;w=1920&amp;q=75 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F314%2FfileEstates%2FFrMEaucZxZEUmWQZjFHcuBFQr0HO0vrknQ2Vb8jD.jpeg&amp;w=2048&amp;q=75 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F314%2FfileEstates%2FFrMEaucZxZEUmWQZjFHcuBFQr0HO0vrknQ2Vb8jD.jpeg&amp;w=3840&amp;q=75 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F314%2FfileEstates%2FFrMEaucZxZEUmWQZjFHcuBFQr0HO0vrknQ2Vb8jD.jpeg&amp;w=256&amp;q=75   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F314%2FfileEstates%2FFrMEaucZxZEUmWQZjFHcuBFQr0HO0vrknQ2Vb8jD.jpeg&amp;w=384&amp;q=75   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F314%2FfileEstates%2FFrMEaucZxZEUmWQZjFHcuBFQr0HO0vrknQ2Vb8jD.jpeg&amp;w=640&amp;q=75   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F314%2FfileEstates%2FFrMEaucZxZEUmWQZjFHcuBFQr0HO0vrknQ2Vb8jD.jpeg&amp;w=750&amp;q=75   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F314%2FfileEstates%2FFrMEaucZxZEUmWQZjFHcuBFQr0HO0vrknQ2Vb8jD.jpeg&amp;w=828&amp;q=75   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F314%2FfileEstates%2FFrMEaucZxZEUmWQZjFHcuBFQr0HO0vrknQ2Vb8jD.jpeg&amp;w=1080&amp;q=75 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F314%2FfileEstates%2FFrMEaucZxZEUmWQZjFHcuBFQr0HO0vrknQ2Vb8jD.jpeg&amp;w=1200&amp;q=75 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F314%2FfileEstates%2FFrMEaucZxZEUmWQZjFHcuBFQr0HO0vrknQ2Vb8jD.jpeg&amp;w=1920&amp;q=75 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F314%2FfileEstates%2FFrMEaucZxZEUmWQZjFHcuBFQr0HO0vrknQ2Vb8jD.jpeg&amp;w=2048&amp;q=75 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F314%2FfileEstates%2FFrMEaucZxZEUmWQZjFHcuBFQr0HO0vrknQ2Vb8jD.jpeg&amp;w=3840&amp;q=75 3840w
                                   "
-                                src="plantilla/FrMEaucZxZEUmWQZjFHcuBFQr0HO0vrknQ2Vb8jDd7e8.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F314%2FfileEstates%2FFrMEaucZxZEUmWQZjFHcuBFQr0HO0vrknQ2Vb8jD.jpeg&amp;w=3840&amp;q=75"
+                                src="__next/FrMEaucZxZEUmWQZjFHcuBFQr0HO0vrknQ2Vb8jDd7e8.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F314%2FfileEstates%2FFrMEaucZxZEUmWQZjFHcuBFQr0HO0vrknQ2Vb8jD.jpeg&amp;w=3840&amp;q=75"
                                 decoding="async" data-nimg="fill" class="object-cover absolute" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -11409,18 +11428,18 @@ Será un placer atenderte." />
                             <div class="relative block h-[270px] w-full">
                               <img alt="Venta de Departamento en San Andres I Etapa."
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F285%2FfileEstates%2FwTUYJZ8VUqW6ZIclB5NSKRAMugEUJXgXhA2dUtIq.jpeg&amp;w=256&amp;q=75   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F285%2FfileEstates%2FwTUYJZ8VUqW6ZIclB5NSKRAMugEUJXgXhA2dUtIq.jpeg&amp;w=384&amp;q=75   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F285%2FfileEstates%2FwTUYJZ8VUqW6ZIclB5NSKRAMugEUJXgXhA2dUtIq.jpeg&amp;w=640&amp;q=75   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F285%2FfileEstates%2FwTUYJZ8VUqW6ZIclB5NSKRAMugEUJXgXhA2dUtIq.jpeg&amp;w=750&amp;q=75   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F285%2FfileEstates%2FwTUYJZ8VUqW6ZIclB5NSKRAMugEUJXgXhA2dUtIq.jpeg&amp;w=828&amp;q=75   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F285%2FfileEstates%2FwTUYJZ8VUqW6ZIclB5NSKRAMugEUJXgXhA2dUtIq.jpeg&amp;w=1080&amp;q=75 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F285%2FfileEstates%2FwTUYJZ8VUqW6ZIclB5NSKRAMugEUJXgXhA2dUtIq.jpeg&amp;w=1200&amp;q=75 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F285%2FfileEstates%2FwTUYJZ8VUqW6ZIclB5NSKRAMugEUJXgXhA2dUtIq.jpeg&amp;w=1920&amp;q=75 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F285%2FfileEstates%2FwTUYJZ8VUqW6ZIclB5NSKRAMugEUJXgXhA2dUtIq.jpeg&amp;w=2048&amp;q=75 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F285%2FfileEstates%2FwTUYJZ8VUqW6ZIclB5NSKRAMugEUJXgXhA2dUtIq.jpeg&amp;w=3840&amp;q=75 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F285%2FfileEstates%2FwTUYJZ8VUqW6ZIclB5NSKRAMugEUJXgXhA2dUtIq.jpeg&amp;w=256&amp;q=75   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F285%2FfileEstates%2FwTUYJZ8VUqW6ZIclB5NSKRAMugEUJXgXhA2dUtIq.jpeg&amp;w=384&amp;q=75   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F285%2FfileEstates%2FwTUYJZ8VUqW6ZIclB5NSKRAMugEUJXgXhA2dUtIq.jpeg&amp;w=640&amp;q=75   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F285%2FfileEstates%2FwTUYJZ8VUqW6ZIclB5NSKRAMugEUJXgXhA2dUtIq.jpeg&amp;w=750&amp;q=75   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F285%2FfileEstates%2FwTUYJZ8VUqW6ZIclB5NSKRAMugEUJXgXhA2dUtIq.jpeg&amp;w=828&amp;q=75   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F285%2FfileEstates%2FwTUYJZ8VUqW6ZIclB5NSKRAMugEUJXgXhA2dUtIq.jpeg&amp;w=1080&amp;q=75 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F285%2FfileEstates%2FwTUYJZ8VUqW6ZIclB5NSKRAMugEUJXgXhA2dUtIq.jpeg&amp;w=1200&amp;q=75 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F285%2FfileEstates%2FwTUYJZ8VUqW6ZIclB5NSKRAMugEUJXgXhA2dUtIq.jpeg&amp;w=1920&amp;q=75 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F285%2FfileEstates%2FwTUYJZ8VUqW6ZIclB5NSKRAMugEUJXgXhA2dUtIq.jpeg&amp;w=2048&amp;q=75 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F285%2FfileEstates%2FwTUYJZ8VUqW6ZIclB5NSKRAMugEUJXgXhA2dUtIq.jpeg&amp;w=3840&amp;q=75 3840w
                                   "
-                                src="plantilla/wTUYJZ8VUqW6ZIclB5NSKRAMugEUJXgXhA2dUtIqef7a.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F285%2FfileEstates%2FwTUYJZ8VUqW6ZIclB5NSKRAMugEUJXgXhA2dUtIq.jpeg&amp;w=3840&amp;q=75"
+                                src="__next/wTUYJZ8VUqW6ZIclB5NSKRAMugEUJXgXhA2dUtIqef7a.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F285%2FfileEstates%2FwTUYJZ8VUqW6ZIclB5NSKRAMugEUJXgXhA2dUtIq.jpeg&amp;w=3840&amp;q=75"
                                 decoding="async" data-nimg="fill" class="object-cover absolute" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -11464,18 +11483,18 @@ Será un placer atenderte." />
                             <div class="relative block h-[270px] w-full">
                               <img alt="Dpto 501-Departamento en venta en San Isidro"
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F114%2FfileEstates%2FXn4kZOozcsMCzLZ9WkKzM3VHzZHwsOoG39hbIcGn.jpeg&amp;w=256&amp;q=75   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F114%2FfileEstates%2FXn4kZOozcsMCzLZ9WkKzM3VHzZHwsOoG39hbIcGn.jpeg&amp;w=384&amp;q=75   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F114%2FfileEstates%2FXn4kZOozcsMCzLZ9WkKzM3VHzZHwsOoG39hbIcGn.jpeg&amp;w=640&amp;q=75   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F114%2FfileEstates%2FXn4kZOozcsMCzLZ9WkKzM3VHzZHwsOoG39hbIcGn.jpeg&amp;w=750&amp;q=75   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F114%2FfileEstates%2FXn4kZOozcsMCzLZ9WkKzM3VHzZHwsOoG39hbIcGn.jpeg&amp;w=828&amp;q=75   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F114%2FfileEstates%2FXn4kZOozcsMCzLZ9WkKzM3VHzZHwsOoG39hbIcGn.jpeg&amp;w=1080&amp;q=75 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F114%2FfileEstates%2FXn4kZOozcsMCzLZ9WkKzM3VHzZHwsOoG39hbIcGn.jpeg&amp;w=1200&amp;q=75 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F114%2FfileEstates%2FXn4kZOozcsMCzLZ9WkKzM3VHzZHwsOoG39hbIcGn.jpeg&amp;w=1920&amp;q=75 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F114%2FfileEstates%2FXn4kZOozcsMCzLZ9WkKzM3VHzZHwsOoG39hbIcGn.jpeg&amp;w=2048&amp;q=75 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F114%2FfileEstates%2FXn4kZOozcsMCzLZ9WkKzM3VHzZHwsOoG39hbIcGn.jpeg&amp;w=3840&amp;q=75 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F114%2FfileEstates%2FXn4kZOozcsMCzLZ9WkKzM3VHzZHwsOoG39hbIcGn.jpeg&amp;w=256&amp;q=75   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F114%2FfileEstates%2FXn4kZOozcsMCzLZ9WkKzM3VHzZHwsOoG39hbIcGn.jpeg&amp;w=384&amp;q=75   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F114%2FfileEstates%2FXn4kZOozcsMCzLZ9WkKzM3VHzZHwsOoG39hbIcGn.jpeg&amp;w=640&amp;q=75   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F114%2FfileEstates%2FXn4kZOozcsMCzLZ9WkKzM3VHzZHwsOoG39hbIcGn.jpeg&amp;w=750&amp;q=75   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F114%2FfileEstates%2FXn4kZOozcsMCzLZ9WkKzM3VHzZHwsOoG39hbIcGn.jpeg&amp;w=828&amp;q=75   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F114%2FfileEstates%2FXn4kZOozcsMCzLZ9WkKzM3VHzZHwsOoG39hbIcGn.jpeg&amp;w=1080&amp;q=75 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F114%2FfileEstates%2FXn4kZOozcsMCzLZ9WkKzM3VHzZHwsOoG39hbIcGn.jpeg&amp;w=1200&amp;q=75 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F114%2FfileEstates%2FXn4kZOozcsMCzLZ9WkKzM3VHzZHwsOoG39hbIcGn.jpeg&amp;w=1920&amp;q=75 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F114%2FfileEstates%2FXn4kZOozcsMCzLZ9WkKzM3VHzZHwsOoG39hbIcGn.jpeg&amp;w=2048&amp;q=75 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F114%2FfileEstates%2FXn4kZOozcsMCzLZ9WkKzM3VHzZHwsOoG39hbIcGn.jpeg&amp;w=3840&amp;q=75 3840w
                                   "
-                                src="plantilla/Xn4kZOozcsMCzLZ9WkKzM3VHzZHwsOoG39hbIcGna09f.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F114%2FfileEstates%2FXn4kZOozcsMCzLZ9WkKzM3VHzZHwsOoG39hbIcGn.jpeg&amp;w=3840&amp;q=75"
+                                src="__next/Xn4kZOozcsMCzLZ9WkKzM3VHzZHwsOoG39hbIcGna09f.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F114%2FfileEstates%2FXn4kZOozcsMCzLZ9WkKzM3VHzZHwsOoG39hbIcGn.jpeg&amp;w=3840&amp;q=75"
                                 decoding="async" data-nimg="fill" class="object-cover absolute" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -11523,18 +11542,18 @@ Será un placer atenderte." />
                               <img
                                 alt="EL HOGAR SOÑADO DPTO 302 VENTA DE DEPARTAMENTO LAS FLORES DE TRUPAL VIVE CERCA A LA UNT"
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F551%2FfileEstates%2FpKF13yJ3t9OQIj53MMkqgUaRrwp4EOxrfP9m6wcy.jpeg&amp;w=256&amp;q=75   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F551%2FfileEstates%2FpKF13yJ3t9OQIj53MMkqgUaRrwp4EOxrfP9m6wcy.jpeg&amp;w=384&amp;q=75   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F551%2FfileEstates%2FpKF13yJ3t9OQIj53MMkqgUaRrwp4EOxrfP9m6wcy.jpeg&amp;w=640&amp;q=75   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F551%2FfileEstates%2FpKF13yJ3t9OQIj53MMkqgUaRrwp4EOxrfP9m6wcy.jpeg&amp;w=750&amp;q=75   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F551%2FfileEstates%2FpKF13yJ3t9OQIj53MMkqgUaRrwp4EOxrfP9m6wcy.jpeg&amp;w=828&amp;q=75   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F551%2FfileEstates%2FpKF13yJ3t9OQIj53MMkqgUaRrwp4EOxrfP9m6wcy.jpeg&amp;w=1080&amp;q=75 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F551%2FfileEstates%2FpKF13yJ3t9OQIj53MMkqgUaRrwp4EOxrfP9m6wcy.jpeg&amp;w=1200&amp;q=75 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F551%2FfileEstates%2FpKF13yJ3t9OQIj53MMkqgUaRrwp4EOxrfP9m6wcy.jpeg&amp;w=1920&amp;q=75 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F551%2FfileEstates%2FpKF13yJ3t9OQIj53MMkqgUaRrwp4EOxrfP9m6wcy.jpeg&amp;w=2048&amp;q=75 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F551%2FfileEstates%2FpKF13yJ3t9OQIj53MMkqgUaRrwp4EOxrfP9m6wcy.jpeg&amp;w=3840&amp;q=75 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F551%2FfileEstates%2FpKF13yJ3t9OQIj53MMkqgUaRrwp4EOxrfP9m6wcy.jpeg&amp;w=256&amp;q=75   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F551%2FfileEstates%2FpKF13yJ3t9OQIj53MMkqgUaRrwp4EOxrfP9m6wcy.jpeg&amp;w=384&amp;q=75   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F551%2FfileEstates%2FpKF13yJ3t9OQIj53MMkqgUaRrwp4EOxrfP9m6wcy.jpeg&amp;w=640&amp;q=75   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F551%2FfileEstates%2FpKF13yJ3t9OQIj53MMkqgUaRrwp4EOxrfP9m6wcy.jpeg&amp;w=750&amp;q=75   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F551%2FfileEstates%2FpKF13yJ3t9OQIj53MMkqgUaRrwp4EOxrfP9m6wcy.jpeg&amp;w=828&amp;q=75   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F551%2FfileEstates%2FpKF13yJ3t9OQIj53MMkqgUaRrwp4EOxrfP9m6wcy.jpeg&amp;w=1080&amp;q=75 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F551%2FfileEstates%2FpKF13yJ3t9OQIj53MMkqgUaRrwp4EOxrfP9m6wcy.jpeg&amp;w=1200&amp;q=75 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F551%2FfileEstates%2FpKF13yJ3t9OQIj53MMkqgUaRrwp4EOxrfP9m6wcy.jpeg&amp;w=1920&amp;q=75 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F551%2FfileEstates%2FpKF13yJ3t9OQIj53MMkqgUaRrwp4EOxrfP9m6wcy.jpeg&amp;w=2048&amp;q=75 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F551%2FfileEstates%2FpKF13yJ3t9OQIj53MMkqgUaRrwp4EOxrfP9m6wcy.jpeg&amp;w=3840&amp;q=75 3840w
                                   "
-                                src="plantilla/pKF13yJ3t9OQIj53MMkqgUaRrwp4EOxrfP9m6wcy78a7.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F551%2FfileEstates%2FpKF13yJ3t9OQIj53MMkqgUaRrwp4EOxrfP9m6wcy.jpeg&amp;w=3840&amp;q=75"
+                                src="__next/pKF13yJ3t9OQIj53MMkqgUaRrwp4EOxrfP9m6wcy78a7.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F551%2FfileEstates%2FpKF13yJ3t9OQIj53MMkqgUaRrwp4EOxrfP9m6wcy.jpeg&amp;w=3840&amp;q=75"
                                 decoding="async" data-nimg="fill" class="object-cover absolute" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -11584,18 +11603,18 @@ Será un placer atenderte." />
                               <img
                                 alt="EL HOGAR QUE TU FAMILIA DESEA ESTRENO DPTO 501 EN VENTA EN TRUJILLO LAS FLORES DE TRUPAL"
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F554%2FfileEstates%2FwEX4ZolKg0DmEwmokaUAkcIVv9hlTtQxRnRAW83m.jpeg&amp;w=256&amp;q=75   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F554%2FfileEstates%2FwEX4ZolKg0DmEwmokaUAkcIVv9hlTtQxRnRAW83m.jpeg&amp;w=384&amp;q=75   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F554%2FfileEstates%2FwEX4ZolKg0DmEwmokaUAkcIVv9hlTtQxRnRAW83m.jpeg&amp;w=640&amp;q=75   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F554%2FfileEstates%2FwEX4ZolKg0DmEwmokaUAkcIVv9hlTtQxRnRAW83m.jpeg&amp;w=750&amp;q=75   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F554%2FfileEstates%2FwEX4ZolKg0DmEwmokaUAkcIVv9hlTtQxRnRAW83m.jpeg&amp;w=828&amp;q=75   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F554%2FfileEstates%2FwEX4ZolKg0DmEwmokaUAkcIVv9hlTtQxRnRAW83m.jpeg&amp;w=1080&amp;q=75 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F554%2FfileEstates%2FwEX4ZolKg0DmEwmokaUAkcIVv9hlTtQxRnRAW83m.jpeg&amp;w=1200&amp;q=75 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F554%2FfileEstates%2FwEX4ZolKg0DmEwmokaUAkcIVv9hlTtQxRnRAW83m.jpeg&amp;w=1920&amp;q=75 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F554%2FfileEstates%2FwEX4ZolKg0DmEwmokaUAkcIVv9hlTtQxRnRAW83m.jpeg&amp;w=2048&amp;q=75 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F554%2FfileEstates%2FwEX4ZolKg0DmEwmokaUAkcIVv9hlTtQxRnRAW83m.jpeg&amp;w=3840&amp;q=75 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F554%2FfileEstates%2FwEX4ZolKg0DmEwmokaUAkcIVv9hlTtQxRnRAW83m.jpeg&amp;w=256&amp;q=75   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F554%2FfileEstates%2FwEX4ZolKg0DmEwmokaUAkcIVv9hlTtQxRnRAW83m.jpeg&amp;w=384&amp;q=75   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F554%2FfileEstates%2FwEX4ZolKg0DmEwmokaUAkcIVv9hlTtQxRnRAW83m.jpeg&amp;w=640&amp;q=75   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F554%2FfileEstates%2FwEX4ZolKg0DmEwmokaUAkcIVv9hlTtQxRnRAW83m.jpeg&amp;w=750&amp;q=75   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F554%2FfileEstates%2FwEX4ZolKg0DmEwmokaUAkcIVv9hlTtQxRnRAW83m.jpeg&amp;w=828&amp;q=75   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F554%2FfileEstates%2FwEX4ZolKg0DmEwmokaUAkcIVv9hlTtQxRnRAW83m.jpeg&amp;w=1080&amp;q=75 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F554%2FfileEstates%2FwEX4ZolKg0DmEwmokaUAkcIVv9hlTtQxRnRAW83m.jpeg&amp;w=1200&amp;q=75 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F554%2FfileEstates%2FwEX4ZolKg0DmEwmokaUAkcIVv9hlTtQxRnRAW83m.jpeg&amp;w=1920&amp;q=75 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F554%2FfileEstates%2FwEX4ZolKg0DmEwmokaUAkcIVv9hlTtQxRnRAW83m.jpeg&amp;w=2048&amp;q=75 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F554%2FfileEstates%2FwEX4ZolKg0DmEwmokaUAkcIVv9hlTtQxRnRAW83m.jpeg&amp;w=3840&amp;q=75 3840w
                                   "
-                                src="plantilla/wEX4ZolKg0DmEwmokaUAkcIVv9hlTtQxRnRAW83m2e95.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F554%2FfileEstates%2FwEX4ZolKg0DmEwmokaUAkcIVv9hlTtQxRnRAW83m.jpeg&amp;w=3840&amp;q=75"
+                                src="__next/wEX4ZolKg0DmEwmokaUAkcIVv9hlTtQxRnRAW83m2e95.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F554%2FfileEstates%2FwEX4ZolKg0DmEwmokaUAkcIVv9hlTtQxRnRAW83m.jpeg&amp;w=3840&amp;q=75"
                                 decoding="async" data-nimg="fill" class="object-cover absolute" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -11644,18 +11663,18 @@ Será un placer atenderte." />
                             <div class="relative block h-[270px] w-full">
                               <img alt="HERMOSO DEPARTAMENTO 3ER PISO PISO, 90m2, 8m2 TENDAL, HORTENCIAS II SAN ANDRÉS"
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F612%2FfileEstates%2Fp0t1ZvkkqTs1yTw9CXSf79qNxlgS2SuRWMInSbMu.jpeg&amp;w=256&amp;q=75   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F612%2FfileEstates%2Fp0t1ZvkkqTs1yTw9CXSf79qNxlgS2SuRWMInSbMu.jpeg&amp;w=384&amp;q=75   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F612%2FfileEstates%2Fp0t1ZvkkqTs1yTw9CXSf79qNxlgS2SuRWMInSbMu.jpeg&amp;w=640&amp;q=75   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F612%2FfileEstates%2Fp0t1ZvkkqTs1yTw9CXSf79qNxlgS2SuRWMInSbMu.jpeg&amp;w=750&amp;q=75   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F612%2FfileEstates%2Fp0t1ZvkkqTs1yTw9CXSf79qNxlgS2SuRWMInSbMu.jpeg&amp;w=828&amp;q=75   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F612%2FfileEstates%2Fp0t1ZvkkqTs1yTw9CXSf79qNxlgS2SuRWMInSbMu.jpeg&amp;w=1080&amp;q=75 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F612%2FfileEstates%2Fp0t1ZvkkqTs1yTw9CXSf79qNxlgS2SuRWMInSbMu.jpeg&amp;w=1200&amp;q=75 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F612%2FfileEstates%2Fp0t1ZvkkqTs1yTw9CXSf79qNxlgS2SuRWMInSbMu.jpeg&amp;w=1920&amp;q=75 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F612%2FfileEstates%2Fp0t1ZvkkqTs1yTw9CXSf79qNxlgS2SuRWMInSbMu.jpeg&amp;w=2048&amp;q=75 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F612%2FfileEstates%2Fp0t1ZvkkqTs1yTw9CXSf79qNxlgS2SuRWMInSbMu.jpeg&amp;w=3840&amp;q=75 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F612%2FfileEstates%2Fp0t1ZvkkqTs1yTw9CXSf79qNxlgS2SuRWMInSbMu.jpeg&amp;w=256&amp;q=75   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F612%2FfileEstates%2Fp0t1ZvkkqTs1yTw9CXSf79qNxlgS2SuRWMInSbMu.jpeg&amp;w=384&amp;q=75   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F612%2FfileEstates%2Fp0t1ZvkkqTs1yTw9CXSf79qNxlgS2SuRWMInSbMu.jpeg&amp;w=640&amp;q=75   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F612%2FfileEstates%2Fp0t1ZvkkqTs1yTw9CXSf79qNxlgS2SuRWMInSbMu.jpeg&amp;w=750&amp;q=75   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F612%2FfileEstates%2Fp0t1ZvkkqTs1yTw9CXSf79qNxlgS2SuRWMInSbMu.jpeg&amp;w=828&amp;q=75   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F612%2FfileEstates%2Fp0t1ZvkkqTs1yTw9CXSf79qNxlgS2SuRWMInSbMu.jpeg&amp;w=1080&amp;q=75 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F612%2FfileEstates%2Fp0t1ZvkkqTs1yTw9CXSf79qNxlgS2SuRWMInSbMu.jpeg&amp;w=1200&amp;q=75 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F612%2FfileEstates%2Fp0t1ZvkkqTs1yTw9CXSf79qNxlgS2SuRWMInSbMu.jpeg&amp;w=1920&amp;q=75 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F612%2FfileEstates%2Fp0t1ZvkkqTs1yTw9CXSf79qNxlgS2SuRWMInSbMu.jpeg&amp;w=2048&amp;q=75 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F612%2FfileEstates%2Fp0t1ZvkkqTs1yTw9CXSf79qNxlgS2SuRWMInSbMu.jpeg&amp;w=3840&amp;q=75 3840w
                                   "
-                                src="plantilla/p0t1ZvkkqTs1yTw9CXSf79qNxlgS2SuRWMInSbMu4924.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F612%2FfileEstates%2Fp0t1ZvkkqTs1yTw9CXSf79qNxlgS2SuRWMInSbMu.jpeg&amp;w=3840&amp;q=75"
+                                src="__next/p0t1ZvkkqTs1yTw9CXSf79qNxlgS2SuRWMInSbMu4924.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F612%2FfileEstates%2Fp0t1ZvkkqTs1yTw9CXSf79qNxlgS2SuRWMInSbMu.jpeg&amp;w=3840&amp;q=75"
                                 decoding="async" data-nimg="fill" class="object-cover absolute" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -11702,18 +11721,18 @@ Será un placer atenderte." />
                             <div class="relative block h-[270px] w-full">
                               <img alt="Departamento en Venta en Víctor Larco Herrera"
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F283%2FfileEstates%2FllZhAptZklmXrwbQKdwV0v5xUBqH4EqBwLSwWSYD.jpeg&amp;w=256&amp;q=75   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F283%2FfileEstates%2FllZhAptZklmXrwbQKdwV0v5xUBqH4EqBwLSwWSYD.jpeg&amp;w=384&amp;q=75   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F283%2FfileEstates%2FllZhAptZklmXrwbQKdwV0v5xUBqH4EqBwLSwWSYD.jpeg&amp;w=640&amp;q=75   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F283%2FfileEstates%2FllZhAptZklmXrwbQKdwV0v5xUBqH4EqBwLSwWSYD.jpeg&amp;w=750&amp;q=75   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F283%2FfileEstates%2FllZhAptZklmXrwbQKdwV0v5xUBqH4EqBwLSwWSYD.jpeg&amp;w=828&amp;q=75   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F283%2FfileEstates%2FllZhAptZklmXrwbQKdwV0v5xUBqH4EqBwLSwWSYD.jpeg&amp;w=1080&amp;q=75 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F283%2FfileEstates%2FllZhAptZklmXrwbQKdwV0v5xUBqH4EqBwLSwWSYD.jpeg&amp;w=1200&amp;q=75 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F283%2FfileEstates%2FllZhAptZklmXrwbQKdwV0v5xUBqH4EqBwLSwWSYD.jpeg&amp;w=1920&amp;q=75 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F283%2FfileEstates%2FllZhAptZklmXrwbQKdwV0v5xUBqH4EqBwLSwWSYD.jpeg&amp;w=2048&amp;q=75 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F283%2FfileEstates%2FllZhAptZklmXrwbQKdwV0v5xUBqH4EqBwLSwWSYD.jpeg&amp;w=3840&amp;q=75 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F283%2FfileEstates%2FllZhAptZklmXrwbQKdwV0v5xUBqH4EqBwLSwWSYD.jpeg&amp;w=256&amp;q=75   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F283%2FfileEstates%2FllZhAptZklmXrwbQKdwV0v5xUBqH4EqBwLSwWSYD.jpeg&amp;w=384&amp;q=75   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F283%2FfileEstates%2FllZhAptZklmXrwbQKdwV0v5xUBqH4EqBwLSwWSYD.jpeg&amp;w=640&amp;q=75   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F283%2FfileEstates%2FllZhAptZklmXrwbQKdwV0v5xUBqH4EqBwLSwWSYD.jpeg&amp;w=750&amp;q=75   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F283%2FfileEstates%2FllZhAptZklmXrwbQKdwV0v5xUBqH4EqBwLSwWSYD.jpeg&amp;w=828&amp;q=75   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F283%2FfileEstates%2FllZhAptZklmXrwbQKdwV0v5xUBqH4EqBwLSwWSYD.jpeg&amp;w=1080&amp;q=75 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F283%2FfileEstates%2FllZhAptZklmXrwbQKdwV0v5xUBqH4EqBwLSwWSYD.jpeg&amp;w=1200&amp;q=75 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F283%2FfileEstates%2FllZhAptZklmXrwbQKdwV0v5xUBqH4EqBwLSwWSYD.jpeg&amp;w=1920&amp;q=75 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F283%2FfileEstates%2FllZhAptZklmXrwbQKdwV0v5xUBqH4EqBwLSwWSYD.jpeg&amp;w=2048&amp;q=75 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F283%2FfileEstates%2FllZhAptZklmXrwbQKdwV0v5xUBqH4EqBwLSwWSYD.jpeg&amp;w=3840&amp;q=75 3840w
                                   "
-                                src="plantilla/llZhAptZklmXrwbQKdwV0v5xUBqH4EqBwLSwWSYD6252.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F283%2FfileEstates%2FllZhAptZklmXrwbQKdwV0v5xUBqH4EqBwLSwWSYD.jpeg&amp;w=3840&amp;q=75"
+                                src="__next/llZhAptZklmXrwbQKdwV0v5xUBqH4EqBwLSwWSYD6252.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fclients%2Fjassan.pe%2Festates%2F283%2FfileEstates%2FllZhAptZklmXrwbQKdwV0v5xUBqH4EqBwLSwWSYD.jpeg&amp;w=3840&amp;q=75"
                                 decoding="async" data-nimg="fill" class="object-cover absolute" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -11758,18 +11777,18 @@ Será un placer atenderte." />
                               <img
                                 alt="Urb. CALIFORNIA, Colegio. San Jose Obrero, Dpto 4to PISO - Area: 120.47m2 10m2 a US$ 102,900 NEGOCIABLE"
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1415%2Fweb-agent%2FfileEstates%2F04%20PISO%20GRANADOS.png&amp;w=256&amp;q=75   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1415%2Fweb-agent%2FfileEstates%2F04%20PISO%20GRANADOS.png&amp;w=384&amp;q=75   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1415%2Fweb-agent%2FfileEstates%2F04%20PISO%20GRANADOS.png&amp;w=640&amp;q=75   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1415%2Fweb-agent%2FfileEstates%2F04%20PISO%20GRANADOS.png&amp;w=750&amp;q=75   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1415%2Fweb-agent%2FfileEstates%2F04%20PISO%20GRANADOS.png&amp;w=828&amp;q=75   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1415%2Fweb-agent%2FfileEstates%2F04%20PISO%20GRANADOS.png&amp;w=1080&amp;q=75 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1415%2Fweb-agent%2FfileEstates%2F04%20PISO%20GRANADOS.png&amp;w=1200&amp;q=75 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1415%2Fweb-agent%2FfileEstates%2F04%20PISO%20GRANADOS.png&amp;w=1920&amp;q=75 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1415%2Fweb-agent%2FfileEstates%2F04%20PISO%20GRANADOS.png&amp;w=2048&amp;q=75 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1415%2Fweb-agent%2FfileEstates%2F04%20PISO%20GRANADOS.png&amp;w=3840&amp;q=75 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1415%2Fweb-agent%2FfileEstates%2F04%20PISO%20GRANADOS.png&amp;w=256&amp;q=75   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1415%2Fweb-agent%2FfileEstates%2F04%20PISO%20GRANADOS.png&amp;w=384&amp;q=75   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1415%2Fweb-agent%2FfileEstates%2F04%20PISO%20GRANADOS.png&amp;w=640&amp;q=75   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1415%2Fweb-agent%2FfileEstates%2F04%20PISO%20GRANADOS.png&amp;w=750&amp;q=75   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1415%2Fweb-agent%2FfileEstates%2F04%20PISO%20GRANADOS.png&amp;w=828&amp;q=75   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1415%2Fweb-agent%2FfileEstates%2F04%20PISO%20GRANADOS.png&amp;w=1080&amp;q=75 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1415%2Fweb-agent%2FfileEstates%2F04%20PISO%20GRANADOS.png&amp;w=1200&amp;q=75 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1415%2Fweb-agent%2FfileEstates%2F04%20PISO%20GRANADOS.png&amp;w=1920&amp;q=75 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1415%2Fweb-agent%2FfileEstates%2F04%20PISO%20GRANADOS.png&amp;w=2048&amp;q=75 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1415%2Fweb-agent%2FfileEstates%2F04%20PISO%20GRANADOS.png&amp;w=3840&amp;q=75 3840w
                                   "
-                                src="plantilla/04%20PISO%20GRANADOS20dd.png?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1415%2Fweb-agent%2FfileEstates%2F04%20PISO%20GRANADOS.png&amp;w=3840&amp;q=75"
+                                src="__next/04%20PISO%20GRANADOS20dd.png?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1415%2Fweb-agent%2FfileEstates%2F04%20PISO%20GRANADOS.png&amp;w=3840&amp;q=75"
                                 decoding="async" data-nimg="fill" class="object-cover absolute" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -11820,18 +11839,18 @@ Será un placer atenderte." />
                             <div class="relative block h-[270px] w-full">
                               <img alt="Frente a Parque Cuzco, Venta de Departamento 03 Habitaciones"
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1427%2Fweb-agent%2FfileEstates%2FCopia%20de%20Copia%20de%20Pack%2020%20imagenes%20editables%20real%20estate.png&amp;w=256&amp;q=75   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1427%2Fweb-agent%2FfileEstates%2FCopia%20de%20Copia%20de%20Pack%2020%20imagenes%20editables%20real%20estate.png&amp;w=384&amp;q=75   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1427%2Fweb-agent%2FfileEstates%2FCopia%20de%20Copia%20de%20Pack%2020%20imagenes%20editables%20real%20estate.png&amp;w=640&amp;q=75   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1427%2Fweb-agent%2FfileEstates%2FCopia%20de%20Copia%20de%20Pack%2020%20imagenes%20editables%20real%20estate.png&amp;w=750&amp;q=75   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1427%2Fweb-agent%2FfileEstates%2FCopia%20de%20Copia%20de%20Pack%2020%20imagenes%20editables%20real%20estate.png&amp;w=828&amp;q=75   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1427%2Fweb-agent%2FfileEstates%2FCopia%20de%20Copia%20de%20Pack%2020%20imagenes%20editables%20real%20estate.png&amp;w=1080&amp;q=75 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1427%2Fweb-agent%2FfileEstates%2FCopia%20de%20Copia%20de%20Pack%2020%20imagenes%20editables%20real%20estate.png&amp;w=1200&amp;q=75 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1427%2Fweb-agent%2FfileEstates%2FCopia%20de%20Copia%20de%20Pack%2020%20imagenes%20editables%20real%20estate.png&amp;w=1920&amp;q=75 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1427%2Fweb-agent%2FfileEstates%2FCopia%20de%20Copia%20de%20Pack%2020%20imagenes%20editables%20real%20estate.png&amp;w=2048&amp;q=75 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1427%2Fweb-agent%2FfileEstates%2FCopia%20de%20Copia%20de%20Pack%2020%20imagenes%20editables%20real%20estate.png&amp;w=3840&amp;q=75 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1427%2Fweb-agent%2FfileEstates%2FCopia%20de%20Copia%20de%20Pack%2020%20imagenes%20editables%20real%20estate.png&amp;w=256&amp;q=75   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1427%2Fweb-agent%2FfileEstates%2FCopia%20de%20Copia%20de%20Pack%2020%20imagenes%20editables%20real%20estate.png&amp;w=384&amp;q=75   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1427%2Fweb-agent%2FfileEstates%2FCopia%20de%20Copia%20de%20Pack%2020%20imagenes%20editables%20real%20estate.png&amp;w=640&amp;q=75   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1427%2Fweb-agent%2FfileEstates%2FCopia%20de%20Copia%20de%20Pack%2020%20imagenes%20editables%20real%20estate.png&amp;w=750&amp;q=75   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1427%2Fweb-agent%2FfileEstates%2FCopia%20de%20Copia%20de%20Pack%2020%20imagenes%20editables%20real%20estate.png&amp;w=828&amp;q=75   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1427%2Fweb-agent%2FfileEstates%2FCopia%20de%20Copia%20de%20Pack%2020%20imagenes%20editables%20real%20estate.png&amp;w=1080&amp;q=75 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1427%2Fweb-agent%2FfileEstates%2FCopia%20de%20Copia%20de%20Pack%2020%20imagenes%20editables%20real%20estate.png&amp;w=1200&amp;q=75 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1427%2Fweb-agent%2FfileEstates%2FCopia%20de%20Copia%20de%20Pack%2020%20imagenes%20editables%20real%20estate.png&amp;w=1920&amp;q=75 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1427%2Fweb-agent%2FfileEstates%2FCopia%20de%20Copia%20de%20Pack%2020%20imagenes%20editables%20real%20estate.png&amp;w=2048&amp;q=75 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1427%2Fweb-agent%2FfileEstates%2FCopia%20de%20Copia%20de%20Pack%2020%20imagenes%20editables%20real%20estate.png&amp;w=3840&amp;q=75 3840w
                                   "
-                                src="plantilla/Copia%20de%20Copia%20de%20Pack%2020%20imagenes%20editables%20real%20estate4261.png?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1427%2Fweb-agent%2FfileEstates%2FCopia%20de%20Copia%20de%20Pack%2020%20imagenes%20editables%20real%20estate.png&amp;w=3840&amp;q=75"
+                                src="__next/Copia%20de%20Copia%20de%20Pack%2020%20imagenes%20editables%20real%20estate4261.png?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1427%2Fweb-agent%2FfileEstates%2FCopia%20de%20Copia%20de%20Pack%2020%20imagenes%20editables%20real%20estate.png&amp;w=3840&amp;q=75"
                                 decoding="async" data-nimg="fill" class="object-cover absolute" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -11884,18 +11903,18 @@ Será un placer atenderte." />
                             <div class="relative block h-[270px] w-full">
                               <img alt='3er PISO con COCHERA - Urb. CALIFORNIA Frente al colegio "San José Obrero"'
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1452%2Fweb-agent%2FfileEstates%2F20230105_112827.jpg&amp;w=256&amp;q=75   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1452%2Fweb-agent%2FfileEstates%2F20230105_112827.jpg&amp;w=384&amp;q=75   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1452%2Fweb-agent%2FfileEstates%2F20230105_112827.jpg&amp;w=640&amp;q=75   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1452%2Fweb-agent%2FfileEstates%2F20230105_112827.jpg&amp;w=750&amp;q=75   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1452%2Fweb-agent%2FfileEstates%2F20230105_112827.jpg&amp;w=828&amp;q=75   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1452%2Fweb-agent%2FfileEstates%2F20230105_112827.jpg&amp;w=1080&amp;q=75 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1452%2Fweb-agent%2FfileEstates%2F20230105_112827.jpg&amp;w=1200&amp;q=75 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1452%2Fweb-agent%2FfileEstates%2F20230105_112827.jpg&amp;w=1920&amp;q=75 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1452%2Fweb-agent%2FfileEstates%2F20230105_112827.jpg&amp;w=2048&amp;q=75 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1452%2Fweb-agent%2FfileEstates%2F20230105_112827.jpg&amp;w=3840&amp;q=75 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1452%2Fweb-agent%2FfileEstates%2F20230105_112827.jpg&amp;w=256&amp;q=75   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1452%2Fweb-agent%2FfileEstates%2F20230105_112827.jpg&amp;w=384&amp;q=75   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1452%2Fweb-agent%2FfileEstates%2F20230105_112827.jpg&amp;w=640&amp;q=75   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1452%2Fweb-agent%2FfileEstates%2F20230105_112827.jpg&amp;w=750&amp;q=75   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1452%2Fweb-agent%2FfileEstates%2F20230105_112827.jpg&amp;w=828&amp;q=75   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1452%2Fweb-agent%2FfileEstates%2F20230105_112827.jpg&amp;w=1080&amp;q=75 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1452%2Fweb-agent%2FfileEstates%2F20230105_112827.jpg&amp;w=1200&amp;q=75 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1452%2Fweb-agent%2FfileEstates%2F20230105_112827.jpg&amp;w=1920&amp;q=75 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1452%2Fweb-agent%2FfileEstates%2F20230105_112827.jpg&amp;w=2048&amp;q=75 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1452%2Fweb-agent%2FfileEstates%2F20230105_112827.jpg&amp;w=3840&amp;q=75 3840w
                                   "
-                                src="plantilla/20230105_1128272986.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1452%2Fweb-agent%2FfileEstates%2F20230105_112827.jpg&amp;w=3840&amp;q=75"
+                                src="__next/20230105_1128272986.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1452%2Fweb-agent%2FfileEstates%2F20230105_112827.jpg&amp;w=3840&amp;q=75"
                                 decoding="async" data-nimg="fill" class="object-cover absolute" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -11949,18 +11968,18 @@ Será un placer atenderte." />
                             <div class="relative block h-[270px] w-full">
                               <img alt='Vive FRENTE PARQUE "Pablo PICASSO" URB. EL BOSQUE - 4to Piso 96m2 + 04 Tendal'
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1453%2Fweb-agent%2FfileEstates%2Fdepartamento_en_trujillo_por_jassan_monica.png&amp;w=256&amp;q=75   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1453%2Fweb-agent%2FfileEstates%2Fdepartamento_en_trujillo_por_jassan_monica.png&amp;w=384&amp;q=75   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1453%2Fweb-agent%2FfileEstates%2Fdepartamento_en_trujillo_por_jassan_monica.png&amp;w=640&amp;q=75   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1453%2Fweb-agent%2FfileEstates%2Fdepartamento_en_trujillo_por_jassan_monica.png&amp;w=750&amp;q=75   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1453%2Fweb-agent%2FfileEstates%2Fdepartamento_en_trujillo_por_jassan_monica.png&amp;w=828&amp;q=75   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1453%2Fweb-agent%2FfileEstates%2Fdepartamento_en_trujillo_por_jassan_monica.png&amp;w=1080&amp;q=75 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1453%2Fweb-agent%2FfileEstates%2Fdepartamento_en_trujillo_por_jassan_monica.png&amp;w=1200&amp;q=75 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1453%2Fweb-agent%2FfileEstates%2Fdepartamento_en_trujillo_por_jassan_monica.png&amp;w=1920&amp;q=75 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1453%2Fweb-agent%2FfileEstates%2Fdepartamento_en_trujillo_por_jassan_monica.png&amp;w=2048&amp;q=75 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1453%2Fweb-agent%2FfileEstates%2Fdepartamento_en_trujillo_por_jassan_monica.png&amp;w=3840&amp;q=75 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1453%2Fweb-agent%2FfileEstates%2Fdepartamento_en_trujillo_por_jassan_monica.png&amp;w=256&amp;q=75   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1453%2Fweb-agent%2FfileEstates%2Fdepartamento_en_trujillo_por_jassan_monica.png&amp;w=384&amp;q=75   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1453%2Fweb-agent%2FfileEstates%2Fdepartamento_en_trujillo_por_jassan_monica.png&amp;w=640&amp;q=75   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1453%2Fweb-agent%2FfileEstates%2Fdepartamento_en_trujillo_por_jassan_monica.png&amp;w=750&amp;q=75   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1453%2Fweb-agent%2FfileEstates%2Fdepartamento_en_trujillo_por_jassan_monica.png&amp;w=828&amp;q=75   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1453%2Fweb-agent%2FfileEstates%2Fdepartamento_en_trujillo_por_jassan_monica.png&amp;w=1080&amp;q=75 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1453%2Fweb-agent%2FfileEstates%2Fdepartamento_en_trujillo_por_jassan_monica.png&amp;w=1200&amp;q=75 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1453%2Fweb-agent%2FfileEstates%2Fdepartamento_en_trujillo_por_jassan_monica.png&amp;w=1920&amp;q=75 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1453%2Fweb-agent%2FfileEstates%2Fdepartamento_en_trujillo_por_jassan_monica.png&amp;w=2048&amp;q=75 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1453%2Fweb-agent%2FfileEstates%2Fdepartamento_en_trujillo_por_jassan_monica.png&amp;w=3840&amp;q=75 3840w
                                   "
-                                src="plantilla/departamento_en_trujillo_por_jassan_monicaf8ad.png?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1453%2Fweb-agent%2FfileEstates%2Fdepartamento_en_trujillo_por_jassan_monica.png&amp;w=3840&amp;q=75"
+                                src="__next/departamento_en_trujillo_por_jassan_monicaf8ad.png?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1453%2Fweb-agent%2FfileEstates%2Fdepartamento_en_trujillo_por_jassan_monica.png&amp;w=3840&amp;q=75"
                                 decoding="async" data-nimg="fill" class="object-cover absolute" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -12012,18 +12031,18 @@ Será un placer atenderte." />
                             <div class="relative block h-[270px] w-full">
                               <img alt='A 02 Cuadras "MALL de TRUJILLO", 1er PISO de 02 dormitorios con 86m2 a $ 62.500'
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1479%2Fweb-agent%2FfileEstates%2F1er%20piso.png&amp;w=256&amp;q=75   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1479%2Fweb-agent%2FfileEstates%2F1er%20piso.png&amp;w=384&amp;q=75   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1479%2Fweb-agent%2FfileEstates%2F1er%20piso.png&amp;w=640&amp;q=75   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1479%2Fweb-agent%2FfileEstates%2F1er%20piso.png&amp;w=750&amp;q=75   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1479%2Fweb-agent%2FfileEstates%2F1er%20piso.png&amp;w=828&amp;q=75   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1479%2Fweb-agent%2FfileEstates%2F1er%20piso.png&amp;w=1080&amp;q=75 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1479%2Fweb-agent%2FfileEstates%2F1er%20piso.png&amp;w=1200&amp;q=75 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1479%2Fweb-agent%2FfileEstates%2F1er%20piso.png&amp;w=1920&amp;q=75 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1479%2Fweb-agent%2FfileEstates%2F1er%20piso.png&amp;w=2048&amp;q=75 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1479%2Fweb-agent%2FfileEstates%2F1er%20piso.png&amp;w=3840&amp;q=75 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1479%2Fweb-agent%2FfileEstates%2F1er%20piso.png&amp;w=256&amp;q=75   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1479%2Fweb-agent%2FfileEstates%2F1er%20piso.png&amp;w=384&amp;q=75   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1479%2Fweb-agent%2FfileEstates%2F1er%20piso.png&amp;w=640&amp;q=75   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1479%2Fweb-agent%2FfileEstates%2F1er%20piso.png&amp;w=750&amp;q=75   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1479%2Fweb-agent%2FfileEstates%2F1er%20piso.png&amp;w=828&amp;q=75   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1479%2Fweb-agent%2FfileEstates%2F1er%20piso.png&amp;w=1080&amp;q=75 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1479%2Fweb-agent%2FfileEstates%2F1er%20piso.png&amp;w=1200&amp;q=75 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1479%2Fweb-agent%2FfileEstates%2F1er%20piso.png&amp;w=1920&amp;q=75 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1479%2Fweb-agent%2FfileEstates%2F1er%20piso.png&amp;w=2048&amp;q=75 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1479%2Fweb-agent%2FfileEstates%2F1er%20piso.png&amp;w=3840&amp;q=75 3840w
                                   "
-                                src="plantilla/1er%20piso1f9d.png?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1479%2Fweb-agent%2FfileEstates%2F1er%20piso.png&amp;w=3840&amp;q=75"
+                                src="__next/1er%20piso1f9d.png?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1479%2Fweb-agent%2FfileEstates%2F1er%20piso.png&amp;w=3840&amp;q=75"
                                 decoding="async" data-nimg="fill" class="object-cover absolute" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -12079,18 +12098,18 @@ Será un placer atenderte." />
                             <div class="relative block h-[270px] w-full">
                               <img alt='Cerca a "UPN SAN ISIDRO" 5to PISO de ESTRENO con 96.50m2 a $ 64.900'
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1484%2Fweb-agent%2FfileEstates%2F5t%20piso.png&amp;w=256&amp;q=75   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1484%2Fweb-agent%2FfileEstates%2F5t%20piso.png&amp;w=384&amp;q=75   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1484%2Fweb-agent%2FfileEstates%2F5t%20piso.png&amp;w=640&amp;q=75   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1484%2Fweb-agent%2FfileEstates%2F5t%20piso.png&amp;w=750&amp;q=75   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1484%2Fweb-agent%2FfileEstates%2F5t%20piso.png&amp;w=828&amp;q=75   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1484%2Fweb-agent%2FfileEstates%2F5t%20piso.png&amp;w=1080&amp;q=75 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1484%2Fweb-agent%2FfileEstates%2F5t%20piso.png&amp;w=1200&amp;q=75 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1484%2Fweb-agent%2FfileEstates%2F5t%20piso.png&amp;w=1920&amp;q=75 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1484%2Fweb-agent%2FfileEstates%2F5t%20piso.png&amp;w=2048&amp;q=75 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1484%2Fweb-agent%2FfileEstates%2F5t%20piso.png&amp;w=3840&amp;q=75 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1484%2Fweb-agent%2FfileEstates%2F5t%20piso.png&amp;w=256&amp;q=75   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1484%2Fweb-agent%2FfileEstates%2F5t%20piso.png&amp;w=384&amp;q=75   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1484%2Fweb-agent%2FfileEstates%2F5t%20piso.png&amp;w=640&amp;q=75   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1484%2Fweb-agent%2FfileEstates%2F5t%20piso.png&amp;w=750&amp;q=75   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1484%2Fweb-agent%2FfileEstates%2F5t%20piso.png&amp;w=828&amp;q=75   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1484%2Fweb-agent%2FfileEstates%2F5t%20piso.png&amp;w=1080&amp;q=75 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1484%2Fweb-agent%2FfileEstates%2F5t%20piso.png&amp;w=1200&amp;q=75 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1484%2Fweb-agent%2FfileEstates%2F5t%20piso.png&amp;w=1920&amp;q=75 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1484%2Fweb-agent%2FfileEstates%2F5t%20piso.png&amp;w=2048&amp;q=75 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1484%2Fweb-agent%2FfileEstates%2F5t%20piso.png&amp;w=3840&amp;q=75 3840w
                                   "
-                                src="plantilla/5t%20piso5210.png?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1484%2Fweb-agent%2FfileEstates%2F5t%20piso.png&amp;w=3840&amp;q=75"
+                                src="__next/5t%20piso5210.png?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1484%2Fweb-agent%2FfileEstates%2F5t%20piso.png&amp;w=3840&amp;q=75"
                                 decoding="async" data-nimg="fill" class="object-cover absolute" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -12145,18 +12164,18 @@ Será un placer atenderte." />
                             <div class="relative block h-[270px] w-full">
                               <img alt='OCASIÓN: 3er PISO, ESTRENO Cerca a "UPN SAN ISIDRO" de 97.20m2 a $ 76.900'
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1485%2Fweb-agent%2FfileEstates%2F3er%20piso.png&amp;w=256&amp;q=75   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1485%2Fweb-agent%2FfileEstates%2F3er%20piso.png&amp;w=384&amp;q=75   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1485%2Fweb-agent%2FfileEstates%2F3er%20piso.png&amp;w=640&amp;q=75   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1485%2Fweb-agent%2FfileEstates%2F3er%20piso.png&amp;w=750&amp;q=75   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1485%2Fweb-agent%2FfileEstates%2F3er%20piso.png&amp;w=828&amp;q=75   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1485%2Fweb-agent%2FfileEstates%2F3er%20piso.png&amp;w=1080&amp;q=75 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1485%2Fweb-agent%2FfileEstates%2F3er%20piso.png&amp;w=1200&amp;q=75 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1485%2Fweb-agent%2FfileEstates%2F3er%20piso.png&amp;w=1920&amp;q=75 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1485%2Fweb-agent%2FfileEstates%2F3er%20piso.png&amp;w=2048&amp;q=75 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1485%2Fweb-agent%2FfileEstates%2F3er%20piso.png&amp;w=3840&amp;q=75 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1485%2Fweb-agent%2FfileEstates%2F3er%20piso.png&amp;w=256&amp;q=75   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1485%2Fweb-agent%2FfileEstates%2F3er%20piso.png&amp;w=384&amp;q=75   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1485%2Fweb-agent%2FfileEstates%2F3er%20piso.png&amp;w=640&amp;q=75   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1485%2Fweb-agent%2FfileEstates%2F3er%20piso.png&amp;w=750&amp;q=75   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1485%2Fweb-agent%2FfileEstates%2F3er%20piso.png&amp;w=828&amp;q=75   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1485%2Fweb-agent%2FfileEstates%2F3er%20piso.png&amp;w=1080&amp;q=75 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1485%2Fweb-agent%2FfileEstates%2F3er%20piso.png&amp;w=1200&amp;q=75 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1485%2Fweb-agent%2FfileEstates%2F3er%20piso.png&amp;w=1920&amp;q=75 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1485%2Fweb-agent%2FfileEstates%2F3er%20piso.png&amp;w=2048&amp;q=75 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1485%2Fweb-agent%2FfileEstates%2F3er%20piso.png&amp;w=3840&amp;q=75 3840w
                                   "
-                                src="plantilla/3er%20piso8c06.png?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1485%2Fweb-agent%2FfileEstates%2F3er%20piso.png&amp;w=3840&amp;q=75"
+                                src="__next/3er%20piso8c06.png?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1485%2Fweb-agent%2FfileEstates%2F3er%20piso.png&amp;w=3840&amp;q=75"
                                 decoding="async" data-nimg="fill" class="object-cover absolute" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -12208,18 +12227,18 @@ Será un placer atenderte." />
                             <div class="relative block h-[270px] w-full">
                               <img alt='ESTRENO: 4to Piso Cerca a "Mall Aventura Plaza" de 97.38m2 a $ 69.900'
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1486%2Fweb-agent%2FfileEstates%2F4t%20piso.png&amp;w=256&amp;q=75   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1486%2Fweb-agent%2FfileEstates%2F4t%20piso.png&amp;w=384&amp;q=75   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1486%2Fweb-agent%2FfileEstates%2F4t%20piso.png&amp;w=640&amp;q=75   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1486%2Fweb-agent%2FfileEstates%2F4t%20piso.png&amp;w=750&amp;q=75   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1486%2Fweb-agent%2FfileEstates%2F4t%20piso.png&amp;w=828&amp;q=75   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1486%2Fweb-agent%2FfileEstates%2F4t%20piso.png&amp;w=1080&amp;q=75 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1486%2Fweb-agent%2FfileEstates%2F4t%20piso.png&amp;w=1200&amp;q=75 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1486%2Fweb-agent%2FfileEstates%2F4t%20piso.png&amp;w=1920&amp;q=75 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1486%2Fweb-agent%2FfileEstates%2F4t%20piso.png&amp;w=2048&amp;q=75 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1486%2Fweb-agent%2FfileEstates%2F4t%20piso.png&amp;w=3840&amp;q=75 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1486%2Fweb-agent%2FfileEstates%2F4t%20piso.png&amp;w=256&amp;q=75   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1486%2Fweb-agent%2FfileEstates%2F4t%20piso.png&amp;w=384&amp;q=75   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1486%2Fweb-agent%2FfileEstates%2F4t%20piso.png&amp;w=640&amp;q=75   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1486%2Fweb-agent%2FfileEstates%2F4t%20piso.png&amp;w=750&amp;q=75   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1486%2Fweb-agent%2FfileEstates%2F4t%20piso.png&amp;w=828&amp;q=75   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1486%2Fweb-agent%2FfileEstates%2F4t%20piso.png&amp;w=1080&amp;q=75 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1486%2Fweb-agent%2FfileEstates%2F4t%20piso.png&amp;w=1200&amp;q=75 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1486%2Fweb-agent%2FfileEstates%2F4t%20piso.png&amp;w=1920&amp;q=75 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1486%2Fweb-agent%2FfileEstates%2F4t%20piso.png&amp;w=2048&amp;q=75 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1486%2Fweb-agent%2FfileEstates%2F4t%20piso.png&amp;w=3840&amp;q=75 3840w
                                   "
-                                src="plantilla/4t%20piso26c3.png?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1486%2Fweb-agent%2FfileEstates%2F4t%20piso.png&amp;w=3840&amp;q=75"
+                                src="__next/4t%20piso26c3.png?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1486%2Fweb-agent%2FfileEstates%2F4t%20piso.png&amp;w=3840&amp;q=75"
                                 decoding="async" data-nimg="fill" class="object-cover absolute" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -12270,18 +12289,18 @@ Será un placer atenderte." />
                               <img
                                 alt='A 150metros de "UCV", VENDO CASA 02PISOS + AZOTÉA + COCHERA para 02 CAMIONETAS US$ 253,900'
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1496%2Fweb-agent%2FfileEstates%2FVENTA%20CASA%20A%20150%20METROS%20DE%20UCV_JASSAN_MONICA%20(4).png&amp;w=256&amp;q=75   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1496%2Fweb-agent%2FfileEstates%2FVENTA%20CASA%20A%20150%20METROS%20DE%20UCV_JASSAN_MONICA%20(4).png&amp;w=384&amp;q=75   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1496%2Fweb-agent%2FfileEstates%2FVENTA%20CASA%20A%20150%20METROS%20DE%20UCV_JASSAN_MONICA%20(4).png&amp;w=640&amp;q=75   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1496%2Fweb-agent%2FfileEstates%2FVENTA%20CASA%20A%20150%20METROS%20DE%20UCV_JASSAN_MONICA%20(4).png&amp;w=750&amp;q=75   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1496%2Fweb-agent%2FfileEstates%2FVENTA%20CASA%20A%20150%20METROS%20DE%20UCV_JASSAN_MONICA%20(4).png&amp;w=828&amp;q=75   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1496%2Fweb-agent%2FfileEstates%2FVENTA%20CASA%20A%20150%20METROS%20DE%20UCV_JASSAN_MONICA%20(4).png&amp;w=1080&amp;q=75 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1496%2Fweb-agent%2FfileEstates%2FVENTA%20CASA%20A%20150%20METROS%20DE%20UCV_JASSAN_MONICA%20(4).png&amp;w=1200&amp;q=75 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1496%2Fweb-agent%2FfileEstates%2FVENTA%20CASA%20A%20150%20METROS%20DE%20UCV_JASSAN_MONICA%20(4).png&amp;w=1920&amp;q=75 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1496%2Fweb-agent%2FfileEstates%2FVENTA%20CASA%20A%20150%20METROS%20DE%20UCV_JASSAN_MONICA%20(4).png&amp;w=2048&amp;q=75 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1496%2Fweb-agent%2FfileEstates%2FVENTA%20CASA%20A%20150%20METROS%20DE%20UCV_JASSAN_MONICA%20(4).png&amp;w=3840&amp;q=75 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1496%2Fweb-agent%2FfileEstates%2FVENTA%20CASA%20A%20150%20METROS%20DE%20UCV_JASSAN_MONICA%20(4).png&amp;w=256&amp;q=75   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1496%2Fweb-agent%2FfileEstates%2FVENTA%20CASA%20A%20150%20METROS%20DE%20UCV_JASSAN_MONICA%20(4).png&amp;w=384&amp;q=75   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1496%2Fweb-agent%2FfileEstates%2FVENTA%20CASA%20A%20150%20METROS%20DE%20UCV_JASSAN_MONICA%20(4).png&amp;w=640&amp;q=75   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1496%2Fweb-agent%2FfileEstates%2FVENTA%20CASA%20A%20150%20METROS%20DE%20UCV_JASSAN_MONICA%20(4).png&amp;w=750&amp;q=75   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1496%2Fweb-agent%2FfileEstates%2FVENTA%20CASA%20A%20150%20METROS%20DE%20UCV_JASSAN_MONICA%20(4).png&amp;w=828&amp;q=75   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1496%2Fweb-agent%2FfileEstates%2FVENTA%20CASA%20A%20150%20METROS%20DE%20UCV_JASSAN_MONICA%20(4).png&amp;w=1080&amp;q=75 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1496%2Fweb-agent%2FfileEstates%2FVENTA%20CASA%20A%20150%20METROS%20DE%20UCV_JASSAN_MONICA%20(4).png&amp;w=1200&amp;q=75 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1496%2Fweb-agent%2FfileEstates%2FVENTA%20CASA%20A%20150%20METROS%20DE%20UCV_JASSAN_MONICA%20(4).png&amp;w=1920&amp;q=75 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1496%2Fweb-agent%2FfileEstates%2FVENTA%20CASA%20A%20150%20METROS%20DE%20UCV_JASSAN_MONICA%20(4).png&amp;w=2048&amp;q=75 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1496%2Fweb-agent%2FfileEstates%2FVENTA%20CASA%20A%20150%20METROS%20DE%20UCV_JASSAN_MONICA%20(4).png&amp;w=3840&amp;q=75 3840w
                                   "
-                                src="plantilla/VENTA%20CASA%20A%20150%20METROS%20DE%20UCV_JASSAN_MONICA%20(4)1582.png?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1496%2Fweb-agent%2FfileEstates%2FVENTA%20CASA%20A%20150%20METROS%20DE%20UCV_JASSAN_MONICA%20(4).png&amp;w=3840&amp;q=75"
+                                src="__next/VENTA%20CASA%20A%20150%20METROS%20DE%20UCV_JASSAN_MONICA%20(4)1582.png?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1496%2Fweb-agent%2FfileEstates%2FVENTA%20CASA%20A%20150%20METROS%20DE%20UCV_JASSAN_MONICA%20(4).png&amp;w=3840&amp;q=75"
                                 decoding="async" data-nimg="fill" class="object-cover absolute" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -12334,18 +12353,18 @@ Será un placer atenderte." />
                             <div class="relative block h-[270px] w-full">
                               <img alt="1er PISO FRENTE A PARQUE y Cerca a la UCV"
                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw" srcset="
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1498%2Fweb-agent%2FfileEstates%2FWhatsApp%20Image%202023-02-22%20at%2016.04.06.jpeg&amp;w=256&amp;q=75   256w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1498%2Fweb-agent%2FfileEstates%2FWhatsApp%20Image%202023-02-22%20at%2016.04.06.jpeg&amp;w=384&amp;q=75   384w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1498%2Fweb-agent%2FfileEstates%2FWhatsApp%20Image%202023-02-22%20at%2016.04.06.jpeg&amp;w=640&amp;q=75   640w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1498%2Fweb-agent%2FfileEstates%2FWhatsApp%20Image%202023-02-22%20at%2016.04.06.jpeg&amp;w=750&amp;q=75   750w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1498%2Fweb-agent%2FfileEstates%2FWhatsApp%20Image%202023-02-22%20at%2016.04.06.jpeg&amp;w=828&amp;q=75   828w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1498%2Fweb-agent%2FfileEstates%2FWhatsApp%20Image%202023-02-22%20at%2016.04.06.jpeg&amp;w=1080&amp;q=75 1080w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1498%2Fweb-agent%2FfileEstates%2FWhatsApp%20Image%202023-02-22%20at%2016.04.06.jpeg&amp;w=1200&amp;q=75 1200w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1498%2Fweb-agent%2FfileEstates%2FWhatsApp%20Image%202023-02-22%20at%2016.04.06.jpeg&amp;w=1920&amp;q=75 1920w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1498%2Fweb-agent%2FfileEstates%2FWhatsApp%20Image%202023-02-22%20at%2016.04.06.jpeg&amp;w=2048&amp;q=75 2048w,
-                                    /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1498%2Fweb-agent%2FfileEstates%2FWhatsApp%20Image%202023-02-22%20at%2016.04.06.jpeg&amp;w=3840&amp;q=75 3840w
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1498%2Fweb-agent%2FfileEstates%2FWhatsApp%20Image%202023-02-22%20at%2016.04.06.jpeg&amp;w=256&amp;q=75   256w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1498%2Fweb-agent%2FfileEstates%2FWhatsApp%20Image%202023-02-22%20at%2016.04.06.jpeg&amp;w=384&amp;q=75   384w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1498%2Fweb-agent%2FfileEstates%2FWhatsApp%20Image%202023-02-22%20at%2016.04.06.jpeg&amp;w=640&amp;q=75   640w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1498%2Fweb-agent%2FfileEstates%2FWhatsApp%20Image%202023-02-22%20at%2016.04.06.jpeg&amp;w=750&amp;q=75   750w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1498%2Fweb-agent%2FfileEstates%2FWhatsApp%20Image%202023-02-22%20at%2016.04.06.jpeg&amp;w=828&amp;q=75   828w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1498%2Fweb-agent%2FfileEstates%2FWhatsApp%20Image%202023-02-22%20at%2016.04.06.jpeg&amp;w=1080&amp;q=75 1080w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1498%2Fweb-agent%2FfileEstates%2FWhatsApp%20Image%202023-02-22%20at%2016.04.06.jpeg&amp;w=1200&amp;q=75 1200w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1498%2Fweb-agent%2FfileEstates%2FWhatsApp%20Image%202023-02-22%20at%2016.04.06.jpeg&amp;w=1920&amp;q=75 1920w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1498%2Fweb-agent%2FfileEstates%2FWhatsApp%20Image%202023-02-22%20at%2016.04.06.jpeg&amp;w=2048&amp;q=75 2048w,
+                                    /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1498%2Fweb-agent%2FfileEstates%2FWhatsApp%20Image%202023-02-22%20at%2016.04.06.jpeg&amp;w=3840&amp;q=75 3840w
                                   "
-                                src="plantilla/WhatsApp%20Image%202023-02-22%20at%2016e5ea.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1498%2Fweb-agent%2FfileEstates%2FWhatsApp%20Image%202023-02-22%20at%2016.04.06.jpeg&amp;w=3840&amp;q=75"
+                                src="__next/WhatsApp%20Image%202023-02-22%20at%2016e5ea.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Festates%2F1498%2Fweb-agent%2FfileEstates%2FWhatsApp%20Image%202023-02-22%20at%2016.04.06.jpeg&amp;w=3840&amp;q=75"
                                 decoding="async" data-nimg="fill" class="object-cover absolute" loading="lazy" style="
                                     position: absolute;
                                     height: 100%;
@@ -12406,16 +12425,16 @@ Será un placer atenderte." />
             <div class="relative z-[3] h-full">
               <div class="hidden md:block absolute left-0 top-0 w-[50%] h-full p-5">
                 <img alt="Jassan " sizes="100vw" srcset="
-                      /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Fweb-agent%2Ffiles%2Fjassan_mejor_agente_inmobiliario.jpg&amp;w=640&amp;q=100   640w,
-                      /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Fweb-agent%2Ffiles%2Fjassan_mejor_agente_inmobiliario.jpg&amp;w=750&amp;q=100   750w,
-                      /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Fweb-agent%2Ffiles%2Fjassan_mejor_agente_inmobiliario.jpg&amp;w=828&amp;q=100   828w,
-                      /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Fweb-agent%2Ffiles%2Fjassan_mejor_agente_inmobiliario.jpg&amp;w=1080&amp;q=100 1080w,
-                      /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Fweb-agent%2Ffiles%2Fjassan_mejor_agente_inmobiliario.jpg&amp;w=1200&amp;q=100 1200w,
-                      /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Fweb-agent%2Ffiles%2Fjassan_mejor_agente_inmobiliario.jpg&amp;w=1920&amp;q=100 1920w,
-                      /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Fweb-agent%2Ffiles%2Fjassan_mejor_agente_inmobiliario.jpg&amp;w=2048&amp;q=100 2048w,
-                      /plantilla/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Fweb-agent%2Ffiles%2Fjassan_mejor_agente_inmobiliario.jpg&amp;w=3840&amp;q=100 3840w
+                      /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Fweb-agent%2Ffiles%2Fjassan_mejor_agente_inmobiliario.jpg&amp;w=640&amp;q=100   640w,
+                      /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Fweb-agent%2Ffiles%2Fjassan_mejor_agente_inmobiliario.jpg&amp;w=750&amp;q=100   750w,
+                      /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Fweb-agent%2Ffiles%2Fjassan_mejor_agente_inmobiliario.jpg&amp;w=828&amp;q=100   828w,
+                      /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Fweb-agent%2Ffiles%2Fjassan_mejor_agente_inmobiliario.jpg&amp;w=1080&amp;q=100 1080w,
+                      /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Fweb-agent%2Ffiles%2Fjassan_mejor_agente_inmobiliario.jpg&amp;w=1200&amp;q=100 1200w,
+                      /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Fweb-agent%2Ffiles%2Fjassan_mejor_agente_inmobiliario.jpg&amp;w=1920&amp;q=100 1920w,
+                      /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Fweb-agent%2Ffiles%2Fjassan_mejor_agente_inmobiliario.jpg&amp;w=2048&amp;q=100 2048w,
+                      /__next/image?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Fweb-agent%2Ffiles%2Fjassan_mejor_agente_inmobiliario.jpg&amp;w=3840&amp;q=100 3840w
                     "
-                  src="plantilla/jassan_mejor_agente_inmobiliario151d.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Fweb-agent%2Ffiles%2Fjassan_mejor_agente_inmobiliario.jpg&amp;w=3840&amp;q=100"
+                  src="__next/jassan_mejor_agente_inmobiliario151d.jpg?url=https%3A%2F%2Fd24j6y5ovulk7n.cloudfront.net%2Fagent%2F35%2Fweb-agent%2Ffiles%2Fjassan_mejor_agente_inmobiliario.jpg&amp;w=3840&amp;q=100"
                   decoding="async" data-nimg="fill" class="object-cover absolute" loading="lazy" style="
                       position: absolute;
                       height: 100%;
@@ -12597,7 +12616,7 @@ Será un placer atenderte." />
       </div>
     </div>
   </div>
-  <script id="_plantilla_DATA__" type="application/json">
+  <script id="__NEXT_DATA__" type="application/json">
       {
         "props": {
           "pageProps": {

@@ -59,7 +59,11 @@ Route::group(['prefix' => 'admin'], function () {
 		//---------------------------PERFIL------------------------------------------------------//
         Route::get('perfil', [PerfilController::class,'index'])->name('perfil.index');
 		Route::post('perfil/store',[PerfilController::class,'store'])->name('perfil.store');
-		
+		Route::post('perfil/video',[PerfilController::class,'storeVideo'])->name('perfil.video');
+		Route::post('perfil-video/delete', [PerfilController::class,'deleteVideo'])->name('perfil-video.delete');
+		Route::post('perfil/foto',[PerfilController::class,'storeFoto'])->name('perfil.foto');
+		Route::post('perfil-foto/delete', [PerfilController::class,'deleteFoto'])->name('perfil-foto.delete');
+		Route::post('perfil-foto/portada', [PerfilController::class,'Portada'])->name('perfil-foto.portada');
 		//-----------------------------------------------------------------------------------------------//
 		//---------------------------PROPIEDADES------------------------------------------------------//
         Route::get('propiedades', [PropiedadController::class,'activos'])->name('activos.index');

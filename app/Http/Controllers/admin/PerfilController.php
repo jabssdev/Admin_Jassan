@@ -9,6 +9,8 @@ use App\Models\Per_Redes;
 use App\Models\Per_Adicional;
 use App\Models\Per_Foto;
 use App\Models\Per_Video;
+use App\Models\Perfil_Foto;
+use App\Models\Perfil_Video;
 use App\Models\User;
 use DB;
 class PerfilController extends Controller
@@ -17,9 +19,9 @@ class PerfilController extends Controller
         $per_informacion=Per_Informacion::find(1);
         $per_redes=Per_Redes::find(1);
         $per_adicional=Per_Adicional::find(1);
-        $per_foto=Per_Foto::find(1);
-        $per_video=Per_Video::find(1);
-        return view('admin.perfil.index')->with(compact('per_informacion','per_redes','per_adicional','per_foto','per_video'));
+        $videos=Perfil_Video::all();
+        $fotos=Perfil_Foto::all();
+        return view('admin.perfil.index')->with(compact('per_informacion','per_redes','per_adicional','videos','fotos'));
     }
 
     public function store(Request $request){
@@ -132,459 +134,83 @@ class PerfilController extends Controller
                 }
                 
             }
-            //---------------------------------------------------------------//
-            $per_foto=Per_Foto::where('id',1)->first();
-            if(isset($per_foto)){
-                
-                
-                
-                if ($request->file('imagen1')) {
-
-                    
-        
-                    $file = $request->file('imagen1');
-                    $name = 'perfil_imagen1'.'_' . time() . '.' . $file->getClientOriginalExtension();
-                    $path = public_path() . '/img_perfil/';
-                    $file->move($path, $name);
-        
-                    $per_foto->imagen1 = $name;
-                }
-                if ($request->file('imagen2')) {
-
-                   
-        
-                    $file = $request->file('imagen2');
-                    $name = 'perfil_imagen2'.'_' . time() . '.' . $file->getClientOriginalExtension();
-                    $path = public_path() . '/img_perfil/';
-                    $file->move($path, $name);
-        
-                    $per_foto->imagen2 = $name;
-                }
-                if ($request->file('imagen3')) {
-
-                    
-        
-                    $file = $request->file('imagen3');
-                    $name = 'perfil_imagen3'.'_' . time() . '.' . $file->getClientOriginalExtension();
-                    $path = public_path() . '/img_perfil/';
-                    $file->move($path, $name);
-        
-                    $per_foto->imagen3 = $name;
-                }
-                if ($request->file('imagen4')) {
-
-                   
-                    $file = $request->file('imagen4');
-                    $name = 'perfil_imagen4'.'_' . time() . '.' . $file->getClientOriginalExtension();
-                    $path = public_path() . '/img_perfil/';
-                    $file->move($path, $name);
-        
-                    $per_foto->imagen4 = $name;
-                }
-                if ($request->file('imagen5')) {
-
-                    
-                    $file = $request->file('imagen5');
-                    $name = 'perfil_imagen5'.'_' . time() . '.' . $file->getClientOriginalExtension();
-                    $path = public_path() . '/img_perfil/';
-                    $file->move($path, $name);
-        
-                    $per_foto->imagen5 = $name;
-                }
-                if ($request->file('imagen6')) {
-
-                   
-        
-                    $file = $request->file('imagen6');
-                    $name = 'perfil_imagen6'.'_' . time() . '.' . $file->getClientOriginalExtension();
-                    $path = public_path() . '/img_perfil/';
-                    $file->move($path, $name);
-        
-                    $per_foto->imagen6 = $name;
-                }
-                if ($request->file('imagen7')) {
-
-                    
-                    $file = $request->file('imagen7');
-                    $name = 'perfil_imagen7'.'_' . time() . '.' . $file->getClientOriginalExtension();
-                    $path = public_path() . '/img_perfil/';
-                    $file->move($path, $name);
-        
-                    $per_foto->imagen7 = $name;
-                }
-                if ($request->file('imagen8')) {
-
-                    
-        
-                    $file = $request->file('imagen8');
-                    $name = 'perfil_imagen8'.'_' . time() . '.' . $file->getClientOriginalExtension();
-                    $path = public_path() . '/img_perfil/';
-                    $file->move($path, $name);
-        
-                    $per_foto->imagen8 = $name;
-                }
-                if ($request->file('imagen9')) {
-
-                    
-        
-                    $file = $request->file('imagen9');
-                    $name = 'perfil_imagen9'.'_' . time() . '.' . $file->getClientOriginalExtension();
-                    $path = public_path() . '/img_perfil/';
-                    $file->move($path, $name);
-        
-                    $per_foto->imagen9 = $name;
-                }
-                if ($request->file('imagen10')) {
-
-                    
-        
-                    $file = $request->file('imagen10');
-                    $name = 'perfil_imagen10'.'_' . time() . '.' . $file->getClientOriginalExtension();
-                    $path = public_path() . '/img_perfil/';
-                    $file->move($path, $name);
-        
-                    $per_foto->imagen10 = $name;
-                }
-                if ($request->file('imagen11')) {
-
-                    
-        
-                    $file = $request->file('imagen11');
-                    $name = 'perfil_imagen11'.'_' . time() . '.' . $file->getClientOriginalExtension();
-                    $path = public_path() . '/img_perfil/';
-                    $file->move($path, $name);
-        
-                    $per_foto->imagen11 = $name;
-                }
-                $per_foto->portada=$request->portada;
-                $per_foto->save();    
-                
-                
-                
-            }else{
-                $per_foto = new Per_Foto();
-                
-                
-                if ($request->file('imagen1')) {
-                    $file = $request->file('imagen1');
-                    $name = 'perfil_imagen1'.'_' . time() . '.' . $file->getClientOriginalExtension();
-                    $path = public_path() . '/img_perfil/';
-                    $file->move($path, $name);
             
-                    $per_foto->imagen1 = $name;
-                }
-                if ($request->file('imagen2')) {
-                    $file = $request->file('imagen2');
-                    $name = 'perfil_imagen2'.'_' . time() . '.' . $file->getClientOriginalExtension();
-                    $path = public_path() . '/img_perfil/';
-                    $file->move($path, $name);
-            
-                    $per_foto->imagen2 = $name;
-                }
-                if ($request->file('imagen3')) {
-                    $file = $request->file('imagen3');
-                    $name = 'perfil_imagen3'.'_' . time() . '.' . $file->getClientOriginalExtension();
-                    $path = public_path() . '/img_perfil/';
-                    $file->move($path, $name);
-            
-                    $per_foto->imagen3 = $name;
-                }
-                if ($request->file('imagen4')) {
-                    $file = $request->file('imagen4');
-                    $name = 'perfil_imagen4'.'_' . time() . '.' . $file->getClientOriginalExtension();
-                    $path = public_path() . '/img_perfil/';
-                    $file->move($path, $name);
-            
-                    $per_foto->imagen4 = $name;
-                }
-                if ($request->file('imagen5')) {
-                    $file = $request->file('imagen5');
-                    $name = 'perfil_imagen5'.'_' . time() . '.' . $file->getClientOriginalExtension();
-                    $path = public_path() . '/img_perfil/';
-                    $file->move($path, $name);
-            
-                    $per_foto->imagen5 = $name;
-                }
-                if ($request->file('imagen6')) {
-                    $file = $request->file('imagen6');
-                    $name = 'perfil_imagen6'.'_' . time() . '.' . $file->getClientOriginalExtension();
-                    $path = public_path() . '/img_perfil/';
-                    $file->move($path, $name);
-            
-                    $per_foto->imagen6 = $name;
-                }
-                if ($request->file('imagen7')) {
-                    $file = $request->file('imagen7');
-                    $name = 'perfil_imagen7'.'_' . time() . '.' . $file->getClientOriginalExtension();
-                    $path = public_path() . '/img_perfil/';
-                    $file->move($path, $name);
-            
-                    $per_foto->imagen7 = $name;
-                }
-                if ($request->file('imagen8')) {
-                    $file = $request->file('imagen8');
-                    $name = 'perfil_imagen8'.'_' . time() . '.' . $file->getClientOriginalExtension();
-                    $path = public_path() . '/img_perfil/';
-                    $file->move($path, $name);
-            
-                    $per_foto->imagen8 = $name;
-                }
-                if ($request->file('imagen9')) {
-                    $file = $request->file('imagen9');
-                    $name = 'perfil_imagen9'.'_' . time() . '.' . $file->getClientOriginalExtension();
-                    $path = public_path() . '/img_perfil/';
-                    $file->move($path, $name);
-            
-                    $per_foto->imagen9 = $name;
-                }
-                if ($request->file('imagen10')) {
-                    $file = $request->file('imagen10');
-                    $name = 'perfil_imagen10'.'_' . time() . '.' . $file->getClientOriginalExtension();
-                    $path = public_path() . '/img_perfil/';
-                    $file->move($path, $name);
-            
-                    $per_foto->imagen10 = $name;
-                }
-                if ($request->file('imagen11')) {
-                    $file = $request->file('imagen11');
-                    $name = 'perfil_imagen11'.'_' . time() . '.' . $file->getClientOriginalExtension();
-                    $path = public_path() . '/img_perfil/';
-                    $file->move($path, $name);
-            
-                    $per_foto->imagen11 = $name;
-                }
-                
-                
-                $per_foto->portada=$request->portada;
-                    
-                
-                $per_foto->save(); 
-                
-            }
-            //---------------------------------------------------------------//
-            $per_video=Per_Video::where('id',1)->first();
-            if(isset($per_video)){
-                
-                
-                if ($request->file('video1')) {
-
-                    
-                    $file = $request->file('video1');
-                    $name = 'perfil_video1'.'_' . time() . '.' . $file->getClientOriginalExtension();
-                    $path = public_path() . '/img_perfil/';
-                    $file->move($path, $name);
-        
-                    $per_video->video1 = $name;
-                }
-                if ($request->file('video2')) {
-
-                    
-        
-                    $file = $request->file('video2');
-                    $name = 'perfil_video2'.'_' . time() . '.' . $file->getClientOriginalExtension();
-                    $path = public_path() . '/img_perfil/';
-                    $file->move($path, $name);
-        
-                    $per_video->video2 = $name;
-                }
-                if ($request->file('video3')) {
-
-        
-                    $file = $request->file('video3');
-                    $name = 'perfil_video3'.'_' . time() . '.' . $file->getClientOriginalExtension();
-                    $path = public_path() . '/img_perfil/';
-                    $file->move($path, $name);
-        
-                    $per_video->video3 = $name;
-                }
-                if ($request->file('video4')) {
-
-                    
-        
-                    $file = $request->file('video4');
-                    $name = 'perfil_video4'.'_' . time() . '.' . $file->getClientOriginalExtension();
-                    $path = public_path() . '/img_perfil/';
-                    $file->move($path, $name);
-        
-                    $per_video->video4 = $name;
-                }
-                if ($request->file('video5')) {
-
-                    
-        
-                    $file = $request->file('video5');
-                    $name = 'perfil_video5'.'_' . time() . '.' . $file->getClientOriginalExtension();
-                    $path = public_path() . '/img_perfil/';
-                    $file->move($path, $name);
-        
-                    $per_video->video5 = $name;
-                }
-                if ($request->file('video6')) {
-
-                    
-        
-                    $file = $request->file('video6');
-                    $name = 'perfil_video6'.'_' . time() . '.' . $file->getClientOriginalExtension();
-                    $path = public_path() . '/img_perfil/';
-                    $file->move($path, $name);
-        
-                    $per_video->video6 = $name;
-                }
-                if ($request->file('video7')) {
-
-                    
-        
-                    $file = $request->file('video7');
-                    $name = 'perfil_video7'.'_' . time() . '.' . $file->getClientOriginalExtension();
-                    $path = public_path() . '/img_perfil/';
-                    $file->move($path, $name);
-        
-                    $per_video->video7 = $name;
-                }
-                if ($request->file('video8')) {
-
-                    
-        
-                    $file = $request->file('video8');
-                    $name = 'perfil_video8'.'_' . time() . '.' . $file->getClientOriginalExtension();
-                    $path = public_path() . '/img_perfil/';
-                    $file->move($path, $name);
-        
-                    $per_video->video8 = $name;
-                }
-                if ($request->file('video9')) {
-
-                    
-                    $file = $request->file('video9');
-                    $name = 'perfil_video9'.'_' . time() . '.' . $file->getClientOriginalExtension();
-                    $path = public_path() . '/img_perfil/';
-                    $file->move($path, $name);
-        
-                    $per_video->video9 = $name;
-                }
-                if ($request->file('video10')) {
-
-                    
-        
-                    $file = $request->file('video10');
-                    $name = 'perfil_video10'.'_' . time() . '.' . $file->getClientOriginalExtension();
-                    $path = public_path() . '/img_perfil/';
-                    $file->move($path, $name);
-        
-                    $per_video->video10 = $name;
-                }
-                if ($request->file('video11')) {
-
-                    $file = $request->file('video11');
-                    $name = 'perfil_video11'.'_' . time() . '.' . $file->getClientOriginalExtension();
-                    $path = public_path() . '/img_perfil/';
-                    $file->move($path, $name);
-        
-                    $per_video->video11 = $name;
-                }
-                $per_video->save();
-                
-                
-            }else{
-                $per_video = new Per_Video();
-                
-                if ($request->file('video1')) {
-                    $file = $request->file('video1');
-                    $name = 'perfil_video1'.'_' . time() . '.' . $file->getClientOriginalExtension();
-                    $path = public_path() . '/img_perfil/';
-                    $file->move($path, $name);
-            
-                    $per_video->video1 = $name;
-                }
-                if ($request->file('video2')) {
-                    $file = $request->file('video2');
-                    $name = 'perfil_video2'.'_' . time() . '.' . $file->getClientOriginalExtension();
-                    $path = public_path() . '/img_perfil/';
-                    $file->move($path, $name);
-            
-                    $per_video->video2 = $name;
-                }
-                if ($request->file('video3')) {
-                    $file = $request->file('video3');
-                    $name = 'perfil_video3'.'_' . time() . '.' . $file->getClientOriginalExtension();
-                    $path = public_path() . '/img_perfil/';
-                    $file->move($path, $name);
-            
-                    $per_video->video3 = $name;
-                }
-                if ($request->file('video4')) {
-                    $file = $request->file('video4');
-                    $name = 'perfil_video4'.'_' . time() . '.' . $file->getClientOriginalExtension();
-                    $path = public_path() . '/img_perfil/';
-                    $file->move($path, $name);
-            
-                    $per_video->video4 = $name;
-                }
-                if ($request->file('video5')) {
-                    $file = $request->file('video5');
-                    $name = 'perfil_video5'.'_' . time() . '.' . $file->getClientOriginalExtension();
-                    $path = public_path() . '/img_perfil/';
-                    $file->move($path, $name);
-            
-                    $per_video->video5 = $name;
-                }
-                if ($request->file('video6')) {
-                    $file = $request->file('video6');
-                    $name = 'perfil_video6'.'_' . time() . '.' . $file->getClientOriginalExtension();
-                    $path = public_path() . '/img_perfil/';
-                    $file->move($path, $name);
-            
-                    $per_video->video6 = $name;
-                }
-                if ($request->file('video7')) {
-                    $file = $request->file('video7');
-                    $name = 'perfil_video7'.'_' . time() . '.' . $file->getClientOriginalExtension();
-                    $path = public_path() . '/img_perfil/';
-                    $file->move($path, $name);
-            
-                    $per_video->video7 = $name;
-                }
-                if ($request->file('video8')) {
-                    $file = $request->file('video8');
-                    $name = 'perfil_video8'.'_' . time() . '.' . $file->getClientOriginalExtension();
-                    $path = public_path() . '/img_perfil/';
-                    $file->move($path, $name);
-            
-                    $per_video->video8= $name;
-                }
-                if ($request->file('video9')) {
-                    $file = $request->file('video9');
-                    $name = 'perfil_video9'.'_' . time() . '.' . $file->getClientOriginalExtension();
-                    $path = public_path() . '/img_perfil/';
-                    $file->move($path, $name);
-            
-                    $per_video->video9 = $name;
-                }
-                if ($request->file('video10')) {
-                    $file = $request->file('video10');
-                    $name = 'perfil_video10'.'_' . time() . '.' . $file->getClientOriginalExtension();
-                    $path = public_path() . '/img_perfil/';
-                    $file->move($path, $name);
-            
-                    $per_video->video10 = $name;
-                }
-                if ($request->file('video11')) {
-                    $file = $request->file('video11');
-                    $name = 'perfil_video11'.'_' . time() . '.' . $file->getClientOriginalExtension();
-                    $path = public_path() . '/img_perfil/';
-                    $file->move($path, $name);
-            
-                    $per_video->video11 = $name;
-                }
-                $per_video->save();
-                
-            }
             
             
             DB::commit();
             return redirect()->route('perfil.index')->with('mensaje','Perfil registrado correctamente!');
         
     }
-    
+    public function storeFoto(Request $request){
+        $foto = new Perfil_Foto();
+        if ($request->file('foto')) {
+            $file = $request->file('foto');
+            $name = 'perfil_foto'.'_' . time() . '.' . $file->getClientOriginalExtension();
+            $path = public_path() . '/img_perfil/';
+            $file->move($path, $name);
+            $foto->foto = $name;
+           
+        }
+        $foto->save();
+        return response()->json(['message' => 'Foto subida exitosamente']);
+       
+        
+    }
+    public function deleteFoto(Request $request)
+    {   $id= $request->input('id');
+        DB::transaction(function () use ($id) { 
+            $foto = Perfil_Foto::findOrFail($id);            
+            $pathToYourFile = public_path().'/img_perfil/'.$foto->foto;
+            if(file_exists($pathToYourFile)) { 
+                   unlink($pathToYourFile);  
+            } 
+            $foto->delete();
+        });                
+
+        return redirect()->back();
+    }
+
+    public function Portada(Request $request)
+    {   $id= $request->input('id');
+        $fotos = Perfil_Foto::all();
+        foreach ($fotos as $foto) {
+            if ($foto->id == $id) {
+                $foto->portada = 'SI';
+            } else {
+                $foto->portada = 'NO';
+            }
+            $foto->save();
+        }
+        return redirect()->back();
+    }
+
+    public function storeVideo(Request $request){
+        $video = new Perfil_Video();
+        if ($request->file('video')) {
+            $file = $request->file('video');
+            $name = 'perfil_video'.'_' . time() . '.' . $file->getClientOriginalExtension();
+            $path = public_path() . '/img_perfil/';
+            $file->move($path, $name);
+            $video->video = $name;
+           
+        }
+        $video->save();
+        return response()->json(['message' => 'Video subido exitosamente']);
+       
+        
+    }
+    public function deleteVideo(Request $request)
+    {   $id= $request->input('id');
+        DB::transaction(function () use ($id) { 
+            $video = Perfil_Video::findOrFail($id);            
+            $pathToYourFile = public_path().'/img_perfil/'.$video->video;
+            if(file_exists($pathToYourFile)) { 
+                   unlink($pathToYourFile);  
+            } 
+            $video->delete();
+        });                
+
+        return redirect()->back();
+    }
     
 }
