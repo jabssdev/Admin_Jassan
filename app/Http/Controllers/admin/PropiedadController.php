@@ -7,6 +7,12 @@ use App\Http\Controllers\Controller;
 use App\Models\Propiedad;
 use App\Models\Pro_Adicional;
 use App\Models\Pro_Incluye;
+use App\Models\Pro_Video;
+use App\Models\Pro_Foto;
+use App\Models\Pro_Vi_Alrededores;
+use App\Models\Pro_Fo_Alrededores;
+use App\Models\Pro_Vi_Areas;
+use App\Models\Pro_Fo_Areas;
 use DB;
 class PropiedadController extends Controller
 {
@@ -36,7 +42,8 @@ class PropiedadController extends Controller
             $propiedad->descripcion_cliente=$request->descripcion_cliente;
             $propiedad->tipo_casa=$request->tipo_casa;
             $propiedad->tipo_operacion=$request->tipo_operacion;
-            $propiedad->habitaciones=$request->cocheras;
+            $propiedad->habitaciones=$request->habitaciones;
+            $propiedad->cocheras=$request->cocheras;
             $propiedad->banios=$request->banios;
             $propiedad->banios_visita=$request->banios_visita;
             $propiedad->area_terreno=$request->area_terreno;
@@ -138,8 +145,15 @@ class PropiedadController extends Controller
 
     public function edit($id){
         $propiedad = Propiedad::find($id);
-
-        return view('admin.propiedades.edit')->with(compact('propiedad'));
+        $incluye=Pro_Incluye::where('id_propiedad',$id)->first();
+        $adicional=Pro_Adicional::where('id_propiedad',$id)->first();
+        $fotos=Pro_Foto::where('id_propiedad',$id)->get();
+        $videos=Pro_Video::where('id_propiedad',$id)->get();
+        $videos_alrededor=Pro_Vi_Alrededores::where('id_propiedad',$id)->get();
+        $fotos_alrededor=Pro_Fo_Alrededores::where('id_propiedad',$id)->get();
+        $videos_areas=Pro_Vi_Areas::where('id_propiedad',$id)->get();
+        $fotos_areas=Pro_Fo_Areas::where('id_propiedad',$id)->get();
+        return view('admin.propiedades.edit')->with(compact('propiedad','incluye','adicional','videos_alrededor','fotos_alrededor','videos_areas','fotos_areas','videos','fotos'));
     }
 
     public function update(Request $request, $id){
@@ -178,5 +192,289 @@ class PropiedadController extends Controller
         $propiedad->save();
         return redirect()->route('completados.index')->with('mensaje','Propiedad pasó a la lista de activos');
     }
+    //fotos y videos propiedades//
+    public function storeFoto(Request $request){
+        $foto = new Pro_Foto();
+        $foto->id_propiedad=$request->id_propiedad;
+        if ($request->file('foto')) {
+            $file = $request->file('foto');
+            $name = 'propiedad_foto_' . time() . '.' . $file->getClientOriginalExtension();
+            $path = public_path() . '/propiedad/fotos/';
+            $file->move($path, $name);
+            $foto->foto = $name;
+           
+        }
+        $foto->save();
+        return response()->json(['message' => 'Foto subida exitosamente']);
+    }
+    public function adicionalFoto(Request $request){
+        $id= $request->id_foto;
+        
+        $foto = Pro_Foto::findOrFail($id);
+        $foto->titulo=$request->titulo;
+        $foto->descripcion=$request->descripcion;
+        $foto->save();
+        return response()->json(['message' => 'editado exitosamente']);
+    }
+    public function deleteFoto(Request $request){
+        $id= $request->id;
+        
+        DB::transaction(function () use ($id) { 
+            $foto = Pro_Foto::findOrFail($id);            
+            $pathToYourFile = public_path().'/propiedad/fotos/'.$foto->foto;
+            if(file_exists($pathToYourFile)) { 
+                   unlink($pathToYourFile);  
+            } 
+            
+            
+            $foto->delete();
+        });                
+
+        return redirect()->back();
+    }
+    public function destacarFoto(Request $request){
+        $id= $request->id;
+        
+    
+        $foto = Pro_Foto::findOrFail($id);            
+        $foto->destacado='SI';
+        
+        
+        $foto->save();
+                     
+
+        return redirect()->back();
+    }
+    public function storeVideo(Request $request){
+        $video = new Pro_Video();
+        $video->id_propiedad=$request->id_propiedad;
+        if ($request->file('video')) {
+            $file = $request->file('video');
+            $name = 'propiedad_video_'.'_' . time() . '.' . $file->getClientOriginalExtension();
+            $path = public_path() . '/propiedad/videos/';
+            $file->move($path, $name);
+            $video->video = $name;
+           
+        }
+        $video->save();
+        return response()->json(['message' => 'Video subido exitosamente']);
+    }
+    public function miniaturaVideo(Request $request){
+        $id= $request->id_video;
+        
+        $video = Pro_Video::findOrFail($id);
+        if ($request->file('miniatura')) {
+            $file = $request->file('miniatura');
+            $name = 'propiedad_miniatura_'.'_' . time() . '.' . $file->getClientOriginalExtension();
+            $path = public_path() . '/propiedad/videos/';
+            $file->move($path, $name);
+            $video->miniatura = $name;
+           
+        }
+        $video->save();
+        return response()->json(['message' => 'miniatura subida exitosamente']);
+    }
+    public function deleteVideo(Request $request){
+        $id= $request->id;
+        
+        DB::transaction(function () use ($id) { 
+            $video = Pro_Video::findOrFail($id);            
+            $pathToYourFile = public_path().'/propiedad/videos/'.$video->video;
+            $pathToYourFile1 = public_path().'/propiedad/videos/'.$video->miniatura;
+            if(file_exists($pathToYourFile)) { 
+                   unlink($pathToYourFile);  
+            } 
+            if(isset($video->miniatura)){
+                if(file_exists($pathToYourFile1)) { 
+                    unlink($pathToYourFile1);  
+                } 
+            }
+            
+            $video->delete();
+        });                
+
+        return redirect()->back();
+    }
+    //fotos y video alrededores//
+    public function storeFotoAl(Request $request){
+        $foto = new Pro_Fo_Alrededores();
+        $foto->id_propiedad=$request->id_propiedad;
+        if ($request->file('foto')) {
+            $file = $request->file('foto');
+            $name = 'propiedad_foto_alrededor'.'_' . time() . '.' . $file->getClientOriginalExtension();
+            $path = public_path() . '/propiedad/alrededores/';
+            $file->move($path, $name);
+            $foto->foto = $name;
+           
+        }
+        $foto->save();
+        return response()->json(['message' => 'Foto subida exitosamente']);
+    }
+    public function adicionalFotoAl(Request $request){
+        $id= $request->id_foto_al;
+        
+        $foto = Pro_Fo_Alrededores::findOrFail($id);
+        $foto->titulo=$request->titulo_al;
+        $foto->descripcion=$request->descripcion_al;
+        $foto->save();
+        return response()->json(['message' => 'editado exitosamente']);
+    }
+    public function deleteFotoAl(Request $request){
+        $id= $request->id;
+        
+        DB::transaction(function () use ($id) { 
+            $foto = Pro_Fo_Alrededores::findOrFail($id);            
+            $pathToYourFile = public_path().'/propiedad/alrededores/'.$foto->foto;
+            if(file_exists($pathToYourFile)) { 
+                   unlink($pathToYourFile);  
+            } 
+            
+            
+            $foto->delete();
+        });                
+
+        return redirect()->back();
+    }
+    public function storeVideoAl(Request $request){
+        $video = new Pro_Vi_Alrededores();
+        $video->id_propiedad=$request->id_propiedad;
+        if ($request->file('video')) {
+            $file = $request->file('video');
+            $name = 'propiedad_video_alrededor'.'_' . time() . '.' . $file->getClientOriginalExtension();
+            $path = public_path() . '/propiedad/alrededores/';
+            $file->move($path, $name);
+            $video->video = $name;
+           
+        }
+        $video->save();
+        return response()->json(['message' => 'Video subido exitosamente']);
+    }
+    public function miniaturaVideoAl(Request $request){
+        $id= $request->id_video_al;
+        
+        $video = Pro_Vi_Alrededores::findOrFail($id);
+        if ($request->file('miniatura')) {
+            $file = $request->file('miniatura');
+            $name = 'propiedad_miniatura_alrededor'.'_' . time() . '.' . $file->getClientOriginalExtension();
+            $path = public_path() . '/propiedad/alrededores/';
+            $file->move($path, $name);
+            $video->miniatura = $name;
+           
+        }
+        $video->save();
+        return response()->json(['message' => 'miniatura subida exitosamente']);
+    }
+    public function deleteVideoAl(Request $request){
+        $id= $request->id;
+        
+        DB::transaction(function () use ($id) { 
+            $video = Pro_Vi_Alrededores::findOrFail($id);            
+            $pathToYourFile = public_path().'/propiedad/alrededores/'.$video->video;
+            $pathToYourFile1 = public_path().'/propiedad/alrededores/'.$video->miniatura;
+            if(file_exists($pathToYourFile)) { 
+                   unlink($pathToYourFile);  
+            } 
+            if(isset($video->miniatura)){
+                if(file_exists($pathToYourFile1)) { 
+                    unlink($pathToYourFile1);  
+                } 
+            }
+            
+            $video->delete();
+        });                
+
+        return redirect()->back();
+    }
+    //fotos y videoas areas//
+    public function storeFotoAr(Request $request){
+        $foto = new Pro_Fo_Areas();
+        $foto->id_propiedad=$request->id_propiedad;
+        if ($request->file('foto')) {
+            $file = $request->file('foto');
+            $name = 'propiedad_foto_area'.'_' . time() . '.' . $file->getClientOriginalExtension();
+            $path = public_path() . '/propiedad/areas/';
+            $file->move($path, $name);
+            $foto->foto = $name;
+           
+        }
+        $foto->save();
+        return response()->json(['message' => 'Foto subida exitosamente']);
+    }
+    public function adicionalFotoAr(Request $request){
+        $id= $request->id_foto_ar;
+        
+        $foto = Pro_Fo_Areas::findOrFail($id);
+        $foto->titulo=$request->titulo_ar;
+        $foto->descripcion=$request->descripcion_ar;
+        $foto->save();
+        return response()->json(['message' => 'editado exitosamente']);
+    }
+    public function deleteFotoAr(Request $request){
+        $id= $request->id;
+        
+        DB::transaction(function () use ($id) { 
+            $foto = Pro_Fo_Areas::findOrFail($id);            
+            $pathToYourFile = public_path().'/propiedad/areas/'.$foto->foto;
+            if(file_exists($pathToYourFile)) { 
+                   unlink($pathToYourFile);  
+            } 
+            
+            
+            $foto->delete();
+        });                
+
+        return redirect()->back();
+    }
+    public function storeVideoAr(Request $request){
+        $video = new Pro_Vi_Areas();
+        $video->id_propiedad=$request->id_propiedad;
+        if ($request->file('video')) {
+            $file = $request->file('video');
+            $name = 'propiedad_video_area'.'_' . time() . '.' . $file->getClientOriginalExtension();
+            $path = public_path() . '/propiedad/areas/';
+            $file->move($path, $name);
+            $video->video = $name;
+           
+        }
+        $video->save();
+        return response()->json(['message' => 'Video subido exitosamente']);
+    }
+    public function miniaturaVideoAr(Request $request){
+        $id= $request->id_video_ar;
+        
+        $video = Pro_Vi_Areas::findOrFail($id);
+        if ($request->file('miniatura')) {
+            $file = $request->file('miniatura');
+            $name = 'propiedad_miniatura_area'.'_' . time() . '.' . $file->getClientOriginalExtension();
+            $path = public_path() . '/propiedad/areas/';
+            $file->move($path, $name);
+            $video->miniatura = $name;
+           
+        }
+        $video->save();
+        return response()->json(['message' => 'miniatura subida exitosamente']);
+    }
+    public function deleteVideoAr(Request $request){
+        $id= $request->id;
+        
+        DB::transaction(function () use ($id) { 
+            $video = Pro_Vi_Areas::findOrFail($id);            
+            $pathToYourFile = public_path().'/propiedad/areas/'.$video->video;
+            $pathToYourFile1 = public_path().'/propiedad/areas/'.$video->miniatura;
+            if(file_exists($pathToYourFile)) { 
+                   unlink($pathToYourFile);  
+            } 
+            if(isset($video->miniatura)){
+                if(file_exists($pathToYourFile1)) { 
+                    unlink($pathToYourFile1);  
+                } 
+            }
+            
+            $video->delete();
+        });                
+
+        return redirect()->back();
+    }
+
 
 }

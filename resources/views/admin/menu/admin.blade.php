@@ -8,9 +8,9 @@
             $d = stripos($x, $c);
             $e = 'configuracion';
             $f = stripos($x, $e);
-            $g= 'testimonios';
+            $g= 'testimonio';
             $h = stripos($x, $g);
-            $i = 'blogs';
+            $i = 'blog';
             $j = stripos($x, $i);
             $k = 'propiedades';
             $l = stripos($x, $k);

@@ -191,7 +191,7 @@
                                         </div>
                                         <div class="col-md-4">
                                             <label>Baños de visita<span style="color:red;"> *</span></label>
-                                            <input type="number" name="banios_visista"class="form-control" >
+                                            <input type="number" name="banios_visita"class="form-control" >
                                             
                                         </div>
                                         
@@ -651,7 +651,7 @@
                                         </div>
                                         <div class="col-md-2">
                                             <label class="fancy-checkbox">
-                                                <input type="checkbox" name="club-house" value="SI"  data-parsley-errors-container="#error-checkbox" data-parsley-multiple="checkbox">
+                                                <input type="checkbox" name="club_house" value="SI"  data-parsley-errors-container="#error-checkbox" data-parsley-multiple="checkbox">
                                                 <span><img src="{{ asset('admin/iconos/club-house.svg')}}"></span> <br>
                                                 <p style="width: 100px;text-align: center;"> Club house</p>
                                             </label>

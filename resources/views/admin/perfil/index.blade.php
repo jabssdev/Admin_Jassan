@@ -1372,7 +1372,7 @@
                                         <div class="col-md-6" >
                                             <div class="input-group">
                                                 
-                                                <video src="{{asset('./img_perfil/'.$video->video)}}" width="170" height="130" ></video>
+                                                <video src="{{asset('./img_perfil/'.$video->video)}}" controls controlslist="nodownload" width="170" height="130" poster></video>
                                                 
                                             </div>
                                             <div class="file-info row" style="border: 2px dotted #50d38a; width:80%;margin:10px; border-radius:10px; padding:5px;">
@@ -1416,6 +1416,7 @@
                                         <div class="col-md-1" >
 
                                             <div class="input-group">
+                                                
                                                 <input type="file" class="hidden" name="video" id="prueba_video" data-allowed-file-extensions='video/mp4'>
                                                 <label for="prueba_video" class="btn btn-primary" style="border-radius:50%;">
                                                     <i class="fa fa-plus"></i> 

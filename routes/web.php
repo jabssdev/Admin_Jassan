@@ -77,6 +77,26 @@ Route::group(['prefix' => 'admin'], function () {
 		Route::get('propiedades/replegar/{id}', [PropiedadController::class,'replegar'])->name('propiedades.replegar');
 		Route::get('propiedades/completar/{id}', [PropiedadController::class,'completar'])->name('propiedades.completar');
 		Route::get('propiedades/activar/{id}', [PropiedadController::class,'activar'])->name('propiedades.activar');
+		Route::post('propiedades/video-alrededores',[PropiedadController::class,'storeVideoAl'])->name('propiedades.video-al');
+		Route::post('miniatura/video-alrededores',[PropiedadController::class,'miniaturaVideoAl'])->name('miniatura.video-al');
+		Route::post('video-alrededores/delete', [PropiedadController::class,'deleteVideoAl'])->name('video-alrededores.delete');
+		Route::post('foto-alrededores',[PropiedadController::class,'storeFotoAl'])->name('foto-al');
+		Route::post('info/foto-alrededores',[PropiedadController::class,'adicionalFotoAl'])->name('adicional.foto-al');
+		Route::post('foto-alrededores/delete', [PropiedadController::class,'deleteFotoAl'])->name('foto-alrededores.delete');
+		Route::post('propiedades/video-areas',[PropiedadController::class,'storeVideoAr'])->name('propiedades.video-ar');
+		Route::post('miniatura/video-areas',[PropiedadController::class,'miniaturaVideoAr'])->name('miniatura.video-ar');
+		Route::post('video-areas/delete', [PropiedadController::class,'deleteVideoAr'])->name('video-areas.delete');
+		Route::post('foto-areas',[PropiedadController::class,'storeFotoAr'])->name('foto-ar');
+		Route::post('info/foto-areas',[PropiedadController::class,'adicionalFotoAr'])->name('adicional.foto-ar');
+		Route::post('foto-areas/delete', [PropiedadController::class,'deleteFotoAr'])->name('foto-areas.delete');
+		Route::post('propiedades/video',[PropiedadController::class,'storeVideo'])->name('propiedades.video');
+		Route::post('miniatura/video',[PropiedadController::class,'miniaturaVideo'])->name('miniatura.video');
+		Route::post('video/delete', [PropiedadController::class,'deleteVideo'])->name('video.delete');
+		Route::post('propiedades/fotos',[PropiedadController::class,'storeFoto'])->name('foto-propiedades');
+		Route::post('info/fotos-propiedades',[PropiedadController::class,'adicionalFoto'])->name('adicional.foto-propiedades');
+		Route::post('fotos-propiedades/delete', [PropiedadController::class,'deleteFoto'])->name('foto-propiedades.delete');
+		Route::post('fotos-propiedades/destacar', [PropiedadController::class,'destacarFoto'])->name('foto-propiedades.destacar');
+
 		//-----------------------------------------------------------------------------------------------//
 		//---------------------------Previsualizar------------------------------------------------------//
         Route::get('pervisualizar', [PrevisualizarController::class,'index'])->name('previsualizar.index');
