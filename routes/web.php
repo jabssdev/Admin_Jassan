@@ -96,7 +96,8 @@ Route::group(['prefix' => 'admin'], function () {
 		Route::post('info/fotos-propiedades',[PropiedadController::class,'adicionalFoto'])->name('adicional.foto-propiedades');
 		Route::post('fotos-propiedades/delete', [PropiedadController::class,'deleteFoto'])->name('foto-propiedades.delete');
 		Route::post('fotos-propiedades/destacar', [PropiedadController::class,'destacarFoto'])->name('foto-propiedades.destacar');
-
+		Route::post('propiedades/pisos',[PropiedadController::class,'storeDistribucion'])->name('propiedades.pisos');
+		Route::post('pisos/delete', [PropiedadController::class,'deleteDistribucion'])->name('pisos.delete');
 		//-----------------------------------------------------------------------------------------------//
 		//---------------------------Previsualizar------------------------------------------------------//
         Route::get('pervisualizar', [PrevisualizarController::class,'index'])->name('previsualizar.index');

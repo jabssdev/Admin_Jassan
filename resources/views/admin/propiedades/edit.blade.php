@@ -37,6 +37,11 @@
         transform: translate(-10%, -10%);
         
     }
+    .modal-lg{
+        max-width: 800px !important;
+        left: 25%;
+        top: 30%;
+    }
     </style>
 
 @endsection
@@ -77,8 +82,9 @@
             </div>
         </div>
     </div>
-    <form action="{{ route('propiedades.store') }}" method="POST" enctype="multipart/form-data">
+    <form action="{{ route('propiedades.update',$propiedad->id) }}" method="POST" enctype="multipart/form-data">
         {{ csrf_field() }}
+        @method('PUT')
         <div class="row clearfix">
             <div class="col-lg-12">
                 <div class="card">
@@ -960,50 +966,102 @@
                                 
                                 
                                 <div class="form-group">
-                                    <div class="row clearfix">
-                                        <div class="col-md-4">
-                                            <label>Zonificación<span style="color:red;"> *</span></label>
-                                            <input type="text" name="zonificacion" class="form-control" >
-                                        </div>
+                                    <div class="row clearfix"  style="margin-top:20px;">
+                                    
+                                        @foreach ($pisos as $piso )
+                                            <div class="col-md-12" >
+                                                <div class="card" style="padding:10px; box-shadow: 3px 3px 3px 3px rgba(0, 0, 0, 0.5);border-radius: 10px;">
+                                                    <div class="row">
+                                                        <div class="col-md-4">
+                                                            <div class="input-group">
+                                                                <img src="{{asset('./propiedad/pisos/'.$piso->imagen)}}" width="170" height="130" alt="" style="border-radius:10px;">
+                                                                <strong style="margin-left:30px;margin-right:20px;">Piso:</strong> {{$piso->pisos}}
+                                                                
+                                                            </div>
+                                                        </div>
+                                                        <div class="col-md-7">
+                                                            
+                                                            
+                                                        </div>
+                                                        <div class="col-md-1">
+                                                            <!-- <a href="javascript:void(0);" style="padding: 5px; font-size: 18px; color:#138496;"><i class="fa fa-pencil"></i></a> -->
+                                                            <a href="javascript:void(0);" style="padding: 5px; font-size: 18px; color:#C82333;" onclick="EliminarPisos({{ $piso->id }})"><i class="fa fa-trash"></i></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+
+                                            </div>
+                                            
+                                            
+                                        @endforeach
+                                    
                                         
+                                        
+                                          
+                                    </div>
+                                    <div class="row clearfix" style="margin-top:30px;" align="right">
+                                        <div class="col-md-11">
+
+                                        </div>
+                                        <div class="col-md-1" >
+
+                                            <a href="javascript:void(0);" class="btn btn-primary" style="border-radius:50%;" data-toggle="modal" data-target="#agregarPisos"><i class="fa fa-plus"></i></a>
+                                            
+                                        </div>
+                                            
+                                             
                                     </div>
                                 </div>
-                                <div class="form-group">
-                                    <div class="row clearfix">
-                                        <div class="col-md-12">
-                                            <h5>Linderos</h5>
+                                <!-- Modal para agregar distribucion de pisos -->
+                                <div class="modal fade" id="agregarPisos" tabindex="-1" role="dialog" aria-labelledby="modalLabel" aria-hidden="true">
+                                    <div class="modal-dialog  modal-lg" role="document">
+                                        <div class="modal-content">
+                                            
+                                            <div class="modal-body" >
+                                                <div class="form-group">
+                                                    <div class="row clearfix">
+                                                        <div class="col-md-6">
+                                                            <input type="file" id="imagen_piso"  class="dropify"  data-allowed-file-extensions='jpg png' >
+                                                        </div>
+                                                        
+                                                        <div class="col-md-4" style="margin-top: 20px;">
+                                                            <label for="pisos">Piso<span style="color:red;"> *</span></label>
+                                                            <input type="number" id="piso" class="form-control" >
+                                                            <input type="hidden" name="pisosData" id="pisosData" value="[]" class="form-control" >
+                                                        </div>
+                                                        
+
+                                                    </div>
+                                                </div>
+                                                <div class="form-group">
+                                                    <div class="row clearfix">
+                                                        <div class="col-md-6">
+                                                            Desea agregar departamentos asociados a este piso?
+                                                        </div>
+                                                        
+                                                        <div class="col-md-4" >
+                                                            <a href="javascript:void(0);" class="btn btn-success" id="nuevoPiso">Agregar</a>
+                                                            
+                                                        </div>
+                                                        
+
+                                                    </div>
+                                                </div>
+                                                <div class="form-group" id="body_pisos">
+                                                    
+                                                    
+                                                </div>
+
+
+                                            </div>
+                                            <div class="modal-footer">
+                                                <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+                                                <button type="button" class="btn btn-primary" id="confirmarPisos">Confirmar</button>
+                                            </div>
                                         </div>
-                                        <div class="col-md-4">
-                                           
-                                            <label>Frente (m2)<span style="color:red;"> *</span></label>
-                                            <input type="number" name="frente" class="form-control" >
-                                        </div>
-                                        <div class="col-md-4">
-                                           
-                                            <label>Lateral derecho (m2)<span style="color:red;"> *</span></label>
-                                            <input type="number" name="lat_derecho" class="form-control" >
-                                        </div>
-                                        <div class="col-md-4">
-                                           
-                                            <label>Lateral izquierdo (m2)<span style="color:red;"> *</span></label>
-                                            <input type="number" name="lat_izquierdo" class="form-control" >
-                                        </div>
-                                        
-                                        
                                     </div>
                                 </div>
-                                <div class="form-group">
-                                    <div class="row clearfix">
-                                        <div class="col-md-4">
-                                            <label>Fondo (m2)<span style="color:red;"> *</span></label>
-                                            <input type="number" name="fondo" class="form-control" >
-                                        </div>
-                                        
-                                    </div>
-                                </div>
-                                
-                                
-                                
+                            
                             </div>
                         </div>
                         
@@ -2396,5 +2454,151 @@
             });
         }
     }
+
+
+    //PISOS//
+    var pisosData = [];
+    var pisoCounter = 0;
+    var hayDatosLlenados = false;
+    document.getElementById('nuevoPiso').addEventListener('click', function() {
+
+        
+        if (pisoCounter > 0) {
+            var comprobar1 = document.getElementById('tipo_piso_' + pisoCounter).value;
+            var comprobar2 = document.getElementById('area_piso_' + pisoCounter).value;
+            var comprobar3 = document.getElementById('domitorios_piso_' + pisoCounter).value;
+            var comprobar4 = document.getElementById('banios_piso_' + pisoCounter).value;
+            var comprobar5 = document.getElementById('cuartos_piso_' + pisoCounter).value;
+            if(comprobar1!='' && comprobar2!='' && comprobar3!='' && comprobar4!='' && comprobar5!=''){
+                guardarDatosPisos();
+                hayDatosLlenados = true;
+                nuevoPiso();
+            }
+            else{
+                console.log('aun no listo');
+            }
+
+            
+        }
+        nuevoPiso();
+        
+    });
+    function guardarDatosPisos() {
+        pisosData = [];
+
+        for (var i = 1; i <= pisoCounter; i++) {
+            var tipoPiso = document.getElementById('tipo_piso_' + i).value;
+            var areaPiso = document.getElementById('area_piso_' + i).value;
+            var dormitoriosPiso = document.getElementById('domitorios_piso_' + i).value;
+            var baniosPiso = document.getElementById('banios_piso_' + i).value;
+            var cuartosPiso = document.getElementById('cuartos_piso_' + i).value;
+
+            pisosData.push({
+                tipoPiso: tipoPiso,
+                areaPiso: areaPiso,
+                dormitoriosPiso: dormitoriosPiso,
+                baniosPiso: baniosPiso,
+                cuartosPiso: cuartosPiso,
+            });
+        }
+        document.getElementById('pisosData').value = JSON.stringify(pisosData);
+        console.log(pisosData);
+    }
+    function nuevoPiso(){
+        var numPisos = parseInt(document.getElementById('piso').value);
+        if (hayDatosLlenados===true || pisoCounter === 0) {
+            
+            if (numPisos > 0 && pisoCounter < numPisos) {
+                pisoCounter++;
+
+                var nuevaSeccion = document.createElement('div');
+                nuevaSeccion.className = 'form-group';
+
+                nuevaSeccion.innerHTML = `
+                    <div class="row clearfix">
+                        <div class="col-md-12"><h5>Piso ${pisoCounter}</h5></div>
+                        <div class="col-lg-12">
+                            <div class="card" style="padding:10px; box-shadow: 3px 3px 5px 5px rgba(0, 0, 0, 0.5);border-radius: 10px;">
+                                <div class="row">
+                                    <div class="col-md-4">
+                                        <label for="tipo_pisos">Tipo<span style="color:red;"> *</span></label>
+                                        <select id="tipo_piso_${pisoCounter}" class="form-control">
+                                            <option value="">--- Seleccionar ---</option>
+                                            <option value="Flat">Flat</option>
+                                            <option value="Duplex">Duplex</option>
+                                            <option value="Triplex">Triplex</option>
+                                            <option value="Penthouse">Penthouse</option>
+                                        </select>
+                                    </div>
+                                    <div class="col-md-4" >
+                                        <label for="area_pisos">Área<span style="color:red;"> *</span></label>
+                                        <input type="number" id="area_piso_${pisoCounter}" class="form-control" >
+                                    </div>
+                                    <div class="col-md-4" >
+                                        <label for="area_pisos">Dormitorios<span style="color:red;"> *</span></label>
+                                        <input type="number" id="domitorios_piso_${pisoCounter}" class="form-control" >
+                                    </div>
+                                    <div class="col-md-4" style="margin-top: 20px;">
+                                        <label for="banios_pisos">Baños<span style="color:red;"> *</span></label>
+                                        <input type="number" id="banios_piso_${pisoCounter}" class="form-control" >
+                                    </div>
+                                    <div class="col-md-4"  style="margin-top: 20px;">
+                                        <label for="cuartos_pisos"># de cuarto<span style="color:red;"> *</span></label>
+                                        <input type="number" id="cuartos_piso_${pisoCounter}" class="form-control" >
+                                    </div>
+                                </div>  
+                            </div>
+                        </div>
+                    </div>
+                `;
+
+                document.getElementById('body_pisos').appendChild(nuevaSeccion);
+                hayDatosLlenados = false;
+            }
+        }
+    }
+
+    document.getElementById('confirmarPisos').addEventListener('click', function () {
+        var imagen_piso=document.getElementById('imagen_piso').files[0];
+        var piso=document.getElementById('piso').value;
+        var id_propiedad = document.getElementById('propiedad_id').value;
+        if (imagen_piso || piso) {
+            var formData = new FormData();
+            formData.append('id_propiedad', id_propiedad);
+            formData.append('imagen_piso', imagen_piso);
+            formData.append('piso', piso);
+            formData.append('pisosData', JSON.stringify(pisosData));
+            axios.post('{{ route("propiedades.pisos") }}', formData, {
+                headers: {
+                    'Content-Type': 'multipart/form-data',
+                    'X-CSRF-TOKEN': document.querySelector('meta[name="csrf-token"]').getAttribute('content')
+                }
+            })
+            .then(response => {
+                
+                location.reload();
+            })
+            .catch(error => {
+                console.error(error);
+            });
+        }
+        
+    });
+
+    function EliminarPisos(id){
+        if (id) {
+            
+            axios.post('{{ route("pisos.delete") }}', { id: id })
+            .then(response => {
+                location.reload();
+                
+            })
+            .catch(error => {
+                console.error(error);
+            });
+        }
+        
+    }
+
 </script>    
 @endsection
