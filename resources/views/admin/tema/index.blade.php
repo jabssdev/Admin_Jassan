@@ -49,44 +49,44 @@
     }
     /* variables */
     :root {
-        --bg-benefits: #000; 
-        --bg-menu: #000;
-        --color-menu: #fff;
-        --fondo-general: #3F0312;
-        --color-general: #fff;
-        --bg-principal: #4D0505;
-        --bg-btn-principal: #750F19;
-        --bg-btn-txt-principal: #DB987B;
-        --bg-btn-sec: #E67D37;
-        --bg-btn-txt-sec: #fff;
-        --bg-detalle-propiedad:#AF78AF;
-        --bg-d-texto-propiedad:#fff;
-        --bg-conoce-propiedad:#F1EFEF;
-        --bg-texto-conoce:#1E1E1E;
-        --bg-videos-propiedad:#828282;
-        --bg-texto-videos:#fff;
-        --bg-fotos-propiedad:#AF78AF;
-        --bg-texto-fotos:#1E1E1E;
-        --bg-detalles-propiedad:#828282;
-        --bg-texto-detalles:#1E1E1E;
-        --bg-polga-propiedad:#AF78AF;
-        --bg-texto-polga:#fff;
-        --bg-destacadas-propiedad:#809FFF;
-        --bg-texto-destacadas:#fff;
-        --bg-enventa-propiedad:#fff;
-        --bg-texto-enventa:#000;
-        --bg-alquiler-propiedad:#CF763A;
-        --bg-texto-alquiler:#000;
-        --bg-vendi-propiedad:#5F0C0C;
-        --bg-texto-vendi:#fff;
-        --bg-experiencia-propiedad:#FFEDE5;
-        --bg-texto-experiencia:#861919;
-        --bg-comparto-propiedad:#E5E5E5;
-        --bg-texto-comparto:#fff;
-        --bg-solga-propiedad:#5E0808;
-        --bg-texto-solga:#fff;
-        --bg-noticias-propiedad:#F7E8DE;
-        --bg-texto-noticias:#751F1F;
+        --bg-benefits: {{$tema->color_derechos}}; 
+        --bg-menu: {{$tema->color_barra_superior}};
+        --color-menu: {{$tema->color_texto_superior}};
+        --fondo-general: {{$tema->color_fondo_general}};
+        --color-general: {{$tema->color_texto_general}};
+        --bg-principal: {{$tema->color_principal}};
+        --bg-btn-principal: {{$tema->color_boton_primario}};
+        --bg-btn-txt-principal: {{$tema->color_boton_texto_primario}};
+        --bg-btn-sec: {{$tema->color_boton_sec}};
+        --bg-btn-txt-sec: {{$tema->color_boton_texto_sec}};
+        --bg-detalle-propiedad:{{$tema->color_fondo_d_prop}};
+        --bg-d-texto-propiedad:{{$tema->color_texto_d_prop}};
+        --bg-conoce-propiedad:{{$tema->color_fondo_conoce}};
+        --bg-texto-conoce:{{$tema->color_texto_conoce}};
+        --bg-videos-propiedad:{{$tema->color_fondo_videos}};
+        --bg-texto-videos:{{$tema->color_texto_videos}};
+        --bg-fotos-propiedad:{{$tema->color_fondo_fotos}};
+        --bg-texto-fotos:{{$tema->color_texto_fotos}};
+        --bg-detalles-propiedad:{{$tema->color_fondo_detalles}};
+        --bg-texto-detalles:{{$tema->color_texto_detalles}};
+        --bg-polga-propiedad:{{$tema->color_fondo_polga}};
+        --bg-texto-polga:{{$tema->color_texto_polga}};
+        --bg-destacadas-propiedad:{{$tema->color_fondo_destacadas}};
+        --bg-texto-destacadas:{{$tema->color_texto_destacadas}};
+        --bg-enventa-propiedad:{{$tema->color_fondo_enventa}};
+        --bg-texto-enventa:{{$tema->color_texto_enventa}};
+        --bg-alquiler-propiedad:{{$tema->color_fondo_alquiler}};
+        --bg-texto-alquiler:{{$tema->color_texto_alquiler}};
+        --bg-vendi-propiedad:{{$tema->color_fondo_vendi}};
+        --bg-texto-vendi:{{$tema->color_texto_vendi}};
+        --bg-experiencia-propiedad:{{$tema->color_fondo_experiencia}};
+        --bg-texto-experiencia:{{$tema->color_texto_experiencia}};
+        --bg-comparto-propiedad:{{$tema->color_fondo_comparto}};
+        --bg-texto-comparto:{{$tema->color_texto_comparto}};
+        --bg-solga-propiedad:{{$tema->color_fondo_solga}};
+        --bg-texto-solga:{{$tema->color_texto_solga}};
+        --bg-noticias-propiedad:{{$tema->color_fondo_noticias}};
+        --bg-texto-noticias:{{$tema->color_texto_noticias}};
     }
     .bg-bgBenefits {
         background-color: var(--bg-benefits)
@@ -209,7 +209,7 @@
             </div>
         </div>
     </div>
-    <form action="{{ route('configuracion.store') }}" method="POST" enctype="multipart/form-data">
+    <form action="{{ route('tema.store') }}" method="POST" enctype="multipart/form-data">
         {{ csrf_field() }}
         <div class="row clearfix">
             <div class="col-lg-12">
@@ -230,13 +230,13 @@
                                                         Color fondo :
                                                     </div>
                                                     <div class="col-4">
-                                                        <input type="color" id="color_fondo_destacadas" name="color_fondo_detacadas" class="form-control" >
+                                                        <input type="color" id="color_fondo_destacadas" name="color_fondo_destacadas" value="{{$tema->color_fondo_destacadas}}" class="form-control" >
                                                     </div>
                                                     <div class="col-8">
                                                         Color texto :
                                                     </div>
                                                     <div class="col-4">
-                                                        <input type="color" id="color_texto_destacadas" name="color_texto_detacadas" class="form-control" >
+                                                        <input type="color" id="color_texto_destacadas" name="color_texto_destacadas" value="{{$tema->color_texto_destacadas}}" class="form-control" >
                                                     </div>
                                                 </div>
                                                  
@@ -271,13 +271,13 @@
                                                         Color fondo :
                                                     </div>
                                                     <div class="col-4">
-                                                        <input type="color" id="color_fondo_enventa" name="color_fondo_enventa" class="form-control" >
+                                                        <input type="color" id="color_fondo_enventa" name="color_fondo_enventa" value="{{$tema->color_fondo_enventa}}" class="form-control" >
                                                     </div>
                                                     <div class="col-8">
                                                         Color texto :
                                                     </div>
                                                     <div class="col-4">
-                                                        <input type="color" id="color_texto_enventa" name="color_texto_enventa" class="form-control" >
+                                                        <input type="color" id="color_texto_enventa" name="color_texto_enventa" value="{{$tema->color_texto_enventa}}" class="form-control" >
                                                     </div>
                                                 </div>
                                                  
@@ -315,13 +315,13 @@
                                                         Color fondo :
                                                     </div>
                                                     <div class="col-4">
-                                                        <input type="color" id="color_fondo_alquiler" name="color_fondo_alquiler" class="form-control" >
+                                                        <input type="color" id="color_fondo_alquiler" name="color_fondo_alquiler" value="{{$tema->color_fondo_alquiler}}" class="form-control" >
                                                     </div>
                                                     <div class="col-8">
                                                         Color texto :
                                                     </div>
                                                     <div class="col-4">
-                                                        <input type="color" id="color_texto_alquiler" name="color_texto_alquiler" class="form-control" >
+                                                        <input type="color" id="color_texto_alquiler" name="color_texto_alquiler" value="{{$tema->color_texto_alquiler}}" class="form-control" >
                                                     </div>
                                                 </div>
                                                  
@@ -359,13 +359,13 @@
                                                         Color fondo :
                                                     </div>
                                                     <div class="col-4">
-                                                        <input type="color" id="color_fondo_vendi" name="color_fondo_vendi" class="form-control" >
+                                                        <input type="color" id="color_fondo_vendi" name="color_fondo_vendi" value="{{$tema->color_fondo_vendi}}" class="form-control" >
                                                     </div>
                                                     <div class="col-8">
                                                         Color texto :
                                                     </div>
                                                     <div class="col-4">
-                                                        <input type="color" id="color_texto_vendi" name="color_texto_vendi" class="form-control" >
+                                                        <input type="color" id="color_texto_vendi" name="color_texto_vendi" value="{{$tema->color_texto_vendi}}" class="form-control" >
                                                     </div>
                                                 </div>
                                                  
@@ -398,13 +398,13 @@
                                                         Color fondo :
                                                     </div>
                                                     <div class="col-4">
-                                                        <input type="color" id="color_fondo_experiencia" name="color_fondo_experiencia" class="form-control" >
+                                                        <input type="color" id="color_fondo_experiencia" name="color_fondo_experiencia" value="{{$tema->color_fondo_experiencia}}" class="form-control" >
                                                     </div>
                                                     <div class="col-8">
                                                         Color texto :
                                                     </div>
                                                     <div class="col-4">
-                                                        <input type="color" id="color_texto_experiencia" name="color_texto_experiencia" class="form-control" >
+                                                        <input type="color" id="color_texto_experiencia" name="color_texto_experiencia" value="{{$tema->color_texto_experiencia}}" class="form-control" >
                                                     </div>
                                                 </div>
                                                  
@@ -443,13 +443,13 @@
                                                         Color fondo :
                                                     </div>
                                                     <div class="col-4">
-                                                        <input type="color" id="color_fondo_comparto" name="color_fondo_comparto" class="form-control" >
+                                                        <input type="color" id="color_fondo_comparto" name="color_fondo_comparto" value="{{$tema->color_fondo_comparto}}" class="form-control" >
                                                     </div>
                                                     <div class="col-8">
                                                         Color texto :
                                                     </div>
                                                     <div class="col-4">
-                                                        <input type="color" id="color_texto_comparto" name="color_texto_comparto" class="form-control" >
+                                                        <input type="color" id="color_texto_comparto" name="color_texto_comparto" value="{{$tema->color_texto_comparto}}" class="form-control" >
                                                     </div>
                                                 </div>
                                                  
@@ -489,13 +489,13 @@
                                                         Color fondo :
                                                     </div>
                                                     <div class="col-4">
-                                                        <input type="color" id="color_fondo_solga" name="color_fondo_solga" class="form-control" >
+                                                        <input type="color" id="color_fondo_solga" name="color_fondo_solga" value="{{$tema->color_fondo_solga}}" class="form-control" >
                                                     </div>
                                                     <div class="col-8">
                                                         Color texto :
                                                     </div>
                                                     <div class="col-4">
-                                                        <input type="color" id="color_texto_solga" name="color_texto_solga" class="form-control" >
+                                                        <input type="color" id="color_texto_solga" name="color_texto_solga" value="{{$tema->color_texto_solga}}" class="form-control" >
                                                     </div>
                                                 </div>
                                                  
@@ -530,13 +530,13 @@
                                                         Color fondo :
                                                     </div>
                                                     <div class="col-4">
-                                                        <input type="color" id="color_fondo_noticias" name="color_fondo_noticias" class="form-control" >
+                                                        <input type="color" id="color_fondo_noticias" name="color_fondo_noticias" value="{{$tema->color_fondo_noticias}}" class="form-control" >
                                                     </div>
                                                     <div class="col-8">
                                                         Color texto :
                                                     </div>
                                                     <div class="col-4">
-                                                        <input type="color" id="color_texto_noticias" name="color_texto_noticias" class="form-control" >
+                                                        <input type="color" id="color_texto_noticias" name="color_texto_noticias" value="{{$tema->color_texto_noticias}}" class="form-control" >
                                                     </div>
                                                 </div>
                                                  
@@ -592,13 +592,13 @@
                                                         Color fondo :
                                                     </div>
                                                     <div class="col-4">
-                                                        <input type="color" id="color_fondo_d_prop" name="color_fondo_d_prop" class="form-control" >
+                                                        <input type="color" id="color_fondo_d_prop" name="color_fondo_d_prop" value="{{$tema->color_fondo_d_prop}}" class="form-control" >
                                                     </div>
                                                     <div class="col-8">
                                                         Color texto :
                                                     </div>
                                                     <div class="col-4">
-                                                        <input type="color" id="color_texto_d_prop" name="color_texto_d_prop" class="form-control" >
+                                                        <input type="color" id="color_texto_d_prop" name="color_texto_d_prop" value="{{$tema->color_texto_d_prop}}" class="form-control" >
                                                     </div>
                                                 </div>
                                                  
@@ -624,13 +624,13 @@
                                                         Color fondo :
                                                     </div>
                                                     <div class="col-4">
-                                                        <input type="color" id="color_fondo_conoce" name="color_fondo_conoce" class="form-control" >
+                                                        <input type="color" id="color_fondo_conoce" name="color_fondo_conoce" value="{{$tema->color_fondo_conoce}}" class="form-control" >
                                                     </div>
                                                     <div class="col-8">
                                                         Color texto :
                                                     </div>
                                                     <div class="col-4">
-                                                        <input type="color" id="color_texto_conoce" name="color_texto_conoce" class="form-control" >
+                                                        <input type="color" id="color_texto_conoce" name="color_texto_conoce" value="{{$tema->color_texto_conoce}}" class="form-control" >
                                                     </div>
                                                 </div>
                                                  
@@ -662,13 +662,13 @@
                                                         Color fondo :
                                                     </div>
                                                     <div class="col-4">
-                                                        <input type="color" id="color_fondo_videos" name="color_fondo_videos" class="form-control" >
+                                                        <input type="color" id="color_fondo_videos" name="color_fondo_videos" value="{{$tema->color_fondo_videos}}" class="form-control" >
                                                     </div>
                                                     <div class="col-8">
                                                         Color texto :
                                                     </div>
                                                     <div class="col-4">
-                                                        <input type="color" id="color_texto_videos" name="color_texto_videos" class="form-control" >
+                                                        <input type="color" id="color_texto_videos" name="color_texto_videos" value="{{$tema->color_texto_videos}}" class="form-control" >
                                                     </div>
                                                 </div>
                                                  
@@ -706,13 +706,13 @@
                                                         Color fondo :
                                                     </div>
                                                     <div class="col-4">
-                                                        <input type="color" id="color_fondo_fotos" name="color_fondo_fotos" class="form-control" >
+                                                        <input type="color" id="color_fondo_fotos" name="color_fondo_fotos" value="{{$tema->color_fondo_fotos}}" class="form-control" >
                                                     </div>
                                                     <div class="col-8">
                                                         Color texto :
                                                     </div>
                                                     <div class="col-4">
-                                                        <input type="color" id="color_texto_fotos" name="color_texto_fotos" class="form-control" >
+                                                        <input type="color" id="color_texto_fotos" name="color_texto_fotos" value="{{$tema->color_texto_fotos}}" class="form-control" >
                                                     </div>
                                                 </div>
                                                  
@@ -748,13 +748,13 @@
                                                         Color fondo :
                                                     </div>
                                                     <div class="col-4">
-                                                        <input type="color" id="color_fondo_detalles" name="color_fondo_detalles" class="form-control" >
+                                                        <input type="color" id="color_fondo_detalles" name="color_fondo_detalles"  value="{{$tema->color_fondo_detalles}}" class="form-control" >
                                                     </div>
                                                     <div class="col-8">
                                                         Color texto :
                                                     </div>
                                                     <div class="col-4">
-                                                        <input type="color" id="color_texto_detalles" name="color_texto_detalles" class="form-control" >
+                                                        <input type="color" id="color_texto_detalles" name="color_texto_detalles"  value="{{$tema->color_texto_detalles}}" class="form-control" >
                                                     </div>
                                                 </div>
                                                  
@@ -783,13 +783,13 @@
                                                         Color fondo :
                                                     </div>
                                                     <div class="col-4">
-                                                        <input type="color" id="color_fondo_polga" name="color_fondo_polga" class="form-control" >
+                                                        <input type="color" id="color_fondo_polga" name="color_fondo_polga"  value="{{$tema->color_fondo_polga}}" class="form-control" >
                                                     </div>
                                                     <div class="col-8">
                                                         Color texto :
                                                     </div>
                                                     <div class="col-4">
-                                                        <input type="color" id="color_texto_polga" name="color_texto_polga" class="form-control" >
+                                                        <input type="color" id="color_texto_polga" name="color_texto_polga"  value="{{$tema->color_texto_polga}}" class="form-control" >
                                                     </div>
                                                 </div>
                                                  
@@ -842,13 +842,13 @@
                                                         Color fondo :
                                                     </div>
                                                     <div class="col-4">
-                                                        <input type="color" id="color_fondo_general" name="color_fondo_general" class="form-control" >
+                                                        <input type="color" id="color_fondo_general" name="color_fondo_general" value="{{$tema->color_fondo_general}}" class="form-control" >
                                                     </div>
                                                     <div class="col-8">
                                                         Color texto :
                                                     </div>
                                                     <div class="col-4">
-                                                        <input type="color" id="color_texto_general" name="color_texto_general" class="form-control" >
+                                                        <input type="color" id="color_texto_general" name="color_texto_general" value="{{$tema->color_texto_general}}" class="form-control" >
                                                     </div>
                                                 </div>
                                                  
@@ -876,31 +876,31 @@
                                                         Color principal :
                                                     </div>
                                                     <div class="col-4">
-                                                        <input type="color" id="color_principal" name="color_principal" class="form-control" >
+                                                        <input type="color" id="color_principal" name="color_principal" value="{{$tema->color_principal}}" class="form-control" >
                                                     </div>
                                                     <div class="col-8">
                                                         Color fondo - botón primario :
                                                     </div>
                                                     <div class="col-4">
-                                                        <input type="color" id="color_boton_primario" name="color_boton_primario" class="form-control" >
+                                                        <input type="color" id="color_boton_primario" name="color_boton_primario" value="{{$tema->color_boton_primario}}" class="form-control" >
                                                     </div>
                                                     <div class="col-8">
                                                         Color texto - botón primario :
                                                     </div>
                                                     <div class="col-4">
-                                                        <input type="color" id="color_boton_texto_primario" name="color_boton_texto_primario" class="form-control" >
+                                                        <input type="color" id="color_boton_texto_primario" name="color_boton_texto_primario" value="{{$tema->color_boton_texto_primario}}" class="form-control" >
                                                     </div>
                                                     <div class="col-8">
                                                         Color fondo - botón secundario :
                                                     </div>
                                                     <div class="col-4">
-                                                        <input type="color" id="color_boton_sec" name="color_boton_sec" class="form-control" >
+                                                        <input type="color" id="color_boton_sec" name="color_boton_sec" value="{{$tema->color_boton_sec}}" class="form-control" >
                                                     </div>
                                                     <div class="col-8">
                                                         Color texto - botón secundario :
                                                     </div>
                                                     <div class="col-4">
-                                                        <input type="color" id="color_boton_texto_sec" name="color_boton_texto_sec" class="form-control" >
+                                                        <input type="color" id="color_boton_texto_sec" name="color_boton_texto_sec" value="{{$tema->color_boton_texto_sec}}"  class="form-control" >
                                                     </div>
                                                 </div>
                                                  
@@ -948,13 +948,13 @@
                                                         Color fondo Menú :
                                                     </div>
                                                     <div class="col-4">
-                                                        <input type="color" id="color_barra_superior" name="color_barra_superior" class="form-control" >
+                                                        <input type="color" id="color_barra_superior" name="color_barra_superior" value="{{$tema->color_barra_superior}}" class="form-control" >
                                                     </div>
                                                     <div class="col-8">
                                                         Color texto menú :
                                                     </div>
                                                     <div class="col-4">
-                                                        <input type="color" id="color_texto_superior" name="color_texto_superior" class="form-control" >
+                                                        <input type="color" id="color_texto_superior" name="color_texto_superior" value="{{$tema->color_texto_superior}}" class="form-control" >
                                                     </div>
                                                 </div>
                                                  
@@ -996,7 +996,7 @@
                                                         Color fondo Menú :
                                                     </div>
                                                     <div class="col-4">
-                                                        <input type="color" id="color_derechos" name="color_derechos" class="form-control" >
+                                                        <input type="color" id="color_derechos" name="color_derechos" value="{{$tema->color_derechos}}" class="form-control" >
                                                     </div>
                                                 </div>
                                                  
