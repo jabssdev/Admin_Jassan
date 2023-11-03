@@ -176,7 +176,7 @@
             
         </li>
         <li class="{{ $activoTema }}">
-            <a href="#" ><i class="fa fa-tint"></i> <span>Tema</span></a>
+            <a href="{{ route('tema.index') }}" ><i class="fa fa-tint"></i> <span>Tema</span></a>
            
         </li>
         <li class="{{ $activoConfiguracion }}">

@@ -10,6 +10,7 @@ use App\Http\Controllers\admin\ConfiguracionController;
 use App\Http\Controllers\admin\PerfilController;
 use App\Http\Controllers\admin\PropiedadController;
 use App\Http\Controllers\admin\PrevisualizarController;
+use App\Http\Controllers\admin\TemaController;
 //WEB
 use App\Http\Controllers\web\WebController;
 /*
@@ -101,6 +102,10 @@ Route::group(['prefix' => 'admin'], function () {
 		//-----------------------------------------------------------------------------------------------//
 		//---------------------------Previsualizar------------------------------------------------------//
         Route::get('pervisualizar', [PrevisualizarController::class,'index'])->name('previsualizar.index');
+		
+		//-----------------------------------------------------------------------------------------------//
+		//---------------------------TEMA------------------------------------------------------//
+        Route::get('tema', [TemaController::class,'index'])->name('tema.index');
 		
 		//-----------------------------------------------------------------------------------------------//
     });

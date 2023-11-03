@@ -57,7 +57,7 @@
                     <li class="breadcrumb-item active">Propiedades</li>
                 </ul>
             </div>
-
+            
         </div>
     </div>
     <div class="row clearfix">
