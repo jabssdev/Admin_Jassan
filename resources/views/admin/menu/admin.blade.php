@@ -158,7 +158,7 @@
             }
             else {
 
-                $activoPerfil='active';
+                $activoPerfil='';
                 $activoTema='';
                 $activoConfiguracion='';
                 $activoTestimonios='';

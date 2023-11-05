@@ -257,24 +257,24 @@ html {
 }
 
 :root {
-    --bg-featured: #e5e5e5;
-    --text-featured: #1e1e1e;
-    --bg-sale: #fff;
-    --text-sale: #1e1e1e;
+    --bg-featured: #e5e5e5; /*listo*/
+    --text-featured: #1e1e1e; /*listo*/
+    --bg-sale: #fff; /*listo*/
+    --text-sale: #1e1e1e; /*listo*/
     --bg-rent: #e5e5e5;
     --text-rent: #1e1e1e;
-    --bg-completed: #1e1e1e;
-    --text-completed: #fff;
+    --bg-completed: #1e1e1e;/*listo*/
+    --text-completed: #fff;/*listo*/
     --bg-testimonies: #1e1e1e;
     --text-testimonies: #fff;
     --bg-guide: #e5e5e5;
     --text-guide: #fff;
-    --bg-profile: #fff;
-    --text-profile: #1e1e1e;
+    --bg-profile: #fff;/*listo*/
+    --text-profile: #1e1e1e;/*listo*/
     --bg-blogs: #e5e5e5;
     --text-blogs: #1e1e1e;
-    --bg-footer: #1e1e1e;
-    --text-footer: #fff;
+    --bg-footer: #1e1e1e;/*listo*/
+    --text-footer: #fff;/*listo*/
     --bg-outskirts: #675aff;
     --text-outskirts: #fff;
     --bg-distribution: #e5e5e5;
@@ -287,14 +287,14 @@ html {
     --text-detail: #1e1e1e;
     --bg-recent: #e5e5e5;
     --text-recent: #1e1e1e;
-    --color-principal: #675aff;
-    --bg-btn-primary: #675aff;
-    --text-btn-primary: #fff;
-    --bg-btn-secondary: #242424;
-    --text-btn-secondary: #fff;
-    --bg-menu: #242424;
-    --text-menu: #fff;
-    --bg-benefits: #242424
+    --color-principal: #675aff;/*listo*/
+    --bg-btn-primary: #675aff;/*listo*/
+    --text-btn-primary: #fff;/*listo*/
+    --bg-btn-secondary: #242424;/*listo*/
+    --text-btn-secondary: #fff;/*listo*/
+    --bg-menu: #242424;/*listo*/
+    --text-menu: #fff;/*listo*/
+    --bg-benefits: #242424;/*listo*/
 }
 
 *,

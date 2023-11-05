@@ -49,16 +49,16 @@
     }
     /* variables */
     :root {
-        --bg-benefits: {{$tema->color_derechos}}; 
-        --bg-menu: {{$tema->color_barra_superior}};
-        --color-menu: {{$tema->color_texto_superior}};
-        --fondo-general: {{$tema->color_fondo_general}};
-        --color-general: {{$tema->color_texto_general}};
-        --bg-principal: {{$tema->color_principal}};
-        --bg-btn-principal: {{$tema->color_boton_primario}};
-        --bg-btn-txt-principal: {{$tema->color_boton_texto_primario}};
-        --bg-btn-sec: {{$tema->color_boton_sec}};
-        --bg-btn-txt-sec: {{$tema->color_boton_texto_sec}};
+        --bg-benefits: {{$tema->color_derechos}};  /*listo*/
+        --bg-menu: {{$tema->color_barra_superior}}; /*listo*/
+        --color-menu: {{$tema->color_texto_superior}}; /*listo*/
+        --fondo-general: {{$tema->color_fondo_general}}; /*listo*/
+        --color-general: {{$tema->color_texto_general}};  /*listo*/
+        --bg-principal: {{$tema->color_principal}}; /*listo*/
+        --bg-btn-principal: {{$tema->color_boton_primario}}; /*listo*/
+        --bg-btn-txt-principal: {{$tema->color_boton_texto_primario}}; /*listo*/
+        --bg-btn-sec: {{$tema->color_boton_sec}}; /*listo*/
+        --bg-btn-txt-sec: {{$tema->color_boton_texto_sec}}; /*listo*/
         --bg-detalle-propiedad:{{$tema->color_fondo_d_prop}};
         --bg-d-texto-propiedad:{{$tema->color_texto_d_prop}};
         --bg-conoce-propiedad:{{$tema->color_fondo_conoce}};
@@ -71,20 +71,20 @@
         --bg-texto-detalles:{{$tema->color_texto_detalles}};
         --bg-polga-propiedad:{{$tema->color_fondo_polga}};
         --bg-texto-polga:{{$tema->color_texto_polga}};
-        --bg-destacadas-propiedad:{{$tema->color_fondo_destacadas}};
-        --bg-texto-destacadas:{{$tema->color_texto_destacadas}};
-        --bg-enventa-propiedad:{{$tema->color_fondo_enventa}};
-        --bg-texto-enventa:{{$tema->color_texto_enventa}};
+        --bg-destacadas-propiedad:{{$tema->color_fondo_destacadas}}; /*listo*/
+        --bg-texto-destacadas:{{$tema->color_texto_destacadas}}; /*listo*/
+        --bg-enventa-propiedad:{{$tema->color_fondo_enventa}};/*listo*/
+        --bg-texto-enventa:{{$tema->color_texto_enventa}};/*listo*/
         --bg-alquiler-propiedad:{{$tema->color_fondo_alquiler}};
         --bg-texto-alquiler:{{$tema->color_texto_alquiler}};
-        --bg-vendi-propiedad:{{$tema->color_fondo_vendi}};
-        --bg-texto-vendi:{{$tema->color_texto_vendi}};
+        --bg-vendi-propiedad:{{$tema->color_fondo_vendi}};/*listo*/
+        --bg-texto-vendi:{{$tema->color_texto_vendi}};/*listo*/
         --bg-experiencia-propiedad:{{$tema->color_fondo_experiencia}};
         --bg-texto-experiencia:{{$tema->color_texto_experiencia}};
         --bg-comparto-propiedad:{{$tema->color_fondo_comparto}};
         --bg-texto-comparto:{{$tema->color_texto_comparto}};
-        --bg-solga-propiedad:{{$tema->color_fondo_solga}};
-        --bg-texto-solga:{{$tema->color_texto_solga}};
+        --bg-solga-propiedad:{{$tema->color_fondo_solga}};/*listo*/
+        --bg-texto-solga:{{$tema->color_texto_solga}};/*listo*/
         --bg-noticias-propiedad:{{$tema->color_fondo_noticias}};
         --bg-texto-noticias:{{$tema->color_texto_noticias}};
     }

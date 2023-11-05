@@ -1369,42 +1369,52 @@
                                 <div class="form-group">
                                     <div class="row clearfix"  style="margin-top:20px;">
                                     @foreach ($videos as $video )
+                                        
                                         <div class="col-md-6" >
-                                            <div class="input-group">
-                                                
-                                                <video src="{{asset('./img_perfil/'.$video->video)}}" controls controlslist="nodownload" width="170" height="130" poster></video>
-                                                
-                                            </div>
-                                            <div class="file-info row" style="border: 2px dotted #50d38a; width:80%;margin:10px; border-radius:10px; padding:5px;">
-                                                <div class="col"><p >{{$video->video}}</p></div>
-                                                <div class="col-3">
-                                                    
-                                                    <p >
-                                                    @php
-                                                        $bytes = filesize(public_path('img_perfil/' . $video->video));
-
-                                                        if ($bytes >= 1073741824) {
-                                                            $bytes = number_format($bytes / 1073741824, 2) . ' GB';
-                                                        } elseif ($bytes >= 1048576) {
-                                                            $bytes = number_format($bytes / 1048576, 2) . ' MB';
-                                                        } elseif ($bytes >= 1024) {
-                                                            $bytes = number_format($bytes / 1024, 2) . ' KB';
-                                                        } elseif ($bytes > 1) {
-                                                            $bytes = $bytes . ' bytes';
-                                                        } elseif ($bytes == 1) {
-                                                            $bytes = $bytes . ' byte';
-                                                        } else {
-                                                            $bytes = '0 bytes';
-                                                        }
-
-                                                        echo $bytes;
-                                                    @endphp
-                                                    </p>
+                                            <div class="row">
+                                                <div class="col-md-4">
+                                                    <div class="input-group">
+                                                        
+                                                        <video src="{{asset('./img_perfil/'.$video->video)}}" controls controlslist="nodownload" width="170" height="130" poster></video>
+                                                        
+                                                    </div>
                                                 </div>
-                                                <div class="col-1"><a class="file-download" href="{{ asset('./img_perfil/' . $video->video) }}" download><i class="fa fa-download" style="color: #50d38a;"></i></a></div>
-                                                <div class="col-1"><a href="javascript:void(0);" onclick="EliminarVideo({{ $video->id }})"><i class="fa fa-times-circle" style="color: #50d38a;"></i></a></div>
-                                                
+                                                <div class="col-md-8" style="padding-top: 30px;">
+                                                    
+                                                    <div class="file-info row" style="border: 2px dotted #50d38a; margin:10px; border-radius:10px; padding:5px;">
+                                                        <div class="col"><p style="max-width: 60px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">{{$video->video}}</p></div>
+                                                        <div class="col-4">
+                                                            
+                                                            <p >
+                                                            @php
+                                                                $bytes = filesize(public_path('img_perfil/' . $video->video));
+
+                                                                if ($bytes >= 1073741824) {
+                                                                    $bytes = number_format($bytes / 1073741824, 2) . ' GB';
+                                                                } elseif ($bytes >= 1048576) {
+                                                                    $bytes = number_format($bytes / 1048576, 2) . ' MB';
+                                                                } elseif ($bytes >= 1024) {
+                                                                    $bytes = number_format($bytes / 1024, 2) . ' KB';
+                                                                } elseif ($bytes > 1) {
+                                                                    $bytes = $bytes . ' bytes';
+                                                                } elseif ($bytes == 1) {
+                                                                    $bytes = $bytes . ' byte';
+                                                                } else {
+                                                                    $bytes = '0 bytes';
+                                                                }
+
+                                                                echo $bytes;
+                                                            @endphp
+                                                            </p>
+                                                        </div>
+                                                        <div class="col-1"><a class="file-download" href="{{ asset('./img_perfil/' . $video->video) }}" download><i class="fa fa-download" style="color: #50d38a;"></i></a></div>
+                                                        <div class="col-1"><a href="javascript:void(0);" onclick="EliminarVideo({{ $video->id }})"><i class="fa fa-times-circle" style="color: #50d38a;"></i></a></div>
+                                                        
+                                                    </div>
+                                                </div>
                                             </div>
+                                            
+                                            
                                         </div>
                                     @endforeach
                                         
