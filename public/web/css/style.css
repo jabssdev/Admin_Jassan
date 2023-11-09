@@ -377,6 +377,34 @@ address {
 .text_solga{
   color:var(--bg-texto-solga) !important;
 }
+.bg_conoce{
+  background-color:var(--bg-conoce-propiedad) ;
+  
+}
+.text_conoce{
+  color:var(--bg-texto-conoce) !important;
+}
+.bg_fotos_p{
+  background-color:var(--bg-fotos-propiedad) ;
+  
+}
+.text_fotos_p{
+  color:var(--bg-texto-fotos) !important;
+}
+.bg_videos_p{
+  background-color:var(--bg-videos-propiedad) !important;
+  
+}
+.text_videos_p{
+  color:var(--bg-texto-videos) !important;
+}
+.bg_polga_p{
+  background-color:var(--bg-polga-propiedad) !important;
+  
+}
+.text_polga_p{
+  color:var(--bg-texto-polga) !important;
+}
 .ff-fontawesome {
   font-family: FontAwesome !important; }
 

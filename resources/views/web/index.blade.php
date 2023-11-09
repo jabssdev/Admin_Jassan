@@ -652,7 +652,7 @@
                   <div class="fp_footer">
                     <div class="row">
                       <div class="col-lg-12">
-                      <button type="button" class="btn btn-lg btn-transparent btn-block">Ver Propiedad</button>
+                      <a href="{{ route('detalle.propiedad',$destacada->id) }}" type="button" class="btn btn-lg btn-transparent btn-block">Ver Propiedad</a>
                       </div>
                     </div> 
                   </div>
@@ -699,24 +699,24 @@
 										<div style="display: flex; justify-content: space-between; align-items: center;">
 											<div style="display: flex; align-items: center; gap: 10px;">
 												<svg class="imgsvg" width="19" height="19" xmlns="http://www.w3.org/2000/svg" alt="Area"><path d="M16 11h-2v3h-3v2h3v3h2v-3h3v-2h-3v-3ZM1 16h3v-2H2v-2H0v3a1 1 0 0 0 1 1ZM16 1a1 1 0 0 0-1-1h-3v2h2v2h2V1ZM2 2h2V0H1a1 1 0 0 0-1 1v3h2V2ZM0 6h2v4H0V6Zm14 0h2v3h-2V6ZM6 0h4v2H6V0Zm0 14h3v2H6v-2Z"></path></svg>
-												<p class="pcard">{{$destacada->area_terreno}} m2</p>
+												<p class="pcard">{{$venta->area_terreno}} m2</p>
 											  </div>
 											<div style="display:flex; align-items:center; gap:10px">
 												<svg class="imgsvg" width="18" height="17" xmlns="http://www.w3.org/2000/svg" alt="Bedroom"><path d="M16.2 5.867V0h-1.8v1.79H3.6V0H1.8v5.867C.729 6.487 0 7.627 0 8.947v3.58c0 .494.403.894.9.894h.9V17h1.8v-3.579h10.8V17h1.8v-3.579h.9c.498 0 .9-.4.9-.895V8.947c0-1.32-.73-2.46-1.8-3.08Zm-1.8-2.288v1.79H9.9v-1.79h4.5Zm-10.8 0h4.5v1.79H3.6v-1.79Zm12.6 8.053H1.8V8.947c0-.987.807-1.79 1.8-1.79h10.8c.993 0 1.8.803 1.8 1.79v2.685Z"></path></svg>
-												<p class="pcard">{{$destacada->habitaciones}}</p>
+												<p class="pcard">{{$venta->habitaciones}}</p>
 											</div>
 
 											<div style="display:flex; align-items:center; gap:10px">
 												<svg class="imgsvg" width="18" height="17" xmlns="http://www.w3.org/2000/svg" alt="Bathroom"><path d="M17.1 6.263H4.5V3.58c0-.987.807-1.79 1.8-1.79s1.8.803 1.8 1.79h1.8C9.9 1.605 8.285 0 6.3 0S2.7 1.605 2.7 3.579v2.684H.9c-.498 0-.9.4-.9.895v1.79c0 2.331 1.507 4.315 3.6 5.055V17h1.8v-2.684h7.2V17h1.8v-2.997c2.093-.74 3.6-2.724 3.6-5.056v-1.79a.897.897 0 0 0-.9-.894Zm-.9 2.684c0 1.974-1.615 3.58-3.6 3.58H5.4c-1.985 0-3.6-1.606-3.6-3.58v-.894h14.4v.894Z"></path></svg>
-												<p class="pcard">{{$destacada->banios}}</p>
+												<p class="pcard">{{$venta->banios}}</p>
 											</div>
 										</div>
 									</div>
 									<div class="fp_footer">
-										<p class="text-center price">${{$destacada->precio_alquiler_d}} - S/{{$destacada->precio_alquiler_s}}</p>
+										<p class="text-center price">${{$venta->precio_alquiler_d}} - S/{{$venta->precio_alquiler_s}}</p>
 										<div class="row">
 										  <div class="col-lg-12">
-											<button type="button" class="btn btn-lg btn-transparent btn-block">Ver Propiedad</button>
+											<a href="{{ route('detalle.propiedad',$venta->id) }}" type="button" class="btn btn-lg btn-transparent btn-block">Ver Propiedad</a>
 										  </div>
 										</div> 
 									</div>
@@ -908,181 +908,35 @@
 				</div>
 				<div class="col-lg-12">
 					<div class="feature_property_slider">
-						<div class="item">
-							<div class="feat_property">
-								<div class="thumb">
-									<img class="img-whp" src="{{asset('web/images/property/fp1.jpg')}}" alt="fp1.jpg">
-									<div class="thmb_cntnt">
-										<a class="fp_price" href="#">Noticias</a>
-										<a class="daymg text-white" href="#">05/11/223</a>
-									</div>
-								</div>
-								<div class="details">
-									<div class="tc_content">
-										<h4>DEPARTAMENTO VENDIDO EN TRUJILLO</h4>
-										<p>Agradesco a Dios por las bendiciones que nos brinda</p>
- 										 
-									</div>
-									<div class="fp_footer">
-										<div class="row">
-											<div class="col-lg-12">
-											  <button type="button" class="btn btn-lg btn-transparent btn-block">Leer M&aacute;s</button>
-											</div>
-										</div> 
-									</div>
-								</div>
-							</div>
-						</div>
-						<div class="item">
-							<div class="feat_property">
-								<div class="thumb">
-									<img class="img-whp" src="{{asset('web/images/property/fp1.jpg')}}" alt="fp1.jpg">
-									<div class="thmb_cntnt">
-										<a class="fp_price" href="#">Noticias</a>
-										<a class="daymg text-white" href="#">05/11/223</a>
-									</div>
-								</div>
-								<div class="details">
-									<div class="tc_content">
-										<h4>DEPARTAMENTO VENDIDO EN TRUJILLO</h4>
-										<p>Agradesco a Dios por las bendiciones que nos brinda</p>
- 										 
-									</div>
-									<div class="fp_footer">
-										<div class="row">
-											<div class="col-lg-12">
-											  <button type="button" class="btn btn-lg btn-transparent btn-block">Leer M&aacute;s</button>
-											</div>
-										</div> 
-									</div>
-								</div>
-							</div>
-						</div>
-						<div class="item">
-							<div class="feat_property">
-								<div class="thumb">
-									<img class="img-whp" src="{{asset('web/images/property/fp1.jpg')}}" alt="fp1.jpg">
-									<div class="thmb_cntnt">
-										<a class="fp_price" href="#">Noticias</a>
-										<a class="daymg text-white" href="#">05/11/223</a>
-									</div>
-								</div>
-								<div class="details">
-									<div class="tc_content">
-										<h4>DEPARTAMENTO VENDIDO EN TRUJILLO</h4>
-										<p>Agradesco a Dios por las bendiciones que nos brinda</p>
- 										 
-									</div>
-									<div class="fp_footer">
-										<div class="row">
-											<div class="col-lg-12">
-											  <button type="button" class="btn btn-lg btn-transparent btn-block">Leer M&aacute;s</button>
-											</div>
-										</div> 
-									</div>
-								</div>
-							</div>
-						</div>
-						<div class="item">
-							<div class="feat_property">
-								<div class="thumb">
-									<img class="img-whp" src="{{asset('web/images/property/fp1.jpg')}}" alt="fp1.jpg">
-									<div class="thmb_cntnt">
-										<a class="fp_price" href="#">Noticias</a>
-										<a class="daymg text-white" href="#">05/11/223</a>
-									</div>
-								</div>
-								<div class="details">
-									<div class="tc_content">
-										<h4>DEPARTAMENTO VENDIDO EN TRUJILLO</h4>
-										<p>Agradesco a Dios por las bendiciones que nos brinda</p>
- 										 
-									</div>
-									<div class="fp_footer">
-										<div class="row">
-											<div class="col-lg-12">
-											  <button type="button" class="btn btn-lg btn-transparent btn-block">Leer M&aacute;s</button>
-											</div>
-										</div> 
-									</div>
-								</div>
-							</div>
-						</div>
-						<div class="item">
-							<div class="feat_property">
-								<div class="thumb">
-									<img class="img-whp" src="{{asset('web/images/property/fp1.jpg')}}" alt="fp1.jpg">
-									<div class="thmb_cntnt">
-										<a class="fp_price" href="#">Noticias</a>
-										<a class="daymg text-white" href="#">05/11/223</a>
-									</div>
-								</div>
-								<div class="details">
-									<div class="tc_content">
-										<h4>DEPARTAMENTO VENDIDO EN TRUJILLO</h4>
-										<p>Agradesco a Dios por las bendiciones que nos brinda</p>
- 										 
-									</div>
-									<div class="fp_footer">
-										<div class="row">
-											<div class="col-lg-12">
-											  <button type="button" class="btn btn-lg btn-transparent btn-block">Leer M&aacute;s</button>
-											</div>
-										</div> 
-									</div>
-								</div>
-							</div>
-						</div>
-						<div class="item">
-							<div class="feat_property">
-								<div class="thumb">
-									<img class="img-whp" src="{{asset('web/images/property/fp1.jpg')}}" alt="fp1.jpg">
-									<div class="thmb_cntnt">
-										<a class="fp_price" href="#">Noticias</a>
-										<a class="daymg text-white" href="#">05/11/223</a>
-									</div>
-								</div>
-								<div class="details">
-									<div class="tc_content">
-										<h4>DEPARTAMENTO VENDIDO EN TRUJILLO</h4>
-										<p>Agradesco a Dios por las bendiciones que nos brinda</p>
- 										 
-									</div>
-									<div class="fp_footer">
-										<div class="row">
-											<div class="col-lg-12">
-											  <button type="button" class="btn btn-lg btn-transparent btn-block">Leer M&aacute;s</button>
-											</div>
-										</div> 
-									</div>
-								</div>
-							</div>
-						</div>
-						<div class="item">
-							<div class="feat_property">
-								<div class="thumb">
-									<img class="img-whp" src="{{asset('web/images/property/fp1.jpg')}}" alt="fp1.jpg">
-									<div class="thmb_cntnt">
-										<a class="fp_price" href="#">Noticias</a>
-										<a class="daymg text-white" href="#">05/11/223</a>
-									</div>
-								</div>
-								<div class="details">
-									<div class="tc_content">
-										<h4>DEPARTAMENTO VENDIDO EN TRUJILLO</h4>
-										<p>Agradesco a Dios por las bendiciones que nos brinda</p>
- 										 
-									</div>
-									<div class="fp_footer">
-										<div class="row">
-											<div class="col-lg-12">
-											  <button type="button" class="btn btn-lg btn-transparent btn-block">Leer M&aacute;s</button>
-											</div>
-										</div> 
-									</div>
-								</div>
-							</div>
-						</div>
+            @foreach ($blogs as $blog)
+              <div class="item">
+                <div class="feat_property">
+                  <div class="thumb">
+                    <img class="img-whp" src="{{asset('./img_blogs/'.$blog->primera_imagen)}}" alt="fp1.jpg">
+                    <div class="thmb_cntnt">
+                      <a class="fp_price" href="#">Noticias</a>
+                      <a class="daymg text-white" href="#">{{\Carbon\Carbon::parse($blog->created_at)->format('d/m/Y')}}</a>
+                    </div>
+                  </div>
+                  <div class="details">
+                    <div class="tc_content">
+                      <h4>{{$blog->titulo}}</h4>
+                      <p>{{$blog->descripcion_corta}}</p>
+                      
+                    </div>
+                    <div class="fp_footer">
+                      <div class="row">
+                        <div class="col-lg-12">
+                          <button type="button" class="btn btn-lg btn-transparent btn-block">Leer M&aacute;s</button>
+                        </div>
+                      </div> 
+                    </div>
+                  </div>
+                </div>
+              </div>
+            @endforeach
+						
+						
 					</div>
 				</div>
 			</div>
@@ -1124,8 +978,8 @@
         <a href="{{$per_redes->lin_link}}"><svg height="20" viewBox="0 0 20 19" xmlns="http://www.w3.org/2000/svg"><path d="M3.18605 4.376C4.39445 4.376 5.37405 3.3964 5.37405 2.188C5.37405 0.979601 4.39445 0 3.18605 0C1.97765 0 0.998047 0.979601 0.998047 2.188C0.998047 3.3964 1.97765 4.376 3.18605 4.376Z" ></path><path d="M7.44005 6.034V18.173H11.209V12.17C11.209 10.586 11.507 9.052 13.471 9.052C15.408 9.052 15.432 10.863 15.432 12.27V18.174H19.203V11.517C19.203 8.247 18.499 5.734 14.677 5.734C12.842 5.734 11.612 6.741 11.109 7.694H11.058V6.034H7.44005ZM1.29805 6.034H5.07305V18.173H1.29805V6.034Z" ></path></svg></a>
                              
     </div>
-	<div id="btn-asesoria" class="btn-flotante">
-        <svg width="28" height="29" fill="none" xmlns="http://www.w3.org/2000/svg"
+	      <div id="btn-asesoria" class="btn-flotante">
+          <svg width="28" height="29" fill="none" xmlns="http://www.w3.org/2000/svg"
             class="icon-color-inherit fill-principal" alt="Advisory">
             <path
               d="M11 13.2c1.8 0 3.4-.7 4.7-1.9 1.2-1.2 1.9-2.9 1.9-4.7 0-1.8-.7-3.4-1.9-4.7C14.5.7 12.8 0 11 0 9.3 0 7.6.7 6.4 1.9c-1.2 1.2-2 2.9-2 4.7 0 1.8.7 3.4 1.9 4.7 1.3 1.2 3 1.9 4.7 1.9ZM7.5 3.1c1-.9 2.2-1.4 3.5-1.4 1.3 0 2.6.5 3.5 1.4 1 .9 1.5 2.2 1.5 3.5 0 1.3-.5 2.6-1.4 3.5-.9.9-2.2 1.4-3.5 1.4-1.3 0-2.6-.5-3.6-1.4-.9-.9-1.4-2.2-1.4-3.5 0-1.3.5-2.6 1.4-3.5Z"
@@ -1154,7 +1008,7 @@
               </linearGradient>
             </defs>
           </svg>
-    </div>
+        </div>
 	<!-- asesoria form-->
 	<div id="form_asesoria"
         class="bg-white sec-ase" style="display:none; z-index:20; position: fixed;flex-direction: column;">

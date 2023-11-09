@@ -24,7 +24,7 @@ use App\Http\Controllers\web\WebController;
 |
 */
 Route::get('/', [WebController::class,'index'])->name('web.index');
-Route::get('/prueba', [WebController::class,'prueba'])->name('prueba.index');
+Route::get('/propiedad/{id}', [WebController::class,'detallePropiedad'])->name('detalle.propiedad');
 
 Route::get('/administrador', [AuthController::class,'showLoginForm'])->name('admin.login.get');
 Route::post('/login', [AuthController::class,'login'])->name('admin.login');

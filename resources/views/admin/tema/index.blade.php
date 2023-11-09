@@ -61,12 +61,12 @@
         --bg-btn-txt-sec: {{$tema->color_boton_texto_sec}}; /*listo*/
         --bg-detalle-propiedad:{{$tema->color_fondo_d_prop}};
         --bg-d-texto-propiedad:{{$tema->color_texto_d_prop}};
-        --bg-conoce-propiedad:{{$tema->color_fondo_conoce}};
-        --bg-texto-conoce:{{$tema->color_texto_conoce}};
-        --bg-videos-propiedad:{{$tema->color_fondo_videos}};
-        --bg-texto-videos:{{$tema->color_texto_videos}};
-        --bg-fotos-propiedad:{{$tema->color_fondo_fotos}};
-        --bg-texto-fotos:{{$tema->color_texto_fotos}};
+        --bg-conoce-propiedad:{{$tema->color_fondo_conoce}};/*listo*/
+        --bg-texto-conoce:{{$tema->color_texto_conoce}};/*listo*/
+        --bg-videos-propiedad:{{$tema->color_fondo_videos}};/*listo*/
+        --bg-texto-videos:{{$tema->color_texto_videos}};/*listo*/
+        --bg-fotos-propiedad:{{$tema->color_fondo_fotos}};/*listo*/
+        --bg-texto-fotos:{{$tema->color_texto_fotos}};/*listo*/
         --bg-detalles-propiedad:{{$tema->color_fondo_detalles}};
         --bg-texto-detalles:{{$tema->color_texto_detalles}};
         --bg-polga-propiedad:{{$tema->color_fondo_polga}};

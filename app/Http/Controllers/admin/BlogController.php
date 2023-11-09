@@ -93,15 +93,11 @@ class BlogController extends Controller
             $blog->cuarto_parrafo = $request->cuarto_parrafo;
             $blog->tercer_subtitulo = $request->tercer_subtitulo;
             $blog->quinto_parrafo = $request->quinto_parrafo;
-            $pathToYourFile1 = public_path().'/img_blogs/'.$blog->primera_imagen;
-            $pathToYourFile2 = public_path().'/img_blogs/'.$blog->segunda_imagen;
-            $pathToYourFile3 = public_path().'/img_blogs/'.$blog->tercera_imagen;
+            
 
             if ($request->file('primera_imagen')) {
 
-                if(file_exists($pathToYourFile1)) { 
-                    unlink($pathToYourFile1);  
-                } 
+               
 
                 $file = $request->file('primera_imagen');
                 $name = 'blog_primera_imagen_' . time() . '.' . $file->getClientOriginalExtension();
@@ -112,10 +108,7 @@ class BlogController extends Controller
             }
             if ($request->file('segunda_imagen')) {
 
-                if(file_exists($pathToYourFile2)) { 
-                    unlink($pathToYourFile2);  
-                } 
-
+                
                 $file = $request->file('segunda_imagen');
                 $name = 'blog_segunda_imagen_' . time() . '.' . $file->getClientOriginalExtension();
                 $path = public_path() . '/img_blogs/';
@@ -125,9 +118,7 @@ class BlogController extends Controller
             }
             if ($request->file('tercera_imagen')) {
 
-                if(file_exists($pathToYourFile3)) { 
-                    unlink($pathToYourFile3);  
-                } 
+                
 
                 $file = $request->file('tercera_imagen');
                 $name = 'blog_tercera_imagen_' . time() . '.' . $file->getClientOriginalExtension();
