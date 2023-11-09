@@ -29,14 +29,10 @@ class PerfilController extends Controller
             DB::beginTransaction();
             $per_informacion=Per_Informacion::where('id',1)->first();
             if(isset($per_informacion)){
-                $pathToYourFile = public_path().'/img_perfil/'.$per_informacion->imagen;
+                
                 if ($request->file('imagen')) {
 
-                    if(file_exists($pathToYourFile)) { 
-                        unlink($pathToYourFile);  
-                    } 
-    
-                    $file = $request->file('imagen');
+                   $file = $request->file('imagen');
                     $name = 'perfil_imagen_' . time() . '.' . $file->getClientOriginalExtension();
                     $path = public_path() . '/img_perfil/';
                     $file->move($path, $name);

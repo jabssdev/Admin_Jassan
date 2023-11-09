@@ -79,14 +79,14 @@
         --bg-texto-alquiler:{{$tema->color_texto_alquiler}};
         --bg-vendi-propiedad:{{$tema->color_fondo_vendi}};/*listo*/
         --bg-texto-vendi:{{$tema->color_texto_vendi}};/*listo*/
-        --bg-experiencia-propiedad:{{$tema->color_fondo_experiencia}};
-        --bg-texto-experiencia:{{$tema->color_texto_experiencia}};
+        --bg-experiencia-propiedad:{{$tema->color_fondo_experiencia}};/*listo*/
+        --bg-texto-experiencia:{{$tema->color_texto_experiencia}};/*listo*/
         --bg-comparto-propiedad:{{$tema->color_fondo_comparto}};
         --bg-texto-comparto:{{$tema->color_texto_comparto}};
         --bg-solga-propiedad:{{$tema->color_fondo_solga}};/*listo*/
         --bg-texto-solga:{{$tema->color_texto_solga}};/*listo*/
-        --bg-noticias-propiedad:{{$tema->color_fondo_noticias}};
-        --bg-texto-noticias:{{$tema->color_texto_noticias}};
+        --bg-noticias-propiedad:{{$tema->color_fondo_noticias}};/*listo*/
+        --bg-texto-noticias:{{$tema->color_texto_noticias}};/*listo*/
     }
     .bg-bgBenefits {
         background-color: var(--bg-benefits)
