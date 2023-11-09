@@ -24,6 +24,7 @@ use App\Models\Pro_Vi_Alrededores;
 use App\Models\Pro_Fo_Alrededores;
 use App\Models\Pro_Vi_Areas;
 use App\Models\Pro_Fo_Areas;
+
 class WebController extends Controller
 {
     public function index(){
@@ -60,6 +61,15 @@ class WebController extends Controller
         $per_redes=Per_Redes::find(1);
         $pro_ventas=Propiedad::where('tipo_operacion',['En venta', 'Alquiler - Venta'])->get();
         return view('web.propiedad')->with(compact('tema','propiedad','pisos','incluye','adicional','videos_alrededor','fotos_alrededor','videos_areas','fotos_areas','videos','fotos','con_informacion','con_pagina','per_redes','pro_ventas'));
+    }
+    public function blog($id){
+        $tema=Tema::find(1);
+        $blog = Blog::find($id);
+        $todos =Blog::all();
+        $con_informacion=Con_Informacion::find(1);
+        $con_pagina=Con_Pagina::find(1);
+        $per_redes=Per_Redes::find(1);
+        return view('web.blog')->with(compact('tema','blog','todos','con_informacion','con_pagina','per_redes'));
     }
     
 }

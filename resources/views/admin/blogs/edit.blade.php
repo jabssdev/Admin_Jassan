@@ -62,7 +62,7 @@
                             <div class="row clearfix">
                                 <div class="col-md-12">
                                     <label>Descripción corta<span style="color:red;"> *</span></label>
-                                    <textarea name="descripcion_corta" value="{{$blog->descripcion_corta}}" class="form-control" cols="30" rows="1" ></textarea>
+                                    <textarea name="descripcion_corta"  class="form-control" cols="30" rows="1" >{{$blog->descripcion_corta}}</textarea>
                                 </div>
                             </div>
                         </div>

@@ -123,7 +123,7 @@
 		                <span class="icon-bar"></span>
 		            </button>
 		        </div>
-		        <a href="#" class="navbar_brand float-left dn-smd">
+		        <a href="{{ route('web.index') }}" class="navbar_brand float-left dn-smd">
 		            <img class="logo1 img-fluid" src="{{asset('web/images/header-logo.png')}}" alt="header-logo.png">
 		            <img class="logo2 img-fluid" src="{{asset('web/images/header-logo.png')}}" alt="header-logo.png">
 		        </a>
@@ -151,27 +151,27 @@
 		                        
 		                    </li>
 							<li>
-		                        <a href="#">Vendido / Alquilado</a>
+		                        <a href="#vendido">Vendido / Alquilado</a>
 		                        
 		                    </li>
 		                      
 	                	</ul>
 		            </li>
 		            <li style="margin-right:10px;margin-left:10px;">
-		                <a href="#"><span class="title">Testimonios</span></a>
+		                <a href="#testimonios"><span class="title">Testimonios</span></a>
 		                <ul>
 		                     
-                            <li><a href="">Presentaci&oacute;n</a></li>
-                            <li><a href="">Gu&iacute;as</a></li>
+                            <li><a href="#presentacion">Presentaci&oacute;n</a></li>
+                            <li><a href="#property-city">Gu&iacute;as</a></li>
 		                </ul>
 		            </li>
 		            <li style="margin-right:10px;margin-left:10px;">
-		                <a href="#"><span class="title">Blog</span></a>
+		                <a href="#blog"><span class="title">Blog</span></a>
 		                
 		            </li>
 		         
 		             
-	                <li class="list-inline-item add_listing home2 style10 float-right" style="margin-right:10px;margin-left:10px;"><a href="#"><span class="dn-lg"> Iniciar sesión</span></a></li>
+	                <li class="list-inline-item add_listing home2 style10 float-right" style="margin-right:10px;margin-left:10px;"><a href="{{ route('admin.login.get') }}"><span class="dn-lg"> Iniciar sesión</span></a></li>
 	               
 		        </ul>
 		    </nav>
@@ -213,22 +213,22 @@
 		                        
 		                    </li>
 							<li>
-		                        <a href="#">Vendido / Alquilado</a>
+		                        <a href="#vendido">Vendido / Alquilado</a>
 		                        
 		                </li>
 					</ul>
 				</li>
 				<li><span>Testimonios</span>
 					<ul>
-						<li><a href="">Presentaci&oacute;n</a></li>
-						<li><a href="">Gu&iacute;as</a></li>
+						<li><a href="#presentacion">Presentaci&oacute;n</a></li>
+						<li><a href="#property-city">Gu&iacute;as</a></li>
 					</ul>
 				</li>
-				<li><a href="#"><span class="title">Blog</span></a>
+				<li><a href="#blog"><span class="title">Blog</span></a>
 					 
 				</li>
 				 
- 				<li><a href="#"><span class="flaticon-user"></span> Iniciar Sesion </a></li>
+ 				<li><a href="{{ route('admin.login.get') }}"><span class="flaticon-user"></span> Iniciar Sesion </a></li>
  			</ul>
 		</nav>
 	</div>
@@ -737,7 +737,7 @@
 
 
 	<!-- alquiler -->
-	<section class="prop_vendi">
+	<section class="prop_vendi" id="vendido">
 		<div class="container ovh">
 			<div class="row">
 				<div class="col-lg-6 offset-lg-3">
@@ -796,7 +796,7 @@
 	</section>
 
 	<!-- Testimonios -->
-	<section class=" prop_exp">
+	<section class=" prop_exp" id="testimonios">
 		<div class="container ovh">
 			<div class="row">
 				<div class="col-lg-6 offset-lg-3">
@@ -832,7 +832,7 @@
 	</section>
 
 	<!-- Video -->
-	<section id="property-city" class="property-city pb30">
+	<section id="property-city" class="property-city pb30" >
 		<div class="container">
 			<div class="row">
 				<div class="col-sm-6 col-lg-6 col-xl" style="flex: 1;
@@ -867,7 +867,7 @@
 	</section>
 
 	<!-- about -->
-	<section class="bg_solga">
+	<section class="bg_solga" id="presentacion">
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-8 offset-lg-3">
@@ -897,7 +897,7 @@
 	</section>
 
 	<!-- Conocimiento -->
-	<section class="bg_noticia">
+	<section class="bg_noticia" id="blog">
 		<div class="container ovh">
 			<div class="row">
 				<div class="col-lg-6 offset-lg-3">
@@ -912,7 +912,7 @@
               <div class="item">
                 <div class="feat_property">
                   <div class="thumb">
-                    <img class="img-whp" src="{{asset('./img_blogs/'.$blog->primera_imagen)}}" alt="fp1.jpg">
+                    <img class="img-whp" src="{{asset('./img_blogs/'.$blog->primera_imagen)}}" alt="fp1.jpg" height="250">
                     <div class="thmb_cntnt">
                       <a class="fp_price" href="#">Noticias</a>
                       <a class="daymg text-white" href="#">{{\Carbon\Carbon::parse($blog->created_at)->format('d/m/Y')}}</a>
@@ -927,7 +927,7 @@
                     <div class="fp_footer">
                       <div class="row">
                         <div class="col-lg-12">
-                          <button type="button" class="btn btn-lg btn-transparent btn-block">Leer M&aacute;s</button>
+                          <a href="{{ route('detalle.blog',$blog->id) }}" type="button" class="btn btn-lg btn-transparent btn-block">Leer M&aacute;s</a>
                         </div>
                       </div> 
                     </div>
