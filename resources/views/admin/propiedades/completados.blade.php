@@ -64,9 +64,9 @@
                                                 <i class="fa fa-trash-o"></i>
                                             </a>&nbsp;
                                             
-                                            <a href="{{route('propiedades.activar',$item->id)}}" class="btn btn-success"
+                                            <a href="{{route('propiedades.activar',$item->id)}}" class="btn btn-warning"
                                             title="Activar">
-                                                <i class="fa fa-check"></i>
+                                                <i class="fa fa-times"></i>
                                             </a>
                                         </td>
                                     </tr>

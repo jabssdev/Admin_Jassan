@@ -15,8 +15,7 @@
 <!-- Title -->
 <title>{{$con_informacion->titulo_web}}</title>
 <!-- Favicon -->
-<link href="" sizes="128x128" rel="shortcut icon" type="image/x-icon" />
-<link href="" sizes="128x128" rel="shortcut icon" />
+<link href="{{asset('./img_configuracion/'.$con_logo->favicon)}}" rel="icon">
 <link rel="stylesheet" href="{{asset('web/plugin/whatsapp-chat-support.css')}}">
 <link rel="stylesheet" href="{{asset('web/plugin/components/Font Awesome/css/font-awesome.min.css')}}">
 
@@ -153,8 +152,10 @@
 		<div class="mobile-menu">
 			<div class="header stylehome1">
 				<div class="d-flex justify-content-between">
-					<a class="mobile-menu-trigger" href="#menu"><img src="images/dark-nav-icon.svg" alt=""></a>
-					<a class="nav_logo_img" href="index.html"><img class="img-fluid mt20" src="images/header-logo2.png" alt="header-logo2.png"></a>
+					<a class="mobile-menu-trigger" href="#menu">
+					<svg width="28" height="26" fill="none" xmlns="http://www.w3.org/2000/svg" class="opacity-50 cursor-pointer icon-color-inherit fill-white hover:opacity-100" alt="Menu"><g opacity="0.5" fill="#000"><path d="M0 2.5A1.75 1.75 0 0 1 1.75.75h24.5a1.75 1.75 0 1 1 0 3.5H1.75A1.75 1.75 0 0 1 0 2.5ZM0 23.5a1.75 1.75 0 0 1 1.75-1.75h24.5a1.75 1.75 0 1 1 0 3.5H1.75A1.75 1.75 0 0 1 0 23.5ZM12.25 11.25a1.75 1.75 0 0 0 0 3.5h14a1.75 1.75 0 1 0 0-3.5h-14Z"></path></g></svg>
+					</a>
+					<a class="nav_logo_img" href="index.html"><img class="img-fluid mt20" src="{{asset('web/images/header-logo2.png')}}" alt="header-logo2.png"></a>
 					<a class="mobile-menu-reg-link" href="page-register.html"><span></span></a>
 				</div>
 			</div>
@@ -465,7 +466,7 @@
                             <div class="media">
                                 <img class="align-self-start mr-3" src="{{asset('./img_blogs/'.$item->primera_imagen)}}" alt="fls1.jpg" width="80" height="80" style="border-radius:10px;">
                                 <div class="media-body">
-                                    <a href="blog.html"><h5 class="mt-0 post_title">{{$item->titulo}}</h5></a>
+                                    <a href="{{ route('blog',$item->titulo) }}"><h5 class="mt-0 post_title">{{$item->titulo}}</h5></a>
                                     <p>{{$item->descripcion_corta}}</p>
                                 </div>
                             </div>
@@ -502,8 +503,11 @@
 			<div class="row justify-content-center">
 			 
 				<div class="col-lg-6 col-xl-6">
+					@php
+						$fechaActual = now();
+					@endphp
 					<div class="copyright-widget text-center">
-						<p>© 2023 ciro.pe Todos los derechos reservados por Winning & Co. SAC</p>
+						<p>© {{ $fechaActual->year }} jassan.pe Todos los derechos reservados por Winning & Co. SAC</p>
 					</div>
 				</div>
 			</div>

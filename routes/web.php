@@ -13,6 +13,7 @@ use App\Http\Controllers\admin\PrevisualizarController;
 use App\Http\Controllers\admin\TemaController;
 //WEB
 use App\Http\Controllers\web\WebController;
+use App\Http\Controllers\web\FormularioController;
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -24,8 +25,13 @@ use App\Http\Controllers\web\WebController;
 |
 */
 Route::get('/', [WebController::class,'index'])->name('web.index');
-Route::get('/propiedad/{id}', [WebController::class,'detallePropiedad'])->name('detalle.propiedad');
-Route::get('/blog/{id}', [WebController::class,'blog'])->name('detalle.blog');
+Route::get('/prueba', [WebController::class,'prueba'])->name('web.prueba');
+Route::get('/p/{nombre}', [WebController::class,'detallePropiedad'])->name('detalle.propiedad');
+Route::get('/"/{titulo}/"', [WebController::class,'blog'])->name('blog');
+Route::post('enviar-principal', [FormularioController::class,'sendMail'])->name('web.sendmail');
+
+
+
 
 Route::get('/administrador', [AuthController::class,'showLoginForm'])->name('admin.login.get');
 Route::post('/login', [AuthController::class,'login'])->name('admin.login');

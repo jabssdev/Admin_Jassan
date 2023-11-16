@@ -11,12 +11,11 @@
 <link rel="stylesheet" href="{{asset('web/css/bootstrap.min.css')}}">
 <link rel="stylesheet" href="{{asset('web/css/style.css')}}">
 <!-- Responsive stylesheet -->
-<link rel="stylesheet" href="{{asset('vcss/responsive.css')}}">
+<link rel="stylesheet" href="{{asset('web/css/responsive.css')}}">
 <!-- Title -->
 <title>{{$con_informacion->titulo_web}}</title>
 <!-- Favicon -->
-<link href="" sizes="128x128" rel="shortcut icon" type="image/x-icon" />
-<link href="" sizes="128x128" rel="shortcut icon" />
+<link href="{{asset('./img_configuracion/'.$con_logo->favicon)}}" rel="icon">
 <link rel="stylesheet" href="{{asset('web/plugin/whatsapp-chat-support.css')}}">
 <link rel="stylesheet" href="{{asset('web/plugin/components/Font Awesome/css/font-awesome.min.css')}}">
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
@@ -103,11 +102,68 @@
 .thumbnail-video {
     flex: 0 0 70%; /* Ajustar según sea necesario */
 }
+.slider-movil{
+	display:none;
+}
+@media screen and (max-width: 700px) {
+  .customslider .item {
+    min-width: 300px;
+    opacity: 1;
+    box-shadow: none;
+	padding: 0px !important;
+	margin: 0px;	
+  }
+  .des{
+    height: 160px !important;
+  }
+  .miniatura{
+    height:30px;
+  }
+ 
+  .slick-track{
+	width: 100%;
+  }
+  .slider-movil{
+	display:block;
+	background-color:#000;
+	}
+	.oculto-movil{
+		display:none;
+	}
+	.home5_bgi5{
+		height:400px;
+		
+	}
+	.home5-overlay:before{
+		background-color: transparent;
+	}
+	.asiven{
+		font-size: 1.375rem !important;
+    	line-height: 1.676rem;
+		
+	}
+	.testimonial_slider_home9 .testimonial_post{
+		margin: 0px;
+	}
+	.text-heading-03{
+	font-size: 2.062rem;
+	line-height: 2.562rem;
+	}
+	.text-subheading-03 {
+		font-size: 1.125rem !important;
+		line-height: 1.371rem;
+	}
+	.qvender{
+		font-size: 1.125rem !important;
+    	line-height: 1.371rem !important;
+		height:50px !important;  
+	}
+}
 </style>
 </head>
 <body>
 <div class="wrapper">
-	<div class="preloader"></div>
+	
 
 	<!-- Main Header Nav -->
 	<header class="header-nav menu_style_home_one style2 home10 navbar-scrolltofixed stricky main-menu">
@@ -184,8 +240,10 @@
 		<div class="mobile-menu">
 			<div class="header stylehome1">
 				<div class="d-flex justify-content-between">
-					<a class="mobile-menu-trigger" href="#menu"><img src="{{asset('web/images/dark-nav-icon.svg')}}" alt=""></a>
-					<a class="nav_logo_img" href="index.html"><img class="img-fluid mt20" src="{{asset('web/images/header-logo2.png')}}" alt="header-logo2.png"></a>
+					<a class="mobile-menu-trigger" href="#menu">
+					<svg width="28" height="26" fill="none" xmlns="http://www.w3.org/2000/svg" class="opacity-50 cursor-pointer icon-color-inherit fill-white hover:opacity-100" alt="Menu"><g opacity="0.5" fill="#000"><path d="M0 2.5A1.75 1.75 0 0 1 1.75.75h24.5a1.75 1.75 0 1 1 0 3.5H1.75A1.75 1.75 0 0 1 0 2.5ZM0 23.5a1.75 1.75 0 0 1 1.75-1.75h24.5a1.75 1.75 0 1 1 0 3.5H1.75A1.75 1.75 0 0 1 0 23.5ZM12.25 11.25a1.75 1.75 0 0 0 0 3.5h14a1.75 1.75 0 1 0 0-3.5h-14Z"></path></g></svg>
+					</a>
+					<a class="nav_logo_img" href="{{ route('web.index') }}"><img class="img-fluid mt20" src="{{asset('web/images/header-logo2.png')}}" alt="header-logo2.png"></a>
 					<a class="mobile-menu-reg-link" href="page-register.html"><span></span></a>
 				</div>
 			</div>
@@ -242,23 +300,24 @@
 					<div class="home_content home5 style2">
 						<div class="home1-advnc-search home5">
 							
-							<form class="home5_advanced_search_form">
+							<form class="home5_advanced_search_form oculto-movil" action="{{ route('web.sendmail') }}" method="post">
+								{{ csrf_field() }}
 								<div class="main-title ">
 									<h3 class="color_principal" style="font-weight: 800;font-size: 1.6rem;line-height: 2.062rem;">{{$con_pagina->titulo_principal}}</h3>
 									<h3 class="color_principal" style="text-align: center;font-size: inherit;font-weight: 600;width: 100%;">OBT&Eacute;N UNA ASESOR&Iacute;A GRATIS</h3>
 								</div>
 							    <div class="form-group">
 									<!-- <label for="exampleInputName1">Nombre Completo <span class="preferen">*</span></label> -->
-							    	<input type="text" class="form-control" id="exampleInputName1" placeholder="Nombre Completo ">
+							    	<input type="text" class="form-control" name="nombre"  id="exampleInputName1" placeholder="Nombre Completo ">
 							    </div>
 								<div class="form-group">
 									<!-- <label for="exampleInputName1">Celular<span class="preferen">*</span></label> -->
-							    	<input type="text" class="form-control" id="exampleInputPhone" placeholder="Celular">
+							    	<input type="text" class="form-control" name="celular" id="exampleInputPhone" placeholder="Celular">
 							    </div>
 								 
 								<div class="form-group">
 									<!-- <label for="exampleInputName1">Dni<span class="preferen">*</span></label> -->
-							    	<input type="text" class="form-control" id="exampleInputPhone" placeholder="Dni">
+							    	<input type="text" class="form-control" name="dni" id="exampleInputPhone" placeholder="Dni">
 							    </div>
 
 								<div class="search_option_button home5">
@@ -273,15 +332,15 @@
 				</div>
 				 
 			</div>
-			<div style="position: absolute; top:13%">
-				<h2 class="text-white">DESCUBRE COMO</h2>
-				<h2 class="text-secundario">VENDER TU PROPIEDAD M&Aacute;S R&Aacute;PIDO</h2>
+			<div class="oculto-movil" style="position: absolute; top:13% ">
+				<h2 class="text-white font-light text-heading-05">DESCUBRE COMO</h2>
+				<h2 class="text-secundario font-bold text-heading-05">VENDER TU PROPIEDAD M&Aacute;S R&Aacute;PIDO</h2>
 			</div>
-			 <div style="position: absolute; bottom: 54px;">
-				<div class="container">
+			 <div style="position: absolute; bottom: 54px; ">
+				<div class="container oculto-movil">
 			 
 					<div class="row">
-						<div class="col-lg-6 secth3">
+						<div class="col-lg-6 secth3 ">
 							<div class="row">
 								<div class="col-lg-4" >
 									<!-- Primera columna -->
@@ -322,9 +381,9 @@
 										</div>
 									</div>
 								</div>
-							 </div>
+							</div>
 						</div>
-						<div class="col-lg-6"  >
+						<div class="col-lg-6 "  >
 							<div class="column-content text-center">
 								<h2 class="text-white">{{$per_informacion->nombres}} {{$per_informacion->apellidos}}</h2>
 									
@@ -338,14 +397,113 @@
 								 
 						   </div>
 					
-					   </div>
+					   	</div>
 						
 					</div>
 				</div>
 			</div> 
 		</div>
 	</section>
+	<!-- Slider Movil -->
+	<section class="slider-movil">
+		<div class="container">
+			<div class="row posr">
+				<div class="col-lg-12" align="center">
+					<h2 class="text-white font-light text-heading-05">DESCUBRE COMO</h2>
+					<h2 class="text-secundario font-bold text-heading-05">VENDER TU PROPIEDAD M&Aacute;S R&Aacute;PIDO</h2>
+				</div>
+				<div class="col-lg-12">
+					<div class="home_content home5 style2">
+						<div class="home1-advnc-search home5">
+							
+							<form class="home5_advanced_search_form" action="{{ route('web.sendmail') }}" method="post">
+								{{ csrf_field() }}
+								<div class="main-title " align="center">
+									<h3 class="color_principal" style="font-weight: 800;font-size: 1.6rem;line-height: 2.062rem;">{{$con_pagina->titulo_principal}}</h3>
+									<h3 class="color_principal" style="text-align: center;font-size: inherit;font-weight: 600;width: 100%;">OBT&Eacute;N UNA ASESOR&Iacute;A GRATIS</h3>
+								</div>
+							    <div class="form-group">
+									<!-- <label for="exampleInputName1">Nombre Completo <span class="preferen">*</span></label> -->
+							    	<input type="text" class="form-control" name="nombre"  id="exampleInputName1" placeholder="Nombre Completo ">
+							    </div>
+								<div class="form-group">
+									<!-- <label for="exampleInputName1">Celular<span class="preferen">*</span></label> -->
+							    	<input type="text" class="form-control" name="celular" id="exampleInputPhone" placeholder="Celular">
+							    </div>
+								 
+								<div class="form-group">
+									<!-- <label for="exampleInputName1">Dni<span class="preferen">*</span></label> -->
+							    	<input type="text" class="form-control" name="dni" id="exampleInputPhone" placeholder="Dni">
+							    </div>
 
+								<div class="search_option_button home5">
+								    <button type="submit" class="btn btn-block">Enviar</button>
+								</div>
+							</form>
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-12">
+					<div class="row">
+						<div class="col-4" >
+							<!-- Primera columna -->
+							<div class="column-content">
+								<div class="row align-items-center">
+									<div class="col-md-12">
+										<svg width="48" height="48" xmlns="http://www.w3.org/2000/svg" class="w-12 md:w-auto" alt="Experience"><path d="M42.327 15.318c.21-.742.322-1.511.322-2.286 0-4.306-3.298-7.855-7.501-8.255C34.18 2 31.537 0 28.433 0c-1.827 0-3.479.713-4.739 1.848C22.434.713 20.782 0 18.955 0c-3.082 0-5.71 1.969-6.693 4.774-4.216.391-7.523 3.945-7.523 8.258 0 .774.111 1.544.322 2.286C2.04 16.925 0 20.128 0 23.694a9.484 9.484 0 0 0 2.777 6.71 9.636 9.636 0 0 0-.408 2.768c0 4.637 3.346 8.506 7.834 9.32a8.327 8.327 0 0 0 7.567 4.896c2.32 0 4.417-.964 5.924-2.51a8.254 8.254 0 0 0 5.924 2.51 8.317 8.317 0 0 0 7.558-4.881c4.45-.777 7.843-4.668 7.843-9.335 0-.941-.14-1.877-.408-2.768a9.484 9.484 0 0 0 2.777-6.71c0-3.566-2.04-6.77-5.061-8.376ZM17.77 42.65a3.56 3.56 0 0 1-3.484-2.838l-.502-1.9h-1.938a4.744 4.744 0 0 1-4.739-4.74c0-.834.202-1.615.6-2.324l1.08-1.933-1.858-1.209a4.783 4.783 0 0 1-2.191-4.011c0-2.315 1.713-4.322 3.985-4.672l4.011-.616-2.509-3.19a3.558 3.558 0 0 1 3.55-5.663l2.81.415v-2.86a2.37 2.37 0 0 1 4.739 0v31.987a3.558 3.558 0 0 1-3.555 3.554Zm22.687-14.946L38.6 28.911l1.08 1.934c.398.71.6 1.492.6 2.327 0 2.613-2.126 4.738-4.858 4.738h-1.938l-.384 1.9a3.56 3.56 0 0 1-3.483 2.84 3.558 3.558 0 0 1-3.554-3.555V7.108a2.37 2.37 0 0 1 2.37-2.37c1.308 0 2.37 1.062 2.37 2.489v2.86l2.81-.534a3.558 3.558 0 0 1 3.55 5.663l-2.51 3.192 4.01.616c2.273.348 3.986 2.355 3.986 4.67 0 1.618-.82 3.116-2.191 4.009Z" fill="#FACB13"></path></svg>
+									</div>
+									<div class="col-md-12">
+										<p class="text-white"><b>+{{$per_informacion->anios_experiencia}}</b> años de experiencia</p>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="col-4">
+							<!-- Segunda columna -->
+							<div class="column-content">
+								<div class="row align-items-center">
+									<div class=" col-md-12">
+										<svg width="47" height="47" fill="none" xmlns="http://www.w3.org/2000/svg" class="w-12 md:w-auto " alt="Trophy"><path d="M44.65 4.7H37.6V2.35c0-1.3-1.05-2.35-2.35-2.35h-23.5C10.45 0 9.4 1.05 9.4 2.35V4.7H2.35C1.05 4.7 0 5.75 0 7.05v7.05c0 10.129 4.228 16.239 11.325 16.478a14.104 14.104 0 0 0 9.825 6.81V42.3h-4.7V47h14.1v-4.7h-4.7v-4.911a14.123 14.123 0 0 0 9.825-6.81C42.772 30.338 47 24.228 47 14.1V7.05c0-1.3-1.05-2.35-2.35-2.35ZM4.7 14.1V9.4h4.7v16.05c-4.192-1.767-4.7-8.297-4.7-11.35Zm18.8 18.8c-5.184 0-9.4-4.216-9.4-9.4V4.7h18.8v18.8c0 5.184-4.216 9.4-9.4 9.4Zm14.1-7.45V9.4h4.7v4.7c0 3.053-.508 9.583-4.7 11.35Z" fill="#FACB13"></path></svg>
+									</div>
+									<div class="col-lg-9 col-md-12">
+										<p class="text-white"><b>+{{$per_adicional->p_vendidas}}</b> propiedades vendidas</p>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="col-4">
+							<!-- Tercera columna -->
+							<div class="column-content">
+								<div class="row align-items-center">
+									<div class="col-md-12">
+										<svg width="34" height="57" fill="none" xmlns="http://www.w3.org/2000/svg" class="w-12 md:w-auto" alt="Ray"><path fill-rule="evenodd" clip-rule="evenodd" d="M28.236 30.666 12.393 52.054c-.235.318-.514.475-.793.475-.313 0-.625-.2-.874-.592-.24-.382-.387-.892-.431-1.431V50.5a4.047 4.047 0 0 1 .16-1.524l4.416-13.911L6 31.07c-.485-.216-.86-.908-.968-1.785-.11-.877.066-1.79.453-2.36L20.008 5.538c.469-.694 1.142-.72 1.63-.057.277.374.452.916.507 1.5v.008c.04.436.013.895-.09 1.324l-3.349 14.071 9.058 4.078c.495.219.874.934.974 1.832.102.901-.095 1.82-.502 2.372Zm4.72-2.843c.182 1.626-.087 3.712-1.305 5.362l-.005.007-15.839 21.382-.004.005c-.773 1.045-2.191 2.194-4.203 2.194-2.272 0-3.748-1.443-4.46-2.566l-.003-.006-.004-.006c-1.245-1.982-1.342-4.55-.724-6.5l3.274-10.312-5.413-2.438-.01-.004c-1.373-.616-2.18-1.689-2.616-2.493a7.483 7.483 0 0 1-.823-2.64c-.2-1.605.04-3.627 1.152-5.265L16.49 3.163l.004-.007c.712-1.05 2.092-2.322 4.168-2.397 2.113-.076 3.602 1.134 4.389 2.202 1.42 1.92 1.578 4.468 1.132 6.338l-2.537 10.656 5.85 2.634c1.405.627 2.218 1.73 2.65 2.543.461.87.71 1.806.809 2.691ZM17.92 7.377Z" fill="#FACB13"></path></svg>
+									</div>
+									<div class="col-md-12">
+										<p class="text-white"><b>+{{$per_adicional->p_vendidas_mes}}</b> ventas en tiempo record</p>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-12"  >
+					<div class="column-content text-center">
+						<h2 class="text-white font-light">{{$per_informacion->nombres}} {{$per_informacion->apellidos}}</h2>
+							
+						<div class="d-flex justify-content-center">
+						   <svg width="23" height="17" fill="none" xmlns="http://www.w3.org/2000/svg" class="" alt="Mail">
+							   <path d="M21.125 0h-19.5A1.625 1.625 0 0 0 0 1.625v13a1.625 1.625 0 0 0 1.625 1.625h19.5a1.625 1.625 0 0 0 1.625-1.625v-13A1.625 1.625 0 0 0 21.125 0Zm-1.788 1.625-7.962 5.509-7.963-5.509h15.925Zm-17.712 13V2.365l9.287 6.426a.812.812 0 0 0 .926 0l9.287-6.427v12.261h-19.5Z" fill="#fff"></path>
+						   </svg>
+						   <p class="text-white" style="font-size: 1rem;line-height: 15px; ">&nbsp;{{$per_informacion->correo}}</p>
+					   </div>
+					</div>
+				</div>
+				 
+			</div>
+			
+			 
+		</div>
+	</section>
 	<!-- Feature Properties -->
 	<section id="feature-property" class="feature-property bgc-f7" style="padding: 0; display: none;">
 		<div class="container dn db-992">
@@ -563,7 +721,7 @@
 		<div class="container">
 			<div class="row justify-content-center">
 				<div class="col-lg-12">
-					<h2 class="text-center color_principal" style="font-size: 3.125rem;line-height: 3.8rem;font-weight: 600;text-transform: uppercase;">ASÍ VENDO MIS PROPIEDADES</h2>
+					<h2 class="text-center color_principal asiven" style="font-size: 3.125rem;line-height: 3.8rem;font-weight: 600;text-transform: uppercase;">ASÍ VENDO MIS PROPIEDADES</h2>
 				</div>
 			</div>
 		</div>
@@ -576,8 +734,8 @@
 			<div class="row">
 				<div class="col-lg-6 offset-lg-3">
 					<div class="main-title text-center mb40">
-						<h2 class="indhead text_prop_destacada">DESTACADAS</h2>
-						<p class="indp text_prop_destacada">Conoce nuestros mejores espacios</p>
+						<h2 class="indhead text_prop_destacada text-heading-03">DESTACADAS</h2>
+						<p class="indp text_prop_destacada text-subheading-03">Conoce nuestros mejores espacios</p>
 					</div>
 				</div>
 				<div class="col-lg-12 boxsec">
@@ -585,17 +743,20 @@
             @foreach ($pro_destacadas as $key => $destacada)
             <div class="item">
               <div class="feat_property">
-                  <div class="thumb des" style="height: 350px;">
+                  <div class="thumb des" style="height: 200px;">
                     @php
-                        $aux=App\Models\Pro_Foto::where('destacado', 'SI')->where('id_propiedad',$destacada->id)->first();
+                        $aux=App\Models\Pro_Foto::where('id_propiedad',$destacada->id)->first();
                     @endphp
-                    <img class="img-whp" src="{{asset('./propiedad/fotos/'.$aux->foto)}}" id="img_principal{{$key}}" alt="fp1.jpg">
+                    
+                        <img class="img-whp" src="{{asset('./propiedad/fotos/'.$aux->foto)}}" id="img_principal{{$key}}" alt="fp1.jpg">
+                    
+                    
                   </div>
                   <div class="image-gallery">
                     <div class="thumbnail-slider">
                         @foreach (  App\Models\Pro_Foto::where('destacado', 'SI')->where('id_propiedad',$destacada->id)->get() as $index => $miniatura )
                             <div class="thumbnail" data-slick-index="{{$index}}" data-key="{{ $key }}">
-                                <img src="{{asset('./propiedad/fotos/'.$miniatura->foto)}}" alt="Thumbnail 1" width="100" height="70">
+                                <img src="{{asset('./propiedad/fotos/'.$miniatura->foto)}}" class="miniatura" alt="Thumbnail 1" width="200" height="50">
                             </div>
                         @endforeach    
                       
@@ -606,11 +767,11 @@
                     <p class="text-thm">{{$destacada->tipo_casa}}</p>
                     <div class="d-flex">
                       <div class="row" style="width:100%;">
-                        <div class="col-lg-8">
+                        <div class="col-lg-7">
                           <p class="line-clamp-1" style="max-width: 300px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;"><b>{{$destacada->nombre}}</b></p>
                           <p>{{$destacada->direccion}}</p>
                         </div>
-                        <div class="col-lg-4" align="right">
+                        <div class="col-lg-5" align="right">
                           <p class="price">${{$destacada->precio_alquiler_d}} - S/{{$destacada->precio_alquiler_s}}</p>
                         </div>
                       </div>
@@ -625,25 +786,25 @@
                               <path d="M16 11h-2v3h-3v2h3v3h2v-3h3v-2h-3v-3ZM1 16h3v-2H2v-2H0v3a1 1 0 0 0 1 1ZM16 1a1 1 0 0 0-1-1h-3v2h2v2h2V1ZM2 2h2V0H1a1 1 0 0 0-1 1v3h2V2ZM0 6h2v4H0V6Zm14 0h2v3h-2V6ZM6 0h4v2H6V0Zm0 14h3v2H6v-2Z"></path>
                             </svg>
                           </div>
-                          <p class="pcard" style="margin-left:20px;">{{$destacada->area_terreno}} m2</p>
+                          <p class="pcard" >{{$destacada->area_terreno}} m2</p>
                         </div>
                         <div class="d-flex align-items-center  col-6 col-md-3" style="gap: 2px;">
                           <div class="icon-container">
                             <svg class="imgsvg" width="18" height="17" xmlns="http://www.w3.org/2000/svg" alt="Bedroom"><path d="M16.2 5.867V0h-1.8v1.79H3.6V0H1.8v5.867C.729 6.487 0 7.627 0 8.947v3.58c0 .494.403.894.9.894h.9V17h1.8v-3.579h10.8V17h1.8v-3.579h.9c.498 0 .9-.4.9-.895V8.947c0-1.32-.73-2.46-1.8-3.08Zm-1.8-2.288v1.79H9.9v-1.79h4.5Zm-10.8 0h4.5v1.79H3.6v-1.79Zm12.6 8.053H1.8V8.947c0-.987.807-1.79 1.8-1.79h10.8c.993 0 1.8.803 1.8 1.79v2.685Z"></path></svg>
                           </div>
-                          <p class="pcard" style="margin-left:20px;">{{$destacada->habitaciones}} dorm</p>
+                          <p class="pcard" >{{$destacada->habitaciones}} dorm</p>
                         </div>
                         <div class="d-flex align-items-center  col-6 col-md-3" style="gap: 2px;">
                           <div class="icon-container">
                             <svg class="imgsvg" width="18" height="17" xmlns="http://www.w3.org/2000/svg" alt="Bathroom"><path d="M17.1 6.263H4.5V3.58c0-.987.807-1.79 1.8-1.79s1.8.803 1.8 1.79h1.8C9.9 1.605 8.285 0 6.3 0S2.7 1.605 2.7 3.579v2.684H.9c-.498 0-.9.4-.9.895v1.79c0 2.331 1.507 4.315 3.6 5.055V17h1.8v-2.684h7.2V17h1.8v-2.997c2.093-.74 3.6-2.724 3.6-5.056v-1.79a.897.897 0 0 0-.9-.894Zm-.9 2.684c0 1.974-1.615 3.58-3.6 3.58H5.4c-1.985 0-3.6-1.606-3.6-3.58v-.894h14.4v.894Z"></path></svg>
                           </div>
-                          <p class="pcard" style="margin-left:20px;">{{$destacada->banios}} baños</p>
+                          <p class="pcard" >{{$destacada->banios}} baños</p>
                         </div>
                         <div class="d-flex align-items-center  col-6 col-md-3" style="gap: 2px;">
                           <div class="icon-container">
                             <svg width="18" height="19" xmlns="http://www.w3.org/2000/svg" alt="Garage"><path d="M.9 16.837v1.213c0 .525.402.95.9.95h.9c.498 0 .9-.425.9-.95v-.95h10.8v.95c0 .525.402.95.9.95h.9c.498 0 .9-.425.9-.95v-1.213c.536-.33.9-.935.9-1.637v-2.85c0-.79-.456-1.465-1.105-1.752l-1.231-3.9c-.368-1.165-1.397-1.948-2.56-1.948H4.896c-1.164 0-2.193.783-2.56 1.949l-1.232 3.899C.456 10.885 0 11.56 0 12.35v2.85c0 .701.364 1.307.9 1.637ZM3.15 15.2c-.745 0-1.35-.638-1.35-1.425s.605-1.425 1.35-1.425c.745 0 1.35.639 1.35 1.425 0 .787-.605 1.425-1.35 1.425Zm11.7 0c-.745 0-1.35-.638-1.35-1.425s.605-1.425 1.35-1.425c.745 0 1.35.639 1.35 1.425 0 .787-.605 1.425-1.35 1.425ZM4.897 6.65h8.205c.388 0 .732.262.854.65l.996 3.15H3.048l.995-3.15a.906.906 0 0 1 .854-.65Z"></path><path d="M18 5.119V3.115L9.284.05a.852.852 0 0 0-.592.008L0 3.394v2.021l9.014-3.46L18 5.12Z"></path></svg>
                           </div>
-                          <p class="pcard" style="margin-left:20px;">{{$destacada->cocheras}} cochera</p>
+                          <p class="pcard" >{{$destacada->cocheras}} cochera</p>
                         </div>
                       
                     </div>
@@ -652,7 +813,7 @@
                   <div class="fp_footer">
                     <div class="row">
                       <div class="col-lg-12">
-                      <a href="{{ route('detalle.propiedad',$destacada->id) }}" type="button" class="btn btn-lg btn-transparent btn-block">Ver Propiedad</a>
+                      <a href="{{ route('detalle.propiedad',$destacada->nombre) }}" type="button" class="btn btn-lg btn-transparent btn-block">Ver Propiedad</a>
                       </div>
                     </div> 
                   </div>
@@ -676,8 +837,8 @@
 			<div class="row">
 				<div class="col-lg-6 offset-lg-3">
 					<div class="main-title text-center mb40">
-						<h2 class="indhead text_prop_enventa">EN  VENTA</h2>
-						<p class="indp text_prop_enventa">Aquí aparecerá tu propiedad</p>
+						<h2 class="indhead text_prop_enventa text-heading-03">EN  VENTA</h2>
+						<p class="indp text_prop_enventa text-subheading-03">Aquí aparecerá tu propiedad</p>
 					</div>
 				</div>
 				<div class="col-lg-12">
@@ -716,7 +877,7 @@
 										<p class="text-center price">${{$venta->precio_alquiler_d}} - S/{{$venta->precio_alquiler_s}}</p>
 										<div class="row">
 										  <div class="col-lg-12">
-											<a href="{{ route('detalle.propiedad',$venta->id) }}" type="button" class="btn btn-lg btn-transparent btn-block">Ver Propiedad</a>
+											<a href="{{ route('detalle.propiedad',$venta->nombre) }}" type="button" class="btn btn-lg btn-transparent btn-block">Ver Propiedad</a>
 										  </div>
 										</div> 
 									</div>
@@ -731,19 +892,78 @@
 		</div>
 	</section>
 
-	 
+	  <!-- Alquiler -->
+	<section class="prop_alquiler" id="alquiler">
+		<div class="container ovh">
+			<div class="row">
+				<div class="col-lg-6 offset-lg-3">
+					<div class="main-title text-center mb40">
+						<h2 class="indhead text_prop_enventa text-heading-03">EN  ALQUILER</h2>
+						<p class="indp text_prop_enventa text-subheading-03">Al mejor precio y en el mejor lugar</p>
+					</div>
+				</div>
+				<div class="col-lg-12">
+					<div class="feature_property_slider">
+						@foreach ($pro_alquiler as $alquiler)
+						<div class="item">
+										<div class="feat_property">
+											<div class="thumb">
+							@php
+								$aux=App\Models\Pro_Foto::where('id_propiedad',$alquiler->id)->first();
+							@endphp
+												<img class="img-whp" src="{{asset('./propiedad/fotos/'.$aux->foto)}}" alt="fp1.jpg" height="330">
+											</div>
+											<div class="details">
+												<div class="tc_content">
+													<p class="text-thm">{{$alquiler->tipo_casa}}</p>
+													<h4>{{$alquiler->direccion}}</h4>
+													<hr>
+													<div style="display: flex; justify-content: space-between; align-items: center;">
+														<div style="display: flex; align-items: center; gap: 10px;">
+															<svg class="imgsvg" width="19" height="19" xmlns="http://www.w3.org/2000/svg" alt="Area"><path d="M16 11h-2v3h-3v2h3v3h2v-3h3v-2h-3v-3ZM1 16h3v-2H2v-2H0v3a1 1 0 0 0 1 1ZM16 1a1 1 0 0 0-1-1h-3v2h2v2h2V1ZM2 2h2V0H1a1 1 0 0 0-1 1v3h2V2ZM0 6h2v4H0V6Zm14 0h2v3h-2V6ZM6 0h4v2H6V0Zm0 14h3v2H6v-2Z"></path></svg>
+															<p class="pcard">{{$alquiler->area_terreno}} m2</p>
+														</div>
+														<div style="display:flex; align-items:center; gap:10px">
+															<svg class="imgsvg" width="18" height="17" xmlns="http://www.w3.org/2000/svg" alt="Bedroom"><path d="M16.2 5.867V0h-1.8v1.79H3.6V0H1.8v5.867C.729 6.487 0 7.627 0 8.947v3.58c0 .494.403.894.9.894h.9V17h1.8v-3.579h10.8V17h1.8v-3.579h.9c.498 0 .9-.4.9-.895V8.947c0-1.32-.73-2.46-1.8-3.08Zm-1.8-2.288v1.79H9.9v-1.79h4.5Zm-10.8 0h4.5v1.79H3.6v-1.79Zm12.6 8.053H1.8V8.947c0-.987.807-1.79 1.8-1.79h10.8c.993 0 1.8.803 1.8 1.79v2.685Z"></path></svg>
+															<p class="pcard">{{$alquiler->habitaciones}}</p>
+														</div>
+
+														<div style="display:flex; align-items:center; gap:10px">
+															<svg class="imgsvg" width="18" height="17" xmlns="http://www.w3.org/2000/svg" alt="Bathroom"><path d="M17.1 6.263H4.5V3.58c0-.987.807-1.79 1.8-1.79s1.8.803 1.8 1.79h1.8C9.9 1.605 8.285 0 6.3 0S2.7 1.605 2.7 3.579v2.684H.9c-.498 0-.9.4-.9.895v1.79c0 2.331 1.507 4.315 3.6 5.055V17h1.8v-2.684h7.2V17h1.8v-2.997c2.093-.74 3.6-2.724 3.6-5.056v-1.79a.897.897 0 0 0-.9-.894Zm-.9 2.684c0 1.974-1.615 3.58-3.6 3.58H5.4c-1.985 0-3.6-1.606-3.6-3.58v-.894h14.4v.894Z"></path></svg>
+															<p class="pcard">{{$alquiler->banios}}</p>
+														</div>
+													</div>
+												</div>
+												<div class="fp_footer">
+													<p class="text-center price">${{$alquiler->precio_alquiler_d}} - S/{{$alquiler->precio_alquiler_s}}</p>
+													<div class="row">
+													<div class="col-lg-12">
+														<a href="{{ route('detalle.propiedad',$alquiler->nombre) }}" type="button" class="btn btn-lg btn-transparent btn-block">Ver Propiedad</a>
+													</div>
+													</div> 
+												</div>
+											</div>
+										</div>
+									</div>
+						@endforeach
+						
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
 
 
 
 
-	<!-- alquiler -->
+	<!-- vendí -->
 	<section class="prop_vendi" id="vendido">
 		<div class="container ovh">
 			<div class="row">
 				<div class="col-lg-6 offset-lg-3">
 					<div class="main-title text-center mb40">
-						<h2 class="text_prop_vendi">LO QUE VEND&Iacute; O ALQUIL&Eacute;</h2>
-						<p style="font-size: 1.875rem;" class="text_prop_vendi">En el menor tiempo posible</p>
+						<h2 class="text_prop_vendi text-heading-03">LO QUE VEND&Iacute; O ALQUIL&Eacute;</h2>
+						<p style="font-size: 1.875rem;" class="text_prop_vendi text-subheading-03">En el menor tiempo posible</p>
 					</div>
 				</div>
 				<div class="col-lg-12">
@@ -755,7 +975,7 @@
                   @php
                       $aux=App\Models\Pro_Foto::where('id_propiedad',$item->id)->first();
                   @endphp
-									<img class="img-whp" src="{{asset('./propiedad/fotos/'.$aux->foto)}}" alt="fp1.jpg" height="330">
+								<a href="{{ route('detalle.propiedad',$item->nombre) }}">	<img class="img-whp" src="{{asset('./propiedad/fotos/'.$aux->foto)}}" alt="fp1.jpg" height="330"></a>
 								</div>
 								<div class="details">
 									<div class="tc_content">
@@ -786,7 +1006,7 @@
 			</div>
 			<div class="row" style="margin-top: 30px;">
 				<div class="col-lg-12 d-flex justify-content-center">
-				    <button type="button" class="btn btn-lg btn-primary viewasesoria" style="width:526.17px !important;height: 61px !important;font-size: 2.062rem !important;line-height: 2.562rem !important;border-radius: 10px;font-weight: 600 !important;">
+				    <button type="button" class="btn btn-lg btn-primary viewasesoria qvender" style="width:526.17px !important;height: 61px ;font-size: 2.062rem ;line-height: 2.562rem ;border-radius: 10px;font-weight: 600 ;">
                         Quiero vender mi propiedad
                     </button>
 				</div>
@@ -801,8 +1021,8 @@
 			<div class="row">
 				<div class="col-lg-6 offset-lg-3">
 					<div class="main-title text-center">
-						<h2 class="indhead text_prop_exp">Nuestros Clientes Opinan</h2>
-						<p  class="text_prop_exp" style="font-size: 1.8rem !important;">Lo que opinan los propietarios sobre mi trabajo</p>
+						<h2 class="indhead text_prop_exp text-heading-03">Nuestros Clientes Opinan</h2>
+						<p  class="text_prop_exp text-subheading-03" style="font-size: 1.8rem ;">Lo que opinan los propietarios sobre mi trabajo</p>
 					</div>
 				</div>
 			</div>
@@ -844,7 +1064,7 @@
 				<div class="col-sm-6 col-lg-6 col-xl">
 					<div class="property_video">
 						<div class="thumb vid">
-              <video src="{{asset('./img_perfil/'.$videos[0]->video)}}" id="video_principal" controls controlslist="nodownload" class="pro_img " style="border-radius: 10px;" poster width="400" ></video>
+              <video src="{{asset('./img_perfil/'.$videos[0]->video)}}" id="video_principal" controls controlslist="nodownload"  style="border-radius: 10px;" poster width="400" ></video>
 							
 							
 						</div>
@@ -852,7 +1072,7 @@
                 <div class="thumbnail-video">
                     @foreach ($videos as $in => $video )
                       <div class="click_video" data-slick-index="{{$in}}" data-key="{{ $in }}">
-                        <video src="{{asset('./img_perfil/'.$video->video)}}"  class="pro_img " style="border-radius: 10px;" poster width="100" height="70"></video>
+                        <video src="{{asset('./img_perfil/'.$video->video)}}"  class="pro_img miniatura" style="border-radius: 10px;" poster width="100" height="70"></video>
                       </div>
                     @endforeach    
                   
@@ -872,8 +1092,8 @@
 			<div class="row">
 				<div class="col-lg-8 offset-lg-3">
 					<div class="main-title text-center">
-						<h2 class="indhead text_solga">Soy {{$per_informacion->nombres}} {{$per_informacion->apellidos}}</h2>
-                        <p  class="text_solga" style="font-size: 1.8rem !important;">Te daré una asesoría, escríbeme ahora.</p>
+						<h2 class="indhead text_solga text-heading-03">Soy {{$per_informacion->nombres}} {{$per_informacion->apellidos}}</h2>
+                        <p  class="text_solga text-subheading-03" style="font-size: 1.8rem ;">Te daré una asesoría, escríbeme ahora.</p>
 					</div>
 				</div>
 			</div>
@@ -903,7 +1123,7 @@
 				<div class="col-lg-6 offset-lg-3">
 					<div class="main-title text-center mb40">
 						<h2 class="text_noticia">TE COMPARTO MI CONOCIMIENTO</h2>
-						<p class="text_noticia" style="font-size: 1.5rem !important;">Lo que debes saber del sector y propiedades</p>
+						<p class="text_noticia text-subheading-03" style="font-size: 1.5rem ;">Lo que debes saber del sector y propiedades</p>
 					</div>
 				</div>
 				<div class="col-lg-12">
@@ -911,23 +1131,26 @@
             @foreach ($blogs as $blog)
               <div class="item">
                 <div class="feat_property">
-                  <div class="thumb">
-                    <img class="img-whp" src="{{asset('./img_blogs/'.$blog->primera_imagen)}}" alt="fp1.jpg" height="250">
-                    <div class="thmb_cntnt">
-                      <a class="fp_price" href="#">Noticias</a>
-                      <a class="daymg text-white" href="#">{{\Carbon\Carbon::parse($blog->created_at)->format('d/m/Y')}}</a>
+                    <div class="thumb">
+                        <a href="{{ route('blog',$blog->titulo) }}">
+                        <img class="img-whp" src="{{asset('./img_blogs/'.$blog->primera_imagen)}}" alt="fp1.jpg" height="250"> 
+                        
+                        <div class="thmb_cntnt">
+                          <a class="fp_price" href="{{ route('blog',$blog->titulo) }}">Noticias</a>
+                          <a class="daymg text-white" href="{{ route('blog',$blog->titulo) }}">{{\Carbon\Carbon::parse($blog->created_at)->format('d/m/Y')}}</a>
+                        </div>
+                        </a>
                     </div>
-                  </div>
                   <div class="details">
                     <div class="tc_content">
-                      <h4>{{$blog->titulo}}</h4>
+                      <a href="{{ route('blog',$blog->titulo) }}"><h4>{{$blog->titulo}}</h4></a>
                       <p>{{$blog->descripcion_corta}}</p>
                       
                     </div>
                     <div class="fp_footer">
                       <div class="row">
                         <div class="col-lg-12">
-                          <a href="{{ route('detalle.blog',$blog->id) }}" type="button" class="btn btn-lg btn-transparent btn-block">Leer M&aacute;s</a>
+                          <a href="{{ route('blog',$blog->titulo) }}" type="button" class="btn btn-lg btn-transparent btn-block">Leer M&aacute;s</a>
                         </div>
                       </div> 
                     </div>
@@ -964,8 +1187,11 @@
 			<div class="row justify-content-center">
 			 
 				<div class="col-lg-6 col-xl-6">
+				    @php
+    					$fechaActual = now();
+    				@endphp
 					<div class="copyright-widget text-center">
-						<p>© 2023 ciro.pe Todos los derechos reservados por Winning & Co. SAC</p>
+						<p>© {{ $fechaActual->year }} jassan.pe Todos los derechos reservados por Winning & Co. SAC</p>
 					</div>
 				</div>
 			</div>
@@ -1082,16 +1308,18 @@
     $(document).ready(function(){
     // Inicializa el carrusel Slick para las miniaturas
         $('.thumbnail-slider').slick({
-            slidesToShow: 5, // Número de miniaturas visibles a la vez
+            slidesToShow: 3, // Número de miniaturas visibles a la vez
             slidesToScroll: 1,
             asNavFor: '.feat_property .des', // Asocia con el carrusel de la imagen principal
-            focusOnSelect: true
+            focusOnSelect: true,
+            
         });
         $('.thumbnail-video').slick({
-            slidesToShow: 4, // Número de miniaturas visibles a la vez
+            slidesToShow: 3, // Número de miniaturas visibles a la vez
             slidesToScroll: 1,
             asNavFor: '.property_video .vid', // Asocia con el carrusel de la imagen principal
-            focusOnSelect: true
+            focusOnSelect: true,
+            
         });
         // Inicializa el carrusel Slick para la imagen principal
         $('.feat_property .des').slick({
@@ -1109,14 +1337,15 @@
             asNavFor: '.thumbnail-video'
         });
         $('.thumbnail').click(function() {
+           
             var slideIndex = $(this).data('slick-index');
             var key = $(this).data('key');
             $('.feat_property .des').slick('slickGoTo', slideIndex);
-
+        
             // Cambia la imagen principal al hacer clic en la miniatura
             var imagenMiniatura = $(this).find('img').attr('src');
             $('#img_principal' + key).attr('src', imagenMiniatura);
-            
+             
         });
         $('.click_video').click(function() {
             var slideIndex = $(this).data('slick-index');
@@ -1145,6 +1374,8 @@
     var color_texto_destacadas = "{{ $tema->color_texto_destacadas }}";
     var color_fondo_enventa = "{{ $tema->color_fondo_enventa }}";
     var color_texto_enventa = "{{ $tema->color_texto_enventa }}";
+    var color_fondo_alquiler = "{{ $tema->color_fondo_alquiler }}";
+    var color_texto_alquiler = "{{ $tema->color_texto_alquiler }}";
     var color_fondo_vendi = "{{ $tema->color_fondo_vendi }}";
     var color_texto_vendi = "{{ $tema->color_texto_vendi }}";
     var color_fondo_experiencia = "{{ $tema->color_fondo_experiencia }}";
@@ -1169,6 +1400,8 @@
     document.documentElement.style.setProperty('--bg-texto-destacadas', color_texto_destacadas);
     document.documentElement.style.setProperty('--bg-enventa-propiedad', color_fondo_enventa);
     document.documentElement.style.setProperty('--bg-texto-enventa', color_texto_enventa);
+    document.documentElement.style.setProperty('--bg-alquiler-propiedad', color_fondo_alquiler);
+    document.documentElement.style.setProperty('--bg-texto-alquiler', color_texto_alquiler);
     document.documentElement.style.setProperty('--bg-vendi-propiedad', color_fondo_vendi);
     document.documentElement.style.setProperty('--bg-texto-vendi', color_texto_vendi);
     document.documentElement.style.setProperty('--bg-experiencia-propiedad', color_fondo_experiencia);

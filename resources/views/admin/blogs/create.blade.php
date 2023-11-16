@@ -51,7 +51,7 @@
                                 <div class="col-md-12">
                                     <label>Foto Principal<span style="color:red;"> *</span></label>
                                     <input type="file" name="primera_imagen" id="input-file-now" class="dropify"  data-allowed-file-extensions='jpg png'>
-                                    
+                                    *Recuerda que el ancho de las fotos no debe exceder los 689 px
                                 </div>
                             </div>
                         </div>

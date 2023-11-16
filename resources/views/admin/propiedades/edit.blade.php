@@ -1079,7 +1079,7 @@
                                 <i class="fa fa-check-circle" style="color:#50d38a;margin-right:10px;"></i>Fotografías de la propiedad*
                             </div>
                             <div class="accordion-content">
-                                
+                                *Recuerda que el tamaño de las fotos no debe exceder los 1140 x 641 px
                                 
                                 <div class="form-group">
                                     <div class="row clearfix"  style="margin-top:20px;">
@@ -1289,7 +1289,7 @@
                                             </div>
                                         @endforeach
                                     
-                                        
+                                        <div id="loader" style="padding:30px;display:none;"> <h5><b>SUBIENDO ARCHIVO, POR FAVOR ESPERE...</b></h5> </div>
                                         
                                           
                                     </div>
@@ -1330,7 +1330,7 @@
                             </div>
                             <div class="accordion-content">
                                 
-                                
+                                *Recuerda que el tamaño de las fotos no debe exceder los 1140 x 641 px
                                 <div class="form-group">
                                     <div class="row clearfix"  style="margin-top:20px;">
                                     
@@ -1537,7 +1537,7 @@
                                                 
                                             </div>
                                         @endforeach
-                                    
+                                        <div id="loadera" style="padding:30px;display:none;"> <h5><b>SUBIENDO ARCHIVO, POR FAVOR ESPERE...</b></h5> </div>
                                         
                                         
                                           
@@ -1581,7 +1581,7 @@
                             </div>
                             <div class="accordion-content">
                                 
-                                
+                                *Recuerda que el tamaño de las fotos no debe exceder los 1140 x 641 px
                                 <div class="form-group">
                                     <div class="row clearfix"  style="margin-top:20px;">
                                     
@@ -1788,7 +1788,7 @@
                                                 
                                             </div>
                                         @endforeach
-                                    
+                                        <div id="loaderal" style="padding:30px;display:none;"> <h5><b>SUBIENDO ARCHIVO, POR FAVOR ESPERE...</b></h5> </div>
                                         
                                         
                                           
@@ -2145,6 +2145,7 @@
         
     }
     document.getElementById('video_alrededor').addEventListener('change', function () {
+        document.getElementById('loaderal').style.display = 'block';
         var video = document.getElementById('video_alrededor').files[0];
         var id_propiedad = document.getElementById('propiedad_id').value;
         if (video) {
@@ -2158,11 +2159,12 @@
                 }
             })
             .then(response => {
-                
+                document.getElementById('loaderal').style.display = 'none';
                 location.reload();
             })
             .catch(error => {
                 console.error(error);
+                document.getElementById('loaderal').style.display = 'none';
             });
         }
         
@@ -2264,6 +2266,7 @@
         
     }
     document.getElementById('video_area').addEventListener('change', function () {
+        document.getElementById('loadera').style.display = 'block';
         var video = document.getElementById('video_area').files[0];
         var id_propiedad = document.getElementById('propiedad_id').value;
         if (video) {
@@ -2277,11 +2280,12 @@
                 }
             })
             .then(response => {
-                
+                document.getElementById('loadera').style.display = 'none';
                 location.reload();
             })
             .catch(error => {
                 console.error(error);
+                document.getElementById('loadera').style.display = 'none';
             });
         }
         
@@ -2385,6 +2389,7 @@
         
     }
     document.getElementById('video').addEventListener('change', function () {
+        document.getElementById('loader').style.display = 'block';
         var video = document.getElementById('video').files[0];
         var id_propiedad = document.getElementById('propiedad_id').value;
         if (video) {
@@ -2398,11 +2403,12 @@
                 }
             })
             .then(response => {
-                
+                document.getElementById('loader').style.display = 'none';
                 location.reload();
             })
             .catch(error => {
                 console.error(error);
+                document.getElementById('loader').style.display = 'none';
             });
         }
         

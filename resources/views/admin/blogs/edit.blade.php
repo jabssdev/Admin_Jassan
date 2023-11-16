@@ -46,7 +46,7 @@
                                     <input type="file" name="primera_imagen" class="dropify"
                                        data-allowed-file-extensions='jpg png'
                                        data-default-file="{{ asset( 'img_blogs/'.$blog->primera_imagen ) }}">
-                                    
+                                    *Recuerda que el ancho de las fotos no debe exceder los 689 px
                                 </div>
                             </div>
                         </div>
