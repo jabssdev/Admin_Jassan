@@ -36,9 +36,9 @@ class WebController extends Controller
         $videos=Perfil_Video::all();
         $fotos=Perfil_Foto::all();
         $portada=Perfil_Foto::where('portada','SI')->first();
-        $pro_destacadas=Propiedad::where('destacado','SI')->get();
-        $pro_ventas=Propiedad::where('tipo_operacion','Alquiler')->orWhere('tipo_operacion', 'Alquiler - Venta')->get();
-        $pro_alquiler=Propiedad::where('tipo_operacion','Alquiler')->orWhere('tipo_operacion', 'Alquiler - Venta')->get();
+        $pro_destacadas=Propiedad::where('destacado','SI')->orWhere('estado', 'ACTIVO')->get();
+        $pro_ventas=Propiedad::where('tipo_operacion', 'En venta')->orWhere('estado', 'ACTIVO')->get();
+        $pro_alquiler=Propiedad::where('tipo_operacion','Alquiler')->orWhere('estado', 'ACTIVO')->get();
         $vendidos=Propiedad::where('estado','COMPLETADO')->get();
         $testimonios=Testimonio::all();
         $con_informacion=Con_Informacion::find(1);
@@ -56,7 +56,7 @@ class WebController extends Controller
         $fotos=Perfil_Foto::all();
         $portada=Perfil_Foto::where('portada','SI')->first();
         $pro_destacadas=Propiedad::where('destacado','SI')->get();
-        $pro_ventas=Propiedad::where('tipo_operacion',['En venta', 'Alquiler - Venta'])->get();
+        $pro_ventas=Propiedad::where('tipo_operacion','Alquiler')->orWhere('tipo_operacion', 'Alquiler - Venta')->get();
         $vendidos=Propiedad::where('estado','COMPLETADO')->get();
         $testimonios=Testimonio::all();
         $con_informacion=Con_Informacion::find(1);
@@ -82,7 +82,7 @@ class WebController extends Controller
         $con_pagina=Con_Pagina::find(1);
         $con_logo=Con_Logo::find(1);
         $per_redes=Per_Redes::find(1);
-        $pro_ventas=Propiedad::where('tipo_operacion','Alquiler')->orWhere('tipo_operacion', 'Alquiler - Venta')->get();
+        $pro_ventas=Propiedad::where('tipo_operacion','Alquiler')->orWhere('tipo_operacion', 'Alquiler - Venta')->orWhere('tipo_operacion', 'En Venta')->orWhere('estado', 'ACTIVO')->get();
         return view('web.propiedad')->with(compact('tema','propiedad','pisos','incluye','adicional','videos_alrededor','fotos_alrededor','videos_areas','fotos_areas','videos','fotos','con_informacion','con_pagina','per_redes','pro_ventas','con_logo'));
     }
     public function blog($titulo){

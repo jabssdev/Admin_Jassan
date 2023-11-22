@@ -772,7 +772,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="row justify-content-center">
+			<div class="row justify-content-center" style="height: 600px;">
 				<div class="col-lg-12">
 					<div class="team_slider_custom">
                         @foreach ($fotos as $foto )
